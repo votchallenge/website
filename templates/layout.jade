@@ -1,0 +1,79 @@
+doctype html
+html(xmlns='http://www.w3.org/1999/xhtml', dir='ltr')
+	block page_vars
+		-var menu = 'Home';
+		if page.metadata.menu
+			-menu = page.metadata.menu
+	head
+		block head
+			meta(http-equiv='content-type', content='text/html; charset=UTF-8')
+			meta(name='description', content='')
+			meta(name='keywords', content='')
+			meta(name='author', content='')
+			link(rel='stylesheet', type='text/css', href='style.css', media='screen')
+			title VOT Visual Object Tracking challenge | 
+				= menu
+			script(type="text/javascript")
+				| var _gaq = _gaq || [];
+				|  _gaq.push(['_setAccount', 'UA-309424-10']);
+				|  _gaq.push(['_trackPageview']);
+				| (function() {
+				| var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				| ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+				| 'http://www') + '.google-analytics.com/ga.js';
+				| var s = document.getElementsByTagName('script')[0];
+				| s.parentNode.insertBefore(ga, s);
+				| })();
+
+	body
+		#header
+			.center_wrapper
+				#toplinks
+					#toplinks_inner
+						| In conjunction with 
+						a(href='http://www.iccv2013.org/') ICCV 2013
+				.clearer  
+				#site_title
+					a(href='index.html')
+						img(src='img/logo_website.png', alt='VOT2013')
+					br
+					span(style='padding: 0 0 5px 0;') December 2, 2013 - Sydney, Australia
+		#navigation
+			.center_wrapper
+				-var menu_items = { 'Home': 'index.html', 'Program': 'program.html', 'Results': 'results.html', 'Participation': 'participation.html', 'Evaluation Kit': 'evaluation_kit.html', 'Submission': 'submission.html', 'People': 'people.html', 'Supporters': 'supporters.html'};
+				ul
+					each val, key in menu_items
+						if menu == key
+							li.page_item.current_page_item
+								a(href=val)= key
+						else
+							li
+								a(href=val)= key
+				.clearer  
+		#layout_body
+			#main_wrapper_outer
+				#main_wrapper_inner
+					.center_wrapper
+						block main
+						#main.left
+							#main_content
+								!= page.html
+
+						.clearer  
+			div
+				p#supporters
+					a(href='http://www.ieee.org/')
+						img(alt='IEEE', src='img/ieee_cs.png')
+					a(href='http://www.cv-foundation.org/')
+						img(alt='', src='img/cvf.png')
+			#footer
+				.center_wrapper
+					.left
+						a(href='people.html')  VOT Visual Object Tracking Organizing Committee
+						| .
+						| All rights reserved.
+					.right
+						a(href='http://templates.arcsin.se/') Website template 
+						| by 
+						a(href='http://arcsin.se/') Arcsin
+					.clearer  

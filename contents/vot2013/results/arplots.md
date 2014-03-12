@@ -1,5 +1,5 @@
 ---
-template: results.jade
+template: page2013results.jade
 menu: Results
 ---
 <div class='results'>

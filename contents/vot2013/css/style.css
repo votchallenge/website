@@ -65,7 +65,7 @@ h6 {font: bold 1.2em Georgia,sans-serif;}
 h1,h2,h3,h4,h5,h6 {margin-bottom: 0.2em;}
 
 blockquote {
-	background: #F6F6F2 url('img/backgrounds.gif') no-repeat 0 -400px;
+	background: #F6F6F2 url('backgrounds.gif') no-repeat 0 -400px;
 	border-bottom: 1px solid #E0E0D4;
 	border-top: 1px solid #E0E0D4;
 	color: #332;
@@ -85,7 +85,7 @@ table.data_table {
 	width: 100%;
 }
 table.data_table th {
-	background: url('img/grain_dark.gif');
+	background: url('grain_dark.gif');
 	border: 1px solid #CCB;
 	color: #555;
 	text-align: left;
@@ -93,7 +93,7 @@ table.data_table th {
 table.data_table tr {border-bottom: 1px solid #DDD;}
 table.data_table td, table th {padding: 10px;}
 table.data_table td {
-	background: url('img/grain_light.gif');
+	background: url('grain_light.gif');
 	border: 1px solid #DDC;
 }
 
@@ -105,13 +105,13 @@ table.data_table td {
 dl {margin-bottom: 2em;}
 dt,dd {padding: 8px 10px;}
 dt {
-	background: url('img/grain_dark.gif');
+	background: url('grain_dark.gif');
 	border-bottom: 1px solid #CCB;
 	color: #555;
 	font-weight: bold;
 }
 dd {
-	background: url('img/grain_light.gif');
+	background: url('grain_light.gif');
 	border-bottom: 1px solid #DDC;
 	padding-left: 16px;
 }
@@ -148,7 +148,7 @@ input, textarea, select {
 }
 
 input.button {
-	background: #E9E8E8 url('img/backgrounds.gif') repeat-x 0 -366px;
+	background: #E9E8E8 url('backgrounds.gif') repeat-x 0 -366px;
 	border: 1px solid #888;
 	border-color: #BBB #888 #888 #CCC;		
 	color: #444;
@@ -174,13 +174,13 @@ input.image {
 /* Specific */
 
 .form_row {
-	background: url('img/grain_light.gif');
+	background: url('grain_light.gif');
 	border-bottom: 1px solid #E1E1D5;
 	padding: 10px 0;
 }
 .form_required {font-weight: bold;}
 .form_row_submit, .legend {
-	background: url('img/grain_dark.gif');
+	background: url('grain_dark.gif');
 	border-bottom: 1px solid #CCB;
 	border-top: 1px solid #CCB;
 	padding: 4px 0 8px;
@@ -270,14 +270,14 @@ img.right {margin: 0 0 15px 12px;}
 }
 
 #header {
-	background: #35322B url('img/backgrounds.gif') repeat-x 0 0;
+	background: #35322B url('backgrounds.gif') repeat-x 0 0;
 	padding-top: 8px;
 }
 
 
 /* Toplinks */
 #toplinks {
-	background: #353530 url('img/toplinks.gif') no-repeat left top;
+	background: #353530 url('toplinks.gif') no-repeat left top;
 	color: #554;
 	float: right;
 	font-size: 0.9em;
@@ -308,7 +308,7 @@ img.right {margin: 0 0 15px 12px;}
 /* Navigation */
 #navigation ul, #navigation li {display: inline;}
 #navigation li {display: inline;}
-#navigation, #navigation a {background: #958573 url('img/backgrounds.gif') repeat-x 0 -222px;}
+#navigation, #navigation a {background: #958573 url('backgrounds.gif') repeat-x 0 -222px;}
 #navigation a {
 	border-right: 1px solid #AFA69C;
 	color: #654;
@@ -327,9 +327,9 @@ img.right {margin: 0 0 15px 12px;}
 
 
 /* Main */
-#main_wrapper_outer {background: url('img/grain.gif');}
+#main_wrapper_outer {background: url('grain.gif');}
 #main_wrapper_inner {
-	background: url('img/main_wrapper_inner.gif') repeat-x left top;
+	background: url('main_wrapper_inner.gif') repeat-x left top;
 	line-height: 1.4em;
 	padding: 24px 0;
 }
@@ -357,7 +357,7 @@ img.right {margin: 0 0 15px 12px;}
 
 /* Dashboard */
 #dashboard {
-	background: #DDD url('img/grain_dark.gif');
+	background: #DDD url('grain_dark.gif');
 	border-top: 1px dashed #C0C0B0;
 }
 #dashboard_content {padding: 16px 0 22px;}
@@ -391,7 +391,9 @@ img.right {margin: 0 0 15px 12px;}
 	color: #AA9;
 	padding: 12px 0;
 }
-#footer a {color: #BBA;}
+#footer a 
+{ color: #BBA; }
+
 #footer .right, #footer .right a {
 	color: #777;
 	text-decoration: none;
@@ -427,7 +429,7 @@ img.right {margin: 0 0 15px 12px;}
 .post_date a {color: #444;}
 
 .post_meta {
-	background: url('img/grain_light.gif');
+	background: url('grain_light.gif');
 	border: 1px solid #E5E5D5;
 	color: #776;
 	font-size: 0.9em;
@@ -440,7 +442,7 @@ img.right {margin: 0 0 15px 12px;}
 .archive_pagination {margin-bottom: 1.6em;}
 .archive_post {margin-bottom: 1em;}
 .archive_post_date {
-	background: url('img/grain_light.gif');
+	background: url('grain_light.gif');
 	border-bottom: 1px solid #C5C5B5;
 	border-right: 1px solid #CFCFBF;
 	float: left;
@@ -458,7 +460,7 @@ img.right {margin: 0 0 15px 12px;}
 
 .thumbnails {margin: 0 -0 2em -8px;}
 .thumbnails a.thumb {	
-	background: url('img/grain_dark.gif');
+	background: url('grain_dark.gif');
 	display: block;
 	float: left;
 	margin: 0 0 8px 8px;
@@ -474,7 +476,7 @@ img.right {margin: 0 0 15px 12px;}
 
 .box {margin-bottom: 1.5em;}
 .box_title {
-	background: url('img/grain_dark.gif');
+	background: url('grain_dark.gif');
 	color: #665;
 	font-weight: bold;
 	padding: 5px 8px;

@@ -10,9 +10,6 @@ html(xmlns='http://www.w3.org/1999/xhtml', dir='ltr')
 			meta(name='description', content='')
 			meta(name='keywords', content='')
 			meta(name='author', content='')
-			link(rel='stylesheet', type='text/css', href='style.css', media='screen')
-			title VOT Visual Object Tracking challenge | 
-				= menu
 			script(type="text/javascript")
 				| var _gaq = _gaq || [];
 				|  _gaq.push(['_setAccount', 'UA-309424-10']);
@@ -28,28 +25,12 @@ html(xmlns='http://www.w3.org/1999/xhtml', dir='ltr')
 	body
 		#header
 			.center_wrapper
-				#toplinks
-					#toplinks_inner
-						| In conjunction with 
-						a(href='http://www.iccv2013.org/') ICCV 2013
-				.clearer  
-				#site_title
-					a(href='index.html')
-						img(src='img/logo_website.png', alt='VOT2013')
-					br
-					span(style='padding: 0 0 5px 0;') December 2, 2013 - Sydney, Australia
+				block header 
+
 		#navigation
 			.center_wrapper
-				-var menu_items = { 'Home': 'index.html', 'Program': 'program.html', 'Results': 'results.html', 'Participation': 'participation.html', 'Evaluation Kit': 'evaluation_kit.html', 'Submission': 'submission.html', 'People': 'people.html', 'Supporters': 'supporters.html'};
-				ul
-					each val, key in menu_items
-						if menu == key
-							li.page_item.current_page_item
-								a(href=val)= key
-						else
-							li
-								a(href=val)= key
-				.clearer  
+				block navigation
+
 		#layout_body
 			#main_wrapper_outer
 				#main_wrapper_inner
@@ -60,18 +41,10 @@ html(xmlns='http://www.w3.org/1999/xhtml', dir='ltr')
 								!= page.html
 
 						.clearer  
-			div
-				p#supporters
-					a(href='http://www.ieee.org/')
-						img(alt='IEEE', src='img/ieee_cs.png')
-					a(href='http://www.cv-foundation.org/')
-						img(alt='', src='img/cvf.png')
 			#footer
+				block footer
+
 				.center_wrapper
-					.left
-						a(href='people.html')  VOT Visual Object Tracking Organizing Committee
-						| .
-						| All rights reserved.
 					.right
 						a(href='http://templates.arcsin.se/') Website template 
 						| by 

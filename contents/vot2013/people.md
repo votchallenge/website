@@ -1,5 +1,5 @@
 ---
-template: page.jade
+template: page2013sidebar.jade
 menu: People
 ---
 
@@ -35,4 +35,16 @@ menu: People
 -   Peter Roth, Graz University of Technology, Austria
 -   Peter Tu, GE Global Research, USA
 -   Ming-Hsuan Yang, University of California at Merced, USA
+
+##### Supporting organizations
+
+<p style="text-align: center; background-color: white;">
+	<a href="http://www.ait.ac.at/about-us/?L=1"><img alt="AIT" src="img/logo_ait.png" /></a>
+	<a href="http://www.uni-lj.si/en/"><img alt="University of Ljubljana" src="img/logo_ljubljana.png" /></a>
+	<a href="http://www.birmingham.ac.uk/"><img alt="University of Birmingham" src="img/logo_birmingham.gif" /></a>
+	<a href="http://www.cvut.cz/"><img alt="Czech Technical University in Prague" src="img/logo_cvut.png" /></a>
+	<a href="http://nicta.com.au/"><img alt="NICTA" src="img/logo_nicta.png" /></a>
+	<a href="http://www.anu.edu.au/"><img alt="Australian National University" src="img/logo_anu.png" /></a>
+	<a href="http://www.epics-project.eu/"><img alt="EPiCS" src="img/logo_epics.png" /></a>
+</p>
 

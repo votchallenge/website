@@ -1,5 +1,6 @@
 ---
-template: results.jade
+template: page2013results.jade
+menu: Results
 ---
 <div class='results'>
 <h1 class="caption">Ranking report for experiment grayscale</h1>

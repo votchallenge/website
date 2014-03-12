@@ -1,5 +1,5 @@
 ---
-template: page.jade
+template: page2013sidebar.jade
 menu: Program
 ---
 

@@ -1,0 +1,37 @@
+extends layout
+
+block append head
+	link(rel='stylesheet', type='text/css', href='/vot2014/css/style.css', media='screen')
+	title VOT2014 Challenge | 
+		= menu
+
+block header
+	#toplinks
+		#toplinks_inner
+			| In conjunction with 
+			a(href='http://eccv2014.org/') ECCV 2014
+	.clearer  
+	#site_title
+		a(href='index.html')
+			img(src='/vot2014/img/logo_website.png', alt='VOT2014')
+		br
+		span(style='padding: 0 0 5px 0;') September, 2013 - Zurich, Switzerland
+
+block navigation
+	-var menu_items = { 'Home': '/vot2014/index.html', 'Participation': '/vot2014/participation.html', 'Evaluation Kit': '/vot2014/evaluation_kit.html', 'People': '/vot2014/people.html', 'VOT Homepage': '/'};
+	ul
+		each val, key in menu_items
+			if menu == key
+				li.page_item.current_page_item
+					a(href=val)= key
+			else
+				li
+					a(href=val)= key
+	.clearer
+
+
+block footer
+	.center_wrapper
+		a(href='/vot2014/people.html')  VOT Visual Object Tracking Organizing Committee
+		| .
+		| All rights reserved.

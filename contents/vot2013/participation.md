@@ -3,34 +3,24 @@ template: page2013sidebar.jade
 menu: Participation
 ---
 
-Participants are required to perform the experiments on their tracker by
-using the [VOT2013 evaluation kit](evaluation_kit.html). The raw results
-from this experiment, as well as a supporting document containing a
-short description of the tracker, should be submitted to the VOT2013
-challenge.
+As the VOT2013 challenge is over, it is not possible to submit results to the challenge. It is, however, still possible to use the benchmark (evaluation kit and the dataset) to evaluate your tracker. In the future we will even enable submission of these late results so that they could be compared to the official ones on-line.
 
-##### Submission formatting instructions
+###### Compare to VOT2013 challenge results
 
-The following templates should be used for submissions:
+The first thing that you have to do is to set up the VOT toolkit. Download the [code](https://github.com/vicoslab/vot-toolkit/archive/master.zip) from the official Github repository and follow the instructons to integrate your own tracker into the toolkit. Then run the experiments. After the evaluation is finished, download the raw official results of the challenge from [this link](http://box.vicos.si/vot/vot2013_results.zip) and unzip its content to the `results` directory (alongside the results of your own tracker). Then modify (or copy and edit) the generated `run_analysis.m` script to take into account the downloaded results:
 
--   The VOT2013 challenge results
-    [document](Download/template_results.zip)
--   Original workshop [paper](Download/template_paper.zip)
+    ...
 
-[Here](Download/templates.zip) you can download both templates
-together.
+    trackers = create_trackers('yourtracker', 'results/vot2013.txt');
 
-The page limit for the full paper is 8 pages. 
- Authors should refer to the details on the content of the 'The VOT2013
-supporting description and results document' to [a note on the accepted
-results](participation.html#Note_accepted_results).
+    labels = {'camera_motion', 'illum_change', 'occlusion', 'size', ...
+        'motion', 'empty'};
 
-##### How to submit
+    context = create_report_context('report_vot2013'); 
 
-The VOT2013 supporting description and results document, along with the
-zip output from the VOT2013 evaluation kit, should be submitted through
-the [submission page](submission.html). The full-length paper should be
-submitted through a [separate link](submission.html) on the submission
-page.
+    ...
 
+If you encounter any problems with the process, do not hesitate to contact the members of the [VOT technical committee](http://votchallenge.net/people.html).
+
+Note: Due to newly-imposed tracker name restrictions, we have renamed the LGT++ tracker to LGTpp in the publicly available result archive.
 

@@ -8,20 +8,10 @@ block append head
 
 block header
 	#site_title
-		h2
-			a(href='index.html')
-				| Visual Object Tracking Initiative
+		a(href='index.html')
+			img(src='/img/logo_website.png', alt='Visual Object Tracking Initiative')
 
-block navigation
-	-var menu_items = { 'Home': 'index.html', 'Supporters': 'supporters.html'};
-	ul
-		each val, key in menu_items
-			if menu == key
-				li.page_item.current_page_item
-					a(href=val)= key
-			else
-				li
-					a(href=val)= key
-	.clearer
-
+block footer
+	.center_wrapper
+		| VOT Visual Object Tracking Organizing Committee. All rights reserved.
 

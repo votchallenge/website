@@ -66,7 +66,7 @@ menu: Program
 						<u>Ahmed Salaheldin</u>, Mohamed ELHelw, Sara Maher (Nile University)
 						<p style="text-align: center;">
 								<img style="border: 0px solid ; width: 135px;" alt="Ahmed Salah" src="img/ahmed_salah.jpg" />
-								<img style="border: 0px solid ; width: 251px;" alt="Ahmed Salah" src="img/ahmed_salah_abstract.gif" />
+								<img style="border: 0px solid ; width: 251px;" alt="Ahmed Salah" src="img/ahmed_salah_abstract.png" />
 								<figcaption>
 									Diverse Ensemble Tracking. Red BB individual tracker decisions. Green BB fused ensemble decision.
 								</figcaption>
@@ -326,7 +326,7 @@ menu: Program
 						Jiri Matas (Czech Technical University)
 						<p style="text-align: center;">
 								<img style="border: 0px solid ; width: 189px;" src="img/karel_lebeda.jpg" />
-								<img style="border: 0px solid ; width: 240px;" src="img/karel_lebeda_abstract.gif" />
+								<img style="border: 0px solid ; width: 240px;" src="img/karel_lebeda_abstract.png" />
 								<figcaption>
 									LT-FLOTrack - Long term tracking of low texture objects through lighting/pose change and full occlusion.
 								</figcaption>

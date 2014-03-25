@@ -1,5 +1,5 @@
 ---
-template: results.jade
+template: page2013results.jade
 ---
 <div class='results'>
 <h1 class="caption">Ranking report for experiment loss_black</h1>

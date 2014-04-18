@@ -4,8 +4,9 @@ menu: Program
 ---
 
 <p style="text-align: justify;">
-	The workshop will be held in 
-	<a href="http://www.scec.com.au/Visit/How-to-get-to-the-Centre">room 101</a>.
+	The workshop proceedings are available from
+	<a href="http://www.cv-foundation.org/openaccess/ICCV2013_workshops/ICCV2013_W3.py">CVF</a> or
+	<a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6751566">IEEE</a>.
 </p>
 <div class="content_separator"></div>
 <table>

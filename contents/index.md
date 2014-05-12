@@ -5,7 +5,7 @@ menu: Home
 
 ##### Welcome
 
-Welcome to the official webpage of the Visual Object Tracking Initiative. The goal of the initiative is to build up a repository of considerable benchmarks and to organize challenges, workshops and similar events in order to push forward research in visual object tracking.
+Welcome to the official webpage of the Visual Object Tracking Challenge. The goal of the initiative is to build up a repository of considerable benchmarks and to organize challenges, workshops and similar events in order to push forward research in visual object tracking.
 
 ##### Challenges and benchmarks
 

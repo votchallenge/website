@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<script type="text/javascript">
+function agree(){
+        if(document.f1.checkbox_announcement_01.checked == false){
+          document.f1.button_submit.disabled = true;
+          }else if(document.f1.checkbox_announcement_01.checked == true){
+            if(document.f1.checkbox_announcement_02.checked == false){
+              document.f1.button_submit.disabled = true;
+              }else if(document.f1.checkbox_announcement_02.checked == true){
+                document.f1.button_submit.disabled = false;
+                }
+              }
+            }
+</script>
+
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta name="description" content=""/>
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+    <title>VOT Visual Object Tracking challenge | Submission</title>
+
+<script type="text/javascript">
+
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-309424-10']);
+   _gaq.push(['_trackPageview']);
+
+   (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+   })();
+
+</script>
+
+  </head>
+
+  <body>
+
+    <div id="layout_body">
+      <div id="main_wrapper_outer">
+        <div id="main_wrapper_inner">
+          <div class="center_wrapper">
+
+            <div class="left" id="main">
+              <div id="main_content">
+                <!-------------- INSERT MAIN CONTENT IN BETWEEN ------------------->
+                <h5>Submission of the workshop paper in conjunction with ECCV 2014</h5>
+
+                <h5>Submission of the VOT2014 challenge results</h5>
+                <ul>
+                  <p style="text-align: justify;">
+                    1. <a href="evaluation_kit.html">Download</a> the evaluation kit and the VOT2014 dataset.
+                  </p>
+                  <p style="text-align: justify;">
+                    2. Run your tracker using the evaluation toolkit.
+                  </p>
+                  <p style="text-align: justify;">
+                    3. When previous process is finished, complete 
+                    the fields below and upload the files 
+                    below (* indicates mandatory fields):
+                  </p>
+                  <p style="text-align: justify;">
+                    4. If you submit your results more than once, older files 
+                    are kept, but only the last file will be considered as 
+                    valid for the challenge results process.
+                  </p>
+
+                  <!------------ Script to be run --------------------->
+                  <form enctype="multipart/form-data" method="post" name="f1" action="/cgi-bin/upload_data.cgi">
+
+                    <p>
+                      <h6>Contact information</h6>
+                      <p style="text-align: justify;">
+                        First name (*)<br>
+                        <input type="text" name="first_name" size="50">
+                      </p>
+                      <p style="text-align: justify;">
+                        Last name (*)<br>
+                        <input type="text" name="last_name" size="50">
+                      </p>
+                      <p style="text-align: justify;">
+                        E-Mail address (*)<br>
+                        <input type="text" name="email_address" size="50">
+                      </p>
+                      <p style="text-align: justify;">
+                        Affiliation (*)<br>
+                        <input type="text" name="affiliation" size="50">
+                      </p>
+                    </p>
+                    <div>
+                      <label for="Abstract">Abstract (Max. 1000 characters) (*)<br>
+                        <textarea id="textarea" name="abstract" cols="50" rows="25">
+                        </textarea>
+                      </label>
+                    </div>
+                    <p>
+
+                      <h6>Upload</h6>
+                      <p style="text-align: justify;">
+                        A.- Results file (*)<br>
+                        Choose from your computer the file (either zip or tar file)
+                        containing all your results:<br>
+                        <input name="file_results" type="file" size="70" maxlength="1000" accept="zip/,tar/*">
+                      </p>
+                      <p style="text-align: justify;">
+                        B.- VOT2014 supporting description and results document (*)<br>
+                        Choose from your computer the file (either zip or tar file)
+                        describing your method and results:<br>
+                        <input name="file_paper" type="file" size="70" maxlength="1000" accept="zip/,tar/*">
+                      </p>
+                      <p style="text-align: justify;">
+                        C.- Binaries / Source code<br>
+                        In this case, please compact your code or binaries files in either a zip or a 
+                        tar file.<br>
+                        Then, choose this file from your computer:<br>
+                        <input name="file_sources" type="file" size="70" maxlength="100000" accept="zip/,tar/*">
+                      </p>
+                    </p>
+
+                    </p>
+                    <b>*</b> Required fields
+                    </p>
+
+                    <p>
+                      <h6>NOTICE</h6>
+                      <div style='display:none'><input type='hidden'></div>
+                      <div style="border: 1px solid black; background-color:#FEEFB3; text-align: justify;">
+                        <input type="checkbox" name="checkbox_announcement_01" value="1"  onclick="agree()" /> 
+                          <b>
+                            You are about to upload your results. By doing so, you agree 
+                            that these results will be stored on our server and the associated 
+                            quantitative measures placed in the Results section of this website, 
+                            thus making them publicly available.<br><br>
+                            If you have included the binaries/source code, please state 
+                            in your readme file in your tracker's zip what part of the 
+                            binaries/code if any can be made publicly available from the VOT homepage. 
+                          </b>
+                      </div>
+  
+                      <br>
+  
+                      <div style='display:none'><input type='hidden'></div>
+                      <div style="border: 1px solid black; background-color:#FEEFB3; text-align: justify;">
+                        <input type="checkbox" name="checkbox_announcement_02" value="1"  onclick="agree()" /> 
+                          <b>
+                            I affirm that I created the uploaded results file with the VOT2014 
+                            evaluation kit and the file was not afterwards modified or manipulated. 
+                          </b>
+                      </div>
+
+                      <p>
+                        <input type="submit" name="button_submit" value="Submit" disabled="disabled">
+                      </p>
+                    </p>
+
+                  </form>
+                </ul>
+                <!------------ INSERT MAIN CONTENT IN BETWEEN --------------------->
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div id="footer">
+        <div class="center_wrapper">
+          <div class="left">
+            <a href="people.html"> VOT Visual Object Tracking Organizing Committee</a>.
+            All rights reserved.
+          </div>
+
+          <div class="clearer">&nbsp;</div>
+        </div>
+      </div>
+
+    </div>
+  </body>
+</html>

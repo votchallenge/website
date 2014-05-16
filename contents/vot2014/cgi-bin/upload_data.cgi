@@ -19,8 +19,11 @@ my $upload_dir = "/var/www/vot/vot2014/upload/";
 my $file_data_submissions = "submissions_data.txt";
 # Complete path
 my $dir_file_data_submissions = $upload_dir . $file_data_submissions;
-# Maximum size of uploaded abstract
+# Abstract
+# Maximum size of uploaded data
 my $max_input_abstract = 1000;
+# Extension
+my $file_abstract_extension = ".txt";
 
 # ****************************************************
 # Date and hour
@@ -233,6 +236,9 @@ else
         $submission_file_name_sources = $upload_dir . $submission_file_name_sources_01;
       }
 
+      my $dir_file_name_abstract_01 = $extension_date . "_" . $submission_file_name_01 . "_abstract" . $file_abstract_extension;
+      my $dir_file_name_abstract = $upload_dir . $dir_file_name_abstract_01;
+
       # ****************************************************
       # Personal information
       open(file_handle, ">>$dir_file_data_submissions")||die "Can't open $dir_file_data_submissions";
@@ -250,6 +256,14 @@ else
       print file_handle "$submission_text_date;";
       print file_handle "\n";
       close(file_handle) || die "Can't close $dir_file_data_submissions";
+
+      # ****************************************************
+      # Abstract
+      open(file_handle, ">>$dir_file_name_abstract")||die "Can't open $dir_file_name_abstract";
+      flock(file_handle, 2)||die "Can't lock $dir_file_name_abstract";
+      print file_handle "$abstract";
+      print file_handle "\n";
+      close(file_handle) || die "Can't close $dir_file_name_abstract";
   
       # ****************************************************
       # File: Results

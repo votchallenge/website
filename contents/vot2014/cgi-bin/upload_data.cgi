@@ -21,7 +21,7 @@ my $file_data_submissions = "submissions_data.txt";
 my $dir_file_data_submissions = $upload_dir . $file_data_submissions;
 # Abstract
 # Maximum size of uploaded data
-my $max_input_abstract = 1000;
+my $max_input_abstract = 1200;
 # Extension
 my $file_abstract_extension = ".txt";
 

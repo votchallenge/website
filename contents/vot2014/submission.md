@@ -6,7 +6,7 @@ menu: Submission
 ### Upload the results file
 Participants with a proper [submission](submission_page.html) and uncorrupted original/untouched results file <b>are immediately considered as co-authors</b> of the joint workshop paper, which will be published in the workshop proceedings.
 
-<b>Important:</b> To effectively become a co-author, the participants have this year to achieve the baseline performance of a cross correlation tracker.
+<b>Important:</b> To effectively become a co-author, the participants have this year to achieve the baseline performance of a normalized cross-correlation tracker (NCC). The NCC tracker is provided in the evaluation kit as a demo tracker.
 
 <b>Notice: </b>Participants will receive an immediate acknowledgment after successful submission. Please, save this acknowledgment for your own records. 
 

@@ -9,7 +9,7 @@ menu: Participation
 The following compulsory steps are necessary to successfully participate:
 
 1. Read carefully the challenge [guidelines](/vot2014/vot2014-guidelines.pdf)
-2. [Download](https://github.com/vicoslab/vot-toolkit/archive/master.zip) the latest version of the Matlab/Octave evaluation kit or [clone](https://github.com/vicoslab/vot-toolkit) the Github repository. Participants are encouraged to help in the development of the kit!
+2. [Download](https://github.com/vicoslab/vot-toolkit/archive/master.zip) the latest version of the Matlab/Octave evaluation kit or [clone](https://github.com/vicoslab/vot-toolkit) the Github repository. Participants are encouraged to help in the improvement of the kit!
 3. Follow the instructions of the [guidelines](/vot2014/vot2014-guidelines.pdf) ...
 <br>- for installing the evaluation kit (sec. 7);  the install process will automatically download the dataset
 <br>- for integrating your tracker into the evaluation kit (sec. 8); beside last year's file protocol the new TraX protocol can be used
@@ -22,4 +22,4 @@ Additional final step the participant may consider:
 
 Participants of best performing trackers and <b>all</b> authors of accepted workshop papers give either poster or oral presentations at the workshop. The final decision will be made by the organizing committee.
 
-The committee will invite the winner of the challenge as <b>invited speaker</b> to the workshop. The winner will receive this year the first time an <b>award</b> sponsored by University of Ljubljana, Faculty of Computer and Information Science.
+The committee plans to invite the winner of the challenge as <b>invited speaker</b> to the workshop. The winner will receive this year the first time an <b>award</b> sponsored by University of Ljubljana, Faculty of Computer and Information Science.

@@ -12,3 +12,32 @@ The dataset is automatically downloaded by the evaluation kit during the install
 	frameN: X1, Y1, X2, Y2, X3, Y3, X4, Y4
 	
 where Xi and Yi are the coordinates of a single corner of the bounding box in frame N (row N in the text file).
+
+The following images give an overview of the dataset:
+
+![](/vot2014/img/thumbs/ball.gif)
+![](/vot2014/img/thumbs/basketball.gif)
+![](/vot2014/img/thumbs/bicycle.gif)
+![](/vot2014/img/thumbs/bolt.gif)
+![](/vot2014/img/thumbs/car.gif)
+![](/vot2014/img/thumbs/david.gif)
+![](/vot2014/img/thumbs/diving.gif)
+![](/vot2014/img/thumbs/drunk.gif)
+![](/vot2014/img/thumbs/fernando.gif)
+![](/vot2014/img/thumbs/fish1.gif)
+![](/vot2014/img/thumbs/fish2.gif)
+![](/vot2014/img/thumbs/gymnastics.gif)
+![](/vot2014/img/thumbs/hand1.gif)
+![](/vot2014/img/thumbs/hand2.gif)
+![](/vot2014/img/thumbs/jogging.gif)
+![](/vot2014/img/thumbs/motocross.gif)
+![](/vot2014/img/thumbs/polarbear.gif)
+![](/vot2014/img/thumbs/skating.gif)
+![](/vot2014/img/thumbs/sphere.gif)
+![](/vot2014/img/thumbs/sunshade.gif)
+![](/vot2014/img/thumbs/surfing.gif)
+![](/vot2014/img/thumbs/torus.gif)
+![](/vot2014/img/thumbs/trellis.gif)
+![](/vot2014/img/thumbs/tunnel.gif)
+![](/vot2014/img/thumbs/woman.gif)
+

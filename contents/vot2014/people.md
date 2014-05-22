@@ -6,7 +6,7 @@ menu: People
 ##### Organizing committee
 
 -   [Roman
-    Pflugfelder](http://www.cat-project.at/index.php/team/roman-pflugfelder),
+    Pflugfelder](https://www.linkedin.com/in/romanpflugfelder),
     Austrian Institute of Technology, Austria
 -   [Matej Kristan](http://www.vicos.si/People/Matejk), University of
     Ljubljana, Slovenia

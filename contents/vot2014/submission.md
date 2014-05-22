@@ -6,7 +6,7 @@ menu: Submission
 ### Upload the results file
 Participants with a proper [submission](submission_page.html) and uncorrupted original/untouched results file <b>are immediately considered as co-authors</b> of the joint workshop paper, which will be published in the workshop proceedings.
 
-During submission, the participants have to provide personal information and a formless PDF describing the tracker. You may adapt the [template](/vot2014/template_results.zip) of VOT2013 for the document.
+During submission, the participants have to provide personal information and a formless PDF describing the tracker. You may adapt the [template](/vot2014/download/template_results.zip) of VOT2013 for the document.
 
 <b>Important:</b> To effectively become a co-author, the participants have this year to achieve the baseline performance of a normalized cross-correlation tracker (NCC). The NCC tracker is provided in the evaluation kit as a demo tracker.
 

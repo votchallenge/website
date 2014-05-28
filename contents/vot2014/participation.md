@@ -18,8 +18,8 @@ The following compulsory steps are necessary to successfully participate:
 
 Additional final step the participant may consider:
 
-- [Submit](/vot2014/submission.html) your <b>own</b> workshop paper
+- [Submit](/vot2014/submission.html) your <b>own workshop paper</b>
 
-Participants of best performing trackers and <b>all</b> authors of accepted workshop papers give either poster or oral presentations at the workshop. The final decision will be made by the organizing committee.
+Participants of best performing trackers and <b>all authors</b> of accepted workshop papers give either poster or oral presentations at the workshop. The final decision will be made by the organizing committee.
 
-The committee plans to invite the winner of the challenge as <b>invited speaker</b> to the workshop. The winner will receive this year the first time an <b>award</b> sponsored by University of Ljubljana, Faculty of Computer and Information Science.
+The committee plans to invite the winner of the challenge as <b>invited speaker</b> to the workshop. For the first time this year, the winner will receive an <b>award</b> sponsored by University of Ljubljana, Faculty of Computer and Information Science.

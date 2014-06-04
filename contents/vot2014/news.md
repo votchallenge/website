@@ -3,6 +3,16 @@ template: page2014sidebar.jade
 menu: News
 ---
 
+##4.6.2014
+
+As promised in the previous announcement, the results for the reference
+NCC implementations are now also available as a zip archive so that you
+do not have to run it yourself. We have used the Matlab implementation
+to obtain the results.
+
+The file is available for download at:
+http://box.vicos.si/vot/vot2014_ncc.zip
+
 ##2.6.2014
 
 In the past two weeks we have made some changes to the VOT toolkit so we

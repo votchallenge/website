@@ -3,6 +3,10 @@ template: page2014sidebar.jade
 menu: News
 ---
 
+##10.6.2014
+
+The CMT submission page is now open for you. Please [submit](https://cmt.research.microsoft.com/vot2014) your full paper now.
+
 ##4.6.2014
 
 As promised in the previous announcement, the results for the reference

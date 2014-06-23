@@ -3,6 +3,22 @@ template: page2014sidebar.jade
 menu: News
 ---
 
+##17.6.2014
+
+We have discovered another issue in the toolkit that resulted in
+incorrectly measured time per frame for a tracker. This issue is only
+relevant for those who use the TraX protocol and is caused by inaccurate
+timing facilities (operating system limitation). Because of this we have
+now reverted the time measuring code to only measure per-sequence
+average time per frame (which is also how this is done in the old
+integration approach). The updated code is available on Github. If you
+are using TraX protocol and you have still not started the final run I
+would like to ask you to update the toolkit before you do. If you have
+already started the final run we will prepare a simpler and shorter
+experiment that you can run and submit (you can also submit it after the
+deadline) so that at least some picture about the performance of the
+implementation can be obtained.
+
 ##4.6.2014
 
 As promised in the previous announcement, the results for the reference

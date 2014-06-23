@@ -18,6 +18,9 @@ already started the final run we will prepare a simpler and shorter
 experiment that you can run and submit (you can also submit it after the
 deadline) so that at least some picture about the performance of the
 implementation can be obtained.
+##10.6.2014
+
+The CMT submission page is now open for you. Please [submit](https://cmt.research.microsoft.com/vot2014) your full paper now.
 
 ##4.6.2014
 

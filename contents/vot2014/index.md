@@ -11,7 +11,7 @@ The first challenge  - ([VOT2013](/vot2013/)) - introduced a new evaluation kit 
 
 This year, the VOT committee is organizing the VOT2014 challenge in conjunction with the ECCV2014 and invites researchers from academia and industry to participate. Similarly to VOT2013, the challenge aims at <b>single-object short-term trackers</b> that do not apply pre-learned models of object appearance (<b>model-free</b>). Trackers do not necessarily need to be capable of automatic re-initialization, as the objects are visible over the whole course of the sequences.
 
-The VOT2014 committee solicit VOT2014 challenge tracking results of old and new trackers as well as full-length papers. The scope of full-length papers are papers describing original trackers as well as papers describing improvements of existing trackers and papers giving new insights into existing trackers or classes of trackers. 
+The VOT2014 committee solicits VOT2014 challenge tracking results of old and new trackers as well as full-length papers. The scope of full-length papers are papers describing original trackers as well as papers describing improvements of existing trackers and papers giving new insights into existing trackers or classes of trackers. 
 
 <u>VOT2014 highlights:</u>
 - An improved version of the cross-platform evaluation kit, which will execute the experiments much faster thanks to a powerful new communication protocol between kit and tracker

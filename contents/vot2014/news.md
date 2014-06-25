@@ -3,6 +3,10 @@ template: page2014sidebar.jade
 menu: News
 ---
 
+##19.6.2014
+
+The submission deadline has been extended to 29 June.
+
 ##10.6.2014
 
 The CMT submission page is now open for you. Please [submit](https://cmt.research.microsoft.com/vot2014) your full paper now.

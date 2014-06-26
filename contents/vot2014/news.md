@@ -7,6 +7,21 @@ menu: News
 
 The submission deadline has been extended to 29 June.
 
+##17.6.2014
+
+We have discovered another issue in the toolkit that resulted in
+incorrectly measured time per frame for a tracker. This issue is only
+relevant for those who use the TraX protocol and is caused by inaccurate
+timing facilities (operating system limitation). Because of this we have
+now reverted the time measuring code to only measure per-sequence
+average time per frame (which is also how this is done in the old
+integration approach). The updated code is available on Github. If you
+are using TraX protocol and you have still not started the final run I
+would like to ask you to update the toolkit before you do. If you have
+already started the final run we will prepare a simpler and shorter
+experiment that you can run and submit (you can also submit it after the
+deadline) so that at least some picture about the performance of the
+implementation can be obtained.
 ##10.6.2014
 
 The CMT submission page is now open for you. Please [submit](https://cmt.research.microsoft.com/vot2014) your full paper now.

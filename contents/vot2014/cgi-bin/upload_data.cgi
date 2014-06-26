@@ -97,6 +97,7 @@ my $string_error = "";
 my $string_error_01 = "Fields marked with * are mandatory. Please complete them with correct information.\n";
 my $string_error_02 = " file contains invalid characters";
 my $string_error_03 = " file has to be either a zip file or a tar file.";
+my $string_error_04 = " file has to be a pdf file.";
 
 my $file_sources_extension_01 = "";
 
@@ -164,8 +165,8 @@ else
   }
   else
   {
-    $string_error = $file_paper . $string_error_02;
-    $flag_exit = 2;
+    $string_error = $file_paper . $string_error_04;
+    $flag_exit = 4;
   }
 
   # ****************************************************
@@ -212,7 +213,7 @@ else
     # print a thankful message
     # ****************************************************
 
-    if ( ( ( $file_results_extension eq ".zip" ) || ( $file_results_extension eq ".tar" ) ) && ( ( $file_paper_extension eq ".zip" ) || ( $file_paper_extension eq ".tar" ) ) )
+    if ( ( ( $file_results_extension eq ".zip" ) || ( $file_results_extension eq ".tar" ) ) && ( $file_paper_extension eq ".pdf" ) )
     {
       # ****************************************************
       # Submission - Data upload

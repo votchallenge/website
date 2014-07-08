@@ -3,6 +3,10 @@ template: page2014sidebar.jade
 menu: News
 ---
 
+##8.7.2014
+
+Paper submission closed.
+
 ##19.6.2014
 
 The submission deadline has been extended to 29 June.

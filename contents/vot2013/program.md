@@ -16,8 +16,10 @@ menu: Program
 			<td>
 				<p>
 					<b>Session 1: 
-						<i><a href="Download/vot_2013_presentation.pdf">The Visual Object Tracking VOT2013 challenge results
-						</a></i>
+						<i>The Visual Object Tracking VOT2013 challenge results
+							<a href="Download/vot_2013_presentation.pdf">Presentation</a>
+							<a href="http://www.cv-foundation.org/openaccess/content_iccv_workshops_2013/W03/papers/Kristan_The_Visual_Object_2013_ICCV_paper.pdf">Paper</a>
+						</i>
 					</b>
 					<br><br>
 					Matej Kristan (University of Ljubljana), 

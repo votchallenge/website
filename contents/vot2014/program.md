@@ -1,0 +1,98 @@
+---
+template: page2014sidebar.jade
+menu: Program
+---
+
+<b>Preliminary program</b>
+
+**Results Presentation**<br>
+<i><u>The Visual Object Tracking VOT2014 challenge results</u></i><br>
+Matej Kristan (University of Ljubljana), 
+Roman Pflugfelder (Austrian Institute of Technology), 
+Ale&#353; Leonardis (University of Birmingham), 
+Ji&#345;i Matas (Czech Technical University), 
+Luka &#268;ehovin (University of Ljubljana), 
+Georg Nebehay (Austrian Institute of Technology), 
+Tom&#225;&#353; Voji&#345; (Czech Technical University), 
+Gustavo Fern&#225;ndez (Austrian Institute of Technology), 
+<a href="#reference_00">et al.</a>
+
+
+**Tracker Presentations**
++ <i><u>Weighted Update and Comparison for Channel-Based Distribution Field Tracking</u></i><br>
+Kristoffer &#214;fj&#228;ll, Michael Felsberg (Link&#246;ping University)
+
++ <i><u>Exploiting contextual motion cues for visual object tracking</u></i><br>
+Stefan Duffner, Christophe Garcia (LIRIS)
+
++ <i><u>Clustering Local Motion Estimates for Robust and Efficient Object Tracking</u></i><br>
+Mario Maresca, Alfredo Petrosino (University of Naples Parthenope)
+
++ <i><u>A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration</u></i><br>
+Yang Li, Jianke Zhu (College of Computer Science, Zhejiang University)
+
+
+**Keynote Talk**<br>
+<i>To be announced</i><br>
+
+
+**Panel discussion**<br>
+<i>To be announced</i><br>
+
+
+**Closing, concluding remarks**
+
+
+**Notes**
+
+<h6><a name="reference_00">et al.</a></h6>
+
+Alan Luke&#382;i&#269; (Ljubljana University), 
+Aleksandar Dimitriev (Ljubljana University), 
+Alfredo Petrosino (Parthenope University of Naples), 
+Amir Saffari (Affectv Limited), 
+Bo Li (Panasonic R&amp;D Center), 
+Bohyung Han (POSTECH), 
+CherKeng Heng (Panasonic R&amp;D Center), 
+Christophe Garcia (LIRIS), 
+Dominik Panger&#353;i&#269; (Ljubljana University), 
+Gustav H&#228;ger (Link&#246;ping University), 
+Fahad Shahbaz Khan (Link&#246;ping University), 
+Franci Oven (Ljubljana University), 
+Horst Possegger (Graz University of Technology), 
+Horst Bischof (Graz University of Technology), 
+Hyeonseob Nam (POSTECH), 
+Jianke Zhu (Zhejiang University), 
+JiJia Li (Shanghai Jiao Tong University), 
+Jin Young Choi (Seoul National University, ASRI), 
+Jin-Woo Choi (Electronics and Telecommunications Research Institute, Daejeon), 
+Jo&#227;o F. Henriques (University of Coimbra), 
+Joost van de Weijer (Universitat Autonoma de Barcelona), 
+Jorge Batista (University of Coimbra), 
+Karel Lebeda (University of Surrey), 
+Kristoffer &#214;fj&#228;ll (Link&#246;ping University), 
+Kwang Moo Yi (EPFL CVLab), 
+Lei Qin (ICT CAS), 
+Longyin Wen (Chinese Academy of Sciences), 
+Mario Edoardo Maresca (Parthenope University of Naples), 
+Martin Danelljan (Link&#246;ping University), 
+Michael Felsberg (Link&#246;ping University), 
+Ming-Ming Cheng (University of Oxford), 
+Philip Torr (University of Oxford), 
+Qingming Huang (Harbin Institute of Technology), 
+Richard Bowden (University of Surrey), 
+Sam Hare (Obvious Engineering Limited), 
+Samantha YueYing Lim (Panasonic R&amp;D Center), 
+Seunghoon Hong (POSTECH), 
+Shengcai Liao (Chinese Academy of Sciences), 
+Simon Hadfield (University of Surrey), 
+Stan Z. Li (Chinese Academy of Sciences), 
+Stefan Duffner (LIRIS), 
+Stuart Golodetz (University of Oxford), 
+Thomas Mauthner (Graz University of Technology), 
+Vibhav Vineet (University of Oxford), 
+Weiyao Lin (Shanghai Jiao Tong University), 
+Yang Li (Zhejiang University), 
+Yuankai Qi (Harbin Institute of Technology), 
+Zhen Lei (Chinese Academy of Sciences), 
+ZhiHeng Niu (Panasonic R&amp;D Center).

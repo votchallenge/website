@@ -3,6 +3,10 @@ template: page2014sidebar.jade
 menu: News
 ---
 
+##11.8.2014
+
+Preliminary program is on-line.
+
 ##8.7.2014
 
 Paper submission closed.

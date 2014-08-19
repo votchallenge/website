@@ -5,8 +5,9 @@ menu: Program
 
 <b>Preliminary program</b>
 
-**Results Presentation**<br>
-<i><u>The Visual Object Tracking VOT2014 challenge results</u></i><br>
+**09:00 - 10:30 Session 1:**<br>
+<br>
+<span style="color:#0000FF"><i><u>The Visual Object Tracking VOT2014 challenge results</u></i><br></span>
 Matej Kristan (University of Ljubljana), 
 Roman Pflugfelder (Austrian Institute of Technology), 
 Ale&#353; Leonardis (University of Birmingham), 
@@ -16,32 +17,45 @@ Georg Nebehay (Austrian Institute of Technology),
 Tom&#225;&#353; Voji&#345; (Czech Technical University), 
 Gustavo Fern&#225;ndez (Austrian Institute of Technology), 
 <a href="#reference_00">et al.</a>
+<br><br>
 
+**10:30 - 11:00 <span style="color:#BC4B00">Coffee break</span>**
+<br><br>
 
-**Tracker Presentations**
-+ <i><u>Weighted Update and Comparison for Channel-Based Distribution Field Tracking</u></i><br>
+**11:00 - 12:15 Session 2:**<br>
+<br>
+11:00 <span style="color:#0000FF"><i><u>Presentation from the winners of the challenge</u></i><br></span>
+<br>
+11:25 <span style="color:#0000FF"><i><u>Weighted Update and Comparison for Channel-Based Distribution Field Tracking</u></i><br></span>
 Kristoffer &#214;fj&#228;ll, Michael Felsberg (Link&#246;ping University)
-
-+ <i><u>Exploiting contextual motion cues for visual object tracking</u></i><br>
+<br><br>
+11:50 <span style="color:#0000FF"><i><u>Exploiting contextual motion cues for visual object tracking</u></i><br></span>
 Stefan Duffner, Christophe Garcia (LIRIS)
+<br><br>
 
-+ <i><u>Clustering Local Motion Estimates for Robust and Efficient Object Tracking</u></i><br>
+**12:15 - 13:45 <span style="color:#BC4B00">Lunch break</span>**
+<br><br>
+
+**13:45 - 15:10 Session 3:**<br>
+<br>
+13:45 <span style="color:#0000FF"><i><u>Keynote Talk</u></i><br></span>
+<br>
+14:45 <span style="color:#0000FF"><i><u>Clustering Local Motion Estimates for Robust and Efficient Object Tracking</u></i><br></span>
 Mario Maresca, Alfredo Petrosino (University of Naples Parthenope)
+<br><br>
 
-+ <i><u>A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration</u></i><br>
+**15:10 - 15:40 <span style="color:#BC4B00">Coffee break</span>**
+<br><br>
+
+**15:40 - 17:45 Session 4:**<br>
+<br>
+15:40 <span style="color:#0000FF"><i><u>A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration</u></i><br></span>
 Yang Li, Jianke Zhu (College of Computer Science, Zhejiang University)
-
-
-**Keynote Talk**<br>
-<i>To be announced</i><br>
-
-
-**Panel discussion**<br>
-<i>To be announced</i><br>
-
-
-**Closing, concluding remarks**
-
+<br><br>
+16:05 <span style="color:#0000FF"><i><u>Panel discussion</u></i><br></span>
+<br>
+17:20 <span style="color:#0000FF"><i><u>Closing, concluding remarks</u></i><br></span>
+<br><br>
 
 **Notes**
 

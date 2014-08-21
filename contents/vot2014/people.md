@@ -10,20 +10,24 @@ menu: People
     Austrian Institute of Technology, Austria
 -   [Matej Kristan](http://www.vicos.si/People/Matejk), University of
     Ljubljana, Slovenia
--   [Aleš Leonardis](http://www.vicos.si/People/Ales_Leonardis),
+-   [Ale&#353; Leonardis](http://www.vicos.si/People/Ales_Leonardis),
     University of Birmingham, UK
--   [Jiri Matas](http://cmp.felk.cvut.cz/~matas/), Czech Technical
+-   [Ji&#345;i Matas](http://cmp.felk.cvut.cz/~matas/), Czech Technical
     University in Prague, Czech Republic
 
 ##### Technical committee
 
--   Luka Čehovin, University of Ljubljana, Slovenia
--   Gustavo Fernández, Austrian Institute of Technology, Austria
+-   Luka &#268;ehovin, University of Ljubljana, Slovenia
 -   Georg Nebehay, Austrian Institute of Technology, Austria
--   Tomáš Vojíř, Czech Technical University in Prague, Czech Republic
+-   Tom&#225;&#353; Voji&#345;, Czech Technical University in Prague, Czech Republic
+-   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria
 
 ##### Program committee
 
-To be announced.
-
-
+-   Andrea Cavallaro, Queen Mary University of London, UK
+-   Cher Keng Heng, Panasonic Research, Singapore
+-   Vincent Lepetit, Graz University of Technology, Austria
+-   Jean Odobez, IDIAP, Switzerland
+-   Federico Pernici, University of Florence, Italy
+-   Janez Pers, University of Ljubljana, Slovenia
+-   Ming-Hsuan Yang, University of California at Merced, USA

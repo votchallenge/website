@@ -27,10 +27,10 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology),
 11:00 <span style="color:#0000FF"><i><u>Presentation from the winners of the challenge</u></i><br></span>
 <br>
 11:25 <span style="color:#0000FF"><i><u>Weighted Update and Comparison for Channel-Based Distribution Field Tracking</u></i><br></span>
-Kristoffer &#214;fj&#228;ll, Michael Felsberg (Link&#246;ping University)
+Kristoffer &#214;fj&#228;ll, Michael Felsberg (Link&#246;ping University, Sweden)
 <br><br>
 11:50 <span style="color:#0000FF"><i><u>Exploiting contextual motion cues for visual object tracking</u></i><br></span>
-Stefan Duffner, Christophe Garcia (LIRIS)
+Stefan Duffner, Christophe Garcia (LIRIS, France)
 <br><br>
 
 **12:15 - 13:45 <span style="color:#BC4B00">Lunch break</span>**
@@ -38,10 +38,12 @@ Stefan Duffner, Christophe Garcia (LIRIS)
 
 **13:45 - 15:10 Session 3:**<br>
 <br>
-13:45 <span style="color:#0000FF"><i><u>Keynote Talk</u></i><br></span>
-<br>
+13:45 <span style="color:#0000FF"><i><u>Keynote Talk: 
+MULTI-CAMERA MULTI-TARGET TRACKING</u></i><br></span>
+<b>[Francois Fleuret](http://www.idiap.ch/~fleuret/)</b> (Idiap Research Institute, Switzerland)
+<br><br>
 14:45 <span style="color:#0000FF"><i><u>Clustering Local Motion Estimates for Robust and Efficient Object Tracking</u></i><br></span>
-Mario Maresca, Alfredo Petrosino (University of Naples Parthenope)
+Mario Maresca, Alfredo Petrosino (University of Naples Parthenope, Italy)
 <br><br>
 
 **15:10 - 15:40 <span style="color:#BC4B00">Coffee break</span>**
@@ -50,7 +52,7 @@ Mario Maresca, Alfredo Petrosino (University of Naples Parthenope)
 **15:40 - 17:45 Session 4:**<br>
 <br>
 15:40 <span style="color:#0000FF"><i><u>A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration</u></i><br></span>
-Yang Li, Jianke Zhu (College of Computer Science, Zhejiang University)
+Yang Li, Jianke Zhu (College of Computer Science, Zhejiang University, China)
 <br><br>
 16:05 <span style="color:#0000FF"><i><u>Panel discussion</u></i><br></span>
 <br>

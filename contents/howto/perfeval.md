@@ -20,8 +20,8 @@ menu: Perf. Evaluation
         - set <i>tracker_label = [];</i> to <i>tracker_label = ['{{name}}'];</i>, e.g. <i>tracker_label = ['NCC'];</i><br>
         - set the <i>tracker_command</i> variable. <br>
         -- For trackers with binary executable: <i>tracker_command = '/path/to/ncc/binary/ncc_tracker {{parameters to binary}}';</i><br>
-        -- For trackers in matlab: 
-        <i>tracker_command = '/path/to/matlab/bin/matlab  -nodesktop -nosplash -r "matlab_ncc_tracker;" ';</i><br>
+        -- For trackers in matlab: <br>
+        <i>tracker_command = '/path/to/matlab/bin/matlab  -nodesktop -nosplash -r "addpath(' '/path/to/ncc/matlab/' ')matlab_ncc_tracker;" ';</i><br>
         - set variable <i>tracker_linkpath</i> if the tracker needs some additional libraries which are not in standard library path<br>
         e.g. <i>tracker_linkpath = {'/usr/lib64/qt4/'};</i>
         - set variable <i>tracker_trax</i> to <i>true</i> if you used trax protocol to integrate your tracker to VOT toolkit, otherwise

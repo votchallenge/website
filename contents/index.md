@@ -7,6 +7,10 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 The goal of the challenges is to build up a repository of considerable benchmarks and to organize workshops or similar events in order to push forward research in visual tracking.
 
+##### How to ...
+<a href="/howto/"><img alt="How to ..." src="img/howto.png" /></a>
+<br>
+
 ##### Open Challenge
 
 <a href="/vot2014/"><img alt="VOT2014 challenge" src="img/vot2014.png" /></a>

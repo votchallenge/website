@@ -5,7 +5,7 @@ menu: Selecting Sequences
 
 ##### How to use different sequences with VOT methodology
 
-1. Convert your sequences to unified naming convention of VOT %8d.jpg (i.e. 8 digits,  leading with zeros) starting with image name "00000000.jpg", "00000001.jpg", etc.<br>
+1. Convert your sequences to unified naming convention of VOT %8d.jpg (i.e. 8 digits,  leading with zeros), i.e image names "00000000.jpg", "00000001.jpg", etc.<br>
 In linux, you can use script: <br>
 <code>#!/bin/bash<br>
 t=0;<br>

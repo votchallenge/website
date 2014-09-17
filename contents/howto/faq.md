@@ -1,6 +1,6 @@
 ---
 template: howtosidebar.jade
-menu: Home
+menu: faq
 ---
 
 ##### How to use VOT toolkit

@@ -7,7 +7,9 @@ menu: Program
 
 **09:00 - 10:30 Session 1:**<br>
 <br>
-<span style="color:#0000FF"><i><u>The Visual Object Tracking VOT2014 challenge results</u></i><br></span>
+<span style="color:#0000FF"><i><u>The Visual Object Tracking VOT2014 challenge results</u></i></span>
+<b>[Presentation](/vot2014/download/vot_2014_presentation.pdf)</b>
+<b>[Paper](/vot2014/download/vot_2014_paper.pdf)</b><br>
 Matej Kristan (University of Ljubljana), 
 Roman Pflugfelder (Austrian Institute of Technology), 
 Ale&#353; Leonardis (University of Birmingham), 

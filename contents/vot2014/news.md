@@ -3,6 +3,10 @@ template: page2014sidebar.jade
 menu: News
 ---
 
+##08.9.2014
+
+Presentation and results paper are on-line.
+
 ##11.8.2014
 
 Preliminary program is on-line.

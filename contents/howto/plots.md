@@ -1,9 +1,10 @@
 ---
-template: howtosidebar.jade
-menu: Graph Plotting
+template: page.jade
+menu: Tutorials
+title: Plotting graphs after evaluation on benchmark
 ---
 
-##### Plotting graphs after evaluation on benchmark
+# Plotting graphs after evaluation on benchmark
 
 Assuming you have toolkit in <i>./vot-toolkit</i> directory
 
@@ -13,7 +14,7 @@ Assuming you have toolkit in <i>./vot-toolkit</i> directory
         -- manually list trackers names, e.g. {{tracker}} = 'NCC', 'OTHER_TRACKER', ...
     - edit variable <i>{{tracker}}</i> in line <i>context = create_report_context('report_{{tracker}}');</i> to the name of your liking.<br>
     This effects where the plots, tables will be stored,<br> e.g. <i>context = create_report_context('report_my');</i> will store plots in directory <i>./vot-toolkit/reports/report_my</i>
-    <a href="/howto/img/analysis/11.png" target=new><img src="/howto/img/analysis/11.png" width=400/></a>
+    <img src="/howto/img/analysis/11.png" class="screenshot"/>
 
 2. Run matlab and execute <i>run_analysis</i> command.<br>
 

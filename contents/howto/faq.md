@@ -1,9 +1,10 @@
 ---
-template: howtosidebar.jade
-menu: faq
+template: page.jade
+menu: Tutorials
+title: FAQ
 ---
 
-##### FAQ: Frequently Asked Questions
+# FAQ: Frequently Asked Questions
 
 <b>How to change number of repetitions per sequence?</b>:<br>
 Alter a variable <i>{{repeat}}</i> in experiment stack you are using,<br>

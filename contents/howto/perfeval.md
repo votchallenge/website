@@ -1,23 +1,23 @@
 ---
-template: howtosidebar.jade
-menu: Perf. Evaluation
+template: page.jade
+menu: Tutorials
+title: Performing evaluation on VOT benchmark
 ---
 
-##### Performing evaluation on VOT benchmark
+# Performing evaluation on VOT benchmark
 
-Download VOT toolkit from git repository (https://github.com/vicoslab/vot-toolkit)<br>
-    -- using git command line : <i>git clone https://github.com/vicoslab/vot-toolkit</i><br>
-    -- by downloading a zip file<br>
-    <a href="/howto/img/perfeval/1b.png" target=new><img src="/howto/img/perfeval/1b.png" width=400 alt="download zip VOT toolkit"/></a>
-
-Assuming you have toolkit in <i>./vot-toolkit</i> directory
+1. Download VOT toolkit from git repository (https://github.com/vicoslab/vot-toolkit)<br>
+ * using git command line : <i>git clone https://github.com/vicoslab/vot-toolkit</i><br>
+ * by downloading a zip file<br>
+<img src="/howto/img/perfeval/1b.png" width=600 alt="Download zip VOT toolkit"/>
+From now on we are assuming you have toolkit in <i>./vot-toolkit</i> directory
 
 2. Copy <i>./vot-toolkit/templates/configuration.tpl</i> to <i>./vot-toolkit/configuration.m</i> and edit global variable <i>stack</i> in <i>configuration.m</i><br>
     -- if you want to use VOT2013 benchmark:           <i>set_global_variable('stack', '<b>vot2013</b>');</i> <br>
     -- if you want to use VOT2014 benchmark (default): <i>set_global_variable('stack', '<b>vot2014</b>');</i> <br>
 <a href="/howto/img/perfeval/21.png" target=new><img src="/howto/img/perfeval/21.png" width=400/></a>
     
-3. Copy <i>./vot-toolkit/templates/tracker.tpl</i> to <i>./vot-toolkit/tracker_{{name}}.m</i>, where {{name}} replace with name of your tracker, e.g. <i>tracker_NCC.m</i><br>
+3. Copy `./vot-toolkit/templates/tracker.tpl` to `./vot-toolkit/tracker_{{name}}.m`, where {{name}} replace with name of your tracker, e.g. <i>tracker_NCC.m</i><br>
     - remove <i>error('Tracker not configured!');</i> line<br>
     - set <i>tracker_label = [];</i> to <i>tracker_label = ['{{name}}'];</i>, e.g. <i>tracker_label = ['NCC'];</i><br>
     - set the <i>tracker_command</i> variable. <br>

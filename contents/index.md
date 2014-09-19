@@ -3,22 +3,36 @@ template: page.jade
 menu: Home
 ---
 
-The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
+#About
+
+The VOT challenges provide the visual tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
 
 The goal of the challenges is to build up a repository of considerable benchmarks and to organize workshops or similar events in order to push forward research in visual tracking.
 
-##### How to ...
-<a href="/howto/"><img alt="How to ..." src="img/howto.png" /></a>
-<br>
+<br />
 
-##### Open Challenge
+<div class="row">
+<div class="col-lg-4">
+<a href="/howto/" class="hugebutton text-primary">
+<h3><i class="glyphicon glyphicon-book"></i> Tutorials</h3>
+A collection of tutorials on various topics regarding performing the experiments.
+</a>
+</div>
 
-<a href="/vot2014/"><img alt="VOT2014 challenge" src="img/vot2014.png" /></a>
-<br>
+<div class="col-lg-4">
+<a href="/challenges.html" class="hugebutton text-primary">
+<h3><i class="glyphicon glyphicon-star"></i> Challenges</h3>
+Challanges and workshops that we have organized or are organizing.
+</a>
+</div>
 
-##### Benchmark
+<div class="col-lg-4">
+<div  class="hugebutton text-muted">
+<h3><i class="glyphicon glyphicon-cloud"></i> Database</h3>
+<p>An online repository of sequences and results.</p>
+<p class="text-warning"><i class="glyphicon glyphicon-wrench"></i> The database is currently under construction.</p>
+</div>
+</div>
 
-Official results of past challenges are still available as a benchmark to researchers. We heartly invite everybody to compare their methods with those results.
+</div>
 
-<a href="/vot2013/"><img alt="VOT2013 benchmark" src="img/vot2013.png" /></a>
-The first challenge introduced a new evaluation kit (software plus 16 well-known short videos) and compared 27 single-target trackers submitted by 51 participants. The results were published in a joint paper presented at an ICCV2013 workshop which was attended by over 70 researchers.

@@ -12,21 +12,21 @@ The goal of the challenges is to build up a repository of considerable benchmark
 <br />
 
 <div class="row">
-<div class="col-lg-4">
+<div class="col-lg-4 col-sm-12">
 <a href="/howto/" class="hugebutton text-primary">
 <h3><i class="glyphicon glyphicon-book"></i> Tutorials</h3>
 A collection of tutorials on various topics regarding performing the experiments.
 </a>
 </div>
 
-<div class="col-lg-4">
+<div class="col-lg-4 col-sm-12">
 <a href="/challenges.html" class="hugebutton text-primary">
 <h3><i class="glyphicon glyphicon-star"></i> Challenges</h3>
 Challanges and workshops that we have organized or are organizing.
 </a>
 </div>
 
-<div class="col-lg-4">
+<div class="col-lg-4 col-sm-12">
 <div  class="hugebutton text-muted">
 <h3><i class="glyphicon glyphicon-cloud"></i> Database</h3>
 <p>An online repository of sequences and results.</p>
@@ -36,3 +36,9 @@ Challanges and workshops that we have organized or are organizing.
 
 </div>
 
+<div class="alert alert-success" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>
+<h4>Do you want to stay informed?</h4>
+
+If you want to stay informed about the future VOT activities you can subscribe to [our news mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge).
+</div>

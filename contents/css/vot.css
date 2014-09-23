@@ -60,9 +60,21 @@ img.screenshot {
     display: inline-block;
     height: 200px;
     border-radius: 3px;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 a.hugebutton:hover {
     text-decoration: none;
+}
+
+.hugeicon {
+    font-size: 40px;
+}
+
+.icon-left {
+    float: left !important;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 

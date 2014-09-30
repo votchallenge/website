@@ -45,11 +45,16 @@ footer {
     font-weight: bold;
 }
 
-img.screenshot {
-    max-width: 600px;
+.screenshot img {
+    max-width: 700px;
     width: 100%;
-    border: #eeeeee;
+    border: #cccccc 1px solid;
     padding: 1px;
+}
+
+.screenshot {
+    text-align: center;
+    margin: 20px 0 40px 0;
 }
 
 .hugebutton {
@@ -60,9 +65,22 @@ img.screenshot {
     display: inline-block;
     height: 200px;
     border-radius: 3px;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 a.hugebutton:hover {
     text-decoration: none;
 }
+
+.hugeicon {
+    font-size: 40px;
+}
+
+.icon-left {
+    float: left !important;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
 

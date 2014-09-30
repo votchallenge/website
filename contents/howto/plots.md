@@ -6,20 +6,13 @@ title: Plotting graphs after evaluation on benchmark
 
 # Plotting graphs after evaluation on benchmark
 
-Assuming you have toolkit in <i>./vot-toolkit</i> directory
+Assuming you have your working directory set up and configured `vot-workspace` and that you have performed the evaluation on your tracker already all you have to do is to run Matlab/Octave, edit `vot-workspace/run_analysis.m`, download the reference trackers results and then execute the `run_analysis` script.
 
-1. Copy <i>./vot-toolkit/templates/run_analysis.tpl</i> to <i>./vot-toolkit/run_analysis.m</i> and edit
-    - edit variable <i>{{tracker}}</i> in line <i>trackers = create_trackers('{{tracker}}');</i><br>
-        -- set {{tracker}} to filename containing names of trackers (which correspons to name of directories in <i>./vot-toolkit/results/</i>)<br> e.g. {{tracker}} = './results/trackers.txt'<br>
-        -- manually list trackers names, e.g. {{tracker}} = 'NCC', 'OTHER_TRACKER', ...
-    - edit variable <i>{{tracker}}</i> in line <i>context = create_report_context('report_{{tracker}}');</i> to the name of your liking.<br>
-    This effects where the plots, tables will be stored,<br> e.g. <i>context = create_report_context('report_my');</i> will store plots in directory <i>./vot-toolkit/reports/report_my</i>
-    <img src="/howto/img/analysis/11.png" class="screenshot"/>
+ * **To evaluate on VOT2013 benchmark**, download [resutls file](http://box.vicos.si/vot/vot2013_results.zip). The archive contains results
+of all trackers from VOT2013 challenge. Simply extract the archive to `vot-toolkit/results` and modify `trackers` variable such that
+`trackers = create_trackers('vot2013.txt', '{{yourtracker}}')`, where `{{yourtracker}}` is the name of your tracker.
 
-2. Run matlab and execute <i>run_analysis</i> command.<br>
+ * **To evaluate on VOT2014 benchmark**, download [resutls file](http://box.vicos.si/vot/vot2014_results.zip) and follow the instructions above.
 
-<b>To evaluate on VOT2013 benchmark</b>, download <a href="http://box.vicos.si/vot/vot2013_results.zip">resutls file</a>. The archive contains results
-of all trackers from VOT2013 challenge. Simply extract the archive to <i>./vot-toolkit/results</i> and modify <i>trackers</i> variable <br>
-<i>trackers = create_trackers('vot2013.txt', '{{yourtracker}}')</i>, where <i>{{yourtracker}}</i> is the name of your tracker.
+<div class="screenshot"><img src="/howto/img/analysis/11.png" alt="Download zip VOT toolkit"/></div>
 
-<b>To evaluate on VOT2014 benchmark</b>, download <a href="http://box.vicos.si/vot/vot2014_results.zip">resutls file</a> and follow the instruction above.

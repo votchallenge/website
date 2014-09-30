@@ -14,5 +14,5 @@ of all trackers from VOT2013 challenge. Simply extract the archive to `vot-toolk
 
  * **To evaluate on VOT2014 benchmark**, download [resutls file](http://box.vicos.si/vot/vot2014_results.zip) and follow the instructions above.
 
-![fig11](/howto/img/analysis/11.png)
+<div class="screenshot"><img src="/howto/img/analysis/11.png" alt="Download zip VOT toolkit"/></div>
 

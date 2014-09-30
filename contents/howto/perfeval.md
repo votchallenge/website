@@ -10,24 +10,21 @@ Download VOT toolkit from git repository (https://github.com/vicoslab/vot-toolki
 * using git command line : `git clone https://github.com/vicoslab/vot-toolkit`
 * by downloading a zip file
 
-    <img src="/howto/img/perfeval/1b.png" width=600 alt="Download zip VOT toolkit"/>
+<div class="screenshot"><img src="/howto/img/perfeval/1b.png" width=600 alt="Download zip VOT toolkit"/></div>
 
 From now on we are assuming you have toolkit in `vot-toolkit` directory. It is recommended that you add this directory to default path list in [Matlab/Octave](http://www.mathworks.com/help/matlab/matlab_env/what-is-the-matlab-search-path.html). Then create an empty directory that will be used to perform your experiments. We will call this directory `vot-workspace`.
 
 1. Go to `vot-workspace` directory. Run matlab and execute `vot_initialize` command.
     -  enter the unique indentifier of your tracker (e.g. `NCC` for norm-crosscorrelation tracker)
+    -  select an experiment stack that you want to use:
+       - if you want to use VOT2013 benchmark select `vot2013`
+       - if you want to use VOT2014 benchmark select `vot2014`
 
-    <img src="/howto/img/perfeval/2b.png" width=600 alt="Download zip VOT toolkit"/>
+     <div class="screenshot"><img src="/howto/img/perfeval/2b.png" alt="Download zip VOT toolkit"/></div>
 
-    - the script automatically initialize toolkit environment and create a configuration file for your tracker (e.g. `tracker_NCC.m`)
+     The script will automatically initialize toolkit environment, generate a workspace configuration file `vot-workspace/configuration.m` and a configuration file for your tracker (e.g. `vot-workspace/tracker_NCC.m`).
 
-2. Verify that `./vot-workspace/configuration.m` global variable `stack` is set to the benchmark you want to use.
-    - if you want to use VOT2013 benchmark:           `set_global_variable('stack', '`**vot2013**`');`
-    - if you want to use VOT2014 benchmark (default): `set_global_variable('stack', '`**vot2014**`');`
-
-    <a href="/howto/img/perfeval/21.png" target=new><img src="/howto/img/perfeval/21.png" width="600"/></a>
-    
-3. Edit tracker configuration file `./vot-workspace/tracker_{{name}}.m`, where `{{name}}` is the unique identifier from step 1\. (e.g. `tracker_NCC.m`)
+2. Edit tracker configuration file `./vot-workspace/tracker_{{name}}.m`, where `{{name}}` is the unique identifier from step 1\. (e.g. `tracker_NCC.m`)
     - remove `error('Tracker not configured!');` line
     - set `tracker_label = [];` to `tracker_label = ['{{name}}'];`, where `{{name}}` is the unique identifier from step 1\. (e.g. `tracker_label = ['NCC'];`)
     - set the `tracker_command` variable as follows:
@@ -38,16 +35,16 @@ From now on we are assuming you have toolkit in `vot-toolkit` directory. It is r
     - set variable `tracker_trax` to `true` if you used trax protocol to integrate your tracker to VOT toolkit, otherwise
     set it to `false`
 
-    <a href="/howto/img/perfeval/22.png" target=new><img src="/howto/img/perfeval/22.png" width="600"/></a>
+    <div class="screenshot"><img src="/howto/img/perfeval/22.png"/></div>
        
-4. Verify that `./vot-workspace/run_experiments.m` line `tracker = create_tracker('{{tracker}}')` is set that `{{tracker}}` is the unique identifier from step 1\.
+3. Verify that `./vot-workspace/run_experiments.m` line `tracker = create_tracker('{{tracker}}')` is set that `{{tracker}}` is the unique identifier from step 1\.
     (e.g. `tracker = create_tracker('NCC')`)
 
-    <a href="/howto/img/perfeval/23.png" target=new><img src="/howto/img/perfeval/23.png" width="600"/></a>
+    <div class="screenshot"><img src="/howto/img/perfeval/23.png" /></div>
    
-5. Run matlab and execute `run_experiments` command.
+4. Run matlab and execute `run_experiments` command.
 
-   <a href="/howto/img/perfeval/31.png" target=new><img src="/howto/img/perfeval/31.png" width="600"/></a>
+    <div class="screenshot"><img src="/howto/img/perfeval/31.png" alt="Running experiments"/></div>
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-question-sign hugeicon"></i> </div>

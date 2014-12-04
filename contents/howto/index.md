@@ -9,9 +9,9 @@ title: Tutorials
 These tutorials cover various topics on how to use VOT toolkit in your experiments:
 
 - [Perform evaluation on VOT benchmarks](/howto/perfeval.html)
-- [How to generate reports when I have the results on benchmark and want publish paper?](/howto/plots.html)
+- [How to generate reports when I have the results on benchmark and want publish paper?](/howto/plots.html) [Page under construction]
 - [Using different set of sequences with VOT toolkit](/howto/sequences.html)
-- [Interpret plots and what you should show in your paper](/howto/interpret.html)
+- [Interpret plots and what you should show in your paper](/howto/interpret.html) [Page under construction]
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-question-sign hugeicon"></i> </div>

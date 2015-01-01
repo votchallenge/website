@@ -3,6 +3,12 @@ template: page2014sidebar.jade
 menu: Dataset
 ---
 
+
+<b>Download the VOT 2014 dataset [here](http://box.vicos.si/vot/vot2014.zip)</b>
+
+<b>About the VOT 2014 dataset</b>
+
+
 The dataset comprises 25 short sequences showing various objects in challenging backgrounds. Eight sequences are from last year's VOT2013 challenge (bolt, bicycle, david, diving, gymnastics, hand, sunshade, woman). The new sequences show complementary objects and backgrounds, for example a fish underwater or a surfer riding a big wave.
 
 The sequences were chosen from a large pool of sequences including the [ALOV dataset](http://www.alov300.org/) using a methodology based on clustering visual features of object and background so that those 25 sequences sample evenly well the existing pool.

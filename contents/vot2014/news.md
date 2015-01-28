@@ -3,6 +3,11 @@ template: page2014sidebar.jade
 menu: News
 ---
 
+##28.01.2014
+
+Results of 38 trackers from VOT2014 publicly available for comparing your tracker 
+on VOT2014 benchmark from this [link](http://www.vicos.si/Research/VisualTrackingEvaluation)!
+
 ##08.9.2014
 
 Presentation and results paper are on-line.

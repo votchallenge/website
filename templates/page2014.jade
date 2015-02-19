@@ -1,44 +1,32 @@
-extends layout
+extends page
+
+block append page_vars
+	-var menu='Challenges';
+	if page.metadata.submenu
+		-submenu = page.metadata.submenu 
+
+block append page_vars
+	-var menu='Challenges';
+	if page.metadata.submenu
+		-submenu = page.metadata.submenu 
 
 block append head
-	link(rel='stylesheet', type='text/css', href='/vot2014/css/style.css', media='screen')
-	title VOT2014 Challenge | 
-		= menu
+	title VOT2014 Benchmark | 
+		= submenu
 
-block header
-	#toplinks
-		#toplinks_inner
-			| In conjunction with 
-			a(href='http://eccv2014.org/') ECCV 2014
-	.clearer  
-	#site_title
-		a(href='index.html')
-			img(src='/vot2014/img/logo_website.png', alt='VOT2014')
-		br
-		span(style='padding: 0 0 5px 0;') September, 6th 2014 - Zurich, Switzerland
+block submenu
+	-var menu_items = { 'Home': '/vot2014/index.html', 'Dataset': '/vot2014/dataset.html', 'Results': '/vot2014/results.html', 'People': '/vot2014/people.html', 'Program': '/vot2014/program.html'};
+	.navbar.navbar-default.navbar-static-top(role='navigation')
+		.container
+			.navbar-header
+				a(class='navbar-brand' href='/vot2014/') VOT2014
+			ul(class='nav navbar-nav nav-collapse')
+				each val, key in menu_items
+					if submenu == key
+						li.active
+							a(href=val)= key
+					else
+						li
+							a(href=val)= key
 
-block navigation
-	-var menu_items = { 'Home': '/vot2014/index.html', 'News': '/vot2014/news.html', 'Participation': '/vot2014/participation.html', 'Dataset': '/vot2014/dataset.html', 'Submission': '/vot2014/submission.html', 'People': '/vot2014/people.html', 'Program': '/vot2014/program.html', 'Supporters': '/vot2014/supporters.html', 'VOT Challenge': '/'};
-	ul
-		each val, key in menu_items
-			if menu == key
-				li.page_item.current_page_item
-					a(href=val)= key
-			else
-				li
-					a(href=val)= key
 	.clearer
-
-
-block footer
-	.center_wrapper
-		a(href='/')  VOT Challenge
-		| .
-		| &copy; 2013-2014. All rights reserved.
-
-	.center_wrapper
-		.right
-			a(href='http://templates.arcsin.se/') Website template 
-			| by 
-			a(href='http://arcsin.se/') Arcsin
-		.clearer  

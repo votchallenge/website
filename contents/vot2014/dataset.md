@@ -1,13 +1,9 @@
 ---
-template: page2014sidebar.jade
-menu: Dataset
+template: page2014.jade
+submenu: Dataset
 ---
 
-
-<b>Download the VOT 2014 dataset [here](http://box.vicos.si/vot/vot2014.zip)</b>
-
-<b>About the VOT 2014 dataset</b>
-
+# About the VOT 2014 dataset
 
 The dataset comprises 25 short sequences showing various objects in challenging backgrounds. Eight sequences are from last year's VOT2013 challenge (bolt, bicycle, david, diving, gymnastics, hand, sunshade, woman). The new sequences show complementary objects and backgrounds, for example a fish underwater or a surfer riding a big wave.
 
@@ -19,7 +15,7 @@ The dataset is automatically downloaded by the evaluation kit during the install
 
 	frameN: X1, Y1, X2, Y2, X3, Y3, X4, Y4
 	
-where Xi and Yi are the coordinates of corner i of the bounding box in frame N, the Nth row in the text file.
+where `Xi` and `Yi` are the coordinates of corner `i` of the bounding box in frame `N`, the N-th row in the text file.
 
 The following images give an overview of the dataset:
 

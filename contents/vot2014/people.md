@@ -1,12 +1,11 @@
 ---
-template: page2014sidebar.jade
-menu: People
+template: page2014.jade
+submenu: People
 ---
 
-##### Organizing committee
+## Organizing committee
 
--   [Roman
-    Pflugfelder](https://www.linkedin.com/in/romanpflugfelder),
+-   [Roman Pflugfelder](https://www.linkedin.com/in/romanpflugfelder),
     Austrian Institute of Technology, Austria
 -   [Matej Kristan](http://www.vicos.si/People/Matejk), University of
     Ljubljana, Slovenia
@@ -15,14 +14,14 @@ menu: People
 -   [Ji&#345;i Matas](http://cmp.felk.cvut.cz/~matas/), Czech Technical
     University in Prague, Czech Republic
 
-##### Technical committee
+## Technical committee
 
 -   Luka &#268;ehovin, University of Ljubljana, Slovenia
 -   Georg Nebehay, Austrian Institute of Technology, Austria
 -   Tom&#225;&#353; Voji&#345;, Czech Technical University in Prague, Czech Republic
 -   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria
 
-##### Program committee
+## Program committee
 
 -   Andrea Cavallaro, Queen Mary University of London, UK
 -   Cher Keng Heng, Panasonic Research, Singapore
@@ -31,3 +30,12 @@ menu: People
 -   Federico Pernici, University of Florence, Italy
 -   Janez Pers, University of Ljubljana, Slovenia
 -   Ming-Hsuan Yang, University of California at Merced, USA
+
+## Supporting organizations
+
+<a href="http://www.ait.ac.at/?L=1"><img src="/vot2014/img/logo_ait.jpg" alt="AIT logo" width="250px"></a>
+<a href="http://www.fri.uni-lj.si/en"><img src="/vot2014/img/logo_ljubljana.png" alt="Ljubljana logo" width="250px"></a>
+<a href="http://www.birmingham.ac.uk"><img src="/vot2014/img/logo_birmingham.gif" alt="Birmingham logo" width="250px"></a>
+<a href="http://intranet.cvut.cz/en"><img src="/vot2014/img/logo_cvut.jpg" alt="Prague logo" width="150px"></a>
+<a href="http://www.epics-project.eu/"><img src="/vot2014/img/logo_epics.gif" alt="EPiCS logo" width="250px"></a>
+

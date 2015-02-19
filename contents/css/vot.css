@@ -59,6 +59,7 @@ footer {
     padding: 1px;
 }
 
+.spotlight,
 .screenshot {
     text-align: center;
     margin: 20px 0 40px 0;
@@ -92,6 +93,7 @@ a.hugebutton:hover {
 
 #submenu .navbar-default {
     background-color: #F0F0F0;
+    border: none;
 }
 
 #submenu .navbar {

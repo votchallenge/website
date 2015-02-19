@@ -1,19 +1,20 @@
 ---
-template: page2014sidebar.jade
-menu: Home
+template: page2014.jade
+submenu: Home
 ---
 
-##### Call for participation and for papers
+# VOT2014 Benchmark
 
-The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
+Welcome to the official homepage of the VOT2014 benchmark. This benchmark was used in the VOT2014 challenge which is now over. The results were presented at a VOT2014 workshop on September 6th, 2014 in Zurich, Switzerland in conjunction with [ECCV 2014](http://www.eccv2014.org/).<br/><br/>
 
-The first challenge  - ([VOT2013](/vot2013/)) - introduced a new evaluation kit (software plus 16 well-known short videos) and compared 27 single-target trackers submitted by 51 participants. The results were published in a joint paper presented at an ICCV2013 workshop which was attended by over 70 researchers.
+<div class="alert alert-info" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
+<h4>The VOT2014 challenge which is now over</h4>
 
-This year, the VOT committee is organizing the VOT2014 challenge in conjunction with the ECCV2014 and invites researchers from academia and industry to participate. Similarly to VOT2013, the challenge aims at <b>single-object short-term trackers</b> that do not apply pre-learned models of object appearance (<b>model-free</b>). Trackers do not necessarily need to be capable of automatic re-initialization, as the objects are visible over the whole course of the sequences.
+It is still possible to use the benchmark to evaluate your tracker and compare it to the official results using the challenge ranking methodology. For more information on how to do this look at the [list of tutorials](/howto/index.html).
+</div>
 
-The VOT2014 committee solicits VOT2014 challenge tracking results of old and new trackers as well as full-length papers. The scope of full-length papers are papers describing original trackers as well as papers describing improvements of existing trackers and papers giving new insights into existing trackers or classes of trackers. 
-
-<u>VOT2014 highlights:</u>
+## VOT2014 highlights
 - An improved version of the cross-platform evaluation kit, which will execute the experiments much faster thanks to a powerful new communication protocol between kit and tracker
 - The dataset is enriched with new videos (in total 25 sequences) and labelled with rotating bounding boxes rather than axis-aligned ones
 - The dataset is per-frame labelled with attributes
@@ -21,4 +22,13 @@ The VOT2014 committee solicits VOT2014 challenge tracking results of old and new
 - Participants are encouraged to submit their own workshop papers
 - A prize will be awarded to the best-performing tracking team
 
+<div class="spotlight">
 ![image with rotated bounding box label](/vot2014/img/rotated_bbox.png)
+</div>
+
+## Sponsors
+
+The VOT2014 award and the VOT t-shirts were sponsored by the Faculty of Computer and Information Science, University of Ljubljana.
+<div class="spotlight">
+<a href="http://www.fri.uni-lj.si/"><img src="/vot2014/img/logo_ljubljana.png" width="250px"/></a>
+</div>

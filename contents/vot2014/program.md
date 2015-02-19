@@ -1,15 +1,13 @@
 ---
-template: page2014sidebar.jade
-menu: Program
+template: page2014.jade
+submenu: Program
 ---
 
-<b>Preliminary program</b>
+# Workshop program
 
 **09:00 - 10:30 Session 1:**<br>
 <br>
-<span style="color:#0000FF"><i><u>The Visual Object Tracking VOT2014 challenge results</u></i></span>
-<b>[Presentation](/vot2014/download/vot_2014_presentation.pdf)</b>
-<b>[Paper](/vot2014/download/vot_2014_paper.pdf)</b><br>
+<i>The Visual Object Tracking VOT2014 challenge results</i><br />
 Matej Kristan (University of Ljubljana), 
 Roman Pflugfelder (Austrian Institute of Technology), 
 Ale&#353; Leonardis (University of Birmingham), 
@@ -19,51 +17,54 @@ Georg Nebehay (Austrian Institute of Technology),
 Tom&#225;&#353; Voji&#345; (Czech Technical University), 
 Gustavo Fern&#225;ndez (Austrian Institute of Technology), 
 <a href="#reference_00">et al.</a>
-<br><br>
+<br>
 
-**10:30 - 11:00 <span style="color:#BC4B00">Coffee break</span>**
+<b>[Presentation](/vot2014/download/vot_2014_presentation.pdf)</b><br>
+<b>[Paper](/vot2014/download/vot_2014_paper.pdf)</b><br><br>
+
+**10:30 - 11:00 Coffee break**
 <br><br>
 
 **11:00 - 12:15 Session 2:**<br>
 <br>
-11:00 <span style="color:#0000FF"><i><u>Presentation from the winners of the challenge</u></i><br></span>
+11:00 <i>Presentation from the winners of the challenge</i><br>
 <br>
-11:25 <span style="color:#0000FF"><i><u>Weighted Update and Comparison for Channel-Based Distribution Field Tracking</u></i><br></span>
+11:25 <i>Weighted Update and Comparison for Channel-Based Distribution Field Tracking</i><br>
 Kristoffer &#214;fj&#228;ll, Michael Felsberg (Link&#246;ping University, Sweden)
 <br><br>
-11:50 <span style="color:#0000FF"><i><u>Exploiting contextual motion cues for visual object tracking</u></i><br></span>
+11:50 <i>Exploiting contextual motion cues for visual object tracking</i><br>
 Stefan Duffner, Christophe Garcia (LIRIS, France)
 <br><br>
 
-**12:15 - 13:45 <span style="color:#BC4B00">Lunch break</span>**
+**12:15 - 13:45 Lunch break**
 <br><br>
 
 **13:45 - 15:10 Session 3:**<br>
 <br>
-13:45 <span style="color:#0000FF"><i><u>Keynote Talk: 
-MULTI-CAMERA MULTI-TARGET TRACKING</u></i><br></span>
+13:45 <i>Keynote Talk: 
+Multi-camera multi-target tracking</i><br>
 <b>[Francois Fleuret](http://www.idiap.ch/~fleuret/)</b> (Idiap Research Institute, Switzerland)
 <br><br>
-14:45 <span style="color:#0000FF"><i><u>Clustering Local Motion Estimates for Robust and Efficient Object Tracking</u></i><br></span>
+14:45 <i>Clustering Local Motion Estimates for Robust and Efficient Object Tracking</i><br>
 Mario Maresca, Alfredo Petrosino (University of Naples Parthenope, Italy)
 <br><br>
 
-**15:10 - 15:40 <span style="color:#BC4B00">Coffee break</span>**
+**15:10 - 15:40 Coffee break**
 <br><br>
 
 **15:40 - 17:45 Session 4:**<br>
 <br>
-15:40 <span style="color:#0000FF"><i><u>A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration</u></i><br></span>
+15:40 <i>A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration</i><br>
 Yang Li, Jianke Zhu (College of Computer Science, Zhejiang University, China)
 <br><br>
-16:05 <span style="color:#0000FF"><i><u>Panel discussion</u></i><br></span>
+16:05 <i>Panel discussion</i><br>
 <br>
-17:20 <span style="color:#0000FF"><i><u>Closing, concluding remarks</u></i><br></span>
+17:20 <i>Closing, concluding remarks</i><br>
 <br><br>
 
 **Notes**
 
-<h6><a name="reference_00">et al.</a></h6>
+<h4><a name="reference_00">et al.</a></h4>
 
 Alan Luke&#382;i&#269; (Ljubljana University), 
 Aleksandar Dimitriev (Ljubljana University), 

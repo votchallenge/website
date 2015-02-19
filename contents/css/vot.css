@@ -1,12 +1,18 @@
+
 a.navbar-brand img {
     margin: 5px 20px;
+}
+
+#submenu a.navbar-brand {
+    font-weight: bold;
+    margin: 0px 38px;
 }
 
 body {
     min-width: 350px;
 }
 
-.navbar {
+#menu .navbar {
     min-height: 90px;
 }
 
@@ -15,13 +21,14 @@ body {
     padding-top: 55px;
 }
 
-#menu.navbar-nav > li.active > a {
+.navbar-default .navbar-nav > li.active > a {
     color: white;
     background-color: #428BCA;
 }
 
-#menu.nav li a.selected,
-#menu.nav li a:hover {
+.navbar-default .nav li a.selected,
+.navbar-default .nav li a:hover,
+.navbar-default .nav li.active a:hover {
     color: white;
     background-color: #2A6496;
 }
@@ -83,4 +90,10 @@ a.hugebutton:hover {
     margin-bottom: 10px;
 }
 
+#submenu .navbar-default {
+    background-color: #F0F0F0;
+}
 
+#submenu .navbar {
+    margin-bottom: 0px;
+}

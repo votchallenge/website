@@ -7,12 +7,12 @@ h3 { font-size: 120%; margin-top: 20px; margin-bottom: 10px; }
 	width: 100%;
 }
 
-.results th {  background-color: #312015; text-align: left; color: white; } 
+.results th {  background-color: #428BCA; text-align: left; color: white; } 
 
 .results td { background-color: white; padding: 5px;  min-width: 110px; } 
 
 .results .table {
-	max-width: 855px;
+
 	overflow-x: auto;
 }
 

@@ -1,9 +1,9 @@
 ---
-template: page2013sidebar.jade
-menu: People
+template: page2013.jade
+submenu: People
 ---
 
-##### Organizing committee
+# Organizing committee
 
 -   [Roman
     Pflugfelder](http://www.cat-project.at/index.php/team/roman-pflugfelder),
@@ -17,14 +17,14 @@ menu: People
 -   [Fatih Porikli](http://www.porikli.com/), NICTA and Australian
     National University, Australia
 
-##### Technical committee
+# Technical committee
 
 -   Luka Čehovin, University of Ljubljana, Slovenia
 -   Gustavo Fernández, Austrian Institute of Technology, Austria
 -   Georg Nebehay, Austrian Institute of Technology, Austria
 -   Tomáš Vojíř, Czech Technical University in Prague, Czech Republic
 
-##### Program committee
+# Program committee
 
 -   Richard Bowden, University of Surrey, UK
 -   Francois Bremond, INRIA, France
@@ -36,7 +36,7 @@ menu: People
 -   Peter Tu, GE Global Research, USA
 -   Ming-Hsuan Yang, University of California at Merced, USA
 
-##### Supporting organizations
+# Supporting organizations
 
 <p style="text-align: center; background-color: white;">
 	<a href="http://www.ait.ac.at/about-us/?L=1"><img alt="AIT" src="img/logo_ait.png" /></a>

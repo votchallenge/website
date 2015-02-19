@@ -1,49 +1,29 @@
-extends layout
+extends page
+
+block append page_vars
+	-var menu='Challenges';
+	if page.metadata.submenu
+		-submenu = page.metadata.submenu 
 
 block append head
-	link(rel='stylesheet', type='text/css', href='/vot2013/css/style.css', media='screen')
 	title VOT2013 Benchmark | 
-		= menu
+		= submenu
 
-block header
-	#toplinks
-		#toplinks_inner
-			| In conjunction with 
-			a(href='http://www.iccv2013.org/') ICCV 2013
-	.clearer  
-	#site_title
-		a(href='index.html')
-			img(src='/vot2013/img/logo_website.png', alt='VOT2013')
-		br
-		span(style='padding: 0 0 5px 0;') December 2nd, 2013 - Sydney, Australia
+block submenu
+	-var menu_items = { 'Home': '/vot2013/index.html', 'Results': '/vot2013/results.html', 'People': '/vot2013/people.html', 'Program': '/vot2013/program.html'};
+	.navbar.navbar-default.navbar-static-top(role='navigation')
+		.container
+			.navbar-header
+				a(class='navbar-brand' href='/vot2013/') VOT2013
+			ul(class='nav navbar-nav nav-collapse')
+				each val, key in menu_items
+					if submenu == key
+						li.active
+							a(href=val)= key
+					else
+						li
+							a(href=val)= key
 
-block navigation
-	-var menu_items = { 'Home': '/vot2013/index.html', 'Official results': '/vot2013/results.html', 'Participation': '/vot2013/participation.html', 'Evaluation Kit': '/vot2013/evaluation_kit.html', 'People': '/vot2013/people.html', 'Workshop Program': '/vot2013/program.html', 'VOT Challenge': '/'};
-	ul
-		each val, key in menu_items
-			if menu == key
-				li.page_item.current_page_item
-					a(href=val)= key
-			else
-				li
-					a(href=val)= key
 	.clearer
 
 
-block footer
-	p#supporters
-		a(href='http://www.ieee.org/')
-			img(alt='IEEE', src='/vot2013/img/ieee_cs.png')
-		a(href='http://www.cv-foundation.org/')
-			img(alt='', src='/vot2013/img/cvf.png')
-	.center_wrapper
-		a(href='/')  VOT Initiative
-		| .
-		| &copy; 2013-2014. All rights reserved.
-
-	.center_wrapper
-		.right
-			a(href='http://templates.arcsin.se/') Website template 
-			| by 
-			a(href='http://arcsin.se/') Arcsin
-		.clearer  

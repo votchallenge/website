@@ -1,7 +1,9 @@
 ---
-template: page2013sidebar.jade
-menu: Program
+template: page2013.jade
+submenu: Program
 ---
+
+# Workshop program
 
 <p style="text-align: justify;">
 	The workshop proceedings are available from
@@ -39,7 +41,7 @@ menu: Program
 			<td>10:15 - 10:30</td>
 			<td>
 				<p>
-					<span style="color:#BC4B00">Coffee break</span>
+					Coffee break
 				</p>
 			</td>
 		</tr>
@@ -52,9 +54,7 @@ menu: Program
 					<div class="success">
 						10:30
 						<p>
-							<b><span style="font-weight: bold;color:#0000FF;">
-								VOT2013 Winner: <i>PLT - Single scale pixel based LUT tracker</i>
-							</span></b>
+							<b>VOT2013 Winner: <i>PLT - Single scale pixel based LUT tracker</i></b>
 							<br>
 							Cher Keng Heng, Samantha Yue Ying Lim, Zhi Heng Niu, Bo Li (Panasonic 
 							R&D Center Singapore)
@@ -62,18 +62,9 @@ menu: Program
 					</div>
 					<br><br>
 					10:55 <br>
-						<span style="color:#0000FF">
 							<i>Robust Real-Time Tracking with Diverse Ensembles and Random Projections</i>
-						</span>
 						<br>
 						<u>Ahmed Salaheldin</u>, Mohamed ELHelw, Sara Maher (Nile University)
-						<p style="text-align: center;">
-								<img style="border: 0px solid ; width: 135px;" alt="Ahmed Salah" src="img/ahmed_salah.jpg" />
-								<img style="border: 0px solid ; width: 251px;" alt="Ahmed Salah" src="img/ahmed_salah_abstract.png" />
-								<figcaption>
-									Diverse Ensemble Tracking. Red BB individual tracker decisions. Green BB fused ensemble decision.
-								</figcaption>
-						</p>
 						<p style="text-align: justify;">
 							<i>Abstract:</i>
 							Tracking by detection techniques have recently been gaining 
@@ -97,18 +88,9 @@ menu: Program
 						</p>
 						<br><br>
 					11:20 <br>
-						<span style="color:#0000FF">
 							<i>Enhanced Distribution Field Tracking using Channel Representations</i>
-						</span>
 						<br>
-						<u>Michael Felsberg</u> (Link&oumlping University)
-						<p style="text-align: center;">
-								<img style="border: 0px solid ; width: 135px;" src="img/michael_felsberg.png" />
-								<img style="border: 0px solid ; width: 270px;" src="img/michael_felsberg_abstract.gif" />
-								<figcaption>
-									Enhancing Diffusion Field Tracker Speed-up and better robustness by using channel representations.
-								</figcaption>
-						</p>
+						<u>Michael Felsberg</u> (Link&ouml;ping University)
 						<p style="text-align: justify;">
 							<i>Abstract:</i>
 							Visual tracking of objects under varying lighting conditions
@@ -130,7 +112,7 @@ menu: Program
 			<td>11:45 - 12:00</td>
 			<td>
 				<p>
-					<span style="color:#BC4B00">Coffee break</span>
+					Coffee break
 				</p>
 			</td>
 		</tr>
@@ -141,18 +123,9 @@ menu: Program
 					<b>Session 3: Tracker Presentations</b>
 					<br><br>
 					12:00 <br>
-						<span style="color:#0000FF">
 							<i>An Adaptive Combination of Multiple Features for Robust Tracking in Real Scene</i>
-						</span>
 						<br>
 						<u>Weihua Chen</u>, Lijun Cao, Junge Zhang, Kaiqi Huang (Chinese Academy of Sciences)
-						<p style="text-align: center;">
-								<img style="border: 0px solid ; width: 100px;" src="img/w_chen.jpg" />
-								<img style="border: 0px solid ; width: 435px;" src="img/w_chen_abstract.jpg" />
-								<figcaption>
-									The framework of the proposed AIF tracker.
-								</figcaption>
-						</p>
 						<p style="text-align: justify;">
 							<i>Abstract:</i>
 							Real scene video surveillance always involves low resolutions, 
@@ -175,18 +148,9 @@ menu: Program
 						</p>
 						<br><br>
 					12:25 <br>
-						<span style="color:#0000FF">
 							<i>An enhanced adaptive coupled-layer LGTracker++</i>
-						</span>
 						<br>
 						<u>Jingjing Xiao</u>, Rustam Stolkin, Ale&#353; Leonardis (University of Birmingham)
-						<p style="text-align: center;">
-								<img style="border: 0px solid ; width: 180px;" src="img/j_xiao.png" />
-								<img style="border: 0px solid ; width: 250px;" src="img/j_xiao_abstract.png" />
-								<figcaption>
-									An enhanced adaptive coupled-layer LGTracker ++.
-								</figcaption>
-						</p>
 						<p style="text-align: justify;">
 							<i>Abstract:</i>
 							This paper addresses the problems of tracking targets which 
@@ -216,7 +180,7 @@ menu: Program
 			<td>12:50 - 14:40</td>
 			<td>
 				<p>
-					<span style="color:#BC4B00">Lunch</span>
+					Lunch
 				</p>
 				<br><br>
 			</td>
@@ -230,12 +194,9 @@ menu: Program
 						<br>
 						<a  href="http://crcv.ucf.edu/people/faculty/shah.html">Mubarak Shah</a>
 						(University of Central Florida)
-						<img style="border: 0px solid ; width: 115px;" src="img/mubarak_shah.jpg" />
 					</p>
 					<p>
-						<span style="color:#0000FF">
 							<i>Visual Tracking: Single and Multiple Object Tracking</i>
-						</span>
 					</p>
 					<p style="text-align: justify;">
 						<b><span style="font-weight: bold;">Abstract:</span></b>
@@ -277,7 +238,7 @@ menu: Program
 			<td>15:40 - 16:00</td>
 			<td>
 				<p>
-					<span style="color:#BC4B00">Coffee break</span>
+					Coffee break
 				</p>
 			</td>
 		</tr>
@@ -288,18 +249,9 @@ menu: Program
 					<b>Session 5: Tracker Presentations, Discussion</b>
 					<br><br>
 					16:00 <br>
-						<span style="color:#0000FF">
 							<i>Graph Embedding Based Semi-Supervised Discriminative Tracker</i>
-						</span>
 						<br>
 						<u>Jin Gao</u>, Junliang Xing, Weiming Hu, Xiaoqin Zhang (Chinese Academy of Sciences)
-						<p style="text-align: center;">
-								<img style="border: 0px solid ; width: 158px;" src="img/jin_gao.jpg" />
-								<img style="border: 0px solid ; width: 260px;" src="img/jin_gao_abstract.gif" />
-								<figcaption>
-									W3-5 Graph embedding tracker with a  L1-graph based semi-supervised regularizer.
-								</figcaption>
-						</p>
 						<p style="text-align: justify;">
 							<i>Abstract:</i>
 							Recently, constructing a good graph to represent data structures is 
@@ -321,19 +273,10 @@ menu: Program
 						</p>
 						<br><br>
 					16:25 <br>
-						<span style="color:#0000FF">
 							<i>Long-Term Tracking Through Failure Cases</i>
-						</span>
 						<br>
 						<u>Karel Lebeda</u>, Simon Hadfield, Richard Bowden (University of Surrey), <br>
 						Jiri Matas (Czech Technical University)
-						<p style="text-align: center;">
-								<img style="border: 0px solid ; width: 189px;" src="img/karel_lebeda.jpg" />
-								<img style="border: 0px solid ; width: 240px;" src="img/karel_lebeda_abstract.png" />
-								<figcaption>
-									LT-FLOTrack - Long term tracking of low texture objects through lighting/pose change and full occlusion.
-								</figcaption>
-						</p>
 						<p style="text-align: justify;">
 							<i>Abstract:</i>
 							Long term tracking of an object, given only a single instance
@@ -364,9 +307,7 @@ menu: Program
 						</p>
 						<br><br>
 					16:50 <br>
-						<span style="color:#0000FF">
 							<b><i>Panel discussion</i></b>
-						</span>
 						<br><br>
 						<u>Panelists</u>
 						<ul>
@@ -413,7 +354,7 @@ menu: Program
 	</tbody>
 </table>  
 <div class="content_separator"></div>
-<h5>References</h5>
+<h2>References</h2>
 <p style="text-align: justify;">
 	<a name="reference_01">[1]</a>
 	L. &#268;ehovin, M. Kristan and A. Leonardis, 
@@ -427,9 +368,9 @@ menu: Program
 	<a href="http://www.votchallenge.net">http://www.votchallenge.net</a>
 </p>
 <div class="content_separator"></div>
-<h5>Notes</h5>
+<h2>Notes</h2>
 <br>
-<h6><a name="reference_00">et al.</a></h6>
+<h5><a name="reference_00">et al.</a></h5>
 <p style="text-align: justify;">
 	Adam Gatt (DSTO), 
 	Ahmad Khajenezhad (Sharif University of Technology), 

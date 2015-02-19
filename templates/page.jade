@@ -34,31 +34,22 @@ html(xmlns='http://www.w3.org/1999/xhtml', dir='ltr')
             .navbar.navbar-default.navbar-static-top(role='navigation')
                 .container
                     .navbar-header
-                        button(type='button', class='navbar-toggle', data-toggle='collapse', data-target='.navbar-collapse')
-                            span(class='sr-only')
-                                | Toggle navigation
-                            span(class='icon-bar')
-                            span(class='icon-bar')
-                            span(class='icon-bar')
 
                         a(class='navbar-brand' href='/')
                             img(src='/img/logo_website.png' alt='VOT challenge') 
-                    .collapse.navbar-collapse
 
-                        -var menu_items = { 'Home': '/index.html', 'Tutorials': '/howto/', 'Challenges': '/challenges.html'};
-                        ul(class='nav navbar-nav nav-collapse' id='menu')
-                            each val, key in menu_items
-                                if menu == key
-                                    li.active
-                                        a(href=val)= key
-                                else
-                                    li
-                                        a(href=val)= key
-                        
-
-        #navigation
-            .center_wrapper
-                block navigation
+                    -var menu_items = { 'Home': '/index.html', 'Tutorials': '/howto/', 'Challenges': '/challenges.html'};
+                    ul(class='nav navbar-nav nav-collapse' id='menu')
+                        each val, key in menu_items
+                            if menu == key
+                                li.active
+                                    a(href=val)= key
+                            else
+                                li
+                                    a(href=val)= key
+                #submenu
+                    .center_wrapper
+                        block submenu
 
         .container
             block main

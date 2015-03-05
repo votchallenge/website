@@ -40,9 +40,9 @@ Challanges and workshops that we have organized or are organizing.
 
 We would like to bring your attention to a paper that we have been working on which summarizes the VOT methodology and analysis developed in years (2013-2014). The initial version of the paper was submitted to a journal in early 2014, but it took over half of year for the first round of review feedback and it will likely take some time until the final publication.
 
-The VOT committee therefore decided that we should share the results of the paper with the wider VOT community under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1503.01313](http://arxiv.org/abs/1503.01313)
+The VOT committee therefore decided that we should share the results of the paper with the wider VOT community. The paper is available on arXiv under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1503.01313](http://arxiv.org/abs/1503.01313).
 
-The paper cites another paper, which was the basis for the basic performance measure selection in VOT2013. This paper was since extended and submitted to a journal. An arXiv track is available under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1502.05803](http://arxiv.org/abs/1502.05803)
+The paper above cites another paper, which was the basis for the basic performance measure selection in VOT2013. This paper was since extended and submitted to a journal. An arXiv version is available under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1502.05803](http://arxiv.org/abs/1502.05803).
 
 <br/><br/>
 

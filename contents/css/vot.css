@@ -65,20 +65,45 @@ footer {
     margin: 20px 0 40px 0;
 }
 
+.challengebutton,
 .hugebutton {
     text-decoration: none;
-    padding: 40px 20px;
-    text-align: center;
+    padding: 20px;
     border: 1px #eeeeee solid;
     display: inline-block;
-    height: 200px;
     border-radius: 3px;
     width: 100%;
     margin-bottom: 20px;
 }
 
+.challengebutton:hover,
+.hugebutton:hover {
+    background-color: #fafafa;
+}
+
+.hugebutton {
+    text-align: center;
+    padding: 40px 20px;
+    height: 200px;
+}
+
+.challengebutton {
+    height: 220px;
+}
+
+.challengebutton img.logo {
+    float: left;
+    margin-right: 15px;
+}
+
+a.challengebutton:hover,
 a.hugebutton:hover {
     text-decoration: none;
+}
+
+.challengebutton p.description {
+    text-align: left;
+    color: #555555;
 }
 
 .hugeicon {

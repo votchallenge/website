@@ -38,6 +38,12 @@ Challanges and workshops that we have organized or are organizing.
 
 # Highlights
 
+## Comments on the VOT toolkit
+
+Due to increasing interest in the VOT analysis, which also results in numerous questions regarding the correct usage of the toolkit, the VOT committee has released an official statement regarding using the VOT evaluation toolkit analysis for scientific papers. The statement is available [<i class="glyphicon glyphicon-file"></i>here](/res/toolkit.pdf).
+
+## New VOT papers 
+
 We would like to bring your attention to a paper that we have been working on which summarizes the VOT methodology and analysis developed in years (2013-2014). The initial version of the paper was submitted to a journal in early 2014, but it took over half of year for the first round of review feedback and it will likely take some time until the final publication.
 
 The VOT committee therefore decided that we should share the results of the paper with the wider VOT community. The paper is available on arXiv under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1503.01313](http://arxiv.org/abs/1503.01313).

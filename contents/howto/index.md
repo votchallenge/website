@@ -10,6 +10,7 @@ These tutorials cover various topics on how to use VOT toolkit in your experimen
 
 - [Perform evaluation on VOT benchmarks](/howto/perfeval.html)
 - [Analyzing results and generating reports](/howto/analysis.html)
+- [Reproducing VOT2014 arXiv paper results](/howto/analysis_vot2014.html)
 - Using report material to include benchmark results in a paper [Page under construction]
 - Interpretation of results and plots [Page under construction]
 - [Using different set of sequences with VOT toolkit](/howto/sequences.html)

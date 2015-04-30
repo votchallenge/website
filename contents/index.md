@@ -40,7 +40,7 @@ Challanges and workshops that we have organized or are organizing.
 
 ## VOT2015 challenge
 
-We are preparing a new challenge this year. Official announcement with the details is expected in June. Enroll on the VOT mailing list for latest news.
+We are preparing a new challenge this year. Official announcement with the details is expected in June. Enroll on the [VOT mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) for latest news.
 
 ## Comments on the VOT toolkit
 

@@ -38,6 +38,10 @@ Challanges and workshops that we have organized or are organizing.
 
 # Highlights
 
+## VOT2015 challenge
+
+We are preparing a new challenge which is planned to open in early June.
+
 ## Comments on the VOT toolkit
 
 Due to increasing interest in the VOT analysis, which also results in numerous questions regarding the correct usage of the toolkit, the VOT committee has released an official statement regarding using the VOT evaluation toolkit analysis for scientific papers. The statement is available [<i class="glyphicon glyphicon-file"></i>here](/res/toolkit.pdf).

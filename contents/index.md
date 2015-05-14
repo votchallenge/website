@@ -60,5 +60,5 @@ The paper above cites another paper, which was the basis for the basic performan
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>
 <h4>Do you want to stay informed?</h4>
 
-If you want to stay informed about the future VOT activities you can subscribe to [our news mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge).
+If you want to stay informed about the future VOT activities you can subscribe to [our news mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge). If you are interested in the toolkit and technical aspects, subscribe to [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 </div>

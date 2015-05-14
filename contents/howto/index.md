@@ -19,7 +19,7 @@ These tutorials cover various topics on how to use VOT toolkit in your experimen
 <div class="icon-left"><i class="glyphicon glyphicon-question-sign hugeicon"></i> </div>
 <h4>Did not find a tutorial for your task?</h4>
 
-Look at the [Frequently Asked Questions](/howto/faq.html) or <a href='mailto:luka.cehovin@fri.uni-lj.si?cc=matej.kristan@fri.uni-lj.si;vojirtom@fel.cvut.cz&subject=VOT toolkit - question '> contact us by email</a>.
+Look at the [Frequently Asked Questions](/howto/faq.html) or <a href="https://groups.google.com/forum/?hl=en#!forum/votchallenge-help"> contact us on the support forum</a>.
 </div>
 
 

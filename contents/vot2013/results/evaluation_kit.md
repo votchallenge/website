@@ -80,5 +80,5 @@ Experiment 1.*
 
 ##### Enquiries
 
-[Questions](mailto:gustavo.fernandez@ait.ac.at?cc=roman.pflugfelder@ait.ac.at&subject=VOT2013%20challenge%20-%20Evaluation%20kit)
+[Questions](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help)
 about the evaluation kit?

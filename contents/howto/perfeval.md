@@ -52,7 +52,7 @@ From now on we are assuming you have toolkit in `vot-toolkit` directory. It is r
     <div class="screenshot"><img src="/howto/img/perfeval/31.png" alt="Running experiments"/></div>
 
 If the execution does not start, please check previous steps. If the problem still persists, 
-look at the [Frequently Asked Questions](/howto/faq.html) or <a href='mailto:luka.cehovin@fri.uni-lj.si?cc=matej.kristan@fri.uni-lj.si;vojirtom@fel.cvut.cz&subject=VOT toolkit - question '> contact us by email</a>.
+look at the [Frequently Asked Questions](/howto/faq.html) or <a href="https://groups.google.com/forum/?hl=en#!forum/votchallenge-help"> contact us on the support forum</a>.
 
 
 <div class="alert alert-info" role="alert">

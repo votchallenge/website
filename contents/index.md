@@ -3,7 +3,7 @@ template: page.jade
 menu: Home
 ---
 
-#About
+##About
 
 The VOT challenges provide the visual tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
 
@@ -36,27 +36,43 @@ Challanges and workshops that we have organized or are organizing.
 
 </div>
 
-# Highlights
+## Highlights and news
 
-## VOT2015 challenge
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <h3 class="panel-title">VOT2015 challenge</h3>
+  </div>
+  <div class="panel-body">
+    We are preparing a new challenge this year. Official announcement with the details is expected in June. Enroll on the [VOT mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) for latest news.
+  </div>
+</div>
 
-We are preparing a new challenge this year. Official announcement with the details is expected in June. Enroll on the [VOT mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) for latest news.
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Comments on the VOT toolkit and support forum</h3>
+  </div>
+  <div class="panel-body">
+    <p>Due to increasing interest in the VOT analysis, which also results in numerous questions regarding the correct usage of the toolkit, the VOT committee has released an official statement regarding using the VOT evaluation toolkit analysis for scientific papers. The statement is available [<i class="glyphicon glyphicon-file"></i>here](/res/toolkit.pdf).</p>
+<p>
+Additionally we have opened a [support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help) for all the additional technical questions and discussions.
+</p>
+  </div>
+</div>
 
-## Comments on the VOT toolkit
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">New VOT papers</h3>
+  </div>
+  <div class="panel-body">
+<p>We would like to bring your attention to a paper that we have been working on which summarizes the VOT methodology and analysis developed in years (2013-2014). The initial version of the paper was submitted to a journal in early 2014, but it took over half of year for the first round of review feedback and it will likely take some time until the final publication.</p>
 
-Due to increasing interest in the VOT analysis, which also results in numerous questions regarding the correct usage of the toolkit, the VOT committee has released an official statement regarding using the VOT evaluation toolkit analysis for scientific papers. The statement is available [<i class="glyphicon glyphicon-file"></i>here](/res/toolkit.pdf).
+<p>The VOT committee therefore decided that we should share the results of the paper with the wider VOT community. The paper is available on arXiv under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1503.01313](http://arxiv.org/abs/1503.01313).</p>
 
-## New VOT papers 
+<p>The paper above cites another paper, which was the basis for the basic performance measure selection in VOT2013. This paper was since extended and submitted to a journal. An arXiv version is available under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1502.05803](http://arxiv.org/abs/1502.05803).</p>
+  </div>
+</div>
 
-We would like to bring your attention to a paper that we have been working on which summarizes the VOT methodology and analysis developed in years (2013-2014). The initial version of the paper was submitted to a journal in early 2014, but it took over half of year for the first round of review feedback and it will likely take some time until the final publication.
-
-The VOT committee therefore decided that we should share the results of the paper with the wider VOT community. The paper is available on arXiv under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1503.01313](http://arxiv.org/abs/1503.01313).
-
-The paper above cites another paper, which was the basis for the basic performance measure selection in VOT2013. This paper was since extended and submitted to a journal. An arXiv version is available under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1502.05803](http://arxiv.org/abs/1502.05803).
-
-<br/><br/>
-
-<div class="alert alert-success" role="alert">
+<div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>
 <h4>Do you want to stay informed?</h4>
 

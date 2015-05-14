@@ -42,6 +42,7 @@ footer {
 
 .poweredby {
     padding-top: 30px;
+    padding-bottom: 30px;
     text-align: center;
     font-size: small;
     color: #AAAAAA;
@@ -69,11 +70,12 @@ footer {
 .hugebutton {
     text-decoration: none;
     padding: 20px;
-    border: 1px #eeeeee solid;
+    border: 1px #DDD solid;
     display: inline-block;
     border-radius: 3px;
     width: 100%;
     margin-bottom: 20px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
 }
 
 .challengebutton:hover,

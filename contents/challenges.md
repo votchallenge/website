@@ -8,11 +8,11 @@ title: Challenges
 
 <div class="row">
 <div class="col-lg-6 col-sm-12">
-<div class="challengebutton text-muted">
-<img class="logo" src="/img/vot_upcoming.png" alt="VOT2015" />
+<a href="/vot2015/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2015_logo_website.png" alt="VOT2015" />
 <h3>VOT2015 challenge</h3>
-<p class="text-warning"><i class="glyphicon glyphicon-wrench"></i> Challenge is under preparation, and is planned to open in early June.</p>
-</div>
+<p class="description">The third challenge that will finish with a workshop at ICCV2015.</p>
+</a>
 </div>
 
 <!--div class="alert alert-info" role="alert">

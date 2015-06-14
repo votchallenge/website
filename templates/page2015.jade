@@ -1,0 +1,32 @@
+extends page
+
+block append page_vars
+	-var menu='Challenges';
+	if page.metadata.submenu
+		-submenu = page.metadata.submenu 
+
+block append page_vars
+	-var menu='Challenges';
+	if page.metadata.submenu
+		-submenu = page.metadata.submenu 
+
+block append head
+	title VOT2015 Challenge | 
+		= submenu
+
+block submenu
+	-var menu_items = { 'Home': '/vot2015/index.html', 'Dataset': '/vot2015/dataset.html' , 'Participate': '/vot2015/participate.html' };
+	.navbar.navbar-default.navbar-static-top(role='navigation')
+		.container
+			.navbar-header
+				a(class='navbar-brand' href='/vot2015/') VOT2015
+			ul(class='nav navbar-nav nav-collapse')
+				each val, key in menu_items
+					if submenu == key
+						li.active
+							a(href=val)= key
+					else
+						li
+							a(href=val)= key
+
+	.clearer

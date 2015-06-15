@@ -22,7 +22,8 @@ A collection of tutorials on various topics regarding performing the experiments
 <div class="col-lg-4 col-sm-12">
 <a href="/challenges.html" class="hugebutton text-primary">
 <h3><i class="glyphicon glyphicon-star"></i> Challenges</h3>
-Challanges and workshops that we have organized or are organizing.
+<p>Challanges and workshops that we have organized or are organizing.</p>
+<!--p class="text-success"><i class="glyphicon glyphicon-bullhorn"></i> Test.</p-->
 </a>
 </div>
 
@@ -43,7 +44,7 @@ Challanges and workshops that we have organized or are organizing.
     <h3 class="panel-title">VOT2015 challenge</h3>
   </div>
   <div class="panel-body">
-    We are preparing a new challenge this year. Official announcement with the details is expected in June. Enroll on the [VOT mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) for latest news.
+    We are preparing a new challenge and an ICCV 2015 workshop this year. More information available on a dedicated [VOT2015 page](/vot2015/). Enroll on the [VOT mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) for latest news.
   </div>
 </div>
 

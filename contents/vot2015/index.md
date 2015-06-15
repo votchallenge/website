@@ -18,13 +18,6 @@ The VOT committee also solicits full-length papers describing:
 * Original or improved trackers as well as papers giving new insights into existing trackers or class of trackers. See [participation page](participate.html) for details of the requirements for a tracking paper.
 * Novel ways of using and extending the VOT framework for tracker performance analysis.
 
-
-## Highlights
-
-1. New fully annotated [dataset](dataset.html) compiled with the VOT dataset construction methodology
-2. New toolkit for fast experiments execution with tutorials
-3. New sub-challenge VOT-TIR
-
 ## Important dates 
 
 * Start of challenge: **25. July 2015**
@@ -33,6 +26,12 @@ The VOT committee also solicits full-length papers describing:
 * Notification of paper acceptance: **1. October 2015**
 * Camera ready: **15. October 2015**
 * VOT2015 workshop: **12. December 2015**
+
+## Highlights
+
+1. New fully annotated [dataset](dataset.html) compiled with the VOT dataset construction methodology
+2. New toolkit for fast experiments execution with tutorials
+3. New sub-challenge VOT-TIR
 
 ## How to participate
 

@@ -1,7 +1,7 @@
-vot-website
+VOT website
 ===========
 
-Website for the VOT2014 challenge
+Source files for the VOT challenge website.
 
 This page uses [Wintersmith](http://www.wintersmith.io) as a static website generator.
 Wintersmith uses [Markdown](http://daringfireball.net/projects/markdown/) for content

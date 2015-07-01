@@ -15,7 +15,7 @@ We are also announcing the first VOT thermal imagery tracking sub-challenge VOT-
 
 The VOT committee also solicits full-length papers describing:
 
-* Original or improved trackers as well as papers giving new insights into existing trackers or class of trackers. See [participation page](participate.html) for details of the requirements for a tracking paper.
+* Original or improved trackers as well as papers giving new insights into existing trackers or class of trackers. See [participation page](participation.html) for details of the requirements for a tracking paper.
 * Novel ways of using and extending the VOT framework for tracker performance analysis.
 
 ## Important dates 
@@ -35,6 +35,6 @@ The VOT committee also solicits full-length papers describing:
 
 ## How to participate
 
-* Visit the [participation page](participate.html) on running the VOT2015 experiments.
-* Visit the [participation page](participate.html) on running the VOT-TIR2015 experiments.
+* Visit the [participation page](participation.html) on running the VOT2015 experiments.
+* Visit the [participation page](participation.html) on running the VOT-TIR2015 experiments.
 

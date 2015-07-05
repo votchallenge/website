@@ -1,6 +1,6 @@
 ---
 template: page2015.jade
-submenu: Participation
+submenu: Participate
 ---
 
 ## Participation

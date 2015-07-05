@@ -1,6 +1,6 @@
 ---
 template: page2015.jade
-submenu: Participation
+submenu: People
 ---
 
 ## Organizing committee
@@ -11,7 +11,7 @@ submenu: Participation
     University of Birmingham, UK
 -   [Ji&#345;i Matas](http://cmp.felk.cvut.cz/~matas/), Czech Technical
     University in Prague, Czech Republic
--   [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/), Linköping 
+-   [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/), Link&ouml;ping 
     University, Sweden
 
 ## Technical committee
@@ -27,18 +27,20 @@ submenu: Participation
 
 -   tba
 
-## Contributers to VOT
+## Contributers
+
 The following people have contributed to development of the VOT through their 
 contributions on the VOT toolkit, offering technical suggestions or helped 
 significantly in the preparation of the dataset and challenge organization:
 
--   Jingjing University of Birmingham
--   Mario Maresca
+-   Jingjing Xiao, University of Birmingham
+-   Heng Cherkeng
+-   Stefan Duffner, INSA
+-   Mario Maresca, University of Naples
 -   Klaus Haag
--   List people from toolkit Github
--   Jon Natanael Muhovic, UoL
--   Student from Tom&#225;&#353;, Prague
--   Oxford Italian guy
+-   Jon Natanael Muhovic, University of Ljubljana
+-   Student from Tom&#225;&#353;,  Czech Technical University
+-   Luca Bertinetto, University of Oxford
 
 
 ## Supporting organizations

@@ -1,6 +1,6 @@
 ---
 template: page2015.jade
-submenu: Participation
+submenu: Dataset
 ---
 
 ## VOT2015 Dataset
@@ -20,8 +20,8 @@ The sequences were annotated by the VOT committee using rotated bounding
 boxes in order to provide highly accurate ground truth values for 
 comparing results.
 
-The dataset is automatically downloaded by the evaluation kit during the 
-install process; there is no need to separately download the sequences 
+The dataset is automatically downloaded by the evaluation kit when needed;
+there is no need to separately download the sequences 
 for the challenge. If you are solely interested in the sequences, please 
 download the [dataset](http://box.vicos.si/vot/vot2015.zip). 
 The compressed file contains the single images of each sequence and per 
@@ -35,3 +35,4 @@ frame `N`, the N-th row in the text file.
 
 The following images give an overview of the dataset:
 
+TODO

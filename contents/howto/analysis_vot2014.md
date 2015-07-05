@@ -6,7 +6,7 @@ title: Reproducing VOT2014 arXiv paper results
 
 # Reproducing VOT2014 arXiv paper results
 
-You can use the following script to generate the results used in [<i class="glyphicon glyphicon-file"></i>arXiv:1503.01313](http://arxiv.org/abs/1503.01313). Assuming that you have correctly initialized VOT2014 workspace, the script generates three separate reports for different ranking approaches that were included in the paper. We have used VOT toolkit tagged [vot2014-final](https://github.com/vicoslab/vot-toolkit/releases/tag/vot2014-final) to generate the results.
+You can use the script below to generate the results used in [<i class="glyphicon glyphicon-file"></i>arXiv:1503.01313](http://arxiv.org/abs/1503.01313). Assuming that you have correctly initialized VOT2014 workspace, the script generates three separate reports for different ranking approaches that were included in the paper. We have used VOT toolkit tagged [vot2014-final](https://github.com/votchallenge/vot-toolkit/releases/tag/vot2014-final) to generate the results. If you will use a more recent version of the toolkit be aware that some function names have changed so the script will have to be adapted.
 
 <pre>
 % Initialize the workspace

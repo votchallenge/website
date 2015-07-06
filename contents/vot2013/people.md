@@ -41,7 +41,7 @@ submenu: People
 <p class="supporters">
 	<a href="http://www.ait.ac.at/about-us/?L=1"><img alt="AIT" src="img/logo_ait.png" /></a>
 	<a href="http://www.uni-lj.si/en/"><img alt="University of Ljubljana" src="img/logo_ljubljana.png" /></a>
-	<a href="http://www.birmingham.ac.uk/"><img alt="University of Birmingham" src="img/logo_birmingham.gif" /></a>
+	<a href="http://www.birmingham.ac.uk/"><img alt="University of Birmingham" src="img/logo_birmingham.png" /></a>
 	<a href="http://www.cvut.cz/"><img alt="Czech Technical University in Prague" src="img/logo_cvut.png" /></a>
 	<a href="http://nicta.com.au/"><img alt="NICTA" src="img/logo_nicta.png" /></a>
 	<a href="http://www.anu.edu.au/"><img alt="Australian National University" src="img/logo_anu.png" /></a>

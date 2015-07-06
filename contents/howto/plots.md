@@ -1,6 +1,6 @@
 ---
 template: page.jade
-menu: Tutorials
+menu: Support
 title: Plotting graphs after evaluation on benchmark
 ---
 

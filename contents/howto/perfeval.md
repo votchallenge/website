@@ -1,13 +1,13 @@
 ---
 template: page.jade
-menu: Tutorials
+menu: Support
 title: Performing evaluation on VOT benchmark
 ---
 
 # Performing evaluation on VOT benchmark
 
-Download VOT toolkit from git repository (https://github.com/vicoslab/vot-toolkit), either
-* by using git command line : `git clone https://github.com/vicoslab/vot-toolkit`
+Download VOT toolkit from git repository (https://github.com/votchallenge/vot-toolkit), either
+* by using git command line : `git clone https://github.com/votchallenge/vot-toolkit`
 
 or
 
@@ -58,6 +58,6 @@ look at the [Frequently Asked Questions](/howto/faq.html) or <a href="https://gr
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-question-sign hugeicon"></i> </div>
 <h4>Need more information?</h4>
-You can find more detailed information about the toolkit and how to set it up at the [Github wiki](https://github.com/vicoslab/vot-toolkit/wiki) of the project.
+You can find more detailed information about the toolkit and how to set it up at the [Github wiki](https://github.com/votchallenge/vot-toolkit/wiki) of the project.
 </div>
 

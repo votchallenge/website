@@ -1,6 +1,6 @@
 ---
 template: page.jade
-menu: Tutorials
+menu: Support
 title: FAQ
 ---
 

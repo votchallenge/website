@@ -1,10 +1,15 @@
 ---
 template: page.jade
-menu: Tutorials
-title: Tutorials
+menu: Support
+title: Support
 ---
 
-# VOT Tutorials
+# Documentation
+
+- [Toolkit documentation](http://box.vicos.si/vot/toolkit/docs/)
+- [TraX protocol documentation](http://prints.vicos.si/publications/311/)
+
+# Tutorials and guides
 
 These tutorials cover various topics on how to use VOT toolkit in your experiments:
 

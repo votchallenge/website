@@ -19,29 +19,30 @@ where `Xi` and `Yi` are the coordinates of corner `i` of the bounding box in fra
 
 The following images give an overview of the dataset:
 
-![](/vot2014/img/thumbs/ball.gif)
-![](/vot2014/img/thumbs/basketball.gif)
-![](/vot2014/img/thumbs/bicycle.gif)
-![](/vot2014/img/thumbs/bolt.gif)
-![](/vot2014/img/thumbs/car.gif)
-![](/vot2014/img/thumbs/david.gif)
-![](/vot2014/img/thumbs/diving.gif)
-![](/vot2014/img/thumbs/drunk.gif)
-![](/vot2014/img/thumbs/fernando.gif)
-![](/vot2014/img/thumbs/fish1.gif)
-![](/vot2014/img/thumbs/fish2.gif)
-![](/vot2014/img/thumbs/gymnastics.gif)
-![](/vot2014/img/thumbs/hand1.gif)
-![](/vot2014/img/thumbs/hand2.gif)
-![](/vot2014/img/thumbs/jogging.gif)
-![](/vot2014/img/thumbs/motocross.gif)
-![](/vot2014/img/thumbs/polarbear.gif)
-![](/vot2014/img/thumbs/skating.gif)
-![](/vot2014/img/thumbs/sphere.gif)
-![](/vot2014/img/thumbs/sunshade.gif)
-![](/vot2014/img/thumbs/surfing.gif)
-![](/vot2014/img/thumbs/torus.gif)
-![](/vot2014/img/thumbs/trellis.gif)
-![](/vot2014/img/thumbs/tunnel.gif)
-![](/vot2014/img/thumbs/woman.gif)
-
+<div class="gallery">
+<img class="image sequence preview" title="ball" alt="ball" src="img/thumbnails/ball_static.gif" />
+<img class="image sequence preview" title="basketball" alt="basketball" src="img/thumbnails/basketball_static.gif" />
+<img class="image sequence preview" title="bicycle" alt="bicycle" src="img/thumbnails/bicycle_static.gif" />
+<img class="image sequence preview" title="bolt" alt="bolt" src="img/thumbnails/bolt_static.gif" />
+<img class="image sequence preview" title="car" alt="car" src="img/thumbnails/car_static.gif" />
+<img class="image sequence preview" title="david" alt="david" src="img/thumbnails/david_static.gif" />
+<img class="image sequence preview" title="diving" alt="diving" src="img/thumbnails/diving_static.gif" />
+<img class="image sequence preview" title="drunk" alt="drunk" src="img/thumbnails/drunk_static.gif" />
+<img class="image sequence preview" title="fernando" alt="fernando" src="img/thumbnails/fernando_static.gif" />
+<img class="image sequence preview" title="fish1" alt="fish1" src="img/thumbnails/fish1_static.gif" />
+<img class="image sequence preview" title="fish2" alt="fish2" src="img/thumbnails/fish2_static.gif" />
+<img class="image sequence preview" title="gymnastics" alt="gymnastics" src="img/thumbnails/gymnastics_static.gif" />
+<img class="image sequence preview" title="hand1" alt="hand1" src="img/thumbnails/hand1_static.gif" />
+<img class="image sequence preview" title="hand2" alt="hand2" src="img/thumbnails/hand2_static.gif" />
+<img class="image sequence preview" title="jogging" alt="jogging" src="img/thumbnails/jogging_static.gif" />
+<img class="image sequence preview" title="motocross" alt="motocross" src="img/thumbnails/motocross_static.gif" />
+<img class="image sequence preview" title="polarbear" alt="polarbear" src="img/thumbnails/polarbear_static.gif" />
+<img class="image sequence preview" title="skating" alt="skating" src="img/thumbnails/skating_static.gif" />
+<img class="image sequence preview" title="sphere" alt="sphere" src="img/thumbnails/sphere_static.gif" />
+<img class="image sequence preview" title="sunshade" alt="sunshade" src="img/thumbnails/sunshade_static.gif" />
+<img class="image sequence preview" title="surfing" alt="surfing" src="img/thumbnails/surfing_static.gif" />
+<img class="image sequence preview" title="torus" alt="torus" src="img/thumbnails/torus_static.gif" />
+<img class="image sequence preview" title="trellis" alt="trellis" src="img/thumbnails/trellis_static.gif" />
+<img class="image sequence preview" title="tunnel" alt="tunnel" src="img/thumbnails/tunnel_static.gif" />
+<img class="image sequence preview" title="woman" alt="woman" src="img/thumbnails/woman_static.gif" />
+</div>

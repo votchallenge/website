@@ -11,9 +11,10 @@ Welcome to the official homepage of the VOT2013 benchmark. This benchmark was us
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
 <h4>The VOT2013 challenge which is now over</h4>
 
-It is still possible to use the benchmark to evaluate your tracker and compare it to the official results using the challenge ranking methodology. For more information on how to do this look at the [list of tutorials](/howto/index.html).
+It is still possible to use the benchmark to evaluate your tracker and compare it to the official results using the challenge ranking methodology. For more information on how to do this look at the [list of tutorials](/howto/). You can download raw data for comparison from the [results page](results.html).
 </div>
 
 ## Supported by
 
-<p><a href="http://www.ieee.org/"><img alt='IEEE' src='/vot2013/img/ieee_cs.png' /></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.cv-foundation.org/"><img alt="CV Foundation" src="/vot2013/img/cvf.png"></a></p>
+<p class="supporters"><a href="http://www.ieee.org/"><img alt='IEEE' src='/vot2013/img/ieee_cs.png' /></a>
+<a href="http://www.cv-foundation.org/"><img alt="CV Foundation" src="/vot2013/img/cvf.png"></a></p>

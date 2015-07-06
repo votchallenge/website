@@ -38,7 +38,7 @@ submenu: People
 
 # Supporting organizations
 
-<p style="text-align: center; background-color: white;">
+<p class="supporters">
 	<a href="http://www.ait.ac.at/about-us/?L=1"><img alt="AIT" src="img/logo_ait.png" /></a>
 	<a href="http://www.uni-lj.si/en/"><img alt="University of Ljubljana" src="img/logo_ljubljana.png" /></a>
 	<a href="http://www.birmingham.ac.uk/"><img alt="University of Birmingham" src="img/logo_birmingham.gif" /></a>

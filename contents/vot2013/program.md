@@ -156,7 +156,7 @@ submenu: Program
 							This paper addresses the problems of tracking targets which 
 							undergo rapid and significant appearance changes. Our starting 
 							point is a successful, state-of-the-art tracker based on an 
-							adaptive coupled-layer visual model <a href="#reference_01">[1]</a>. 
+							adaptive coupled-layer visual model. 
 							In this paper, we identify four important cases when the original 
 							tracker often fails: significant scale changes, environment clutter, 
 							and failures due to occlusion and rapid disordered movement. We 
@@ -169,7 +169,7 @@ submenu: Program
 							filter is substituted for the Kalman filter to help recover the 
 							target. We have evaluated the enhanced tracker on a publicly 
 							available dataset of 16 challenging video sequences, using a 
-							test toolkit <a href="#reference_02">[2]</a>. We demonstrate the advantages of the enhanced 
+							test toolkit. We demonstrate the advantages of the enhanced 
 							tracker over the original tracker, as well as several other 
 							state-of-the art trackers from the literature.
 						</p>
@@ -353,20 +353,7 @@ submenu: Program
 		</tr>
 	</tbody>
 </table>  
-<div class="content_separator"></div>
-<h2>References</h2>
-<p style="text-align: justify;">
-	<a name="reference_01">[1]</a>
-	L. &#268;ehovin, M. Kristan and A. Leonardis, 
-	"Robust Visual Tracking Using an Adaptive 
-	Coupled-Layer Visual Model," IEEE Transactions 
-	on Pattern Analysis and Machine Intelligence, 
-	vol.35, no.4, pp.941-953, 2013
-	<br><br>
-	<a name="reference_02">[2]</a>
-	The VOT 2013 evaluation kit. 
-	<a href="http://www.votchallenge.net">http://www.votchallenge.net</a>
-</p>
+
 <div class="content_separator"></div>
 <h2>Notes</h2>
 <br>

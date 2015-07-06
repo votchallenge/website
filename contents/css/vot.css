@@ -140,3 +140,25 @@ a.hugebutton:hover {
     display: inline-block;
     margin-right: 40px;
 }
+
+.gallery {
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.gallery img.sequence {
+    display: table-cell;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    border: 1px #DDD solid;
+    border-radius: 3px;
+    margin: 10px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.gallery img.sequence:hover {
+    background-color: #fafafa;
+}
+

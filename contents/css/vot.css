@@ -126,3 +126,8 @@ a.hugebutton:hover {
 #submenu .navbar {
     margin-bottom: 0px;
 }
+
+#icons {
+    line-height: 20px;
+    padding: 13px;
+}

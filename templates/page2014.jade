@@ -1,32 +1,34 @@
 extends page
 
 block append page_vars
-	-var menu='Challenges';
-	if page.metadata.submenu
-		-submenu = page.metadata.submenu 
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu 
 
 block append page_vars
-	-var menu='Challenges';
-	if page.metadata.submenu
-		-submenu = page.metadata.submenu 
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu 
 
 block append head
-	title VOT2014 Benchmark | 
-		= submenu
+    title VOT2014 Benchmark | 
+        = submenu
 
 block submenu
-	-var menu_items = { 'Home': '/vot2014/index.html', 'Dataset': '/vot2014/dataset.html', 'Results': '/vot2014/results.html', 'People': '/vot2014/people.html', 'Program': '/vot2014/program.html'};
-	.navbar.navbar-default.navbar-static-top(role='navigation')
-		.container
-			.navbar-header
-				a(class='navbar-brand' href='/vot2014/') VOT2014
-			ul(class='nav navbar-nav nav-collapse')
-				each val, key in menu_items
-					if submenu == key
-						li.active
-							a(href=val)= key
-					else
-						li
-							a(href=val)= key
+    -var menu_items = { 'Home': '/vot2014/index.html', 'Dataset': '/vot2014/dataset.html', 'Results': '/vot2014/results.html', 'People': '/vot2014/people.html', 'Program': '/vot2014/program.html'};
+    .navbar.navbar-default.navbar-static-top(role='navigation')
+        .container
+            .navbar-header
+                a(class='navbar-brand' href='/vot2014/') VOT2014
+            ul(class='nav navbar-nav nav-collapse')
+                each val, key in menu_items
+                    if submenu == key
+                        li.active
+                            a(href=val)= key
+                    else
+                        li
+                            a(href=val)= key
+            div(class='navbar-text navbar-right')
+                a(class='navbar-conjunction' href='http://pamitc.org/iccv15/') ECCV2014, Zurich, Switzerland
 
-	.clearer
+    .clearer

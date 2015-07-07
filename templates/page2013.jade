@@ -1,29 +1,30 @@
 extends page
 
 block append page_vars
-	-var menu='Challenges';
-	if page.metadata.submenu
-		-submenu = page.metadata.submenu 
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu 
 
 block append head
-	title VOT2013 Benchmark | 
-		= submenu
+    title VOT2013 Benchmark | 
+        = submenu
 
 block submenu
-	-var menu_items = { 'Home': '/vot2013/index.html', 'Dataset': '/vot2013/dataset.html', 'Results': '/vot2013/results.html', 'People': '/vot2013/people.html', 'Program': '/vot2013/program.html'};
-	.navbar.navbar-default.navbar-static-top(role='navigation')
-		.container
-			.navbar-header
-				a(class='navbar-brand' href='/vot2013/') VOT2013
-			ul(class='nav navbar-nav nav-collapse')
-				each val, key in menu_items
-					if submenu == key
-						li.active
-							a(href=val)= key
-					else
-						li
-							a(href=val)= key
-
-	.clearer
+    -var menu_items = { 'Home': '/vot2013/index.html', 'Dataset': '/vot2013/dataset.html', 'Results': '/vot2013/results.html', 'People': '/vot2013/people.html', 'Program': '/vot2013/program.html'};
+    .navbar.navbar-default.navbar-static-top(role='navigation')
+        .container
+            .navbar-header
+                a(class='navbar-brand' href='/vot2013/') VOT2013
+            ul(class='nav navbar-nav nav-collapse')
+                each val, key in menu_items
+                    if submenu == key
+                        li.active
+                            a(href=val)= key
+                    else
+                        li
+                            a(href=val)= key
+            div(class='navbar-text navbar-right')
+                a(class='navbar-conjunction' href='http://pamitc.org/iccv15/') ICCV2013, Sydney, Australia
+    .clearer
 
 

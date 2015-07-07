@@ -25,7 +25,19 @@ submenu: People
 
 ## Program committee
 
--   tba
+-  Uwe Franke
+-  Andrea Cavallaro
+-  Kyoung Mu Lee
+-  J&ouml;rgen Ahlberg
+-  James Ferryman
+-  Richard Bowden
+-  Klamer Schutte
+-  Michael Arens
+-  Federico Pernici
+-  Oswald Lanz
+-  Peter Tu
+
+More to be announced.
 
 ## Contributers
 
@@ -39,7 +51,7 @@ significantly in the preparation of the dataset and challenge organization:
 -   Mario Maresca, University of Naples
 -   Klaus Haag
 -   Jon Natanael Muhovic, University of Ljubljana
--   Student from Tom&#225;&#353;,  Czech Technical University
+-   Koray Aytac, Czech Technical University in Prague
 -   Luca Bertinetto, University of Oxford
 
 

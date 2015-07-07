@@ -7,7 +7,7 @@ submenu: Dataset
 
 The dataset comprises 16 short sequences showing various objects in challenging backgrounds.The sequences were chosen from a large pool of sequences using a methodology based on clustering visual features of object and background so that those 16 sequences sample evenly well the existing pool. The sequences were annotated by the VOT committee using axis-aligned bounding boxes.
 
-The dataset is automatically downloaded by the evaluation kit during the install process; there is no need to separately download the sequences for the challenge. If you are solely interested in the sequences, please download the [dataset](http://box.vicos.si/vot/vot2013.zip). The compressed file contains the single images of each sequence and per frame labels of the rotated bounding box marking the object. The labels are stored in a text file with the format:
+The dataset is automatically downloaded by the evaluation kit during the install process; there is no need to separately download the sequences for the challenge. If you are solely interested in the sequences, please download the [dataset](http://box.vicos.si/vot/vot2013.zip). The compressed archive contains directories of images for each sequence and per frame annotations of the axis-aligned bounding box marking the object. The annotations are stored in a text file with the format:
 
 	frameN: left, top, width, height
 	

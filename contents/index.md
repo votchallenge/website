@@ -12,18 +12,19 @@ The goal of the challenges is to build up a repository of considerable benchmark
 <br />
 
 <div class="row">
-<div class="col-lg-4 col-sm-12">
-<a href="/howto/" class="hugebutton text-primary">
-<h3><i class="glyphicon glyphicon-book"></i> Tutorials</h3>
-A collection of tutorials on various topics regarding performing the experiments.
-</a>
-</div>
 
 <div class="col-lg-4 col-sm-12">
 <a href="/challenges.html" class="hugebutton text-primary">
 <h3><i class="glyphicon glyphicon-star"></i> Challenges</h3>
 <p>Challanges and workshops that we have organized or are organizing.</p>
 <!--p class="text-success"><i class="glyphicon glyphicon-bullhorn"></i> Test.</p-->
+</a>
+</div>
+
+<div class="col-lg-4 col-sm-12">
+<a href="/howto/" class="hugebutton text-primary">
+<h3><i class="glyphicon glyphicon-book"></i> Support</h3>
+A collection of documentation and tutorials on various topics.
 </a>
 </div>
 

@@ -20,7 +20,7 @@ title: Selecting sequences
     Under Windows, download [this VB script](./script_rename_files.vbs), copy it into the directory where your files are located and run the following line in the command line:
         cscript //nologo script_rename_files.vbs
 
-2.  If it is necessary, change the format of the groundtruth annotations according to the [VOT annotation format](https://github.com/vicoslab/vot-toolkit/wiki/Internals#trajectory-format). The groundtruth file should be named `groundtruth.txt` and placed next to the image files in the sequence directory.
+2.  If it is necessary, change the format of the groundtruth annotations according to the [VOT annotation format](http://box.vicos.si/vot/toolkit/docs/sequence/index.html). The groundtruth file should be named `groundtruth.txt` and placed next to the image files in the sequence directory.
 
 3.  Move your sequence directory to the `vot-workspace/sequences` directory.
 

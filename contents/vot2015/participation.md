@@ -3,24 +3,15 @@ template: page2015.jade
 submenu: Participate
 ---
 
-## Use the VOT toolkit in both challenges
+## Prerequisites
+
+A prerequisite for participating either VOT2015 or VOT-TIR2015 challenge is to have the most recent version of the VOT toolkit set up on your computer and that your tracker implementation is able to communicate with the toolkit. Follow [this tutorial](/howto/workspace.html) to download the toolkit and set up the environment and [this tutorial](/howto/integration.html) to integrate your tracker into the toolkit. Make sure that you select the correct experiment stack for the corresponding challenge. Then you have to run the experiments, pack the results and submit them. This is described in [this tutorial](/howto/perfeval.html).
+
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i></div><h4>Important</h4>
-Please, subscribe to our mailing list so that you receive recent news about the workshop and the challenge details.
+Please, subscribe to our [mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) so that you receive recent news about the workshop and the challenge details.
 </div>
-
-The following compulsory steps are necessary to successfully participate:
-
-1.	Download the latest version of the Matlab/Octave [evaluation kit](http://box.vicos.si/vot/evaluation_kit_2015.zip) or clone the Github repository. Participants are encouraged to help in the improvement of the kit!
-2.	Read carefully the VOT toolkit integration guidelines
-3.	Follow the instructions of the guidelines ... 
-   - for installing the evaluation kit. The install process will automatically download the [dataset](http://box.vicos.si/vot/vot2015.zip)
-   - for integrating your tracker into the evaluation kit.
-   - for performing the automated experiment.
-4.	Upload the results file together with a brief description of the tracker, a summary as well as your personal information.
-   - If successful, the evaluation kit will output a **single compressed results file**
-   - Upload the results along with the short [summary document]() using the [VOT2015 results submission page]().
 
 ## Participate in VOT2015 challenge
 

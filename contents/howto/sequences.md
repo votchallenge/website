@@ -10,10 +10,10 @@ title: Selecting sequences
 
     Under LINUX, you can use following script:
         #!/bin/bash
-        t=0;
+        t=1;
         for i in `ls *.jpg | sort -g`; do
             printf -v newName '%08d.jpg' $t
-            convert $i $newName;
+            cp $i $newName;
             let t=t+1;
         done
 

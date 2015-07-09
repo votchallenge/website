@@ -5,6 +5,8 @@ submenu: Home
 
 # VOT2015 Challenge
 
+<img class="logo float-right frame" src="../img/vot2015_logo_website_large.png" alt="VOT2015" />
+
 The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
 
 Following two highly successful VOT challenges [VOT2013](/vot2013/) ([ICCV 2013](http://www.iccv2013.org/)) and [VOT2014](/vot2014/) ([ECCV2014](http://eccv2014.org/)), we are happy to announce the 3rd Visual Object Tracking Challenge VOT2015 to be held in conjunction with the [ICCV2015](http://pamitc.org/iccv15/). Researchers from industry as well as academia are invited to participate. Similarly to VOT2013 and VOT2014, the challenge aims at single-object short-term trackers that do not apply pre-learned models of object appearance (model-free). Trackers do not necessarily need to be capable of automatic re-initialization, as the objects are visible over the whole course of the sequences.

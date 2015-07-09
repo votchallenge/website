@@ -40,6 +40,10 @@ footer {
 
 }
 
+.clearer {
+    clear: both;
+}
+
 .poweredby {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -160,5 +164,27 @@ a.hugebutton:hover {
 
 .gallery img.sequence:hover {
     background-color: #fafafa;
+}
+
+.float-right {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.float-center {
+    display: block;
+    margin: 15px auto;
+}
+
+.frame {
+    border: #cccccc 1px solid;
+    padding: 1px;
 }
 

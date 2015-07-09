@@ -5,14 +5,18 @@ submenu: Home
 
 # VOT2014 Benchmark
 
-Welcome to the official homepage of the VOT2014 benchmark. This benchmark was used in the VOT2014 challenge which is now over. The results were presented at a VOT2014 workshop on September 6th, 2014 in Zurich, Switzerland in conjunction with [ECCV 2014](http://www.eccv2014.org/).<br/><br/>
-
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
 <h4>The VOT2014 challenge which is now over</h4>
 
 It is still possible to use the benchmark to evaluate your tracker and compare it to the official results using the challenge ranking methodology. For more information on how to do this look at the [list of tutorials](/howto/index.html).
 </div>
+
+<img class="logo float-right frame" src="../img/vot2014_logo_website_large.png" alt="VOT2014" />
+
+Welcome to the official homepage of the VOT2014 benchmark. This benchmark was used in the VOT2014 challenge which is now over. The results were presented at a VOT2014 workshop on September 6th, 2014 in Zurich, Switzerland in conjunction with [ECCV 2014](http://www.eccv2014.org/).<br/><br/>
+
+<img class="frame float-center" src="img/workshop1.jpg" alt="VOT2013 Workshop" />
 
 ## VOT2014 highlights
 - An improved version of the cross-platform evaluation kit, which will execute the experiments much faster thanks to a powerful new communication protocol between kit and tracker

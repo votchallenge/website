@@ -138,7 +138,7 @@ It is important that all the directories containing required Matlab scripts are 
 
 ## Testing integration
 
-It is not recommended to immediately run the entire evaluation without testing the integration on a simpler task. For this the toolkit provides the `workspace_test` function that provides an interactive environment for testing your tracker on various sequences.
+It is not recommended to immediately run the entire evaluation without testing the integration on a simpler task. For this the toolkit provides the `run_test` function that provides an interactive environment for testing your tracker on various sequences.
 
 Using this environment you can verify the correct interpretation of input and output data (at the moment the interactive visualization only works in Matlab) as well as estimate the entire evaluation time based on several runs of the tracker on various sequences (run the tracker on several sequences, then select the option to display required estimate).
 

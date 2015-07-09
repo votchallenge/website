@@ -15,9 +15,8 @@ or
 
 <div class="screenshot"><img src="/howto/img/perfeval/1b.png" width=600 alt="Download zip VOT toolkit"/></div>
 
-From now on we are assuming you have toolkit in `vot-toolkit` directory. It is recommended that you add this directory to default path list in [Matlab/Octave](http://www.mathworks.com/help/matlab/matlab_env/what-is-the-matlab-search-path.html). Then create an empty directory that will be used to perform your experiments. We will call this directory `vot-workspace`.       
+From now on we are assuming you have toolkit in `vot-toolkit` directory. It is recommended that you add this directory at least the `workspace` subdirectory to default path list in [Matlab/Octave](http://www.mathworks.com/help/matlab/matlab_env/what-is-the-matlab-search-path.html). Then create an empty directory that will be used to perform your experiments. We will call this directory `vot-workspace`.
 
-       
 1. Go to `vot-workspace` directory. Run matlab and execute `workspace_create` command.
 2. Select an experiment stack that you want to use (e.g. `vot2013` denotes the VOT2013 benchmark experiment stack).
 3. Enter the unique indentifier of your tracker (e.g. `NCC` for norm-crosscorrelation tracker).

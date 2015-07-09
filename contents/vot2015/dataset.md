@@ -5,7 +5,17 @@ submenu: Dataset
 
 ## VOT2015 Dataset
 
-The dataset comprises 60 short sequences showing various objects in challenging backgrounds. The sequences were chosen from a large pool of sequences including the ALOV dataset, OTB2 dataset, non-tracking datasets, and a set of additional sequences. The VOT sequence selection protocol was applied to obtain a representative set of challenging sequences.
+The dataset comprises 60 short sequences showing various objects in challenging backgrounds. The sequences were chosen from a large pool of sequences including the ALOV dataset, OTB2 dataset, non-tracking datasets, and a set of additional sequences (see the links here below). The VOT sequence selection protocol was applied to obtain a representative set of challenging sequences.
+
+[Computer Vision Online](http://www.computervisiononline.com/datasets)
+[Professor Bob Fisher's Image Database](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
+[Videezy](http://www.videezy.com/)
+[Center for Research in Computer Vision, University of Central Florida, USA](http://crcv.ucf.edu/data/)
+[NYU Center for Genomics and Systems Biology](http://celltracking.bio.nyu.edu/)
+[Data Wrangling](http://www.datawrangling.com/some-datasets-available-on-the-web/)
+[Open Access Directory](http://oad.simmons.edu/oadwiki/Data_repositories)
+[Learning and Recognition in Vision Group, INRIA, France](http://lear.inrialpes.fr/data)
+
 
 ### Annotations
 

@@ -21,6 +21,12 @@ If you cannot find the answer to your question on this page, <a href="https://gr
 
    The toolkit running trackers as external programs in temporary directories for each run. Therefore, the path to the executable should be absolute. Another thing that you have to be careful about are spaces in the command path. If your path contains spaces you will probably have to escape them or add double-quotes around the entire command to tell the operating system that this is one single path element.
 
+- **I am trying to integrate a tracker to the toolkit but I keep getting a *"Timeout"* (or something similar) error. What should I do?**
+
+   If your tracker is slow, the new integration protocol will raise a timeout error if the tracker will not issue a correct feedback in `30` seconds when initialized or presented with a new frame. If your tracker needs more than 30 seconds to process a frame, then you should increase the default timeout interval by adding the following line to your `configuration.m` file:
+
+        set_global_variable('trax_timeout', <add the timeout in seconds here>);
+
 - **How to change number of repetitions per sequence?**
 
    Alter a variable `parameters.repetitions` field in experiment stack you are using, e.g. for VOT2013 stack, edit file `stacks/stack_vot2013.m` by changing default number 15.

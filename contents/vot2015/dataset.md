@@ -24,7 +24,68 @@ where `Xi` and `Yi` are the coordinates of corner `i` of the bounding box in fra
 
 The following gallery gives an overview of the dataset (hover over image to see several snapshots from the sequence).
 
-TODO
+<div class="gallery">
+<img class="image sequence preview" title="bag" alt="bag" src="img/thumbnails/bag_static.gif" />
+<img class="image sequence preview" title="ball1" alt="ball1" src="img/thumbnails/ball1_static.gif" />
+<img class="image sequence preview" title="ball2" alt="ball2" src="img/thumbnails/ball2_static.gif" />
+<img class="image sequence preview" title="basketball" alt="basketball" src="img/thumbnails/basketball_static.gif" />
+<img class="image sequence preview" title="birds1" alt="birds1" src="img/thumbnails/birds1_static.gif" />
+<img class="image sequence preview" title="birds2" alt="birds2" src="img/thumbnails/birds2_static.gif" />
+<img class="image sequence preview" title="blanket" alt="blanket" src="img/thumbnails/blanket_static.gif" />
+<img class="image sequence preview" title="bmx" alt="bmx" src="img/thumbnails/bmx_static.gif" />
+<img class="image sequence preview" title="bolt" alt="bolt" src="img/thumbnails/bolt_static.gif" />
+<img class="image sequence preview" title="bolt2" alt="bolt2" src="img/thumbnails/bolt2_static.gif" />
+<img class="image sequence preview" title="book" alt="book" src="img/thumbnails/book_static.gif" />
+<img class="image sequence preview" title="butterfly" alt="butterfly" src="img/thumbnails/butterfly_static.gif" />
+<img class="image sequence preview" title="car1" alt="car1" src="img/thumbnails/car1_static.gif" />
+<img class="image sequence preview" title="car2" alt="car2" src="img/thumbnails/car2_static.gif" />
+<img class="image sequence preview" title="crossing" alt="crossing" src="img/thumbnails/crossing_static.gif" />
+<img class="image sequence preview" title="dinosaur" alt="dinosaur" src="img/thumbnails/dinosaur_static.gif" />
+<img class="image sequence preview" title="fernando" alt="fernando" src="img/thumbnails/fernando_static.gif" />
+<img class="image sequence preview" title="fish1" alt="fish1" src="img/thumbnails/fish1_static.gif" />
+<img class="image sequence preview" title="fish2" alt="fish2" src="img/thumbnails/fish2_static.gif" />
+<img class="image sequence preview" title="fish3" alt="fish3" src="img/thumbnails/fish3_static.gif" />
+<img class="image sequence preview" title="fish4" alt="fish4" src="img/thumbnails/fish4_static.gif" />
+<img class="image sequence preview" title="girl" alt="girl" src="img/thumbnails/girl_static.gif" />
+<img class="image sequence preview" title="glove" alt="glove" src="img/thumbnails/glove_static.gif" />
+<img class="image sequence preview" title="godfather" alt="godfather" src="img/thumbnails/godfather_static.gif" />
+<img class="image sequence preview" title="graduate" alt="graduate" src="img/thumbnails/graduate_static.gif" />
+<img class="image sequence preview" title="gymnastics1" alt="gymnastics1" src="img/thumbnails/gymnastics1_static.gif" />
+<img class="image sequence preview" title="gymnastics2" alt="gymnastics2" src="img/thumbnails/gymnastics2_static.gif" />
+<img class="image sequence preview" title="gymnastics3" alt="gymnastics3" src="img/thumbnails/gymnastics3_static.gif" />
+<img class="image sequence preview" title="gymnastics4" alt="gymnastics4" src="img/thumbnails/gymnastics4_static.gif" />
+<img class="image sequence preview" title="hand" alt="hand" src="img/thumbnails/hand_static.gif" />
+<img class="image sequence preview" title="handball1" alt="handball1" src="img/thumbnails/handball1_static.gif" />
+<img class="image sequence preview" title="handball2" alt="handball2" src="img/thumbnails/handball2_static.gif" />
+<img class="image sequence preview" title="helicopter" alt="helicopter" src="img/thumbnails/helicopter_static.gif" />
+<img class="image sequence preview" title="iceskater" alt="iceskater" src="img/thumbnails/iceskater_static.gif" />
+<img class="image sequence preview" title="leaves" alt="leaves" src="img/thumbnails/leaves_static.gif" />
+<img class="image sequence preview" title="marching" alt="marching" src="img/thumbnails/marching_static.gif" />
+<img class="image sequence preview" title="matrix" alt="matrix" src="img/thumbnails/matrix_static.gif" />
+<img class="image sequence preview" title="motocross1" alt="motocross1" src="img/thumbnails/motocross1_static.gif" />
+<img class="image sequence preview" title="motocross2" alt="motocross2" src="img/thumbnails/motocross2_static.gif" />
+<img class="image sequence preview" title="nature" alt="nature" src="img/thumbnails/nature_static.gif" />
+<img class="image sequence preview" title="octopus" alt="octopus" src="img/thumbnails/octopus_static.gif" />
+<img class="image sequence preview" title="pedestrian1" alt="pedestrian1" src="img/thumbnails/pedestrian1_static.gif" />
+<img class="image sequence preview" title="pedestrian2" alt="pedestrian2" src="img/thumbnails/pedestrian2_static.gif" />
+<img class="image sequence preview" title="rabbit" alt="rabbit" src="img/thumbnails/rabbit_static.gif" />
+<img class="image sequence preview" title="racing" alt="racing" src="img/thumbnails/racing_static.gif" />
+<img class="image sequence preview" title="road" alt="road" src="img/thumbnails/road_static.gif" />
+<img class="image sequence preview" title="shaking" alt="shaking" src="img/thumbnails/shaking_static.gif" />
+<img class="image sequence preview" title="sheep" alt="sheep" src="img/thumbnails/sheep_static.gif" />
+<img class="image sequence preview" title="singer1" alt="singer1" src="img/thumbnails/singer1_static.gif" />
+<img class="image sequence preview" title="singer2" alt="singer2" src="img/thumbnails/singer2_static.gif" />
+<img class="image sequence preview" title="singer3" alt="singer3" src="img/thumbnails/singer3_static.gif" />
+<img class="image sequence preview" title="skating" alt="skating" src="img/thumbnails/skating_static.gif" />
+<img class="image sequence preview" title="soccer1" alt="soccer1" src="img/thumbnails/soccer1_static.gif" />
+<img class="image sequence preview" title="soccer2" alt="soccer2" src="img/thumbnails/soccer2_static.gif" />
+<img class="image sequence preview" title="soldier" alt="soldier" src="img/thumbnails/soldier_static.gif" />
+<img class="image sequence preview" title="sphere" alt="sphere" src="img/thumbnails/sphere_static.gif" />
+<img class="image sequence preview" title="tiger" alt="tiger" src="img/thumbnails/tiger_static.gif" />
+<img class="image sequence preview" title="traffic" alt="traffic" src="img/thumbnails/traffic_static.gif" />
+<img class="image sequence preview" title="tunnel" alt="tunnel" src="img/thumbnails/tunnel_static.gif" />
+<img class="image sequence preview" title="wiper" alt="wiper" src="img/thumbnails/wiper_static.gif" />
+</div>
 
 ## VOT-TIR2015 Dataset
 

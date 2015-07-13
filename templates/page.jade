@@ -27,6 +27,7 @@ html(xmlns='http://www.w3.org/1999/xhtml', dir='ltr')
         link(rel='stylesheet', type='text/css', href='/css/bootstrap.css', media='screen')
         link(rel='stylesheet', type='text/css', href='/css/vot.css', media='screen')
         link(rel='stylesheet', type='text/css', href='/css/highlight.css', media='screen')
+        link(rel='stylesheet', type='text/css', href='/css/font-awesome.css', media='screen')
         script(type='text/javascript', src='//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js')
         script(type='text/javascript', src='/js/highlight.js')
         script(type='text/javascript', src='/js/preview.js')
@@ -54,8 +55,8 @@ html(xmlns='http://www.w3.org/1999/xhtml', dir='ltr')
                                 li
                                     a(href=val)= key
                     div(class='navbar-text navbar-right' id='icons')
-                        a(class='navbar-github' href='https://github.com/votchallenge')
-                            img(src='/img/github.png' alt='Github') 
+                        a(class='navbar-github' href='https://github.com/votchallenge' title='Github project')
+                            i(class='fa fa-github')
                 #submenu
                     .center_wrapper
                         block submenu

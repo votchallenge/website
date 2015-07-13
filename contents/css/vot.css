@@ -188,3 +188,13 @@ a.hugebutton:hover {
     padding: 1px;
 }
 
+a.navbar-github {
+    font-size: 32px;
+    color: #cccccc;
+}
+
+a.navbar-github:hover {
+    color: #428BCA;
+}
+
+

@@ -24,7 +24,8 @@ The best way to get familiar with integration of trackers into the VOT toolkit i
 
 For native trackers, written in C or C++ the communcation between the toolkit and the tracker is handled by the code in the `vot.h` file that is available in the `tracker/examples/native` directory. Below is a simple example that illustrates how the communication is performed using this header file in C code.
 
-    #define VOT_POLYGON // Comment this if you want to use rectangles instead of polygons
+    // Uncomment line below if you want to use rectangles
+    // #define VOT_RECTANGLE
     #include "vot.h"
 
     int main( int argc, char** argv)
@@ -53,7 +54,8 @@ For native trackers, written in C or C++ the communcation between the toolkit an
 
 If the code is compiled as C++ the following simple example illustrates how the communication is performed using the same header file using classes.
 
-    #define VOT_POLYGON // Comment this if you want to use rectangles instead of polygons
+    // Uncomment line below if you want to use rectangles
+    // #define VOT_RECTANGLE
     #include "vot.h"
 
     int main(int argc, char* argv[])

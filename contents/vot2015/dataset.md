@@ -117,5 +117,26 @@ Regading local, per-frame, annotations, the label illumination change has been r
 
 The following gallery gives an overview of the dataset (hover over image to see several snapshots from the sequence).
 
-TODO
+<div class="gallery">
+<img class="image sequence preview" title="birds" alt="birds" src="img/thumbnails/tir_birds_static.gif" />
+<img class="image sequence preview" title="car" alt="car" src="img/thumbnails/tir_car_static.gif" />
+<img class="image sequence preview" title="crossing" alt="crossing" src="img/thumbnails/tir_crossing_static.gif" />
+<img class="image sequence preview" title="crouching" alt="crouching" src="img/thumbnails/tir_crouching_static.gif" />
+<img class="image sequence preview" title="crowd" alt="crowd" src="img/thumbnails/tir_crowd_static.gif" />
+<img class="image sequence preview" title="depthwise_crossing" alt="depthwise_crossing" src="img/thumbnails/tir_depthwise_crossing_static.gif" />
+<img class="image sequence preview" title="garden" alt="garden" src="img/thumbnails/tir_garden_static.gif" />
+<img class="image sequence preview" title="hiding" alt="hiding" src="img/thumbnails/tir_hiding_static.gif" />
+<img class="image sequence preview" title="horse" alt="horse" src="img/thumbnails/tir_horse_static.gif" />
+<img class="image sequence preview" title="jacket" alt="jacket" src="img/thumbnails/tir_jacket_static.gif" />
+<img class="image sequence preview" title="mixed_distractors" alt="mixed_distractors" src="img/thumbnails/tir_mixed_distractors_static.gif" />
+<img class="image sequence preview" title="quadrocopter" alt="quadrocopter" src="img/thumbnails/tir_quadrocopter_static.gif" />
+<img class="image sequence preview" title="quadrocopter2" alt="quadrocopter2" src="img/thumbnails/tir_quadrocopter2_static.gif" />
+<img class="image sequence preview" title="rhino_behind_tree" alt="rhino_behind_tree" src="img/thumbnails/tir_rhino_behind_tree_static.gif" />
+<img class="image sequence preview" title="running_rhino" alt="running_rhino" src="img/thumbnails/tir_running_rhino_static.gif" />
+<img class="image sequence preview" title="saturated" alt="saturated" src="img/thumbnails/tir_saturated_static.gif" />
+<img class="image sequence preview" title="selma" alt="selma" src="img/thumbnails/tir_selma_static.gif" />
+<img class="image sequence preview" title="soccer" alt="soccer" src="img/thumbnails/tir_soccer_static.gif" />
+<img class="image sequence preview" title="street" alt="street" src="img/thumbnails/tir_street_static.gif" />
+<img class="image sequence preview" title="trees" alt="trees" src="img/thumbnails/tir_trees_static.gif" />
+</div>
 

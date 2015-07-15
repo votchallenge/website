@@ -8,17 +8,29 @@ submenu: Dataset
 The dataset comprises 60 short sequences showing various objects in challenging backgrounds. 
 The sequences were chosen from a large pool of sequences including the [ALOV dataset](www.alov300.org/), OTB2 dataset, non-tracking datasets, [Computer Vision Online](http://www.computervisiononline.com/datasets), [Professor Bob Fisher's Image Database](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm), [Videezy](http://www.videezy.com/), [Center for Research in Computer Vision, University of Central Florida, USA](http://crcv.ucf.edu/data/), [NYU Center for Genomics and Systems Biology](http://celltracking.bio.nyu.edu/), [Data Wrangling](http://www.datawrangling.com/some-datasets-available-on-the-web/), [Open Access Directory](http://oad.simmons.edu/oadwiki/Data_repositories) and [Learning and Recognition in Vision Group, INRIA, France](http://lear.inrialpes.fr/data). The VOT sequence selection protocol was applied to obtain a representative set of challenging sequences.
 
-
+The dataset is automatically downloaded by the evaluation kit when needed, there is no need to separately download the sequences for the challenge. If you are solely interested in the sequences, please download the [dataset](http://box.vicos.si/vot/vot2015.zip). The compressed archive contains directories of images for each sequence and per frame annotations of the rotated bounding box marking the object. 
 
 ### Annotations
 
-The sequences were annotated by the VOT committee using rotated bounding boxes in order to provide highly accurate ground truth values for comparing results.
-
-The dataset is automatically downloaded by the evaluation kit when needed, there is no need to separately download the sequences for the challenge. If you are solely interested in the sequences, please download the [dataset](http://box.vicos.si/vot/vot2015.zip). The compressed archive contains directories of images for each sequence and per frame annotations of the rotated bounding box marking the object. The annotations are stored in a text file with the format:
+The sequences were annotated by the VOT committee using rotated bounding boxes in order to provide highly accurate ground truth values for comparing results. The annotations are stored in a text file with the format:
 
 	frameN: X1, Y1, X2, Y2, X3, Y3, X4, Y4
 	
 where `Xi` and `Yi` are the coordinates of corner `i` of the bounding box in frame `N`, the N-th row in the text file.
+
+The bounding box was be placed on target such that at most ~30% of pixels within the bounding box corresponded to the background pixels, while containing most of the target. For example, in annotating a person with extended arms, the bounding box was placed such that the arms were not included. Note that in some sequences parts of objects rather than entire objects have been annotated. A rotated bounding box was used to address non-axis alignment of the target. The annotation guidelines have been applied at the judgement of the annotators.
+
+Some targets were partially occluded or were partially out of the image frame. In these cases the bounding box were “inferred” by the annotator to fully contain the object, including the occluded part. For example, if a person's legs were occluded, the bounding box should also include the non-visible legs.
+
+The annotations have been conducted by three groups of annotators. Each annotator group annotated one third of the dataset and these annotations have been cross-checked by two other groups. The final annotations were checked by the coordinator of the annotation process. The final bounding box annotations have been automatically rectified by replacing a rotated bounding box by an axis-aligned if the ratio of the shortest and longest bounding-box side exceeded 0.95.
+
+Annotators:
+
+ * Gustavo Fernandez (coordinator)
+ * Jingjing Xiao
+ * Georg Nebehay
+ * Roman Pflugfelder
+ * Koray Aytac
 
 ### Overview
 
@@ -58,7 +70,8 @@ The following gallery gives an overview of the dataset (hover over image to see 
 <img class="image sequence preview" title="handball1" alt="handball1" src="img/thumbnails/handball1_static.gif" />
 <img class="image sequence preview" title="handball2" alt="handball2" src="img/thumbnails/handball2_static.gif" />
 <img class="image sequence preview" title="helicopter" alt="helicopter" src="img/thumbnails/helicopter_static.gif" />
-<img class="image sequence preview" title="iceskater" alt="iceskater" src="img/thumbnails/iceskater_static.gif" />
+<img class="image sequence preview" title="iceskater1" alt="iceskater1" src="img/thumbnails/iceskater1_static.gif" />
+<img class="image sequence preview" title="iceskater2" alt="iceskater2" src="img/thumbnails/iceskater2_static.gif" />
 <img class="image sequence preview" title="leaves" alt="leaves" src="img/thumbnails/leaves_static.gif" />
 <img class="image sequence preview" title="marching" alt="marching" src="img/thumbnails/marching_static.gif" />
 <img class="image sequence preview" title="matrix" alt="matrix" src="img/thumbnails/matrix_static.gif" />
@@ -76,7 +89,6 @@ The following gallery gives an overview of the dataset (hover over image to see 
 <img class="image sequence preview" title="singer1" alt="singer1" src="img/thumbnails/singer1_static.gif" />
 <img class="image sequence preview" title="singer2" alt="singer2" src="img/thumbnails/singer2_static.gif" />
 <img class="image sequence preview" title="singer3" alt="singer3" src="img/thumbnails/singer3_static.gif" />
-<img class="image sequence preview" title="skating" alt="skating" src="img/thumbnails/skating_static.gif" />
 <img class="image sequence preview" title="soccer1" alt="soccer1" src="img/thumbnails/soccer1_static.gif" />
 <img class="image sequence preview" title="soccer2" alt="soccer2" src="img/thumbnails/soccer2_static.gif" />
 <img class="image sequence preview" title="soldier" alt="soldier" src="img/thumbnails/soldier_static.gif" />
@@ -91,7 +103,7 @@ The following gallery gives an overview of the dataset (hover over image to see 
 
 The VOT-TIR dataset consists of 20 sequences of which eight has been recorded specifically for this dataset. The other twelve sequences have been collected from different sources including Termisk Systemteknik AB, the Department of Electrical Engineering at Link&ouml;ping University, the School of Mechanical Engineering at University of Birmingham, ETH Z&uuml;rich, Fraunhofer IOSB, Aalborg University, and finally the EU FP7 project P5.
 
-The raw signal values from a thermal infrared sensor is typically stored in 16bits. Since not all trackers can handle 16-bit data and for the purpose of visualisation, all sequences in the dataset have been truncated to 8-bit. In practice, this is a common procedure since not all sensors give access to the 16-bit values. Therefore, the sequences are not radiometric (the corresponding temperature value is unknown) and the dynamic may adaptively change during the course of a sequence.
+The raw signal values from a thermal infrared sensor is typically stored in 16-bit format. Since not all trackers can handle 16-bit data and for the purpose of visualisation, all sequences in the dataset have been truncated to 8-bit. In practice, this is a common procedure since not all sensors give access to the 16-bit values. Therefore, the sequences are not radiometric (the corresponding temperature value is unknown) and the dynamic may adaptively change during the course of a sequence.
 
 ### Annotations
 

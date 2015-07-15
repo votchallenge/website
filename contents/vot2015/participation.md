@@ -25,7 +25,11 @@ There are two different levels of participation in the VOT2015 challenge:
 
  * **Level 1 --** Becoming co-author of the VOT2015 joint paper and/or winning the VOT2015 challenge:
    * Co-authors are required to perform all the experiments of the VOT2015 challenge and submit them along with the [description document](vot2015_authorkit.zip).
+   * The submitted tracker is required to out-perform the NCC tracker (provided with the toolkit) in terms of robustness.
    * Co-authors are required to submit the binaries or the source code of the tracker. Include all required libraries and ensure correct integration in the VOT toolkit. The VOT committee will use the submitted tracker only to verify the results and will delete the code/binaries after the challenge unless the authors agree to make the tracker publicly available on the VOT website.
+
+Questions regarding the VOT2015 challenge should be directed to [the VOT committee](mailto:&#103;&#117;&#115;&#116;&#97;&#118;&#111;&#106;&#97;&#118;&#105;&#101;&#114;&#46;&#102;&#101;&#114;&#110;&#97;&#110;&#100;&#101;&#122;&#64;&#97;&#105;&#116;&#46;&#97;&#99;&#46;&#97;&#116;&#59;&#109;&#97;&#116;&#101;&#106;&#46;&#107;&#114;&#105;&#115;&#116;&#97;&#110;&#64;&#102;&#114;&#105;&#46;&#117;&#110;&#105;&#45;&#108;&#106;&#46;&#115;&#105;?subject=VOT2015 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
+
 
 ## Participate in VOT-TIR2015 challenge
 
@@ -40,6 +44,8 @@ There are two different levels of participation in the VOT-TIR2015 challenge:
  * **Level 1 --** Becoming co-author of the VOT-TIR2015 joint paper and/or winning the VOT-TIR2015 challenge:
    * Co-authors are required to perform all the experiments of the VOT-TIR2015 challenge and submit them along with the [description document](vot2015_authorkit.zip).
    * Co-authors are required to submit the binaries or the source code of the tracker. Include all required libraries and ensure correct integration in the VOT toolkit. The VOT committee will use the submitted tracker only to verify the results and will delete the code/binaries after the challenge unless the authors agree to make the tracker publicly available on the VOT website.
+
+Questions regarding the VOT-TIR2015 challenge should be directed to [the VOT-TIR committee](mailto:&#109;&#105;&#99;&#104;&#97;&#101;&#108;&#46;&#102;&#101;&#108;&#115;&#98;&#101;&#114;&#103;&#64;&#108;&#105;&#117;&#46;&#115;&#101;?subject=VOT-TIR2015 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 
 ## Participate at VOT2015 workshop
 

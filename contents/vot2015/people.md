@@ -52,9 +52,10 @@ significantly in the preparation of the dataset and challenge organization:
 -   Mario Maresca, University of Naples
 -   Klaus Haag
 -   Jon Natanael Muhovic, University of Ljubljana
+-   Alan Lukezic, University of Ljubljana
+-   Jaka Cikac, University of Ljubljana
 -   Koray Aytac, Czech Technical University in Prague
 -   Luca Bertinetto, University of Oxford
-
 
 ## Supporting organizations
 

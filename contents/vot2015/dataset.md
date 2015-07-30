@@ -45,7 +45,7 @@ The following gallery gives an overview of the dataset (hover over image to see 
 <img class="image sequence preview" title="birds2" alt="birds2" src="img/thumbnails/birds2_static.gif" />
 <img class="image sequence preview" title="blanket" alt="blanket" src="img/thumbnails/blanket_static.gif" />
 <img class="image sequence preview" title="bmx" alt="bmx" src="img/thumbnails/bmx_static.gif" />
-<img class="image sequence preview" title="bolt" alt="bolt" src="img/thumbnails/bolt_static.gif" />
+<img class="image sequence preview" title="bolt1" alt="bolt1" src="img/thumbnails/bolt1_static.gif" />
 <img class="image sequence preview" title="bolt2" alt="bolt2" src="img/thumbnails/bolt2_static.gif" />
 <img class="image sequence preview" title="book" alt="book" src="img/thumbnails/book_static.gif" />
 <img class="image sequence preview" title="butterfly" alt="butterfly" src="img/thumbnails/butterfly_static.gif" />

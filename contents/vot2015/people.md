@@ -37,6 +37,8 @@ submenu: People
 -  Federico Pernici
 -  Oswald Lanz
 -  Peter Tu
+-  Francois Fleuret
+-  Vincent Lepetit
 
 More to be announced.
 

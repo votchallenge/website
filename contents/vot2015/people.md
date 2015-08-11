@@ -39,6 +39,7 @@ submenu: People
 -  Peter Tu
 -  Francois Fleuret
 -  Vincent Lepetit
+-  Larry Davis
 
 More to be announced.
 

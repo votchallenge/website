@@ -56,4 +56,5 @@ Participation at VOT2015 or VOT-TIR2015 challenge (level 0 or higher) is require
 
  * The full-length VOT2015 workshop papers must follow the standard requirements for ICCV2015 regular papers [template available here](vot2015_authorkit.zip). 
  * Submit the paper using the VOT2015 CMT paper submission system (Link will be available later).
+ * The submitted papers should be compiled for double-blind reviewing.
 

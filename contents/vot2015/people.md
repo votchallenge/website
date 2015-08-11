@@ -40,6 +40,7 @@ submenu: People
 -  Francois Fleuret
 -  Vincent Lepetit
 -  Larry Davis
+-  Arnold Smeulders
 
 More to be announced.
 

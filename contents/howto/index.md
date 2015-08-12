@@ -16,6 +16,7 @@ These tutorials cover various topics on how to use VOT toolkit in your experimen
 - [Setting up the workspace](workspace.html)
 - [Integrate a tracker](integration.html)
 - [Building tracker examples on Windows using Visual Studio](visualstudio.html)
+- [Building tracker examples using CMake](cmake.html)
 - [Perform evaluation and submit results](perfeval.html)
 - [Analyzing results and generating reports](analysis.html)
 - [Reproducing VOT2014 arXiv paper results](analysis_vot2014.html)

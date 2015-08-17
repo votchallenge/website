@@ -19,7 +19,7 @@ Assuming you have your working directory set up and configured `vot-workspace`, 
 
 <li> edit `vot-workspace/run_analysis.m` and modify so that it looks like this: <br/><br/>
 <pre>
-[sequences, experiments] = vot_environment();
+[sequences, experiments] = workspace_load();
 
 trackers = order_trackers(create_trackers('trackers.txt'));
 
@@ -65,7 +65,7 @@ Assuming you have your working directory set up and configured `vot-workspace` a
 
 <li> edit `vot-workspace/run_analysis.m` and modify so that it looks like this: <br/><br/>
 <pre>
-[sequences, experiments] = vot_environment();
+[sequences, experiments] = workspace_load();
 
 trackers = order_trackers(create_trackers('trackers.txt', 'yourtracker'));
 

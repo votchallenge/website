@@ -7,7 +7,7 @@ submenu: Home
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
-<h4>The VOT2014 challenge which is now over</h4>
+<h4>The VOT2014 challenge has ended</h4>
 
 It is still possible to use the benchmark to evaluate your tracker and compare it to the official results using the challenge ranking methodology. For more information on how to do this look at the [list of tutorials](/howto/index.html).
 </div>

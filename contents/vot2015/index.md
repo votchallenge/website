@@ -21,8 +21,6 @@ The VOT committee invites you to participate by:
 1. Entering one or both of the following challenges:
   * **VOT2015 challenge** - Visit the [participation page](participation.html) on running the VOT2015 experiments and submitting the results.
   * **VOT-TIR2015 challenge** - Visit the [participation page](participation.html) on running the VOT-TIR2015 experiments and submitting the results.
-
-
 2. Submitting a full-length paper describing:
   * Original or improved trackers as well as papers giving new insights into existing trackers or class of trackers. See [participation page](participation.html) for details of the requirements for a tracking paper.
   * Novel ways of using and extending the VOT framework for tracker performance analysis.

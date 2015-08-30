@@ -197,4 +197,31 @@ a.navbar-github:hover {
     color: #428BCA;
 }
 
+ul.publications.embedded {
+    list-style: none;
+    margin: 20px 0;
+    padding: 0;
+}
 
+ul.publications.embedded li {
+    padding: 20px;
+    border: 1px #DDD solid;
+    border-radius: 3px;
+    margin: 10px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+ul.publications.embedded li .title {
+    font-size: 130%;
+
+}
+
+ul.publications.embedded li .authors {
+    font-size: 110%;
+
+}
+
+ul.publications.embedded li .published {
+    font-size: 90%;
+    color: gray;
+}

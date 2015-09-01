@@ -69,4 +69,5 @@ significantly in the preparation of the dataset and challenge organization:
 <a href="http://www.birmingham.ac.uk"><img src="/vot2015/img/logo_birmingham.png" alt="University of Birmingham"></a>
 <a href="http://intranet.cvut.cz/en"><img src="/vot2015/img/logo_cvut.png" alt="CTU, Prague"></a>
 <a href="http://www.epics-project.eu/"><img src="/vot2015/img/logo_epics.png" alt="EPiCS"></a>
+<a href="http://www.liu.se/?l=en&sc=true"><img src="/vot2015/img/logo_liu.png" alt="University of Link&ouml;ping"></a>
 </div>

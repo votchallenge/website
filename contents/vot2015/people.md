@@ -16,10 +16,10 @@ submenu: People
 
 ## Technical committee
 
--   [Luka &#268;ehovin](www.vicos.si/People/Luka_Cehovin), University of Ljubljana, Slovenia
+-   [Luka &#268;ehovin](http://www.vicos.si/People/Luka_Cehovin), University of Ljubljana, Slovenia
 -   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria
--   [Tom&#225;&#353; Voji&#345;](cmp.felk.cvut.cz/~vojirtom/), Czech Technical University in Prague, Czech Republic
--   [Georg Nebehay](www.gnebehay.com), Austrian Institute of Technology, Austria
+-   [Tom&#225;&#353; Voji&#345;](http://cmp.felk.cvut.cz/~vojirtom/), Czech Technical University in Prague, Czech Republic
+-   [Georg Nebehay](http://www.gnebehay.com), Austrian Institute of Technology, Austria
 -   [Gustav H&auml;ger](http://www.liu.se/personal/isy/cvl/gusha40?l=en), Link&ouml;ping University, Sweden
 -   [Roman Pflugfelder](https://at.linkedin.com/in/romanpflugfelder),
     Austrian Institute of Technology, Austria

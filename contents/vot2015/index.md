@@ -35,8 +35,8 @@ Present your work at VOT2015 workshop:
 ## Important dates 
 
 * Start of challenge: **25. July 2015**
-* Paper submission deadline: ~~**1. September 2015**~~ -> **7. September 2015**
-* Results submission deadline: **7. September 2015**
+* Paper submission deadline: ~~**1. September 2015**~~ -> ~~**7. September 2015**~~ -> **9. September 2015 (23:59:59, CET) **
+* Results submission deadline: ~~**7. September 2015**~~ -> **9. September 2015 (23:59:59, CET) **
 * Notification of paper acceptance: ~~**1. October 2015**~~ -> **5. October 2015**
 * Camera ready: ~~**15. October 2015**~~ -> **14. October 2015**
 * VOT2015 workshop: ~~**12. December 2015**~~ -> **17. December 2015**

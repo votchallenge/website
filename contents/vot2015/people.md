@@ -44,7 +44,7 @@ submenu: People
 
 More to be announced.
 
-## Contributers
+## Contributors
 
 The following people have contributed to development of the VOT through their 
 contributions on the VOT toolkit, offering technical suggestions or helped 
@@ -60,6 +60,10 @@ significantly in the preparation of the dataset and challenge organization:
 -   Jaka Cikac, University of Ljubljana
 -   Koray Aytac, Czech Technical University in Prague
 -   Luca Bertinetto, University of Oxford
+-   Amanda Berg, Link&ouml;ping University
+-   J&ouml;rgen Ahlberg, Link&ouml;ping University
+
+
 
 ## Supporting organizations
 

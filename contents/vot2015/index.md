@@ -39,7 +39,7 @@ Present your work at VOT2015 workshop:
 * Results submission deadline: ~~**7. September 2015**~~ -> **10. September 2015 (23:59:59, CET) **
 * Notification of paper acceptance: ~~**1. October 2015**~~ -> **5. October 2015**
 * Camera ready: ~~**15. October 2015**~~ -> **14. October 2015**
-* VOT2015 workshop: ~~**12. December 2015**~~ -> **17. December 2015**
+* VOT2015 workshop: ~~**17. December 2015**~~ -> **12. December 2015 (13:00 - 19:00)**
 
 ## Highlights
 

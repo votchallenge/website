@@ -60,7 +60,7 @@ significantly in the preparation of the dataset and challenge organization:
 -   Jaka Cikac, University of Ljubljana
 -   Koray Aytac, Czech Technical University in Prague
 -   Luca Bertinetto, University of Oxford
--   Amanda Berg, Link&ouml;ping University
+-   Amanda Berg, Termisk systemteknik 
 -   J&ouml;rgen Ahlberg, Link&ouml;ping University
 
 

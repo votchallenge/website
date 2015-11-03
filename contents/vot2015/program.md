@@ -33,7 +33,7 @@ Roman Pflugfelder (Austrian Institute of Technology, Austria),
 <br>
 Andr&#233;s Sol&#237;s Montero, Jochen Lang, Robert Lagani&#232;re (University of Ottawa, Canada), 
 <br><br>
-14:30 <i>Keynote Talk I: Kernelized correlation filters for visual tracking</i>
+14:30 <i>Keynote Talk I: Fast correlation filter tracking - tricks of the trade</i>
 <br>
 Jo&#227;o F. Henriques (University of Coimbra, Portugal), 
 <br><br>

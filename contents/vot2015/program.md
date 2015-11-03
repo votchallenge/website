@@ -8,10 +8,10 @@ submenu: Program
 
 **13:00 - 13:15 Session 1:**<br>
 <br>
-13:00 <i>Opening and welcome</i><br>
+**13:00 <i>Opening and welcome</i>**<br>
 Matej Kristan (University of Ljubljana, Slovenia)
 <br><br>
-13:05 <i>The Visual Object Tracking VOT2015 challenge results</i>
+**13:05 <i>The Visual Object Tracking VOT2015 challenge results</i>**
 <br>
 Matej Kristan (University of Ljubljana, Slovenia), 
 Ji&#345;i Matas (Czech Technical University, Czech Republic), 
@@ -25,53 +25,51 @@ Georg Nebehay (Austrian Institute of Technology, Austria),
 Roman Pflugfelder (Austrian Institute of Technology, Austria), 
 <a href="#reference_00">et al.</a>
 <br><br>
-13:50 <i>Presentation from the winners of the VOT challenge</i>
-<br>
-
+**13:50 <i>Presentation from the winners of the VOT challenge</i>**
 <br><br>
-14:10 <i>Scalable Kernel Correlation Filter with Sparse Feature Integration</i>
+**14:10 <i>Scalable Kernel Correlation Filter with Sparse Feature Integration</i>**
 <br>
 Andr&#233;s Sol&#237;s Montero, Jochen Lang, Robert Lagani&#232;re (University of Ottawa, Canada), 
 <br><br>
-14:30 <i>Keynote Talk I: Fast correlation filter tracking - tricks of the trade</i>
+**14:30 <i>Keynote Talk I: Fast correlation filter tracking - tricks of the trade</i>**
 <br>
 Jo&#227;o F. Henriques (University of Coimbra, Portugal), 
 <br><br>
-15:15 <i>Coffe break with posters and demos</i>
-<br><br>
-<i>Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation</i>
+**15:15 <i>Coffe break with posters and demos</i>**
+<br>
+**<i>Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation</i>**
 <br>
 Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu 
 (Institute of Automation, Chinese Academy of Sciences, China)
-<br><br>
-<i>Robust visual tracking by exploiting the historical tracker snapshots</i>
+<br>
+**<i>Robust visual tracking by exploiting the historical tracker snapshots</i>**
 <br>
 Jiatong Li (Beijing Institute of Technology, China and University of Technology, Australia), Zhibin Hong (University of Technology, Australia), Baojun Zhao (Beijing Institute of Technology, China)
-<br><br>
-<i>Multi-Template Scale-Adaptive Kernelized Correlation Filters</i>
+<br>
+**<i>Multi-Template Scale-Adaptive Kernelized Correlation Filters</i>**
 <br>
 Adel Bibi, Bernard Ghanem (King Abdullah University of Science and Technology, Saudi Arabia)
-<br><br>
-<i>Convolutional Features for Correlation Filter Based Visual Tracking</i>
+<br>
+**<i>Convolutional Features for Correlation Filter Based Visual Tracking</i>**
 <br>
 Gustav H&auml;ger, Martin Danelljan, Fahad Khan, Michael Felsberg (Link&ouml;ping University, Sweden)
-<br><br>
-<i>Tracker Fusion on VOT challenge: How does it perform and what can we learn about single trackers?</i>
+<br>
+**<i>Tracker Fusion on VOT challenge: How does it perform and what can we learn about single trackers?</i>**
 <br>
 Christian Bailer, Didier Stricker (German Research Center for Artificial Intelligence, Germany)
-<br><br>
-<i>DEMOS</i>
+<br>
+**<i>DEMOS</i>**
 <br>
 TBA 
 <br><br>
 
 **16:30 - 19:00 Session 2:**<br>
 <br>
-16:30 <i>Keynote Talk II: Semantic and geometric models in visual object tracking</i>
+**16:30 <i>Keynote Talk II: Semantic and geometric models in visual object tracking</i>**
 <br>
 Richard Bowden (University of Surrey, UK)
 <br><br>
-17:15 <i>The Visual Object Tracking VOT-TIR2015 challenge results</i>
+**17:15 <i>The Visual Object Tracking VOT-TIR2015 challenge results</i>**
 <br>
 Michael Felsberg (Link&ouml;ping University, Sweden), 
 Amanda Berg (Link&ouml;ping University and Termisk Systemteknik, Sweden), 
@@ -87,17 +85,15 @@ Georg Nebehay (Austrian Institute of Technology, Austria),
 Roman Pflugfelder (Austrian Institute of Technology, Austria), 
 <a href="#reference_01">et al.</a>
 <br><br>
-17:35 <i>Presentation from the winners of the VOT-TIR challenge</i>
-<br>
-
+**17:35 <i>Presentation from the winners of the VOT-TIR challenge</i>**
 <br><br>
-17:55 <i>Learning Spatially Regularized Correlation Filters for Visual Tracking</i>
+**17:55 <i>Learning Spatially Regularized Correlation Filters for Visual Tracking</i>**
 <br>
 Martin Danelljan, Gustav H&auml;ger, Fahad Khan, Michael Felsberg (Link&ouml;ping University, Sweden), 
 <br><br>
-18:15 <i>Panel discussion</i>
+**18:15 <i>Panel discussion</i>**
 <br><br>
-18:50 <i>Closing, concluding remarks</i>
+**18:50 <i>Closing, concluding remarks</i>**
 <br>
 <br><br>
 

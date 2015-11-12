@@ -224,11 +224,11 @@ Zhibin Hong (University of Technology).
 Alan Luke&#382;i&#269; (Ljubljana University), 
 Alvaro Garcia-Martin (Universidad Aut&#243;noma de Madrid), 
 Amir Saffari (Affectv Limited), 
-Ang Li (Xi'an Jiatong University), 
+Ang Li (Xi'an Jiaotong University), 
 Andr&#233;s Sol&#237;s Montero (University of Ottawa), 
 Baojun Zhao (Beijing Institute of Technology), 
 Cordelia Schmid (INRIA Grenoble Rh&#244;ne-Alpes), 
-Dapeng Chen (Xi'an Jiatong University), 
+Dapeng Chen (Xi'an Jiaotong University), 
 Dawei Du (University at Albany and SCCE Chinese Academy of Sciences), 
 Fahad Shahbaz Khan (Link&#246;ping University), 
 Fatih Porikli (Australian National University and NICTA), 
@@ -276,5 +276,5 @@ Yang Hua (INRIA Grenoble Rh&#244;ne-Alpes),
 Yang Li (Zhejiang University), 
 Yang Lu (University of California), 
 Yuezun Li (University at Albany), 
-Zejian Yuan (Xi'an Jiatong University), and
+Zejian Yuan (Xi'an Jiaotong University), and
 Zhibin Hong (University of Technology).

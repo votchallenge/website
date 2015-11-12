@@ -48,3 +48,10 @@ Present your work at VOT2015 workshop:
 3. New sub-challenge VOT-TIR
 
 
+## Sponsors
+
+The VOT2015 award and the VOT t-shirts were sponsored by the Faculty of Computer and Information Science, University of Ljubljana.
+<div class="spotlight">
+<a href="http://www.fri.uni-lj.si/"><img src="/vot2015/img/logo_ljubljana.png" width="250px"/></a>
+</div>
+

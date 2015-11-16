@@ -37,30 +37,64 @@ Jo&#227;o F. Henriques (University of Coimbra, Portugal),
 <br><br>
 **15:15 <i>Coffe break with posters and demos</i>**
 <br>
-**<i>Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation</i>**
+<ul><u>
+**<i>Posters</i>**
+</u></ul>
+- **<i>Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation</i>**
 <br>
 Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu 
 (Institute of Automation, Chinese Academy of Sciences, China)
 <br>
-**<i>Robust visual tracking by exploiting the historical tracker snapshots</i>**
+- **<i>Robust visual tracking by exploiting the historical tracker snapshots</i>**
 <br>
 Jiatong Li (Beijing Institute of Technology, China and University of Technology, Australia), Zhibin Hong (University of Technology, Australia), Baojun Zhao (Beijing Institute of Technology, China)
 <br>
-**<i>Multi-Template Scale-Adaptive Kernelized Correlation Filters</i>**
+- **<i>Multi-Template Scale-Adaptive Kernelized Correlation Filters</i>**
 <br>
 Adel Bibi, Bernard Ghanem (King Abdullah University of Science and Technology, Saudi Arabia)
 <br>
-**<i>Convolutional Features for Correlation Filter Based Visual Tracking</i>**
+- **<i>Convolutional Features for Correlation Filter Based Visual Tracking</i>**
 <br>
 Gustav H&auml;ger, Martin Danelljan, Fahad Khan, Michael Felsberg (Link&ouml;ping University, Sweden)
 <br>
-**<i>Tracker Fusion on VOT challenge: How does it perform and what can we learn about single trackers?</i>**
+- **<i>Tracker Fusion on VOT challenge: How does it perform and what can we learn about single trackers?</i>**
 <br>
 Christian Bailer, Didier Stricker (German Research Center for Artificial Intelligence, Germany)
+<br><br>
+<u>
+**<i>Demos</i>**
+</u><br>
+- **<i>Scalable Kernel Correlation Filter with Sparse Feature Integration (sKCF)</i>**
 <br>
-**<i>DEMOS</i>**
+Andres Solis Montero (University of Ottawa, Canada)
 <br>
-TBA 
+- **<i>Scale Ratio Adaptive Tracker (SRAT)</i>**
+<br>
+Daijin Kim (Postech, Korea)
+<br>
+- **<i>Likelihood of Features Tracker (LOFT-Lite)</i>**
+<br>
+K. Palaniappan (University of Missouri, USA)
+<br>
+- **<i>Tracking by Regression with Incrementally Learned Cascades (TRIC-track)</i>**
+<br>
+Xiaomeng Wang (University of Nottingham, UK)
+<br>
+- **<i>Multi-Channel Multiple-Instance-Learning Tracker (CMIL)</i>**
+<br>
+Hilke Kieritz (Fraunhofer Institute, Germany)
+<br>
+- **<i>SumShift tracker and Concurrent tracker</i>**
+<br>
+JaeYeong Lee (ETRI, Korea)
+<br>
+- **<i>Object-Aware Correlation Filter Tracker (OACF)</i>**
+<br>
+Luca Bertinetto (University of Oxford, UK)
+<br>
+- **<i>Demo</i>**
+<br>
+Luka Cehovin (University of Ljubljana, Slovenia)
 <br><br>
 
 **16:30 - 19:00 Session 2:**<br>

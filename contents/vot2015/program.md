@@ -60,6 +60,10 @@ Gustav H&auml;ger, Martin Danelljan, Fahad Khan, Michael Felsberg (Link&ouml;pin
 - **<i>Tracker Fusion on VOT challenge: How does it perform and what can we learn about single trackers?</i>**
 <br>
 Christian Bailer, Didier Stricker (German Research Center for Artificial Intelligence, Germany)
+<br>
+- **<i>Ask not what the VOT challenge can do for you ...</i>**
+<br>
+Luka &#268;ehovin (University of Ljubljana, Slovenia)
 <br><br>
 <u>
 **<i>Demos</i>**
@@ -92,9 +96,9 @@ JaeYeong Lee (ETRI, Korea)
 <br>
 Luca Bertinetto (University of Oxford, UK)
 <br>
-- **<i>Demo</i>**
+- **<i>Ask not what the VOT challenge can do for you ...</i>**
 <br>
-Luka Cehovin (University of Ljubljana, Slovenia)
+Luka &#268;ehovin (University of Ljubljana, Slovenia)
 <br><br>
 
 **16:30 - 19:00 Session 2:**<br>

@@ -6,11 +6,11 @@ submenu: Program
 # Workshop program
 
 
-**13:00 - 13:15 Session 1:**<br>
-<br>
-**13:00 <i>Opening and welcome</i>**<br>
+**13:00 - 13:05 Opening and welcome**<br>
 Matej Kristan (University of Ljubljana, Slovenia)
 <br><br>
+**13:05 - 13:15 Session 1 (Chair: Ale&#353; Leonardis):**<br>
+<br>
 **13:05 <i>The Visual Object Tracking VOT2015 challenge results</i>**
 <br>
 Matej Kristan (University of Ljubljana, Slovenia), 
@@ -35,7 +35,7 @@ Andr&#233;s Sol&#237;s Montero, Jochen Lang, Robert Lagani&#232;re (University o
 <br>
 Jo&#227;o F. Henriques (University of Coimbra, Portugal), 
 <br><br>
-**15:15 <i>Coffe break with posters and demos</i>**
+**15:15 <i>Coffe break with posters and demos</i> (Chair: Gustavo Fernandez)**
 <br>
 <ul><u>
 **<i>Posters</i>**
@@ -101,7 +101,7 @@ Luca Bertinetto (University of Oxford, UK)
 Luka &#268;ehovin (University of Ljubljana, Slovenia)
 <br><br>
 
-**16:30 - 19:00 Session 2:**<br>
+**16:30 - 19:00 Session 2 (Chair: Ji&#345;i Matas):**<br>
 <br>
 **16:30 <i>Keynote Talk II: Semantic and geometric models in visual object tracking</i>**
 <br>
@@ -129,8 +129,15 @@ Roman Pflugfelder (Austrian Institute of Technology, Austria),
 <br>
 Martin Danelljan, Gustav H&auml;ger, Fahad Khan, Michael Felsberg (Link&ouml;ping University, Sweden), 
 <br><br>
-**18:15 <i>Panel discussion</i>**
+**18:15 <i>Panel discussion</i> (Moderator: Ale&#353; Leonardis)**
+<br>
+- <i>Richard Bowden (University of Surrey, UK)</i>
+- <i>Gerard Guy Medioni (University of Southern California, USA)</i>
+- <i>James Ferryman (University of Reading, UK)</i>
+- <i>Ming-Hsuan Yang (University of California at Merced, USA)</i>
+- <i>Ji&#345;i Matas (Czech Technical University in Prague, Czech Republic)</i>
 <br><br>
+
 **18:50 <i>Closing, concluding remarks</i>**
 <br>
 <br><br>

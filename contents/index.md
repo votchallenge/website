@@ -45,7 +45,8 @@ A collection of documentation and tutorials on various topics.
     <h3 class="panel-title">VOT2015 challenge</h3>
   </div>
   <div class="panel-body">
-    We are preparing a new challenge and an ICCV 2015 workshop this year. More information available on a dedicated [VOT2015 page](/vot2015/). Enroll on the [VOT mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) for latest news.
+    Results of VOT2015 challenge were presented at [ICCV 2015 workshop](/vot2015/). Enroll on the [VOT mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) for latest news.<br>
+    The VOT2015 T-shirts printed! The shirts will be freely available for the attendants of the VOT2015 workshop at ICCV2015 Santiago, Chile, on 12.12.2015!
   </div>
 </div>
 

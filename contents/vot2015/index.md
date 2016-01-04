@@ -16,6 +16,8 @@ It is still possible to use the benchmark to evaluate your tracker and compare i
 
 Welcome to the official homepage of the VOT2015 benchmark. This benchmark was used in the VOT2015 challenge which is now over. The results were presented at a VOT2014 workshop on December 12th, 2015 in Santiago de Chile, Chile in conjunction with [ICCV 2015](http://pamitc.org/iccv15/).<br/><br/>
 
+<img class="frame float-center" src="img/workshop_01.jpg" alt="VOT2015 Workshop" />
+
 ## VOT2015 highlights
 - In addition to the VOT Challenge we also organised the first VOT thermal imagery tracking sub-challenge VOT-TIR2015
 - An improved version of the cross-platform evaluation kit, which executes the experiments much faster thanks to a powerful new communication protocol between kit and tracker

@@ -19,12 +19,12 @@ Welcome to the official homepage of the VOT2014 benchmark. This benchmark was us
 <img class="frame float-center" src="img/workshop1.jpg" alt="VOT2013 Workshop" />
 
 ## VOT2014 highlights
-- An improved version of the cross-platform evaluation kit, which will execute the experiments much faster thanks to a powerful new communication protocol between kit and tracker
-- The dataset is enriched with new videos (in total 25 sequences) and labelled with rotating bounding boxes rather than axis-aligned ones
+- An improved version of the cross-platform evaluation kit, which executes the experiments much faster thanks to a powerful new communication protocol between kit and tracker
+- The dataset was enriched with new videos (in total 25 sequences) and labelled with rotating bounding boxes rather than axis-aligned ones
 - The dataset is per-frame labelled with attributes
-- All the participants who submit results that exceed a reasonable threshold on performance automatically become co-authors of the joint paper that will be published in the workshop proceedings 
+- All the participants who submitted results that exceeded a reasonable threshold on performance automatically became co-authors of the joint paper that was published in the workshop proceedings 
 - Participants are encouraged to submit their own workshop papers
-- A prize will be awarded to the best-performing tracking team
+- A prize was awarded to the best-performing tracking team
 
 <div class="spotlight">
 ![image with rotated bounding box label](/vot2014/img/rotated_bbox.png)

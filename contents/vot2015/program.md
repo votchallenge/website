@@ -24,8 +24,12 @@ Gustav H&auml;ger (Link&ouml;ping University, Sweden),
 Georg Nebehay (Austrian Institute of Technology, Austria), 
 Roman Pflugfelder (Austrian Institute of Technology, Austria), 
 <a href="#reference_00">et al.</a>
-<br><br>
-**13:50 <i>Presentation from the winners of the VOT challenge</i>**
+<br>
+
+<b>[Presentation](/vot2015/download/vot_2015_presentation.pdf)</b><br>
+<b>[Paper](/vot2015/download/vot_2015_paper.pdf)</b><br><br>
+
+***13:50 <i>Presentation from the winners of the VOT challenge</i>**
 <br><br>
 **14:10 <i>Scalable Kernel Correlation Filter with Sparse Feature Integration</i>**
 <br>

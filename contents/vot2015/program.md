@@ -31,7 +31,7 @@ Roman Pflugfelder (Austrian Institute of Technology, Austria),
 
 ***13:50 <i>Presentation from the winners of the VOT challenge</i>**
 <br><br>
-**14:10 <i>Scalable Kernel Correlation Filter with Sparse Feature Integration</i>**
+**14:10 <i>[Scalable Kernel Correlation Filter with Sparse Feature Integration](/vot2015/download/presentation_Solis_Montero.pdf)</i>**
 <br>
 Andr&#233;s Sol&#237;s Montero, Jochen Lang, Robert Lagani&#232;re (University of Ottawa, Canada), 
 <br><br>
@@ -44,12 +44,12 @@ Jo&#227;o F. Henriques (University of Coimbra, Portugal),
 <ul><u>
 **<i>Posters</i>**
 </u></ul>
-- **<i>Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation</i>**
+- **<i>[Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation](/vot2015/download/poster_Mengdan_Zhang.pdf)</i>**
 <br>
 Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu 
 (Institute of Automation, Chinese Academy of Sciences, China)
 <br>
-- **<i>Robust visual tracking by exploiting the historical tracker snapshots</i>**
+- **<i>[Robust visual tracking by exploiting the historical tracker snapshots](/vot2015/download/poster_Jiatong_Li.pdf)</i>**
 <br>
 Jiatong Li (Beijing Institute of Technology, China and University of Technology, Australia), Zhibin Hong (University of Technology, Australia), Baojun Zhao (Beijing Institute of Technology, China)
 <br>
@@ -72,7 +72,7 @@ Luka &#268;ehovin (University of Ljubljana, Slovenia)
 <u>
 **<i>Demos</i>**
 </u><br>
-- **<i>Scalable Kernel Correlation Filter with Sparse Feature Integration (sKCF)</i>**
+- **<i>[Scalable Kernel Correlation Filter with Sparse Feature Integration (sKCF)](/vot2015/download/demo_Solis_Montero.mp4)</i>**
 <br>
 Andres Solis Montero (University of Ottawa, Canada)
 <br>

@@ -132,7 +132,7 @@ Roman Pflugfelder (Austrian Institute of Technology, Austria),
 <br><br>
 **17:35 <i>Presentation from the winners of the VOT-TIR challenge</i>**
 <br><br>
-**17:55 <i>Learning Spatially Regularized Correlation Filters for Visual Tracking</i>**
+**17:55 <i>[Learning Spatially Regularized Correlation Filters for Visual Tracking](/vot2015/download/presentation_Danelljan.pdf)</i>**
 <br>
 Martin Danelljan, Gustav H&auml;ger, Fahad Khan, Michael Felsberg (Link&ouml;ping University, Sweden), 
 <br><br>

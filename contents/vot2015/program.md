@@ -29,15 +29,18 @@ Roman Pflugfelder (Austrian Institute of Technology, Austria),
 <b>[Presentation](/vot2015/download/vot_2015_presentation.pdf)</b><br>
 <b>[Paper](/vot2015/download/vot_2015_paper.pdf)</b><br><br>
 
-***13:50 <i>Presentation from the winners of the VOT challenge</i>**
+**13:50 <i>Winners of the VOT challenge: 
+[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](/vot2015/download/presentation_Hyeonseob.pdf)</i>**
+<br>
+Hyeonseob Nam and Bohyung Han (POSTECH, Korea)
 <br><br>
 **14:10 <i>[Scalable Kernel Correlation Filter with Sparse Feature Integration](/vot2015/download/presentation_Solis_Montero.pdf)</i>**
 <br>
-Andr&#233;s Sol&#237;s Montero, Jochen Lang, Robert Lagani&#232;re (University of Ottawa, Canada), 
+Andr&#233;s Sol&#237;s Montero, Jochen Lang, Robert Lagani&#232;re (University of Ottawa, Canada)
 <br><br>
 **14:30 <i>Keynote Talk I: Fast correlation filter tracking - tricks of the trade</i>**
 <br>
-Jo&#227;o F. Henriques (University of Coimbra, Portugal), 
+Jo&#227;o F. Henriques (University of Coimbra, Portugal)
 <br><br>
 **15:15 <i>Coffe break with posters and demos</i> (Chair: Gustavo Fernandez)**
 <br>

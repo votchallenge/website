@@ -95,7 +95,7 @@ Xiaomeng Wang (University of Nottingham, UK)
 <br>
 Hilke Kieritz (Fraunhofer Institute, Germany)
 <br>
-- **<i>SumShift tracker and Concurrent tracker</i>**
+- **<i>[SumShift tracker and Concurrent tracker](/vot2015/download/demo_Jae_Yeong_Lee.mp4)</i>**
 <br>
 JaeYeong Lee (ETRI, Korea)
 <br>

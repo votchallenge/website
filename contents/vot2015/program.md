@@ -56,7 +56,7 @@ Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu
 <br>
 Jiatong Li (Beijing Institute of Technology, China and University of Technology, Australia), Zhibin Hong (University of Technology, Australia), Baojun Zhao (Beijing Institute of Technology, China)
 <br>
-- **<i>Multi-Template Scale-Adaptive Kernelized Correlation Filters</i>**
+- **<i>[Multi-Template Scale-Adaptive Kernelized Correlation Filters](/vot2015/download/poster_Adel_Bibi.pdf)</i>**
 <br>
 Adel Bibi, Bernard Ghanem (King Abdullah University of Science and Technology, Saudi Arabia)
 <br>
@@ -79,9 +79,9 @@ Luka &#268;ehovin (University of Ljubljana, Slovenia)
 <br>
 Andres Solis Montero (University of Ottawa, Canada)
 <br>
-- **<i>Scale Ratio Adaptive Tracker (SRAT)</i>**
+- **<i>[Scale Ratio Adaptive Tracker (SRAT)](/vot2015/download/demo_Hyemin_Lee.pdf)</i>**
 <br>
-Daijin Kim (Postech, Korea)
+HyeminLee, Daijin Kim (Postech, Korea)
 <br>
 - **<i>Likelihood of Features Tracker (LOFT-Lite)</i>**
 <br>
@@ -130,11 +130,14 @@ Georg Nebehay (Austrian Institute of Technology, Austria),
 Roman Pflugfelder (Austrian Institute of Technology, Austria), 
 <a href="#reference_01">et al.</a>
 <br><br>
-**17:35 <i>Presentation from the winners of the VOT-TIR challenge</i>**
+**17:35 <i>Winners of the VOT-TIR challenge: 
+Simplified Proposal Selection Tracker (sPST)</i>**
+<br>
+Yang Hua, Karteek Alahari, Cordelia Schmid (INRIA, France)
 <br><br>
 **17:55 <i>[Learning Spatially Regularized Correlation Filters for Visual Tracking](/vot2015/download/presentation_Danelljan.pdf)</i>**
 <br>
-Martin Danelljan, Gustav H&auml;ger, Fahad Khan, Michael Felsberg (Link&ouml;ping University, Sweden), 
+Martin Danelljan, Gustav H&auml;ger, Fahad Khan, Michael Felsberg (Link&ouml;ping University, Sweden)
 <br><br>
 **18:15 <i>Panel discussion</i> (Moderator: Ale&#353; Leonardis)**
 <br>

@@ -40,7 +40,7 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-success">
   <div class="panel-heading">
-    <h3 class="panel-title">VOT paper accepted at Transactions on Pattern Analysis and Machine Intelligence</h3>
+    <h3 class="panel-title">VOT paper was accepted at Transactions on Pattern Analysis and Machine Intelligence</h3>
   </div>
   <div class="panel-body">
 

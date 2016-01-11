@@ -12,4 +12,4 @@ submenu: Results
 
 -   [Sequence deataset](http://box.vicos.si/vot/vot2015.zip) - Sequences for the VOT2015 dataset (this file is automatically downloaded by the toolkit) 
 -   [Raw results](http://box.vicos.si/vot/vot2015_results.zip) - Raw results of participating trackers needed for comparative analysis
-
+-   [Tracker descriptions](http://box.vicos.si/vot/vot2015_trackers.zip) - Tracker description files for human-readable tracker names

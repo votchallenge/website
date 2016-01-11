@@ -47,8 +47,8 @@ A collection of documentation and tutorials on various topics.
   <div class="panel-body">
 
     We are happy to announce that the VOT (2013-2014) methodology paper has been accepted to Transactions on Pattern 
-    Analysis and Machine Intelligence (TPAMI). The paper can be accessed from the VOT publications page 
-    link (http://www.votchallenge.net/publications.html). For future reference, if you use any of the VOT datasets 
+    Analysis and Machine Intelligence (TPAMI). The paper can be accessed from the [VOT publications page 
+    link](http://www.votchallenge.net/publications.html). For future reference, if you use any of the VOT datasets 
     in your evaluation, please cite this paper as  methodology reference as well as the relevant VOT workshop paper 
     for the dataset.
   </div>
@@ -73,19 +73,6 @@ A collection of documentation and tutorials on various topics.
 <p>
 Additionally we have opened a [support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help) for all the additional technical questions and discussions.
 </p>
-  </div>
-</div>
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">New VOT papers</h3>
-  </div>
-  <div class="panel-body">
-<p>We would like to bring your attention to a paper that we have been working on which summarizes the VOT methodology and analysis developed in years (2013-2014). The initial version of the paper was submitted to a journal in early 2014, but it took over half of year for the first round of review feedback and it will likely take some time until the final publication.</p>
-
-<p>The VOT committee therefore decided that we should share the results of the paper with the wider VOT community. The paper is available on arXiv under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1503.01313](http://arxiv.org/abs/1503.01313).</p>
-
-<p>The paper above cites another paper, which was the basis for the basic performance measure selection in VOT2013. This paper was since extended and submitted to a journal. An arXiv version is available under ID [<i class="glyphicon glyphicon-file"></i>arXiv:1502.05803](http://arxiv.org/abs/1502.05803).</p>
   </div>
 </div>
 

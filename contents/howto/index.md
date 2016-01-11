@@ -19,7 +19,7 @@ These tutorials cover various topics on how to use VOT toolkit in your experimen
 - [Building tracker examples using CMake](cmake.html)
 - [Perform evaluation and submit results](perfeval.html)
 - [Analyzing results and generating reports](analysis.html)
-- [Reproducing VOT2014 arXiv paper results](analysis_vot2014.html)
+- [Reproducing the 2016 TPAMI paper results](analysis_vot2014.html)
 - [Using different set of sequences with VOT toolkit](sequences.html)
 
 <div class="alert alert-info" role="alert">

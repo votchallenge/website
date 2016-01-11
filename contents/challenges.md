@@ -6,18 +6,11 @@ title: Challenges
 
 # Open Challenges
 
-<div class="row">
-<div class="col-lg-6 col-sm-12">
-<a href="/vot2015/" class="challengebutton text-primary">
-<img class="logo" src="/img/vot2015_logo_website.png" alt="VOT2015" />
-<h3>VOT2015 challenge</h3>
-<p class="description">The third challenge that will finish with a workshop at ICCV2015.</p>
-</a>
-</div>
 
-<!--div class="alert alert-info" role="alert">
+<div class="row">
+<div class="alert alert-info" role="alert">
 There are currently no open challenges.
-</div-->
+</div>
 </div>
 
 ## Benchmarks
@@ -25,6 +18,15 @@ There are currently no open challenges.
 Official results of past challenges are still available as a benchmark to researchers. We invite the visual tracking researchers to compare their methods with those results.
 
 <div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vot2015/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2015_logo_website.png" alt="VOT2015" />
+<h3>VOT2015 benchmark</h3>
+<p class="description">The third challenge introduced a dataset of 60 challenging sequences, a formalized sequence selection methodology and improvements to evaluation methodology. The results were published in a joint paper presented at an ICCV2015 worshop.</p>
+</a>
+</div>
+
 <div class="col-lg-6 col-sm-12">
 <a href="/vot2014/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2014_logo_website.png" alt="VOT2014" />

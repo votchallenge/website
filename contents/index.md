@@ -16,7 +16,7 @@ The goal of the challenges is to build up a repository of considerable benchmark
 <div class="col-lg-4 col-sm-12">
 <a href="/challenges.html" class="hugebutton text-primary">
 <h3><i class="glyphicon glyphicon-star"></i> Challenges</h3>
-<p>Challanges and workshops that we have organized or are organizing.</p>
+<p>Challenges and workshops that we have organized or are organizing.</p>
 <!--p class="text-success"><i class="glyphicon glyphicon-bullhorn"></i> Test.</p-->
 </a>
 </div>
@@ -41,6 +41,20 @@ A collection of documentation and tutorials on various topics.
 ## Highlights and news
 
 <div class="panel panel-success">
+  <div class="panel-heading">
+    <h3 class="panel-title">VOT paper accepted at Transactions on Pattern Analysis and Machine Intelligence</h3>
+  </div>
+  <div class="panel-body">
+
+    We are happy to announce that the VOT (2013-2014) methodology paper has been accepted to Transactions on Pattern 
+    Analysis and Machine Intelligence (TPAMI). The paper can be accessed from the VOT publications page 
+    link (http://www.votchallenge.net/publications.html). For future reference, if you use any of the VOT datasets 
+    in your evaluation, please cite this paper as  methodology reference as well as the relevant VOT workshop paper 
+    for the dataset.
+  </div>
+</div>
+
+<div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">VOT2015 challenge</h3>
   </div>

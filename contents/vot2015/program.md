@@ -100,7 +100,7 @@ Hilke Kieritz (Fraunhofer Institute, Germany)
 JaeYeong Lee (ETRI, Korea)
 <br>
 - **<i>[Object-Aware Correlation Filter Tracker (OACF)](/vot2015/download/poster_Luca_Bertinetto.pdf)</i>**
-- [Project page](http://www.robots.ox.ac.uk/~luca/staple.html)
+[Project page](http://www.robots.ox.ac.uk/~luca/staple.html)
 <br>
 Luca Bertinetto (University of Oxford, UK)
 <br>

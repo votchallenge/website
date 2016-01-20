@@ -13,7 +13,7 @@ There are many ways that the results of tracking evaluation can be analyzed. In 
 Assuming you have your working directory set up and configured `vot-workspace`, you have to do the following steps:
 
 <ul>
-<li> download the reference trackers results ([VOT2013 results bundle](http://box.vicos.si/vot/vot2013_results.zip), [VOT2014 results bundle](http://box.vicos.si/vot/vot2014_results.zip)), </li>
+<li> download the reference trackers results ([VOT2013 results bundle](http://box.vicos.si/vot/vot2013_results.zip), [VOT2014 results bundle](http://box.vicos.si/vot/vot2014_results.zip), [VOT2015 results bundle](http://box.vicos.si/vot/vot2015_results.zip)), </li>
 
 <li> extract the results to the `vot-workspace/results` directory in your workspace, </li>
 
@@ -59,7 +59,7 @@ To speed up the analysis, some intermediate results are cached. If you plan to r
 Assuming you have your working directory set up and configured `vot-workspace` and that you have already performed the evaluation on your tracker, you have to do the following steps:
 
 <ul>
-<li> download the reference trackers results ([VOT2013 results bundle](http://box.vicos.si/vot/vot2013_results.zip), [VOT2014 results bundle](http://box.vicos.si/vot/vot2014_results.zip)), </li>
+<li> download the reference trackers results ([VOT2013 results bundle](http://box.vicos.si/vot/vot2013_results.zip), [VOT2014 results bundle](http://box.vicos.si/vot/vot2014_results.zip), [VOT2015 results bundle](http://box.vicos.si/vot/vot2015_results.zip)), </li>
 
 <li> extract the results to the `vot-workspace/results` directory in your workspace, </li>
 

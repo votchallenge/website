@@ -9,6 +9,14 @@ title: Support
 - [Toolkit documentation](http://box.vicos.si/vot/toolkit/docs/)
 - [TraX protocol technical report](http://prints.vicos.si/publications/311/)
 
+# Resources
+
+The workshop presentations, report papers, and raw results needed to reproduce the analysis are available for each VOT benchmark on its corresponding sub-page.
+
+- [VOT2013 resources](/vot2013/results.html)
+- [VOT2014 resources](/vot2014/results.html)
+- [VOT2015 resources](/vot2015/results.html)
+
 # Tutorials and guides
 
 These tutorials cover various topics on how to use VOT toolkit in your experiments:

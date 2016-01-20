@@ -131,6 +131,8 @@ Georg Nebehay (Austrian Institute of Technology, Austria),
 Roman Pflugfelder (Austrian Institute of Technology, Austria), 
 <a href="#reference_01">et al.</a>
 <br><br>
+<b>[Presentation](/vot2015/download/vot_tir_2015_presentation.pdf)</b><br>
+<b>[Paper](/vot2015/download/vot_tir_2015_paper.pdf)</b><br><br>
 **17:35 <i>Winners of the VOT-TIR challenge: 
 Simplified Proposal Selection Tracker (sPST)</i>**
 <br>

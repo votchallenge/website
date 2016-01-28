@@ -38,7 +38,7 @@ Hyeonseob Nam and Bohyung Han (POSTECH, Korea)
 <br>
 Andr&#233;s Sol&#237;s Montero, Jochen Lang, Robert Lagani&#232;re (University of Ottawa, Canada)
 <br><br>
-**14:30 <i>Keynote Talk I: Fast correlation filter tracking - tricks of the trade</i>**
+**14:30 <i>Keynote Talk I: [Fast correlation filter tracking - tricks of the trade](/vot2015/download/talk_Henriques.pdf)</i>**
 <br>
 Jo&#227;o F. Henriques (University of Coimbra, Portugal)
 <br><br>

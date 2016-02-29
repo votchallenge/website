@@ -40,6 +40,48 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-success">
   <div class="panel-heading">
+    <h3 class="panel-title">VOT Challenge 2016</h3>
+  </div>
+  <div class="panel-body">
+Dear supporters of VOT,
+
+    <br><br>
+    We have started with preparations for VOT2016 which is planned to be held in conjunction with one of upcoming 
+    major computer vision conferences, should the proposal for the workshop be accepted. The workshop is planned to 
+    be again composed of results presentations, invited talks, winner presentations and presentations of contributed 
+    papers.
+    <br><br>
+    A standard review process will be conducted for the papers submitted to VOT as contributed papers. We will also 
+    try to enable submissions of high-quality papers rejected at ECCV with a topic relevant to VOT. Since the ECCV 
+    author notification deadline is quite late, we will try to arrange a late submission deadline for these papers. 
+    The papers should preferably include evaluation on the VOT2015 dataset.
+    <br><br>
+    The computer vision community has witnessed a great success of learning algorithms that apply extremely large 
+    number of parameters and typically require large datasets to learn the parameters and even larger datasets to 
+    validate whether they have overfitted to the data. We have been discussing the role of learning in VOT and a 
+    danger of overfitting to the typical tracking datasets. In response we will impose and additional constraint on 
+    the trackers that will be considered as winners of VOT2016.
+    <br><br>
+    Constraint1: Learning from the tracking datasets is not allowed (OTB, VOT, ALOV, NUSPRO). The use of class labels 
+    specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained 
+    class-specific trackers is not allowed).
+    <br><br>
+    Constraint2: The winning tracker has to provide CPU-only implementation for results validation (in addition to a 
+    potential GPU implementation). 
+    <br><br>
+    To allow timely verification of the results on the VOT side, we will require the authors of trackers considered for 
+    winning position to help us run their tracker and reproduce part of the results. We will thus apply a constraint 
+    on the required hardware for partial reproduction of the results.
+    <br><br>
+    Note that Constraints 1 and 2 apply only to the trackers that are considered for winners of VOT2016. We will also 
+    accept submissions that do not account for the two constraints, but these will not be considered for the winning 
+    position.
+
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title">VOT paper was accepted at Transactions on Pattern Analysis and Machine Intelligence</h3>
   </div>
   <div class="panel-body">

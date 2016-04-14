@@ -13,33 +13,60 @@ A prerequisite for participating either VOT2016 challenge or VOT-TIR2016 challen
 Please, subscribe to our [mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) so that you receive recent news about the workshop and the challenge details.
 </div>
 
-## Participate in VOT2016 challenge or in VOT-TIR2016 challenge
+## Participate in VOT2016 challenge
 
-We will also consider papers rejected at the ECCV2016, provided that the authors include the original reviews and the response with a list of potential changes.
+Follow the guidelines above to set up the workspace for VOT2016 challenge (select the vot2016 experiment stack). The main experiment will initialize trackers from the ground truth (this is equivalent to the VOT2014 baseline experiment). An additional experiment may be included.
 
+There are two different levels of participation in the VOT2016 challenge:
 
-Two constraints are placed on trackers that will be considered for winners:
+ * **Level 0 --** Tracking results included in the joint paper:
+   * Perform all the experiments of the VOT2016 challenge and submit them along with the description document. If a publication on the tracker exists, please provide a citation so that the paper can be correctly cited in the joint paper.
 
-Constraint1: Learning from the tracking datasets is not allowed (OTB, VOT, ALOV, NUSPRO). The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).  
-  
-Constraint2: The winning tracker has to provide CPU-only implementation for results validation (in addition to a potential GPU implementation). The authors of the tracker are required to cooperate with VOT to help run the tracker and reproduce the results.
+ * **Level 1 --** Becoming co-author of the VOT2016 joint paper and/or winning the VOT2016 challenge:
+   * Co-authors are required to perform all the experiments of the VOT2016 challenge and submit them along with the description document.
+   * The submitted tracker is required to out-perform the NCC tracker (provided with the toolkit) in terms of robustness.
+   * Co-authors are required to submit the binaries or the source code of the tracker. Include all required libraries and ensure correct integration in the VOT toolkit. The VOT committee will use the submitted tracker only to verify the results and will delete the code/binaries after the challenge unless the authors agree to make the tracker publicly available on the VOT website.
 
-Note that Constraints 1 and 2 apply only to the trackers that are considered for winners of VOT2016. We will also accept submissions that do not account for the two constraints, but these will not be considered for the winning position.
-
-
+Submit the challenge results via the results submission page
+**Submit the challenge results via the [results submission page](submission_page.html)**
 
 Questions regarding the VOT2016 challenge should be directed to [the VOT committee](mailto:&#103;&#117;&#115;&#116;&#97;&#118;&#111;&#106;&#97;&#118;&#105;&#101;&#114;&#46;&#102;&#101;&#114;&#110;&#97;&#110;&#100;&#101;&#122;&#64;&#97;&#105;&#116;&#46;&#97;&#99;&#46;&#97;&#116;&#59;&#109;&#97;&#116;&#101;&#106;&#46;&#107;&#114;&#105;&#115;&#116;&#97;&#110;&#64;&#102;&#114;&#105;&#46;&#117;&#110;&#105;&#45;&#108;&#106;&#46;&#115;&#105;?subject=VOT2016 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 
+## Participate in VOT-TIR2016 challenge
+Follow the guidelines above to set up the workspace for VOT-TIR2016 challenge (select the vottir2016 experiment stack). The same experiments as in VOT2016 will be performed.
+
+There are two different levels of participation in the VOT-TIR2016 challenge:
+
+ * **Level 0 --** Tracking results included in the joint paper:
+   * Perform all the experiments of the VOT2016 challenge and submit them along with the description document. If a publication on the tracker exists, please provide a citation so that the paper can be correctly cited in the joint paper.
+
+ * **Level 1 --** Becoming co-author of the VOT-TIR2016 joint paper and/or winning the VOT-TIR2016 challenge:
+   * Co-authors are required to perform all the experiments of the VOT-TIR2016 challenge and submit them along with the description document.
+   * Co-authors are required to submit the binaries or the source code of the tracker. Include all required libraries and ensure correct integration in the VOT toolkit. The VOT committee will use the submitted tracker only to verify the results and will delete the code/binaries after the challenge unless the authors agree to make the tracker publicly available on the VOT website.
+
+**Submit the challenge results via the [results submission page](submission_page.html)**
+
 Questions regarding the VOT-TIR2016 challenge should be directed to [the VOT-TIR committee](mailto:&#109;&#105;&#99;&#104;&#97;&#101;&#108;&#46;&#102;&#101;&#108;&#115;&#98;&#101;&#114;&#103;&#64;&#108;&#105;&#117;&#46;&#115;&#101;?subject=VOT-TIR2016 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 
-## Participate at VOT2016 workshop or VOT-TIR2016 workshop
 
-<div class="alert alert-warning" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i></div><h4>Requirement for submitting a full-length paper to VOT2016 workshop:</h4>
-Participation at VOT2016 challenge or VOT-TIR2016 challenge (level 0 or higher) is required.
-</div>
+## Important notice on VOT/VOT-TIR2016
 
- * The full-length VOT2016 workshop papers must follow the standard requirements for ICCV2016 regular papers (Template will be provided here). 
- * Submit the paper using the VOT2016 CMT paper submission system (Link will be available here).
+Two constraints are placed on trackers that will be considered for winners:
+
+ * Constraint 1: Learning from the tracking datasets is not allowed (OTB, VOT, ALOV, NUSPRO). The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pre-trained class-specific trackers is not allowed).  
+ 
+ * Constraint 2: The winning tracker has to provide CPU-only implementation for results validation (in addition to a potential GPU implementation). The authors of the tracker are required to cooperate with VOT to help run the tracker and reproduce the results.
+ 
+Note that Constraints 1 and 2 apply only to the trackers that are considered for winners of VOT2016. We will also accept submissions that do not account for the two constraints, but these will not be considered for the winning position.
+
+## Participate at VOT2016 workshop
+
+**Requirement for submitting a full-length paper to VOT2016 workshop:**
+
+Participation at VOT2016 or VOT-TIR2016 challenge (level 0 or higher) is required. 
+
+ * The full-length VOT2016 workshop papers must follow the standard requirements for ECCV2016 regular papers [template available here](/vot2015/vot2015_authorkit.zip). 
+ * We will also consider papers rejected at the ECCV2016, provided that the authors include the original reviews and the response with a list of potential changes (details coming soon).
+ * Submit the paper using the [VOT2016 CMT paper submission system](https://cmt.research.microsoft.com/VOT2016/) (coming soon).
  * The submitted papers should be compiled for double-blind reviewing.
 

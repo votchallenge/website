@@ -29,27 +29,6 @@ submenu: People
 It will be announced.
 
 
-## Contributors
-
-The following people have contributed to development of the VOT through their 
-contributions on the VOT toolkit, offering technical suggestions or helped 
-significantly in the preparation of the dataset and challenge organization:
-
--   Jingjing Xiao, University of Birmingham
--   Heng Cherkeng
--   Stefan Duffner, INSA
--   Mario Maresca, University of Naples
--   Klaus Haag
--   Jon Natanael Muhovic, University of Ljubljana
--   Alan Lukezic, University of Ljubljana
--   Jaka Cikac, University of Ljubljana
--   Koray Aytac, Czech Technical University in Prague
--   Luca Bertinetto, University of Oxford
--   Amanda Berg, Termisk systemteknik 
--   J&ouml;rgen Ahlberg, Link&ouml;ping University
-
-
-
 ## Supporting organizations
 
 <div class="supporters">

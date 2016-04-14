@@ -9,7 +9,9 @@ title: Challenges
 
 <div class="row">
 <div class="alert alert-info" role="alert">
-There are currently no open challenges.
+<a href="/vot2016/" class="challengebutton text-primary">
+VOT2016 and VOT-TIR2016 challenges were accepted to ECCV 2016.
+</a>
 </div>
 </div>
 

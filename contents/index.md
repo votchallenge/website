@@ -40,6 +40,23 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-success">
   <div class="panel-heading">
+    <h3 class="panel-title">Call for contribution: Thermal IR Sequences</h3>
+  </div>
+  <div class="panel-body">
+Dear supporters of VOT,
+
+    <br><br>
+    The recent visual object tracking challenge VOT2015 introduced the first thermal and infrared tracking 
+    sub-challenge. The attendance was great and we were able to test a significant number of trackers on this 
+    visual modality. To increase the complexity and size of the datasets used in the forthcoming challenges, we 
+    are issuing a call for sequence contribution with deadline April 13, 2016. We appreciate your support; 
+    a successful challenge requires a challenging dataset and we depend on the communities contributions!
+
+  </div>
+</div>
+
+<div class="panel panel-success">
+  <div class="panel-heading">
     <h3 class="panel-title">VOT Challenge 2016</h3>
   </div>
   <div class="panel-body">

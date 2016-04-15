@@ -25,7 +25,7 @@ submenu: People
 
 ## Program committee
 
-It will be announced.
+To be announced.
 
 
 ## Supporting organizations

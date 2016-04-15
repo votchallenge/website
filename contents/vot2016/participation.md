@@ -66,6 +66,6 @@ Participation at VOT2016 or VOT-TIR2016 challenge (level 0 or higher) is require
 
  * The full-length VOT2016 workshop papers must follow the standard requirements for ECCV2016 regular papers (template will be available here). 
  * We will consider papers rejected at the ECCV2016, provided that the authors include the original reviews and the response with a list of potential changes (details coming soon).
- * Submit the paper using the [VOT2016 CMT paper submission system](https://cmt.research.microsoft.com/VOT2016/) (coming soon).
+ * Submit the paper using the VOT2016 CMT paper submission system (coming soon).
  * The submitted papers should be compiled for double-blind reviewing.
 

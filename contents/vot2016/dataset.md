@@ -5,4 +5,4 @@ submenu: Dataset
 
 ## VOT2016 Dataset
 
-Coming soon.
+The dataset will be available on May 13th.

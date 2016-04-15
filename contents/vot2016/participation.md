@@ -27,7 +27,6 @@ There are two different levels of participation in the VOT2016 challenge:
    * The submitted tracker is required to out-perform the NCC tracker (provided with the toolkit) in terms of robustness.
    * Co-authors are required to submit the binaries or the source code of the tracker. Include all required libraries and ensure correct integration in the VOT toolkit. The VOT committee will use the submitted tracker only to verify the results and will delete the code/binaries after the challenge unless the authors agree to make the tracker publicly available on the VOT website.
 
-Submit the challenge results via the results submission page
 **Submit the challenge results via the [results submission page](submission_page.html)**
 
 Questions regarding the VOT2016 challenge should be directed to [the VOT committee](mailto:&#103;&#117;&#115;&#116;&#97;&#118;&#111;&#106;&#97;&#118;&#105;&#101;&#114;&#46;&#102;&#101;&#114;&#110;&#97;&#110;&#100;&#101;&#122;&#64;&#97;&#105;&#116;&#46;&#97;&#99;&#46;&#97;&#116;&#59;&#109;&#97;&#116;&#101;&#106;&#46;&#107;&#114;&#105;&#115;&#116;&#97;&#110;&#64;&#102;&#114;&#105;&#46;&#117;&#110;&#105;&#45;&#108;&#106;&#46;&#115;&#105;?subject=VOT2016 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
@@ -57,7 +56,7 @@ Two constraints are placed on trackers that will be considered for winners:
  
  * Constraint 2: The winning tracker has to provide CPU-only implementation for results validation (in addition to a potential GPU implementation). The authors of the tracker are required to cooperate with VOT to help run the tracker and reproduce the results.
  
-Note that Constraints 1 and 2 apply only to the trackers that are considered for winners of VOT2016. We will also accept submissions that do not account for the two constraints, but these will not be considered for the winning position.
+Note that Constraints 1 and 2 apply only to the trackers that are considered for winners of VOT2016. We will accept submissions that do not account for the two constraints, but these will not be considered for the winning position.
 
 ## Participate at VOT2016 workshop
 
@@ -65,8 +64,8 @@ Note that Constraints 1 and 2 apply only to the trackers that are considered for
 
 Participation at VOT2016 or VOT-TIR2016 challenge (level 0 or higher) is required. 
 
- * The full-length VOT2016 workshop papers must follow the standard requirements for ECCV2016 regular papers [template available here](/vot2015/vot2015_authorkit.zip). 
- * We will also consider papers rejected at the ECCV2016, provided that the authors include the original reviews and the response with a list of potential changes (details coming soon).
+ * The full-length VOT2016 workshop papers must follow the standard requirements for ECCV2016 regular papers (template will be available here). 
+ * We will consider papers rejected at the ECCV2016, provided that the authors include the original reviews and the response with a list of potential changes (details coming soon).
  * Submit the paper using the [VOT2016 CMT paper submission system](https://cmt.research.microsoft.com/VOT2016/) (coming soon).
  * The submitted papers should be compiled for double-blind reviewing.
 

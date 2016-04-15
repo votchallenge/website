@@ -5,4 +5,4 @@ submenu: Program
 
 # Workshop program
 
-Page under construction.
+To be announced.

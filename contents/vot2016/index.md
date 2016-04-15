@@ -3,12 +3,12 @@ template: page2016.jade
 submenu: Home
 ---
 
-# VOT2016 Benchmark
+# VOT2016 Challenge
 
 ## Call for participation and for papers
 The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
 
-Following three highly successful VOT challenges [VOT2013](/vot2013/index.html) (ICCV2013), [VOT2014](/vot2014/index.html) (ECCV2014), and [VOT2015](/vot2015/index.html) (ICCV2015), we are happy to announce the 4th Visual Object Tracking Challenge VOT2016 to be held in conjunction with the [ECCV2016](http://www.eccv2016.org/). 
+Following three highly successful VOT challenges [VOT2013](/vot2013/index.html) (ICCV2013), [VOT2014](/vot2014/index.html) (ECCV2014), and [VOT2015](/vot2015/index.html) (ICCV2015), we are happy to announce the 4th Visual Object Tracking Challenge VOT2016 that will be held in conjunction with the [ECCV2016](http://www.eccv2016.org/). 
 
 Researchers from industry as well as academia are invited to participate. The challenge aims at **single-object short-term trackers** that do not apply pre-learned models of object appearance (**model-free**). Trackers do not necessarily need to be capable of automatic re-initialization, as the objects are visible over the whole course of the sequences.
 
@@ -30,8 +30,8 @@ The VOT committee also solicits full-length papers describing:
 
 ## Important dates
 
-Start of challenge: May 13th 2016 <br>
-Full Paper Submission (standard): June 16th 2016 <br>
+Data available: May 13th 2016 <br>
+Paper Submission (standard): June 16th 2016 <br>
 Results submission deadline: June 17th 2016 <br>
 Full Paper Submission (ECCV2016 rejected papers): July 7th 2016 <br>
 Notification of Acceptance: July 11th 2016 <br>

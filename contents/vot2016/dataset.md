@@ -5,4 +5,4 @@ submenu: Dataset
 
 ## VOT2016 Dataset
 
-Page under construction.
+Coming soon.

@@ -8,6 +8,15 @@ a.navbar-brand img {
     margin: 0px 38px;
 }
 
+#submenu .navbar-default {
+    background-color: #F0F0F0;
+    border: none;
+}
+
+#submenu .navbar {
+    margin-bottom: 0px;
+}
+
 body {
     min-width: 350px;
 }
@@ -31,6 +40,15 @@ body {
 .navbar-default .nav li.active a:hover {
     color: white;
     background-color: #2A6496;
+}
+
+a.navbar-github {
+    font-size: 32px;
+    color: #cccccc;
+}
+
+a.navbar-github:hover {
+    color: #428BCA;
 }
 
 footer {
@@ -122,15 +140,6 @@ a.hugebutton:hover {
     margin-bottom: 10px;
 }
 
-#submenu .navbar-default {
-    background-color: #F0F0F0;
-    border: none;
-}
-
-#submenu .navbar {
-    margin-bottom: 0px;
-}
-
 #icons {
     line-height: 20px;
     padding: 13px;
@@ -186,15 +195,6 @@ a.hugebutton:hover {
 .frame {
     border: #cccccc 1px solid;
     padding: 1px;
-}
-
-a.navbar-github {
-    font-size: 32px;
-    color: #cccccc;
-}
-
-a.navbar-github:hover {
-    color: #428BCA;
 }
 
 ul.publications.embedded {

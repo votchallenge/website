@@ -8,9 +8,11 @@ title: Challenges
 
 
 <div class="row">
-<div class="alert alert-info" role="alert">
+<div class="col-lg-6 col-sm-12">
 <a href="/vot2016/" class="challengebutton text-primary">
-VOT2016 and VOT-TIR2016 challenges were accepted to ECCV 2016.
+<img class="logo" src="/img/vot2016_logo_website.png" alt="VOT2016" />
+<h3>VOT2015 benchmark</h3>
+<p class="description">VOT2016 and VOT-TIR2016 challenge will conclude with a workshop at ECCV 2016.</p>
 </a>
 </div>
 </div>

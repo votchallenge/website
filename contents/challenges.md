@@ -11,7 +11,7 @@ title: Challenges
 <div class="col-lg-6 col-sm-12">
 <a href="/vot2016/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2016_logo_website.png" alt="VOT2016" />
-<h3>VOT2015 benchmark</h3>
+<h3>VOT2016 benchmark</h3>
 <p class="description">VOT2016 and VOT-TIR2016 challenge will conclude with a workshop at ECCV 2016.</p>
 </a>
 </div>

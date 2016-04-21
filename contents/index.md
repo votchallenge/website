@@ -40,6 +40,31 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-success">
   <div class="panel-heading">
+    <h3 class="panel-title">VOT2016 Challenge</h3>
+  </div>
+  <div class="panel-body">
+    We are happy to announce the 4th VOT Worskhop, that will take place in conjunction with ECCV 2016.
+    <br>
+    The event follows the three highly sucessful workshops VOT2013 (ICCV2013), VOT2014 (ECCV2014), and VOT2015 (ICCV2015).
+    We are also announcing the second VOT thermal imagery tracking sub-challenge VOT-TIR2016. 
+    <br><br>
+    Authors of new and old trackers are kindly invited to participate either by running their trackers on the 2016 datasets, or by contributing with a paper.
+    <br><br>
+    Highlights:
+    <br>
+    - Participate at VOT2016/VOT-TIR2016 and become a coauthor of the results paper. 
+    <br>
+    - Participate by submitting a full-length paper
+    <br>
+    - Papers revised rejected at [ECCV 2016](http://www.eccv2016.org/) will be considered as well (separate deadline!).
+
+    Please visit the [VOT2016 homepage](http://votchallenge.net/vot2016/) for details.
+
+  </div>
+</div>
+
+<div class="panel panel-success">
+  <div class="panel-heading">
     <h3 class="panel-title">Call for contribution: Thermal IR Sequences</h3>
   </div>
   <div class="panel-body">
@@ -49,8 +74,9 @@ Dear supporters of VOT,
     The recent visual object tracking challenge VOT2015 introduced the first thermal and infrared tracking 
     sub-challenge. The attendance was great and we were able to test a significant number of trackers on this 
     visual modality. To increase the complexity and size of the datasets used in the forthcoming challenges, we 
-    are issuing a call for sequence contribution with deadline April 13, 2016. We appreciate your support; 
-    a successful challenge requires a challenging dataset and we depend on the communities contributions!
+    are issuing a call for sequence contribution. The call will stay open and people are welcome to contribute. 
+    We appreciate your support; a successful challenge requires a challenging dataset and we depend on the 
+    communities contributions!
 
   </div>
 </div>

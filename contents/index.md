@@ -43,7 +43,7 @@ A collection of documentation and tutorials on various topics.
     <h3 class="panel-title">VOT2016 Challenge</h3>
   </div>
   <div class="panel-body">
-    We are happy to announce the 4th VOT Worskhop, that will take place in conjunction with ECCV 2016.
+    We are happy to announce the 4th VOT Workshop, that will take place in conjunction with ECCV 2016.
     <br>
     The event follows the three highly sucessful workshops VOT2013 (ICCV2013), VOT2014 (ECCV2014), and VOT2015 (ICCV2015).
     We are also announcing the second VOT thermal imagery tracking sub-challenge VOT-TIR2016. 

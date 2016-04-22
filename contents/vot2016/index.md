@@ -8,7 +8,7 @@ submenu: Home
 <img class="logo float-right frame" src="../img/vot2016_logo_website_large.png" alt="VOT2016" />
 
 ## Call for participation and for papers
-We are happy to announce the 4th VOT Worskhop, that will take place in conjunction with ECCV 2016.
+We are happy to announce the 4th VOT Workshop, that will take place in conjunction with ECCV 2016.
 The event follows the three highly sucessful workshops VOT2013 (ICCV2013), VOT2014 (ECCV2014), and VOT2015 (ICCV2015).
 
 Researchers from industry as well as academia are invited to participate. The challenge aims at **single-object short-term trackers** that do not apply pre-learned models of object appearance (**model-free**). Trackers do not necessarily need to be capable of automatic re-initialization, as the objects are visible over the whole course of the sequences.

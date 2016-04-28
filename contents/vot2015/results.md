@@ -5,8 +5,10 @@ submenu: Results
 
 # Documents
 
--   [Report](/vot2015/download/vot_2015_paper.pdf) The paper that summarizes Visual Object Tracking VOT2015 challenge results 
--   [Presentation](/vot2015/download/vot_2015_presentation.pdf) The presentation of Visual Object Tracking VOT2015 challenge results
+-   [VOT Report](/vot2015/download/vot_2015_paper.pdf) The paper that summarizes Visual Object Tracking VOT2015 challenge results 
+-   [VOT Presentation](/vot2015/download/vot_2015_presentation.pdf) The presentation of Visual Object Tracking VOT2015 challenge results
+-   [VOT-TIR Report](/vot2015/download/vot_tir_2015_paper.pdf) The paper that summarizes Visual Object Tracking VOT-TIR2015 challenge results 
+-   [VOT-TIR Presentation](/vot2015/download/vot_tir_2015_presentation.pdf) The presentation of Visual Object Tracking VOT-TIR2015 challenge results
 
 # Raw data
 

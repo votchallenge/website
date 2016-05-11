@@ -10,15 +10,15 @@ This tutorial assumes that you already have the toolkit on your computer, that y
 - Remove line: `error('Tracker not configured!');` 
 - Optionally, set `tracker_label = [];` to `tracker_label = '{{name}}';`, where `{{name}}` is a non-unique human-readable name of the tracker.
 - Set the `tracker_command` variable to the absolute path to your tracker executable and the optional parameters as explained further down.
+- If you are using an interpreter to run your tracker (e.g. Matlab or Python) verify that `tracker_interpreter` variable is set to the correct value.
 - Set variable `tracker_linkpath` if the tracker needs some additional libraries which are not in standard library path.`
-
 <div class="screenshot"><img src="/howto/img/perfeval/22.png"/></div>
        
 Also, verify that `./vot-workspace/run_experiments.m` line `tracker = tracker_load('{{tracker}}')` is set that `{{tracker}}` is the unique identifier of your tracker. (e.g. `tracker = tracker_load('NCC')`). This is important to do if you are running multiple trackers in the same workspace.
 
 <div class="screenshot"><img src="/howto/img/perfeval/23.png" /></div>
 
-The best way to get familiar with integration of trackers into the VOT toolkit is by looking one of the examples that are provided in the `/tracker/examples` directory of the VOT toolkit.
+The best way to get familiar with integration of trackers into the VOT toolkit is by looking one of the examples that are provided in the `/tracker/examples` directory of the VOT toolkit. Also, look at the rest of this document for specifics on integration of trackers written in different languages.
 
 ## Native trackers
 
@@ -137,6 +137,37 @@ When specifying the `tracker_command` variable in the tracker configuration file
     tracker_command = generate_matlab_command('<TODO: tracker script>', {'<TODO: path to script>'});
 
 It is important that all the directories containing required Matlab scripts are contained in the MATLAB path when the evaluation is run. Also note that any unhandled exception thrown in the script will result in Matlab breaking to interactive mode and that this will prevent the evaluation from continuing. It is therefore advised that all exceptions are handled explicitly so that the wrapper script always terminates the interpreter.
+
+## Python trackers
+
+For trackers, written in Python the communcation between the toolkit and the tracker is handled by the code in the `vot.py` file that is available in the `tracker/examples/python` directory. Below is a simple example that illustrates how the communication is performed using this header file in Python code:
+
+    #!/usr/bin/python
+    import vot
+    import sys
+    import time
+
+    handle = vot.VOT("rectangle")
+    selection = handle.region()
+
+    # Process the first frame
+    imagefile = handle.frame()
+    if not imagefile:
+        sys.exit(0)
+
+    while True:
+        imagefile = handle.frame()
+        if not imagefile:
+            break
+
+        handle.report(selection)
+        time.sleep(0.01)
+
+When specifying the `tracker_command` variable in the tracker configuration file please note that the wrapper script file is not the one being executed but functions only as a parameter to the Python interpreter executable. For convinience, the toolkit provides a function that generates a valid `tracker_command` string for Python trackers by locating the interpreter executable and specifying the script that should be run and the directories that should be included before that. 
+
+    tracker_command = generate_python_command('<TODO: tracker script>', {'<TODO: path to script>'});
+
+It is important that all the directories containing required modules are contained in the Python path or provided to the generator command.
 
 ## Testing integration
 

@@ -21,6 +21,7 @@ From now on we are assuming you have toolkit in `vot-toolkit` directory. It is r
 2. Go to `vot-workspace` directory. Run matlab and execute `workspace_create` command.
 3. Select an experiment stack that you want to use (e.g. `vot2013` denotes the VOT2013 benchmark experiment stack).
 4. Enter the unique indentifier of your tracker (e.g. `NCC` for norm-crosscorrelation tracker).
+5. Select the interpreter used in your tracker (or none if the tracker is compiled into an exectuable).
 
   <div class="screenshot"><img src="/howto/img/perfeval/2b.png" alt="Workspace setup guide"/></div>
 

@@ -35,6 +35,12 @@ If you cannot find the answer to your question on this page, <a href="https://gr
 
         set_global_variable('trax_timeout', <add the timeout in seconds here>);
 
+- **When I try to run the experiments the toolkit stops with an exception *Error during tracker execution*. What should I do?**
+
+   The cause of this error is typically that the tracker has crashed, either because of a bug in the code or because of improper configuration. The toolkit tries to capture as much of the output of the tracker to help you debug it. The log files for each occurrence of unexpected error are stored in the `logs` folder in your workspace. The exact folder of a crash is also mentioned in the exception message.
+
+   It is advised that you first try to resolve the problem yourself, however, if you are unable to do it, then you can also ask at the VOT support forum, you may be asked for the content of the crash log folder so do not delete it's content too early.
+
 ### Running experiments
 
 - **Why does the toolkit run tracker on each sequence multiple times?**
@@ -80,4 +86,13 @@ Be careful when changing the official benchmark parameters. For a valid submissi
 
   You are probably observing the overall ranking that is obtained by averaging per-attribute or per-sequence partial ranks. If a new tracker C is added, it may perform same as one of the other trackers, e.g. A (the difference is not statistically or practically different). In this case both trackers are assigned their average rank, which means that the tracker A essentially gets a lower rank than before. This can lead to overall rank getting lower. It is therefore important to always also look at partial ranks and raw scores when interpreting the results.
 
+- **When I compare trackers A and B, the robustness and accuracy rankings of A are both better than the robustness and accuracy rankings of B. Nevertheless, in terms of the expected overlap metric, the tracker B is better than A. What is the reason for this?**
+
+The ranking methodology applied to many trackers should be thought of as a competition among trackers in which the rule is that if a tracker's performance is negligibly different from another tracker, they will get the same rank. If you are applying the methodology that performs ranking on each sequence and averages the results, then the sequences are competitions. This means that if we have a set of 20 trackers, and tracker A in some cases (e.g., in some sequences) cannot be discerned from a tracker that is positioned higher in terms of average measure, the rank of tracker A will be pulled up -- this might increase the difference between A and B. Note that if tracker A is outperforming B on sequence 1 by 0.5 or 0.1 in raw measure, the rank difference will always be "1" if these are statistically/practically significant. Because of such type of normalization, you could see a tracker A being ranked higher than B just because it was better on more sequences.
+
+When averaging the per-sequence raw values, the amount by which one tracker outperforms another on each sequence matters. For example, let's say tracker A is better than B in nine out of ten sequences by small, but non-negligible margin. On the tenth sequence, the tracker B significantly outperforms A. It may happen that the average performance of B will be higher. That is the peril of averaging raw results.
+
+Our advice would be to report the expected average overlap as the main measure, and also separately report the raw values of the accuracy and robustness. This will give you significant insight into tracker performance and you can discuss why one tracker is better than the other and in which aspects. One tracker may be better in robustness, and that may be very important for some applications, other applications can cope with less robust, but more accurate trackers. Once you determine that your tracker A is better than the second-best tracker B, you can test whether this difference is statistically and practically different. You can do this by applying the ranking only to these two trackers (without inclusion of all other!). If A is consistently ranked higher than B, then it means that A was better than B in terms of statistical as well as practical differences, which is a strong evidence of improved performance.
+
+In any case, while it is certainly appealing to report a single measure, we advise against it since each measure show only a certain aspect of the performance. It is scientifically more insightful and useful for the scientific community to report a few interpretable measures and discuss their values.
 

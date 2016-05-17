@@ -64,7 +64,7 @@ Note that Constraints 1 and 2 apply only to the trackers that are considered for
 
 Participation at VOT2016 or VOT-TIR2016 challenge (level 0 or higher) is required. 
 
- * The full-length VOT2016 workshop papers must follow the standard requirements for ECCV2016 regular papers (template will be available here). 
+ * The full-length VOT2016 workshop papers must follow the standard requirements for ECCV2016 regular papers (template is available [here](vot2016_authorkit.zip)). 
  * Papers rejected from ECCV 2016 may be submitted until the July 7 deadline,
   i.e. until after the ECCV final decisions are announced, provided that:
     * the paper contains experiments on a VOT dataset.

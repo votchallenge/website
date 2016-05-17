@@ -3,6 +3,12 @@ template: page.jade
 menu: Home
 ---
 
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <h3 class="panel-title">Submit to the ECCV VOT 2016 Workshop!</h3>
+  </div>
+</div>
+
 The VOT challenges provide the visual tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
 
 The goal of the challenges is to build up a repository of considerable benchmarks and to organize workshops or similar events in order to push forward research in visual tracking.
@@ -58,7 +64,7 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">VOT2016 Challenge</h3>
+    <h3 class="panel-title">VOT2016 Challenge and Workshop at ECCV2016</h3>
   </div>
   <div class="panel-body">
     We are happy to announce the 4th VOT Workshop, that will take place in conjunction with ECCV 2016.

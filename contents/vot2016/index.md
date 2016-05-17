@@ -32,7 +32,7 @@ The VOT committee also solicits full-length papers describing:
 
 ## Important dates
 
-Data available: May 13th 2016 <br>
+Data available: ~~May 13th 2016~~ -> May 25th 2016 <br>
 Paper Submission (standard): June 16th 2016 <br>
 Results submission deadline: June 17th 2016 <br>
 Full Paper Submission (Revised ECCV2016 rejected papers): July 7th 2016 <br>

@@ -40,6 +40,24 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-success">
   <div class="panel-heading">
+    <h3 class="panel-title">VOT-TIR2016 OPEN, VOT2016 opens on 25th of May</h3>
+  </div>
+  <div class="panel-body">
+    There has been some delay in the final steps of VOT2016 dataset preparation. The VOT2016 dataset release date has been moved to Friday 25.5. But the toolkit will be ready on Monday 16th. So you can download it and test your tracker integration to make sure everything works. The dataset will be the same as in VOT2015, but the ground truth annotation will change.
+    <br><br>
+    The VOT-TIR2016 challenge IS OPEN and contains new sequences:
+    http://www.votchallenge.net/vot2016/participation.html
+    <br><br>
+
+    Best regards,
+    <br>
+    The VOT2016 organization committee
+
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title">VOT2016 Challenge</h3>
   </div>
   <div class="panel-body">
@@ -63,7 +81,7 @@ A collection of documentation and tutorials on various topics.
   </div>
 </div>
 
-<div class="panel panel-success">
+<div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Call for contribution: Thermal IR Sequences</h3>
   </div>
@@ -81,7 +99,7 @@ Dear supporters of VOT,
   </div>
 </div>
 
-<div class="panel panel-success">
+<div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">VOT Challenge 2016</h3>
   </div>

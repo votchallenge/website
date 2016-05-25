@@ -10,4 +10,4 @@ Download the latest version of the VOT toolkit and select either the VOT2016 or 
 
 If you want to access the VOT2016 dataset directly, follow this [link](http://box.vicos.si/vot/vot2016.zip).
 
-If you want to access the VOT-TIR2016 dataset directly, follow this link (coming soon).
+If you want to access the VOT-TIR2016 dataset directly, follow this [link](https://liu.box.com/shared/static/yjbd38x42gkvovdidk2je01n0ymk2842.zip).

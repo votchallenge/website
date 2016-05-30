@@ -77,3 +77,4 @@ Participation at VOT2016 or VOT-TIR2016 challenge (level 0 or higher) is require
  * Submit the paper and the supplementary material via the VOT2016 CMT paper submission system (coming soon). 
  * The submitted papers should be compiled for double-blind reviewing.
 
+**Submit the challenge results via the [CMT system](https://cmt3.research.microsoft.com/VOT2016)**

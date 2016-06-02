@@ -22,8 +22,6 @@ However, the GT of VOT2016 is more accurate than the GT of VOT2015 dataset which
 
 The VOT-TIR2016 dataset was updated with new sequences. 
 
-Due that, please download the new datasets according to your participation (VOT2016, VOT-TIR2016 or both challenges).
-
 ## Participate in VOT2016 challenge
 
 Follow the guidelines above to set up the workspace for VOT2016 challenge (select the vot2016 experiment stack). The main experiment will initialize trackers from the ground truth (this is equivalent to the VOT2014 baseline experiment). An additional experiment may be included.

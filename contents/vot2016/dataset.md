@@ -20,5 +20,3 @@ The sequences of VOT2016 dataset are the same sequences of VOT2015 dataset.
 However, the GT of VOT2016 is more accurate than the GT of VOT2015 dataset which has an impact on the evaluation. 
 
 The VOT-TIR2016 dataset was updated with new sequences. 
-
-Due that, please download the new datasets according to your participation (VOT2016, VOT-TIR2016 or both challenges).

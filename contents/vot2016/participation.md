@@ -13,6 +13,17 @@ A prerequisite for participating either VOT2016 challenge or VOT-TIR2016 challen
 Please, subscribe to our [mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) so that you receive recent news about the workshop and the challenge details.
 </div>
 
+<br>
+
+**Remark about VOT2016 dataset and VOT-TIR2016 dataset:** 
+
+The sequences of VOT2016 dataset are the same sequences of VOT2015 dataset. 
+However, the GT of VOT2016 is more accurate than the GT of VOT2015 dataset which has an impact on the evaluation. 
+
+The VOT-TIR2016 dataset was updated with new sequences. 
+
+Due that, please download the new datasets according to your participation (VOT2016, VOT-TIR2016 or both challenges).
+
 ## Participate in VOT2016 challenge
 
 Follow the guidelines above to set up the workspace for VOT2016 challenge (select the vot2016 experiment stack). The main experiment will initialize trackers from the ground truth (this is equivalent to the VOT2014 baseline experiment). An additional experiment may be included.

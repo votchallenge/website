@@ -22,6 +22,7 @@ submenu: People
 -   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria
 -   [Tom&#225;&#353; Voji&#345;](http://cmp.felk.cvut.cz/~vojirtom/), Czech Technical University in Prague, Czech Republic
 -   [Gustav H&auml;ger](http://www.liu.se/personal/isy/cvl/gusha40?l=en), Link&ouml;ping University, Sweden
+-   Alan Luke&#382;i&#269;, University of Ljubljana, Slovenia
 
 ## Program committee
 

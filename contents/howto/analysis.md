@@ -21,7 +21,7 @@ Assuming you have your working directory set up and configured `vot-workspace`, 
 <pre>
 [sequences, experiments] = workspace_load();
 
-trackers = order_trackers(create_trackers('trackers.txt'));
+trackers = order_trackers(tracker_list('trackers.txt'));
 
 context = create_report_context('challenge');
 
@@ -45,7 +45,7 @@ Please note that due to ongoing changes to the evaluation system, the results ob
 
 ### Adding another tracker to the ranking analysis
 
-To add results of a tracker to the challenge analysis, you have to change the `vot-workspace/run_analysis.m` script to include your tracker. To do this you have to change line `trackers = order_trackers(create_trackers('vot2014.txt'));` to `trackers = order_trackers(create_trackers('vot2014.txt', 'yourtracker'));`, where `yourtracker` denotes the identifier of the additional tracker. Make sure that you have actually performed the evaluation on the correct benchmark before that. Also note that due to complexity of ranking interaction, the overal results of the analysis may change when the set of trackers is changed so the results of the analysis may differ from the official challenge results.
+To add results of a tracker to the challenge analysis, you have to change the `vot-workspace/run_analysis.m` script to include your tracker. To do this you have to change line `trackers = order_trackers(tracker_load('vot2014.txt'));` to `trackers = order_trackers(tracker_load('vot2014.txt', 'yourtracker'));`, where `yourtracker` denotes the identifier of the additional tracker. Make sure that you have actually performed the evaluation on the correct benchmark before that. Also note that due to complexity of ranking interaction, the overal results of the analysis may change when the set of trackers is changed so the results of the analysis may differ from the official challenge results.
 
 <div class="alert alert-warning" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
@@ -67,7 +67,7 @@ Assuming you have your working directory set up and configured `vot-workspace` a
 <pre>
 [sequences, experiments] = workspace_load();
 
-trackers = order_trackers(create_trackers('trackers.txt', 'yourtracker'));
+trackers = order_trackers(tracker_list('trackers.txt', 'yourtracker'));
 
 context = create_report_context('article');
 

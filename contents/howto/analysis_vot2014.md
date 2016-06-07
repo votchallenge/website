@@ -13,7 +13,7 @@ You can use the script below to generate the results used in [<i class="glyphico
 [sequences, experiments] = vot_environment();
 
 % Use all VOT2014 trackers (the file should contain identifiers of all trackers)
-trackers = create_trackers('vot2014.txt');
+trackers = tracker_load('vot2014.txt');
 
 % Set raw robustness sensitivity parameter to 100
 set_global_variable('report_ranking_sensitivity', 100);

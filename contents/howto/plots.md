@@ -37,7 +37,7 @@ of all trackers from VOT2013 challenge. </li>
 <li> Remove `error` command. </li>
 
 <li> Modify `trackers` variable such that
-`trackers = create_trackers(vot2013.txt', '{{yourtracker}}')`, where `{{yourtracker}}` is the name of your tracker. </li>
+`trackers = tracker_load(vot2013.txt', '{{yourtracker}}')`, where `{{yourtracker}}` is the name of your tracker. </li>
 
 <li> Comment `report_article`. </li>
 
@@ -65,7 +65,7 @@ of all trackers from VOT2014 challenge. </li>
 <li> Remove `error` command. </li>
 
 <li> Modify `trackers` variable such that
-`trackers = create_trackers(vot2014.txt', '{{yourtracker}}')`, where `{{yourtracker}}` is the name of your 
+`trackers = tracker_load(vot2014.txt', '{{yourtracker}}')`, where `{{yourtracker}}` is the name of your 
 tracker. </li>
 
 <li> Comment `report_article`. </li>

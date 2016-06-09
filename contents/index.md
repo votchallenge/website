@@ -46,6 +46,67 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-success">
   <div class="panel-heading">
+    <h3 class="panel-title"> June 8th, 2016 - Important notice: VOT2016 toolkit bug fix</h3>
+  </div>
+  <div class="panel-body">
+    We have noticed that the latest VOT2016 toolkit changes (12.5.2016 release) introduced a bug in the 
+    overlap computation for rotated bounding boxes, which caused a few strange tracker failures. The bug 
+    has now been fixed and we ask all participants to update their toolkits (bug fix update: June 8th, 2016).
+    <br><br>
+
+    We hope this does not introduce too much additional work to the VOT2016 participants. If you have any 
+    questions or need help with integration, please do not hesitate to contact the technical team or the 
+    VOT support forum.
+    <br><br>
+
+    IMPORTANT: Please update your VOT2016 toolkit version and re-run the experiments. 
+    <br><br>
+
+    There are two ways to update the toolkit:
+    <br>
+    (i) Re-download the pre-compiled binaries (preferred way)
+    <br>
+    (ii) or re-compile the native files (if you re-compiled them before).
+    <br><br>
+
+    Directions for re-downloading the binaries:
+    All you have to do is to delete the "native" directory in the toolkit source and 
+    run any of the scripts (e.g., run_test). The tookit will automatically downloaded 
+    the updated native binaries.
+    <br><br>
+
+    To verify that you have the most recent binaries, inspect the content of the file 
+    "vot.md5" in the "native" directory. Depending on your platform the content should be:
+    <br><br>
+
+    linux32: f2956f4964ec6dcd6ac60328eda62806
+    <br>
+    linux64: 740b09c688d0bcead92b04287312c0cd
+    <br>
+    mac64: 04b3067648f4b3706f26e067c1c1dd15
+    <br>
+    windows32: 6ee85ef4f84a96962db6e4ca1bf4b0e9
+    <br>
+    windows64: 702a0ef7f2f2442cf9aabd53dce931be
+    <br><br>
+
+    Directions for recompiling the binaries:
+    In case of manual compilation you have to remove the "native" directory and then compile 
+    again. If you have downloaded trax source manually you also have to update it and re-compile.
+    <br><br>
+
+    We apologise for the inconvenience.
+    <br><br>
+
+    Best regards,
+    <br>
+    The VOT2016 technical committee
+
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title">VOT2016 and VOT-TIR2016 challenges are OPEN</h3>
   </div>
   <div class="panel-body">

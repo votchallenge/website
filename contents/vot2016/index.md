@@ -7,6 +7,12 @@ submenu: Home
 
 <img class="logo float-right frame" src="../img/vot2016_logo_website_large.png" alt="VOT2016" />
 
+## June 8th, 2016: Important notice - VOT2016 toolkit bug fix
+
+Due to the bug in the VOT2016 toolkit, please update the toolkit and rerun the experiments if you used a version earlier than June 8th, 2016. 
+Only results obtained by the updated VOT toolkit (bug fix update: June 8th, 2016) will be considered in the challenge. For details on the update, 
+please see the news section on the VOT main page (http://www.votchallenge.net/).
+
 ## Call for participation and for papers
 We are happy to announce the 4th VOT Workshop, that will take place in conjunction with ECCV 2016.
 The event follows the three highly sucessful workshops VOT2013 (ICCV2013), VOT2014 (ECCV2014), and VOT2015 (ICCV2015).

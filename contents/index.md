@@ -46,6 +46,23 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-success">
   <div class="panel-heading">
+    <h3 class="panel-title"> June 10th, 2016 - Deadline extension</h3>
+  </div>
+  <div class="panel-body">
+  
+    Due to the recent VOT2016 toolkit update, the **results submission deadline** has been extended 
+    to **20.06.2016**.
+    <br><br>
+
+    Best regards,
+    <br>
+    The VOT2016 organization committee
+
+  </div>
+</div>
+
+<div class="panel panel-success">
+  <div class="panel-heading">
     <h3 class="panel-title"> June 9th, 2016 - Important notice: VOT2016 toolkit update</h3>
   </div>
   <div class="panel-body">

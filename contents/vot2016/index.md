@@ -7,6 +7,12 @@ submenu: Home
 
 <img class="logo float-right frame" src="../img/vot2016_logo_website_large.png" alt="VOT2016" />
 
+## June 10th, 2016: - Extension of results deadline
+
+Due to the recent VOT2016 toolkit update, the **results submission deadline** has been extended 
+to **20.06.2016**.
+
+
 ## June 9th, 2016: Important notice - VOT2016 toolkit update
 
 Due to the improper overlap computation in the VOT2016 toolkit (introduced in version 12.5.2016), 
@@ -44,7 +50,7 @@ The VOT committee also solicits full-length papers describing:
 VOT-TIR2016 Data available: ~~May 13th 2016~~ -> May 16th 2016 <br>
 VOT2016 Data available: ~~May 13th 2016~~ -> May 25th 2016 <br>
 Paper Submission (standard): June 16th 2016 <br>
-Results submission deadline: June 17th 2016 <br>
+Results submission deadline: ~~June 17th 2016~~ -> June 20th 2016  <br>
 Full Paper Submission (Revised ECCV2016 rejected papers): July 7th 2016 <br>
 Notification of Acceptance: July 11th 2016 <br>
 Camera-Ready Paper Due: July 24th 2016 <br>

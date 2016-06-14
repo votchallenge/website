@@ -49,8 +49,8 @@ The VOT committee also solicits full-length papers describing:
 
 VOT-TIR2016 Data available: ~~May 13th 2016~~ -> May 16th 2016 <br>
 VOT2016 Data available: ~~May 13th 2016~~ -> May 25th 2016 <br>
-Paper Submission (standard): June 16th 2016 <br>
-Results submission deadline: ~~June 17th 2016~~ -> June 20th 2016  <br>
+Paper Submission (standard): ~~June 16th 2016~~ -> June 20th 2016 (23:59:59, CET) <br>
+Results submission deadline: ~~June 17th 2016~~ -> June 20th 2016 (23:59:59, CET) <br>
 Full Paper Submission (Revised ECCV2016 rejected papers): July 7th 2016 <br>
 Notification of Acceptance: July 11th 2016 <br>
 Camera-Ready Paper Due: July 24th 2016 <br>

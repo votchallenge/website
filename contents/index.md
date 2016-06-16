@@ -46,6 +46,30 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-success">
   <div class="panel-heading">
+    <h3 class="panel-title"> June 16th, 2016 - Information about GT</h3>
+  </div>
+  <div class="panel-body">
+
+    Dear VOT2016 participants,
+
+    An issue was raised about the ground truth bounding boxes on the VOT forum. In some cases the 
+    corners of rotated bounding boxes extend outside of the image. But we also noticed that in two 
+    frames in the matrix sequence the bounding box extends out of image disproportionately the part 
+    that is in the image boundaries is till correct, though.
+
+    The out-of-image-bounds bounding boxes do not affect performance evaluation, since overlaps are 
+    computed only within image regions. But these may cause failures if your tracker does not handle 
+    them properly during initialization. We thus urge you to perform boundary checks in your own 
+    code at tracker initialization.
+    <br><br>
+
+    On behalf of the VOT technical committee, Tomas Vojir
+
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title"> June 10th, 2016 - Deadline extension</h3>
   </div>
   <div class="panel-body">
@@ -61,7 +85,7 @@ A collection of documentation and tutorials on various topics.
   </div>
 </div>
 
-<div class="panel panel-success">
+<div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title"> June 9th, 2016 - Important notice: VOT2016 toolkit update</h3>
   </div>

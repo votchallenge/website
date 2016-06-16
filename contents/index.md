@@ -63,7 +63,9 @@ A collection of documentation and tutorials on various topics.
     code at tracker initialization.
     <br><br>
 
-    On behalf of the VOT technical committee, Tomas Vojir
+    On behalf of the VOT technical committee, 
+    <br>
+    Tom&#225;&#353; Voji&#345;
 
   </div>
 </div>

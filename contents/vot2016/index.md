@@ -22,7 +22,9 @@ them properly during initialization. We thus urge you to perform boundary checks
 code at tracker initialization.
 
 
-On behalf of the VOT technical committee, Tomas Vojir
+On behalf of the VOT technical committee, 
+<br>
+Tom&#225;&#353; Voji&#345;
 
 
 ## June 10th, 2016: - Extension of results deadline

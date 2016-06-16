@@ -11,7 +11,7 @@ submenu: Home
 
 Dear VOT2016 participants,
 
-An issue was raised about the ground truth bounding boxes on the VOT forum. In some cases the 
+A question was raised about the ground truth bounding boxes on the VOT forum. In some cases the 
 corners of rotated bounding boxes extend outside of the image. But we also noticed that in two 
 frames in the matrix sequence the bounding box extends out of image disproportionately the part 
 that is in the image boundaries is till correct, though.
@@ -20,7 +20,6 @@ The out-of-image-bounds bounding boxes do not affect performance evaluation, sin
 computed only within image regions. But these may cause failures if your tracker does not handle 
 them properly during initialization. We thus urge you to perform boundary checks in your own 
 code at tracker initialization.
-
 
 On behalf of the VOT technical committee, 
 <br>

@@ -50,11 +50,11 @@ A collection of documentation and tutorials on various topics.
   </div>
   <div class="panel-body">
 
-    .- Information about GT (June 16th 2016)
+    .- <a href="http://www.votchallenge.net/vot2016/index.html#info_20160616">Information about GT</a> (June 16th 2016)
     <br>
-    .- Deadline extension (June 10th 2016)
+    .- <a href="http://www.votchallenge.net/vot2016/index.html#info_20160610">Deadline extension</a> (June 10th 2016)
     <br>
-    .- VOT2016 toolkit update (June 9th 2016)
+    .- <a href="http://www.votchallenge.net/vot2016/index.html#info_20160609">VOT2016 toolkit update</a> (June 9th 2016)
     <br>
     For more details check the [challenge webpage](http://www.votchallenge.net/vot2016/index.html)
     <br>

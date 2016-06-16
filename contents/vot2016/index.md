@@ -7,10 +7,10 @@ submenu: Home
 
 <img class="logo float-right frame" src="../img/vot2016_logo_website_large.png" alt="VOT2016" />
 
-## June 16th, 2016 - Information about GT
-
+## June 16th, 2016 - <a name="info_20160616">Information about GT</a>
 Dear VOT2016 participants,
 
+<br>
 A question was raised about the ground truth bounding boxes on the VOT forum. In some cases the 
 corners of rotated bounding boxes extend outside of the image. But we also noticed that in two 
 frames in the matrix sequence the bounding box extends out of image disproportionately the part 
@@ -26,13 +26,13 @@ On behalf of the VOT technical committee,
 Tom&#225;&#353; Voji&#345;
 
 
-## June 10th, 2016: - Extension of results deadline
+## June 10th, 2016: - <a name="info_20160610">Extension of results deadline</a>
 
 Due to the recent VOT2016 toolkit update, the **results submission deadline** has been extended 
 to **20.06.2016**.
 
 
-## June 9th, 2016: Important notice - VOT2016 toolkit update
+## June 9th, 2016: Important notice - <a name="info_20160609">VOT2016 toolkit update</a>
 
 Due to the improper overlap computation in the VOT2016 toolkit (introduced in version 12.5.2016), 
 please update the toolkit and rerun the VOT2016 experiments if you used a version earlier than June 9th, 2016.

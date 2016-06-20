@@ -37,6 +37,7 @@ There are two different levels of participation in the VOT2016 challenge:
    * Co-authors are required to submit the binaries or the source code of the tracker. Include all required libraries and ensure correct integration in the VOT toolkit. The VOT committee will use the submitted tracker only to verify the results and will delete the code/binaries after the challenge unless the authors agree to make the tracker publicly available on the VOT website.
 
 **Submit the challenge results via the [results submission page](submission_page.html)**
+and use the template paper for report your results (template is available [here](vot2016_authorkit.zip)).
 
 Questions regarding the VOT2016 challenge should be directed to [the VOT committee](mailto:&#103;&#117;&#115;&#116;&#97;&#118;&#111;&#106;&#97;&#118;&#105;&#101;&#114;&#46;&#102;&#101;&#114;&#110;&#97;&#110;&#100;&#101;&#122;&#64;&#97;&#105;&#116;&#46;&#97;&#99;&#46;&#97;&#116;&#59;&#109;&#97;&#116;&#101;&#106;&#46;&#107;&#114;&#105;&#115;&#116;&#97;&#110;&#64;&#102;&#114;&#105;&#46;&#117;&#110;&#105;&#45;&#108;&#106;&#46;&#115;&#105;?subject=VOT2016 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 
@@ -53,6 +54,7 @@ There are two different levels of participation in the VOT-TIR2016 challenge:
    * Co-authors are required to submit the binaries or the source code of the tracker. Include all required libraries and ensure correct integration in the VOT toolkit. The VOT committee will use the submitted tracker only to verify the results and will delete the code/binaries after the challenge unless the authors agree to make the tracker publicly available on the VOT website.
 
 **Submit the challenge results via the [results submission page](submission_page.html)**
+and use the template paper for report your results (template is available [here](vot2016_authorkit.zip)).
 
 Questions regarding the VOT-TIR2016 challenge should be directed to [the VOT-TIR committee](mailto:&#109;&#105;&#99;&#104;&#97;&#101;&#108;&#46;&#102;&#101;&#108;&#115;&#98;&#101;&#114;&#103;&#64;&#108;&#105;&#117;&#46;&#115;&#101;?subject=VOT-TIR2016 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 

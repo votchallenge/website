@@ -55,7 +55,8 @@ The VOT committee also solicits full-length papers describing:
 
  * Original or improved trackers as well as papers giving new insights into existing trackers or class of trackers. See [participation page](/vot2016/participation.html) for details of the requirements for a tracking paper.
  * Novel ways of using and extending the VOT framework for tracker performance analysis.
- * We will consider papers rejected at ECCV 2016, accompanied with a cover letter describing the difference between ECCV and VOT submissions.
+ * We will consider papers rejected at ECCV 2016, accompanied with (i) a cover letter describing the difference between ECCV and VOT submissions, (ii) the reviews and (iii) authors' 
+ comments explaining how the paper was improved. Please provide aforementioned material ((i)-(iii)) as supplemental material in one pdf file.
 
 
 ## How to participate at VOT2016?
@@ -70,7 +71,7 @@ VOT-TIR2016 Data available: ~~May 13th 2016~~ -> May 16th 2016 <br>
 VOT2016 Data available: ~~May 13th 2016~~ -> May 25th 2016 <br>
 Paper Submission (standard): ~~June 16th 2016~~ -> June 20th 2016 (23:59:59, CET) <br>
 Results submission deadline: ~~June 17th 2016~~ -> June 20th 2016 (23:59:59, CET) <br>
-Full Paper Submission (Revised ECCV2016 rejected papers): ~~July 7th 2016~~ -> July 11th 2016 (23:59:59, CET) <br>
-Notification of Acceptance: ~~July 11th 2016~~ -> July 12th 2016 (23:59:59, CET) <br>
-Camera-Ready Paper Due: July 24th 2016 <br>
+Full Paper Submission (Revised ECCV2016 rejected papers): ~~July 7th 2016~~ -> ~~July 11th 2016~~ -> July 18th 2016 (23:59:59, CET) <br>
+Notification of Acceptance: ~~July 11th 2016~~ -> ~~July 12th 2016~~ -> July 21st 2016 (23:59:59, CET) <br>
+Camera-Ready Paper Due: ~~July 24th 2016~~ -> July 25th 2016 <br>
 

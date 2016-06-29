@@ -73,5 +73,5 @@ Paper Submission (standard): ~~June 16th 2016~~ -> June 20th 2016 (23:59:59, CET
 Results submission deadline: ~~June 17th 2016~~ -> June 20th 2016 (23:59:59, CET) <br>
 Full Paper Submission (Revised ECCV2016 rejected papers): ~~July 7th 2016~~ -> ~~July 11th 2016~~ -> July 18th 2016 (23:59:59, CET) <br>
 Notification of Acceptance: ~~July 11th 2016~~ -> ~~July 12th 2016~~ -> July 21st 2016 (23:59:59, CET) <br>
-Camera-Ready Paper Due: ~~July 24th 2016~~ -> July 25th 2016 <br>
+Camera-Ready Paper Due: ~~July 24th 2016~~ -> August 25th 2016 <br>
 

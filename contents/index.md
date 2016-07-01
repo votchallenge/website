@@ -21,7 +21,6 @@ The goal of the challenges is to build up a repository of considerable benchmark
 <a href="/challenges.html" class="hugebutton text-primary">
 <h3><i class="glyphicon glyphicon-star"></i> Challenges</h3>
 <p>Challenges and workshops that we have organized or are organizing.</p>
-<!--p class="text-success"><i class="glyphicon glyphicon-bullhorn"></i> Test.</p-->
 </a>
 </div>
 
@@ -49,15 +48,15 @@ A collection of documentation and tutorials on various topics.
     <h3 class="panel-title"> VOT2016 challenge updates</h3>
   </div>
   <div class="panel-body">
+<ul>
+    <li><a href="/vot2016/index.html#info_20160630">Paper deadline extension</a> (June 30th 2016)</li>
+    <li><a href="/vot2016/index.html#info_20160616">Information about GT</a> (June 16th 2016)</li>
+    <li><a href="/vot2016/index.html#info_20160610">Challenge deadline extension</a> (June 10th 2016)</li>
+    <li><a href="/vot2016/index.html#info_20160609">VOT2016 toolkit update</a> (June 9th 2016)</li>
+</ul>
 
-    .- <a href="http://www.votchallenge.net/vot2016/index.html#info_20160616">Information about GT</a> (June 16th 2016)
-    <br>
-    .- <a href="http://www.votchallenge.net/vot2016/index.html#info_20160610">Deadline extension</a> (June 10th 2016)
-    <br>
-    .- <a href="http://www.votchallenge.net/vot2016/index.html#info_20160609">VOT2016 toolkit update</a> (June 9th 2016)
-    <br>
-    For more details check the [challenge webpage](http://www.votchallenge.net/vot2016/index.html)
-    <br>
+    For more details check the [challenge webpage](http://www.votchallenge.net/vot2016/index.html)</li>
+
 
   </div>
 </div>

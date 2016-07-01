@@ -7,18 +7,16 @@ submenu: Home
 
 <img class="logo float-right frame" src="../img/vot2016_logo_website_large.png" alt="VOT2016" />
 
+## News and updates
 
-## June 30th, 2016: - <a name="info_20160610">Extension of full paper submission deadline</a>
+### June 30th, 2016: - <a name="info_20160630"></a>Extension of full paper submission deadline
 
 The **full paper submission deadline** has been extended to **18.07.2016**. 
 For more information, please check the 
 <a href="http://www.votchallenge.net/vot2016/index.html#important_dates">important dates</a> section.
 
+### June 16th, 2016 - <a name="info_20160616"></a>Information about GT
 
-## June 16th, 2016 - <a name="info_20160616">Information about GT</a>
-Dear VOT2016 participants,
-
-<br>
 A question was raised about the ground truth bounding boxes on the VOT forum. In some cases the 
 corners of rotated bounding boxes extend outside of the image. But we also noticed that in two 
 frames in the matrix sequence the bounding box extends out of image disproportionately the part 
@@ -29,25 +27,19 @@ computed only within image regions. But these may cause failures if your tracker
 them properly during initialization. We thus urge you to perform boundary checks in your own 
 code at tracker initialization.
 
-On behalf of the VOT technical committee, 
-<br>
-Tom&#225;&#353; Voji&#345;
 
-
-## June 10th, 2016: - <a name="info_20160610">Extension of results deadline</a>
+### June 10th, 2016: - <a name="info_20160610"></a>Extension of results deadline</a>
 
 Due to the recent VOT2016 toolkit update, the **results submission deadline** has been extended 
 to **20.06.2016**.
 
 
-## June 9th, 2016: Important notice - <a name="info_20160609">VOT2016 toolkit update</a>
+### June 9th, 2016: Important notice - <a name="info_20160609"></a>VOT2016 toolkit update</a>
 
 Due to the improper overlap computation in the VOT2016 toolkit (introduced in version 12.5.2016), 
 please update the toolkit and rerun the VOT2016 experiments if you used a version earlier than June 9th, 2016.
 Only results obtained by the updated VOT toolkit (downloaded after June 9th, 2016) will be considered in the 
-challenge. For details on the update, please see the news section on the VOT main 
-page (http://www.votchallenge.net/).
-
+challenge.
 
 ## Call for participation and for papers
 We are happy to announce the 4th VOT Workshop, that will take place in conjunction with ECCV 2016.
@@ -76,7 +68,7 @@ The VOT committee also solicits full-length papers describing:
  * Visit the [participation page](/vot2016/participation.html) on running the VOT-TIR2016 experiments.
 
 
-## <a name="important_dates">Important dates</a>
+## <a name="important_dates"></a>Important dates
 
 VOT-TIR2016 Data available: ~~May 13th 2016~~ -> May 16th 2016 <br>
 VOT2016 Data available: ~~May 13th 2016~~ -> May 25th 2016 <br>

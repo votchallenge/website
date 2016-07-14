@@ -9,37 +9,14 @@ submenu: Home
 
 ## News and updates
 
-### June 30th, 2016: - <a name="info_20160630"></a>Extension of full paper submission deadline
+### July 14th, 2016: - <a name="info_20160714"></a>Workshop day
 
-The **full paper submission deadline** has been extended to **18.07.2016**. 
-For more information, please check the 
-<a href="http://www.votchallenge.net/vot2016/index.html#important_dates">important dates</a> section.
-
-### June 16th, 2016 - <a name="info_20160616"></a>Information about GT
-
-A question was raised about the ground truth bounding boxes on the VOT forum. In some cases the 
-corners of rotated bounding boxes extend outside of the image. But we also noticed that in two 
-frames in the matrix sequence the bounding box extends out of image disproportionately the part 
-that is in the image boundaries is till correct, though.
-
-The out-of-image-bounds bounding boxes do not affect performance evaluation, since overlaps are 
-computed only within image regions. But these may cause failures if your tracker does not handle 
-them properly during initialization. We thus urge you to perform boundary checks in your own 
-code at tracker initialization.
+The **VOT workshop** will be held on October 10th. 
 
 
-### June 10th, 2016: - <a name="info_20160610"></a>Extension of results deadline</a>
+You find the old news 
+<a href="http://www.votchallenge.net/vot2016/index.html#old_news">here</a>.
 
-Due to the recent VOT2016 toolkit update, the **results submission deadline** has been extended 
-to **20.06.2016**.
-
-
-### June 9th, 2016: Important notice - <a name="info_20160609"></a>VOT2016 toolkit update</a>
-
-Due to the improper overlap computation in the VOT2016 toolkit (introduced in version 12.5.2016), 
-please update the toolkit and rerun the VOT2016 experiments if you used a version earlier than June 9th, 2016.
-Only results obtained by the updated VOT toolkit (downloaded after June 9th, 2016) will be considered in the 
-challenge.
 
 ## Call for participation and for papers
 We are happy to announce the 4th VOT Workshop, that will take place in conjunction with ECCV 2016.
@@ -77,4 +54,39 @@ Results submission deadline: ~~June 17th 2016~~ -> June 20th 2016 (23:59:59, CET
 Full Paper Submission (Revised ECCV2016 and ICPR2016 rejected papers): ~~July 7th 2016~~ -> ~~July 11th 2016~~ -> July 18th 2016 (23:59:59, CET) <br>
 Notification of Acceptance: ~~July 11th 2016~~ -> ~~July 12th 2016~~ -> July 21st 2016 (23:59:59, CET) <br>
 Camera-Ready Paper Due: ~~July 24th 2016~~ -> August 25th 2016 (23:59:59, CET) <br>
+Workshop: October 10th 2016 <br>
 
+
+## Old news <a name="old_news"></a>
+
+### June 30th, 2016: - <a name="info_20160630"></a>Extension of full paper submission deadline
+
+The **full paper submission deadline** has been extended to **18.07.2016**. 
+For more information, please check the 
+<a href="http://www.votchallenge.net/vot2016/index.html#important_dates">important dates</a> section.
+
+### June 16th, 2016 - <a name="info_20160616"></a>Information about GT
+
+A question was raised about the ground truth bounding boxes on the VOT forum. In some cases the 
+corners of rotated bounding boxes extend outside of the image. But we also noticed that in two 
+frames in the matrix sequence the bounding box extends out of image disproportionately the part 
+that is in the image boundaries is till correct, though.
+
+The out-of-image-bounds bounding boxes do not affect performance evaluation, since overlaps are 
+computed only within image regions. But these may cause failures if your tracker does not handle 
+them properly during initialization. We thus urge you to perform boundary checks in your own 
+code at tracker initialization.
+
+
+### June 10th, 2016: - <a name="info_20160610"></a>Extension of results deadline</a>
+
+Due to the recent VOT2016 toolkit update, the **results submission deadline** has been extended 
+to **20.06.2016**.
+
+
+### June 9th, 2016: Important notice - <a name="info_20160609"></a>VOT2016 toolkit update</a>
+
+Due to the improper overlap computation in the VOT2016 toolkit (introduced in version 12.5.2016), 
+please update the toolkit and rerun the VOT2016 experiments if you used a version earlier than June 9th, 2016.
+Only results obtained by the updated VOT toolkit (downloaded after June 9th, 2016) will be considered in the 
+challenge.

@@ -49,10 +49,11 @@ A collection of documentation and tutorials on various topics.
   </div>
   <div class="panel-body">
 <ul>
-    <li><a href="/vot2016/index.html#info_20160630">Paper deadline extension</a> (June 30th 2016)</li>
-    <li><a href="/vot2016/index.html#info_20160616">Information about GT</a> (June 16th 2016)</li>
-    <li><a href="/vot2016/index.html#info_20160610">Challenge deadline extension</a> (June 10th 2016)</li>
-    <li><a href="/vot2016/index.html#info_20160609">VOT2016 toolkit update</a> (June 9th 2016)</li>
+    <li><a href="/vot2016/index.html#info_20160714">Workshop day</a> (Posted on July 14th 2016)</li>
+    <li><a href="/vot2016/index.html#info_20160630">Paper deadline extension</a> (Posted on June 30th 2016)</li>
+    <li><a href="/vot2016/index.html#info_20160616">Information about GT</a> (Posted on June 16th 2016)</li>
+    <li><a href="/vot2016/index.html#info_20160610">Challenge deadline extension</a> (Posted on June 10th 2016)</li>
+    <li><a href="/vot2016/index.html#info_20160609">VOT2016 toolkit update</a> (Posted on June 9th 2016)</li>
 </ul>
 
     For more details check the [challenge webpage](http://www.votchallenge.net/vot2016/index.html)</li>

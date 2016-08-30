@@ -10,7 +10,7 @@ submenu: Program
 Matej Kristan (University of Ljubljana, Slovenia)
 <br><br><br>
 
-**09:20 - 10:40 Session 1 (Chair: Ale&#353; Leonardis):**<br>
+**09:20 - 12:15 Session 1 (Chair: Ale&#353; Leonardis):**<br>
 <br>
 **09:20 <i>The Visual Object Tracking VOT2016 challenge results</i>**
 <br>
@@ -66,7 +66,7 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <br>
 **13:05 <i>Talk: Winner of the VOT-TIR challenge</i>**
 <br><br>
-**13:25 <i>Panel discussion</i> (Moderator: Ale&#353; Leonardis)**
+**13:25 <i>Panel discussion</i>**
 <br><br>
 **14:00 <i>Closing, concluding remarks</i>**
 <br><br><br>

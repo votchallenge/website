@@ -9,7 +9,12 @@ submenu: Home
 
 ## News and updates
 
-### July 14th, 2016: - <a name="info_20160714"></a>Workshop day
+### August 30th, 2016:</a> Program
+
+Preliminary <a href="http://www.votchallenge.net/vot2016/program.html">program</a> is on-line. 
+
+
+### July 14th, 2016: <a name="info_20160714"></a>Workshop day
 
 The **VOT workshop** will be held on October 10th. 
 

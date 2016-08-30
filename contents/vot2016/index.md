@@ -14,11 +14,6 @@ submenu: Home
 Preliminary <a href="http://www.votchallenge.net/vot2016/program.html">program</a> is on-line. 
 
 
-### July 14th, 2016: <a name="info_20160714"></a>Workshop day
-
-The **VOT workshop** will be held on October 10th. 
-
-
 You find the old news 
 <a href="http://www.votchallenge.net/vot2016/index.html#old_news">here</a>.
 
@@ -63,6 +58,11 @@ Workshop: October 10th 2016 <br>
 
 
 ## Old news <a name="old_news"></a>
+
+### July 14th, 2016: <a name="info_20160714"></a>Workshop day
+
+The **VOT workshop** will be held on October 10th. 
+
 
 ### June 30th, 2016: - <a name="info_20160630"></a>Extension of full paper submission deadline
 

@@ -38,6 +38,10 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 **11:10 <i>Talk: Invited speaker</i>**
 <br><br>
 **11:55 <i>Talk: Contributed paper</i>**
+<br>
+**Fully-Convolutional Siamese Networks for Object Tracking**
+<br>
+Luca Bertinetto, Jack Valmadre, Jo&#227;o F. Henriques, Andrea Vedaldi and Philip H. S. Torr
 <br><br>
 **12:15 <i>Coffe break</i>**
 <br><br><br>

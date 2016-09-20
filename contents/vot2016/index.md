@@ -9,6 +9,16 @@ submenu: Home
 
 ## News and updates
 
+### September 20th, 2016:</a> Place of the VOT workshop
+
+The VOT workshop will be held on October 10th 2016, starting at 09:00 o'clock
+at the Pathe Tuchinski, Reguliersbreestraat 26-34, 1017 CN Amsterdam (Link: 
+https://www.google.nl/maps/place/Path%C3%A9+Tuschinski/@52.3664394,4.8946742,15z/data=!4m5!3m4!1s0x0:0x5398991b8de1d006!8m2!3d52.3664394!4d4.8946742)
+
+You find a list of all ECCV workshops 
+<a href="http://www.eccv2016.org/workshops/">here</a>.
+
+
 ### August 30th, 2016:</a> Program
 
 Preliminary <a href="http://www.votchallenge.net/vot2016/program.html">program</a> is on-line. 

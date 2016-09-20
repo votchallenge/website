@@ -5,6 +5,12 @@ submenu: Program
 
 # Workshop program
 
+<img class="logo float-right frame" src="./img/logo_ljubljana.png" alt="VOT2016" />
+
+
+Sponsor: <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Information Science</a>, University of Ljubljana.
+<br><br>
+
 
 **09:15 - 09:20 Opening and welcome**<br>
 Matej Kristan (University of Ljubljana, Slovenia)

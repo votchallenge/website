@@ -11,12 +11,15 @@ submenu: Home
 
 ### September 20th, 2016:</a> Place of the VOT workshop
 
-The VOT workshop will be held on October 10th 2016, starting at 09:00 o'clock
-at the Pathe Tuchinski, Reguliersbreestraat 26-34, 1017 CN Amsterdam (Link: 
-https://www.google.nl/maps/place/Path%C3%A9+Tuschinski/@52.3664394,4.8946742,15z/data=!4m5!3m4!1s0x0:0x5398991b8de1d006!8m2!3d52.3664394!4d4.8946742)
+When: October 10th 2016, from 09:00 until 14:00 <br>
+Where: <a href="https://www.google.nl/maps/place/Path%C3%A9+Tuschinski/@52.3664394,4.8946742,15z/data=!4m5!3m4!1s0x0:0x5398991b8de1d006!8m2!3d52.3664394!4d4.8946742">
+Pathe Tuchinski, Reguliersbreestraat 26-34, 1017 CN Amsterdam</a> <br>
+<a href="http://www.eccv2016.org/workshops/">Link</a> to ECCV workshops
 
-You find a list of all ECCV workshops 
-<a href="http://www.eccv2016.org/workshops/">here</a>.
+
+### September 20th, 2016:</a> The VOT2016 sponsor
+The VOT2016 award and the VOT t-shirts are sponsored by <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Information Science</a>, University of Ljubljana.
+
 
 
 ### August 30th, 2016:</a> Program

@@ -42,6 +42,10 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 **10:40 <i>Coffe break</i>**
 <br><br>
 **11:10 <i>Talk: Invited speaker</i>**
+<br>
+**Title: To be announced**
+<br>
+Pascal Fua
 <br><br>
 **11:55 <i>Talk: Contributed paper</i>**
 <br>
@@ -76,7 +80,7 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <br>
 **13:05 <i>Talk: Winner of the VOT-TIR challenge</i>**
 <br><br>
-**13:25 <i>Panel discussion</i>**
+**13:25 <i>Panel discussion</i> (Chair: Ale&#353; Leonardis)**
 <br><br>
 **14:00 <i>Closing, concluding remarks</i>**
 <br><br><br>

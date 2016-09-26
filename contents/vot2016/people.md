@@ -26,7 +26,17 @@ submenu: People
 
 ## Program committee
 
-To be announced.
+-   Andrea Cavallaro, Queen Mary University of London, UK
+-   Cherkeng Heng, Panasonic R&D Centre, Singapore
+-   Francois Bremond, INRIA, France
+-   James Ferryman, University of Reading, UK
+-   J&ouml;rgen Ahlberg, Termisk Systemteknik AB, Sweden
+-   Kyoung Mu Lee, Seoul National University, South Korea
+-   Michael Arens, Fraunhofer IOSB, Germany
+-   Oswald Lanz, FBK, Italy
+-   Peter Roth, TU Graz, Austria
+-   Richard Bowden, University of Surrey, UK
+-   Vincent Lepetit, TU Graz, Austria
 
 
 ## Supporting organizations

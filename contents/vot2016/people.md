@@ -34,7 +34,7 @@ submenu: People
 -   Kyoung Mu Lee, Seoul National University, South Korea
 -   Michael Arens, Fraunhofer IOSB, Germany
 -   Oswald Lanz, FBK, Italy
--   Peter Roth, TU Graz, Austria
+-   Peter Roth
 -   Richard Bowden, University of Surrey, UK
 -   Vincent Lepetit, TU Graz, Austria
 

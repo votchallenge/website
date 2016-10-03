@@ -81,7 +81,6 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 **13:05 <i>Talk: Winner of the VOT-TIR challenge</i>**
 <br><br>
 **13:25 <i>Panel discussion</i> (Chair: Ale&#353; Leonardis)**
-<br>- Pascal Fua (EPFL, Switzerland)
 <br>- Katrin Honauer (University of Heidelberg, Germany)
 <br>- Ji&#345;i Matas (Czech Technical University, Czech Republic)
 <br>- Anton Milan (University of Adelaide, Australia)

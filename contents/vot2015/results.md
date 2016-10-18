@@ -5,19 +5,19 @@ submenu: Results
 
 # Documents
 
--   [VOT Report](/vot2015/download/vot_2015_paper.pdf) The paper that summarizes Visual Object Tracking VOT2015 challenge results 
+-   [VOT Report](/vot2015/download/vot_2015_paper.pdf) The paper that summarizes Visual Object Tracking VOT2015 challenge results
 -   [VOT Presentation](/vot2015/download/vot_2015_presentation.pdf) The presentation of Visual Object Tracking VOT2015 challenge results
--   [VOT-TIR Report](/vot2015/download/vot_tir_2015_paper.pdf) The paper that summarizes Visual Object Tracking VOT-TIR2015 challenge results 
+-   [VOT-TIR Report](/vot2015/download/vot_tir_2015_paper.pdf) The paper that summarizes Visual Object Tracking VOT-TIR2015 challenge results
 -   [VOT-TIR Presentation](/vot2015/download/vot_tir_2015_presentation.pdf) The presentation of Visual Object Tracking VOT-TIR2015 challenge results
 
 # VOT2015 Raw data
 
--   [Sequence dataset](http://box.vicos.si/vot/vot2015.zip) - Sequences for the VOT2015 dataset (this file is automatically downloaded by the toolkit) 
+-   [Sequence dataset](http://box.vicos.si/vot/vot2015.zip) - Sequences for the VOT2015 dataset (this file is automatically downloaded by the toolkit)
 -   [Raw results](http://box.vicos.si/vot/vot2015_results.zip) - Raw results of participating trackers needed for comparative analysis
 -   [Tracker descriptions](http://box.vicos.si/vot/vot2015_trackers.zip) - Tracker description files for human-readable tracker names
 
 # VOT-TIR2015 Raw data
 
--   [Sequence dataset](http://www.cvl.isy.liu.se/research/datasets/ltir/version1.0/ltir_v1_0_8bit.zip) - Sequences for the VOT-TIR2015 dataset (this file is automatically downloaded by the toolkit) 
--   [Raw results](https://liu.app.box.com/s/dyxn7fdau5lm9l77fxwosy1hqnuxa64g) - Raw results of participating trackers needed for comparative analysis
+-   [Sequence dataset](http://www.cvl.isy.liu.se/research/datasets/ltir/version1.0/ltir_v1_0_8bit.zip) - Sequences for the VOT-TIR2015 dataset (this file is automatically downloaded by the toolkit)
+-   [Raw results](https://liu.box.com/s/hgp0tuarmp58ixuautpluz1d7rhiw207) - Raw results of participating trackers needed for comparative analysis
 -   Tracker descriptions (Link coming soon) - Tracker description files for human-readable tracker names

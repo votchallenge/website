@@ -37,6 +37,10 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <b>[Paper](/vot2016/download/vot_2016_paper.pdf)</b><br><br>
 
 **10:00 <i>Talk: Winner of the VOT challenge</i>**
+<br>
+**Modeling and Propagating CNNs in a Tree Structure for Visual Tracking**
+<br>
+Hyeonseob Nam, Mooyeol Baek, Bohyung Han (POSTECH)
 <br><br>
 **10:20 <i>Talk: Best tracker VOT2016</i>**
 <br><br>
@@ -46,13 +50,13 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <br>
 **Object Detection and Pose Estimation from Motion Compensated Sequences**
 <br>
-Pascal Fua
+Pascal Fua (EPFL)
 <br><br>
 **11:55 <i>Talk: Contributed paper</i>**
 <br>
 **Fully-Convolutional Siamese Networks for Object Tracking**
 <br>
-Luca Bertinetto, Jack Valmadre, Jo&#227;o F. Henriques, Andrea Vedaldi and Philip H. S. Torr
+Luca Bertinetto, Jack Valmadre, Jo&#227;o F. Henriques, Andrea Vedaldi and Philip H. S. Torr (University of Oxford)
 <br><br>
 **12:15 <i>Coffe break</i>**
 <br><br><br>
@@ -80,6 +84,10 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <b>Presentation and paper will be here available after the workshop</b><br>
 <br>
 **13:05 <i>Talk: Winner of the VOT-TIR challenge</i>**
+<br>
+**Edge Box Tracker (EBT)**
+<br>
+Gao Zhu, Fatih Porikli, Hongdong Li
 <br><br>
 **13:25 <i>Panel discussion</i> (Chair: Ale&#353; Leonardis)**
 <br>- Pascal Fua (EPFL, Switzerland)

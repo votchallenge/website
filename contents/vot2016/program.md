@@ -33,8 +33,9 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <a href="#reference_00">et al.</a>
 <br>
 
-<b>Presentation and paper will be here available after the workshop</b><br>
-<br>
+<b>[Presentation](/vot2016/download/vot_2016_presentation.pdf)</b><br>
+<b>[Paper](/vot2016/download/vot_2016_paper.pdf)</b><br><br>
+
 **10:00 <i>Talk: Winner of the VOT challenge</i>**
 <br><br>
 **10:20 <i>Talk: Best tracker VOT2016</i>**
@@ -43,7 +44,7 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <br><br>
 **11:10 <i>Talk: Invited speaker</i>**
 <br>
-**Title: To be announced**
+**Object Detection and Pose Estimation from Motion Compensated Sequences**
 <br>
 Pascal Fua
 <br><br>

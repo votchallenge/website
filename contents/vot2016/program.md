@@ -81,8 +81,9 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <a href="#reference_01">et al.</a>
 <br>
 
-<b>Presentation and paper will be here available after the workshop</b><br>
-<br>
+<b>[Presentation](/vot2016/download/vot_tir_2016_presentation.pdf)</b><br>
+<b>[Paper](/vot2016/download/vot_tir_2016_paper.pdf)</b><br><br>
+
 **13:05 <i>Talk: Winner of the VOT-TIR challenge</i>**
 <br>
 **Edge Box Tracker (EBT)**

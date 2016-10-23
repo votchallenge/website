@@ -19,5 +19,5 @@ submenu: Results
 # VOT-TIR2015 Raw data
 
 -   [Sequence dataset](http://www.cvl.isy.liu.se/research/datasets/ltir/version1.0/ltir_v1_0_8bit.zip) - Sequences for the VOT-TIR2015 dataset (this file is automatically downloaded by the toolkit)
--   [Raw results](https://liu.box.com/s/u5pi3urevfwolxgdr6p7labs3w8771yo) - Raw results of participating trackers needed for comparative analysis
+-   [Raw results](http://box.vicos.si/vot/vot-tir2015_results.zip) - Raw results of participating trackers needed for comparative analysis
 -   Tracker descriptions (Link coming soon) - Tracker description files for human-readable tracker names

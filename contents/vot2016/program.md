@@ -38,11 +38,15 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 
 **10:00 <i>Talk: Winner of the VOT challenge</i>**
 <br>
-**Modeling and Propagating CNNs in a Tree Structure for Visual Tracking**
+**[Modeling and Propagating CNNs in a Tree Structure for Visual Tracking](/vot2016/download/presentation_Hyeonseob.pdf)**
 <br>
 Hyeonseob Nam, Mooyeol Baek, Bohyung Han (POSTECH)
 <br><br>
 **10:20 <i>Talk: Best tracker VOT2016</i>**
+<br>
+**[Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](/vot2016/download/presentation_Danelljan.pdf)**
+<br>
+Martin Danelljan, Andreas Robinson, Fahad Shahbaz Khan, Michael Felsberg (Link&#246;ping University)
 <br><br>
 **10:40 <i>Coffe break</i>**
 <br><br>
@@ -54,8 +58,8 @@ Pascal Fua (EPFL)
 <br><br>
 **11:55 <i>Talk: Contributed paper</i>**
 <br>
-**Fully-Convolutional Siamese Networks for Object Tracking**
-<br>
+**Fully-Convolutional Siamese Networks for Object Tracking
+([presentation](/vot2016/download/presentation_Bertinetto.pdf), [project page](http://www.robots.ox.ac.uk/~luca/siamese-fc.html))**<br>
 Luca Bertinetto, Jack Valmadre, Jo&#227;o F. Henriques, Andrea Vedaldi and Philip H. S. Torr (University of Oxford)
 <br><br>
 **12:15 <i>Coffe break</i>**

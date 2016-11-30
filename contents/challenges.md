@@ -6,22 +6,26 @@ title: Challenges
 
 # Open Challenges
 
-
 <div class="row">
-<div class="col-lg-6 col-sm-12">
-<a href="/vot2016/" class="challengebutton text-primary">
-<img class="logo" src="/img/vot2016_logo_website.png" alt="VOT2016" />
-<h3>VOT2016 challenge</h3>
-<p class="description">VOT2016 and VOT-TIR2016 challenge will conclude with a workshop at ECCV 2016.</p>
-</a>
+<div class="alert alert-info" role="alert">
+ There are currently no open challenges.
 </div>
 </div>
+
 
 ## Benchmarks
 
 Official results of past challenges are still available as a benchmark to researchers. We invite the visual tracking researchers to compare their methods with those results.
 
 <div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vot2016/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2016_logo_website.png" alt="VOT2016" />
+<h3>VOT2016 benchmark</h3>
+<p class="description">The fourth challenge updated the dataset of 60 sequences with new annotations. The results were published in a joint paper presented at a workshop at ECCV2016.</p>
+</a>
+</div>
 
 <div class="col-lg-6 col-sm-12">
 <a href="/vot2015/" class="challengebutton text-primary">

@@ -3,11 +3,11 @@ template: page.jade
 menu: Home
 ---
 
-<div class="panel panel-success">
+<!--div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title">Submit to the ECCV [VOT 2016 Workshop](http://www.votchallenge.net/vot2016/index.html)!</h3>
   </div>
-</div>
+</div-->
 
 The VOT challenges provide the visual tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
 
@@ -43,7 +43,7 @@ A collection of documentation and tutorials on various topics.
 
 ## Highlights and news
 
-<div class="panel panel-success">
+<!--div class="panel panel-success">
   <div class="panel-heading">
     <h3 class="panel-title"> VOT2016 challenge updates</h3>
   </div>
@@ -60,7 +60,7 @@ A collection of documentation and tutorials on various topics.
 
 
   </div>
-</div>
+</div-->
 
 
 
@@ -70,10 +70,10 @@ A collection of documentation and tutorials on various topics.
   </div>
   <div class="panel-body">
 
-    We are happy to announce that the VOT (2013-2014) methodology paper has been accepted to Transactions on Pattern 
-    Analysis and Machine Intelligence (TPAMI). The paper can be accessed from the [VOT publications page 
-    link](http://www.votchallenge.net/publications.html). For future reference, if you use any of the VOT datasets 
-    in your evaluation, please cite this paper as  methodology reference as well as the relevant VOT workshop paper 
+    We are happy to announce that the VOT (2013-2014) methodology paper has been accepted to Transactions on Pattern
+    Analysis and Machine Intelligence (TPAMI). The paper can be accessed from the [VOT publications page
+    link](http://www.votchallenge.net/publications.html). For future reference, if you use any of the VOT datasets
+    in your evaluation, please cite this paper as  methodology reference as well as the relevant VOT workshop paper
     for the dataset.
   </div>
 </div>

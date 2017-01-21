@@ -62,6 +62,15 @@ A collection of documentation and tutorials on various topics.
   </div>
 </div-->
 
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">The VideNet initiative</h3>
+  </div>
+  <div class="panel-body">
+
+    VideoNet is a new initiative to bring together the community of researchers that have put effort into creating benchmarks for video tasks.  The goal of the VideNet is to exchange ideas on how to improve annotations, evaluation measures, and learn from each other's experiences. More information available at the [official page](http://videonet.team/).
+  </div>
+</div>
 
 
 <div class="panel panel-default">

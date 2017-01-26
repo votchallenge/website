@@ -68,7 +68,7 @@ A collection of documentation and tutorials on various topics.
   </div>
   <div class="panel-body">
 
-    The VOT2016 video segmentations are now freely available to the tracking community. All frames in the 60 sequences of the VOT2016 have been manually segmented with tools developed by the VOT technical committee. The segmentations as well as the code to autmatically fit bounding boxes to the segmentations are now publicly available from [this link](http://cmp.felk.cvut.cz/~vojirtom/dataset/votseg/index.html).
+    The VOT2016 video segmentations are now freely available to the tracking community. All frames in the 60 sequences of the VOT2016 have been manually segmented with tools developed by the VOT technical committee. The segmentations as well as the code to automatically fit bounding boxes to the segmentations are now publicly available from [this link](http://cmp.felk.cvut.cz/~vojirtom/dataset/votseg/index.html).
   </div>
 </div>
 

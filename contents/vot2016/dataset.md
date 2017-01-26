@@ -12,6 +12,8 @@ If you want to access the VOT2016 dataset directly, follow this [link](http://bo
 
 If you want to access the VOT-TIR2016 dataset directly, follow this [link](http://box.vicos.si/vot/vot-tir2016.zip).
 
+If you want to access the VOT2016 Ground Truth segmentations directly, follow this [link](http://cmp.felk.cvut.cz/~vojirtom/dataset/votseg/index.html).
+
 
 <br>
 
@@ -19,7 +21,5 @@ If you want to access the VOT-TIR2016 dataset directly, follow this [link](http:
 
 The sequences of VOT2016 dataset are the same sequences of VOT2015 dataset.
 However, the GT of VOT2016 is more accurate than the GT of VOT2015 dataset which has an impact on the evaluation.
-
-You find the Ground Truth segmentations [here](http://cmp.felk.cvut.cz/~vojirtom/dataset/votseg/index.html)
 
 The VOT-TIR2016 dataset was updated with new sequences.

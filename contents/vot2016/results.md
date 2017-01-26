@@ -15,6 +15,7 @@ submenu: Results
 -   [Sequence dataset](http://box.vicos.si/vot/vot2016.zip) - Sequences for the VOT2016 dataset (this file is automatically downloaded by the toolkit)
 -   [Raw results](http://box.vicos.si/vot/vot2016_results.zip) - Raw results of participating trackers needed for comparative analysis
 -   [Tracker descriptions](http://box.vicos.si/vot/vot2016_trackers.zip) - Tracker description files for human-readable tracker names
+-   [VOT2016 ground truth segmentations](http://cmp.felk.cvut.cz/~vojirtom/dataset/votseg/index.html) - Ground truth segmentations
 
 # VOT-TIR2016 Raw data
 

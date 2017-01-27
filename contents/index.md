@@ -64,6 +64,19 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-default">
   <div class="panel-heading">
+    <h3 class="panel-title">VOT2016 Trackers repository</h3>
+  </div>
+  <div class="panel-body">
+
+    The VOT2016 trackers repository is [on-line](http://www.votchallenge.net/vot2016/trackers.html).
+  </div>
+</div>
+
+
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title">VOT2016 ground truth segmentations</h3>
   </div>
   <div class="panel-body">

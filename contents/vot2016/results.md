@@ -10,6 +10,10 @@ submenu: Results
 -   [VOT-TIR Report](/vot2016/download/vot_tir_2016_paper.pdf) The paper that summarizes Visual Object Tracking VOT-TIR2016 challenge results
 -   [VOT-TIR Presentation](/vot2016/download/vot_tir_2016_presentation.pdf) The presentation of Visual Object Tracking VOT-TIR2016 challenge results
 
+# Trackers code
+
+-   [VOT2016 submitted trackers code](trackers.html)
+
 # VOT2016 Raw data
 
 -   [Sequence dataset](http://box.vicos.si/vot/vot2016.zip) - Sequences for the VOT2016 dataset (this file is automatically downloaded by the toolkit)

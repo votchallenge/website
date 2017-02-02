@@ -10,7 +10,7 @@ submenu: Trackers
 # README
 
 This is an incomplete collection of trackers submitted to VOT2016. 
-The collection contains only those submissions to VOT2016 for which we were able to obtain explicit permission from the authors (Stand: January 2017, 37 trackers). 
+The collection contains only those submissions to VOT2016 for which we were able to obtain explicit permission from the authors (Stand: January 2017, 38 trackers). 
 In most cases the code is provided as it was submitted (Stand: June 2016), in other cases some authors asked us to point the link to their own repositories. 
 The VOT does not take any responsibility for the state of code/binaries of the trackers available here. 
 For any additional information regarding individual trackers, please contact the corresponding authors directly.
@@ -23,9 +23,11 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 # TRACKERS
 
--   [All trackers together](http://www.votchallenge.net/vot2016/download/all_trackers.zip) (including links to external repositories, ~180Mb))
+-   [All trackers together](http://www.votchallenge.net/vot2016/download/all_trackers.zip) (including links to external repositories, ~220Mb))
 
 -   [DPCF (Appendix Nr 1)](http://www.votchallenge.net/vot2016/download/01_DPCF.zip)
+
+-   [EBT (Appendix Nr 2)](http://www.votchallenge.net/vot2016/download/02_EBT.zip)
 
 -   [SWCF (Appendix Nr 3)](http://www.votchallenge.net/vot2016/download/03_SWCF.zip)
 

@@ -13,10 +13,10 @@ title: Support
 
 The workshop presentations, report papers, and raw results needed to reproduce the analysis are available for each VOT benchmark on its corresponding sub-page.
 
-- [VOT2013 resources](/vot2013/results.html)
-- [VOT2014 resources](/vot2014/results.html)
-- [VOT2015 resources](/vot2015/results.html)
 - [VOT2016 resources](/vot2016/results.html)
+- [VOT2015 resources](/vot2015/results.html)
+- [VOT2014 resources](/vot2014/results.html)
+- [VOT2013 resources](/vot2013/results.html)
 
 # Tutorials and guides
 

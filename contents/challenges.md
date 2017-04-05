@@ -7,9 +7,18 @@ title: Challenges
 # Open Challenges
 
 <div class="row">
-<div class="alert alert-info" role="alert">
- There are currently no open challenges.
+
+<div class="col-lg-6 col-sm-12">
+<div class="challengebutton text-muted">
+<img class="logo" src="/img/vot_upcoming.png" alt="VOT2017" />
+<h3>VOT2017 challenge</h3>
+<p class="text-warning"><i class="glyphicon glyphicon-wrench"></i> Challenge is under preparation, and is planned to open in early May.</p>
 </div>
+</div>
+
+<!--div class="alert alert-info" role="alert">
+ There are currently no open challenges.
+</div-->
 </div>
 
 

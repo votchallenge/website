@@ -64,6 +64,19 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-default">
   <div class="panel-heading">
+    <h3 class="panel-title">VOT2017 @ ICCV 2017!</h3>
+  </div>
+  <div class="panel-body">
+
+    VOT2017 will be held in cojunction with ICCV2017 in October! 
+    <br>
+    Note that the new challenge will no longer support the legacy VOT2013 integration. All trackers must be integrated with the TraX protocol (see guidelines here http://www.votchallenge.net/howto/).
+  </div>
+</div>
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
     <h3 class="panel-title">VOT2016 Trackers repository</h3>
   </div>
   <div class="panel-body">

@@ -1,0 +1,34 @@
+extends page
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append head
+    title VOT2017 Challenge |
+        = submenu
+
+block submenu
+    -var menu_items = { 'Home': '/vot2017/index.html', 'Participate': '/vot2017/participation.html', 'People': '/vot2017/people.html' };
+    .navbar.navbar-default.navbar-static-top(role='navigation')
+        .container
+            .navbar-header
+                a(class='navbar-brand' href='/vot2017/') VOT2017
+            ul(class='nav navbar-nav nav-collapse')
+                each val, key in menu_items
+                    if submenu == key
+                        li.active
+                            a(href=val)= key
+                    else
+                        li
+                            a(href=val)= key
+            div(class='navbar-text navbar-right')
+              a(class='navbar-conjunction' href='http://iccv2017.thecvf.com/') ICCV2017, Venice, Italy
+
+    .clearer

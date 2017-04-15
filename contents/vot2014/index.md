@@ -22,7 +22,7 @@ Welcome to the official homepage of the VOT2014 benchmark. This benchmark was us
 - An improved version of the cross-platform evaluation kit, which executes the experiments much faster thanks to a powerful new communication protocol between kit and tracker
 - The dataset was enriched with new videos (in total 25 sequences) and labelled with rotating bounding boxes rather than axis-aligned ones
 - The dataset is per-frame labelled with attributes
-- All the participants who submitted results that exceeded a reasonable threshold on performance automatically became co-authors of the joint paper that was published in the workshop proceedings 
+- All the participants who submitted results that exceeded a reasonable threshold on performance automatically became co-authors of the joint paper that was published in the workshop proceedings
 - Participants are encouraged to submit their own workshop papers
 - A prize was awarded to the best-performing tracking team
 
@@ -34,5 +34,5 @@ Welcome to the official homepage of the VOT2014 benchmark. This benchmark was us
 
 The VOT2014 award and the VOT t-shirts were sponsored by the Faculty of Computer and Information Science, University of Ljubljana.
 <div class="spotlight">
-<a href="http://www.fri.uni-lj.si/"><img src="/vot2014/img/logo_ljubljana.png" width="250px"/></a>
+<a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="250px"/></a>
 </div>

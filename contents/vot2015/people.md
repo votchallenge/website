@@ -11,7 +11,7 @@ submenu: People
     University of Birmingham, UK
 -   [Ji&#345;i Matas](http://cmp.felk.cvut.cz/~matas/), Czech Technical
     University in Prague, Czech Republic
--   [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/), Link&ouml;ping 
+-   [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/), Link&ouml;ping
     University, Sweden
 
 ## Technical committee
@@ -46,8 +46,8 @@ More to be announced.
 
 ## Contributors
 
-The following people have contributed to development of the VOT through their 
-contributions on the VOT toolkit, offering technical suggestions or helped 
+The following people have contributed to development of the VOT through their
+contributions on the VOT toolkit, offering technical suggestions or helped
 significantly in the preparation of the dataset and challenge organization:
 
 -   Jingjing Xiao, University of Birmingham
@@ -60,7 +60,7 @@ significantly in the preparation of the dataset and challenge organization:
 -   Jaka Cikac, University of Ljubljana
 -   Koray Aytac, Czech Technical University in Prague
 -   Luca Bertinetto, University of Oxford
--   Amanda Berg, Termisk systemteknik 
+-   Amanda Berg, Termisk systemteknik
 -   J&ouml;rgen Ahlberg, Link&ouml;ping University
 
 
@@ -68,10 +68,10 @@ significantly in the preparation of the dataset and challenge organization:
 ## Supporting organizations
 
 <div class="supporters">
-<a href="http://www.ait.ac.at/?L=1"><img src="/vot2015/img/logo_ait.png" alt="AIT"></a>
-<a href="http://www.fri.uni-lj.si/en"><img src="/vot2015/img/logo_ljubljana.png" alt="University of Ljubljana"></a>
-<a href="http://www.birmingham.ac.uk"><img src="/vot2015/img/logo_birmingham.png" alt="University of Birmingham"></a>
-<a href="http://intranet.cvut.cz/en"><img src="/vot2015/img/logo_cvut.png" alt="CTU, Prague"></a>
-<a href="http://www.epics-project.eu/"><img src="/vot2015/img/logo_epics.png" alt="EPiCS"></a>
-<a href="http://www.liu.se/?l=en&sc=true"><img src="/vot2015/img/logo_liu.png" alt="University of Link&ouml;ping"></a>
+<a href="http://www.ait.ac.at/?L=1"><img src="/img/org/logo_ait.png" alt="AIT"></a>
+<a href="http://www.fri.uni-lj.si/en"><img src="/img/org/logo_ljubljana.png" alt="University of Ljubljana"></a>
+<a href="http://www.birmingham.ac.uk"><img src="/img/org/logo_birmingham.png" alt="University of Birmingham"></a>
+<a href="http://intranet.cvut.cz/en"><img src="/img/org/logo_cvut.png" alt="CTU, Prague"></a>
+<a href="http://www.epics-project.eu/"><img src="/img/org/logo_epics.png" alt="EPiCS"></a>
+<a href="http://www.liu.se/?l=en&sc=true"><img src="/img/org/logo_liu.png" alt="University of Link&ouml;ping"></a>
 </div>

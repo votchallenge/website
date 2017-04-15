@@ -32,8 +32,8 @@ Welcome to the official homepage of the VOT2016 benchmark. This benchmark was us
 The VOT2016 award and the VOT t-shirts were sponsored by the Faculty of Computer and Information Science, University of Ljubljana.
 
 <div class="spotlight">
-<a href="http://www.fri.uni-lj.si/"><img src="/vot2016/img/logo_ljubljana.png" width="250px"/></a>
-<a href="http://www.autoliv.com/"><img src="/vot2016/img/logo_alv.png" width="250px"/></a>
-<a href="http://www.sick.com/ivp"><img src="/vot2016/img/logo_sick.gif" width="122px"/></a>
+<a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="250px"/></a>
+<a href="http://www.autoliv.com/"><img src="/img/org/logo_alv.png" width="250px"/></a>
+<a href="http://www.sick.com/ivp"><img src="/img/org/logo_sick.gif" width="122px"/></a>
 </div>
 

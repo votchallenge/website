@@ -33,10 +33,10 @@ submenu: People
 
 ## Supporting organizations
 
-<p class="supporters"> 
-<a href="http://www.fri.uni-lj.si/en"><img src="/vot2014/img/logo_ljubljana.png" alt="University of Ljubljana"></a>
-<a href="http://www.ait.ac.at/?L=1"><img src="/vot2014/img/logo_ait.png" alt="AIT"></a>
-<a href="http://www.birmingham.ac.uk"><img src="/vot2014/img/logo_birmingham.png" alt="University of Birmingham"></a>
-<a href="http://intranet.cvut.cz/en"><img src="/vot2014/img/logo_cvut.png" alt="CTU Prague"></a>
-<a href="http://www.epics-project.eu/"><img src="/vot2014/img/logo_epics.png" alt="EPiCS"></a>
+<p class="supporters">
+<a href="http://www.fri.uni-lj.si/en"><img src="/img/org/logo_ljubljana.png" alt="University of Ljubljana"></a>
+<a href="http://www.ait.ac.at/?L=1"><img src="/img/org/logo_ait.png" alt="AIT"></a>
+<a href="http://www.birmingham.ac.uk"><img src="/img/org/logo_birmingham.png" alt="University of Birmingham"></a>
+<a href="http://intranet.cvut.cz/en"><img src="/img/org/logo_cvut.png" alt="CTU Prague"></a>
+<a href="http://www.epics-project.eu/"><img src="/img/org/logo_epics.png" alt="EPiCS"></a>
 </p>

@@ -13,21 +13,21 @@ submenu: Participate
 ### Submission instructions
 
  * The full-length VOT2017 workshop papers must follow the standard requirements for ICCV2017 regular papers.
- * Submit the paper using the VOT2017 CMT paper submission system (coming soon).
+ * Submit the paper using the [VOT2017 CMT paper submission system](https://cmt3.research.microsoft.com/VOT2017).
  * The submitted papers should be compiled for double-blind reviewing.
 
 ## Participate by attending the VOT2017 challenge
 
 ### Participation instructions
 
- * The **most recent version of the [VOT toolkit](https://github.com/votchallenge/vot-toolkit) is required**.
+ * The **most recent version of the [VOT toolkit](https://github.com/votchallenge/vot-toolkit) is required** (VOT-TIR2017: the TIR challenge is also supported by the new toolkit).
  * Follow [this tutorial](/howto/workspace.html) to download the toolkit and set up the environment and [this tutorial](/howto/integration.html) to integrate your tracker into the toolkit.
 
 <div class="alert alert-info" role="alert">
-The legacy integration approach, introduced in VOT2013 is not supported any more. All trackers require integration via the [TraX protocol](https://github.com/votchallenge/trax). The guidelines for integrating TraX protocol directly are available [here](https://trax.readthedocs.io/en/latest/tutorials.html). Additionally a wrapper is also provided to simplify the integration for people that have used VOT toolkit in the past, check the integration examples in the VOT toolkit repository on how to use it.
+The legacy file-based integration approach, introduced in VOT2013 is not supported any more. All trackers require integration via the [TraX protocol](https://github.com/votchallenge/trax). The guidelines for integrating TraX protocol directly are available [here](https://trax.readthedocs.io/en/latest/tutorials.html). Additionally a wrapper is also provided to simplify the integration for people that have used VOT toolkit in the past, check the integration examples in the VOT toolkit repository on how to use it.
 </div>
 
- * Make sure that you select the correct experiment stack (`vot2017`) for the corresponding challenge.
+ * Make sure that you select the correct experiment stack (`vot2017` for VOT2017 challenge and `vottir2016` for VOT-TIR2017 challenge) for the corresponding challenge.
  * Follow [this tutorial](/howto/perfeval.html) to run the experiments and correctly pack the results.
  * After packing the results submit them via the submission page (available soon).
 
@@ -41,12 +41,14 @@ The legacy integration approach, introduced in VOT2013 is not supported any more
 ### Results paper co-authorship requirement
 
  * In addition to the General submission rules, the authors will agree to publish their code online at VOT2017 page. If the tracker is under submission, the public release of the code can be delayed until publication. The authors are required to contact the VOT team immediately after the tracker is accepted.
+ * For VOT-TIR, the VOT-TIR 2016 challenge will be reopened. Submissions that perform better than the baseline (SRDCFir) and fulfill the VOT-criteria for co-authorship, will be included in the results paper.
 
 ### Challenge winner requirements
 
  * Top performance on VOT2017 challenge.
  * Learning from the tracking datasets (OTB, VOT, ALOV, NUSPRO) is **prohibited**. The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).
  * Agreement to publish the code online at VOT page is required.
+ * Top-performing method among the VOT-TIR submissions that perform better than the baseline (SRDCFir).
 
 Questions regarding the VOT2017 challenge should be directed to [the VOT committee](mailto:&#103;&#117;&#115;&#116;&#97;&#118;&#111;&#106;&#97;&#118;&#105;&#101;&#114;&#46;&#102;&#101;&#114;&#110;&#97;&#110;&#100;&#101;&#122;&#64;&#97;&#105;&#116;&#46;&#97;&#99;&#46;&#97;&#116;&#59;&#109;&#97;&#116;&#101;&#106;&#46;&#107;&#114;&#105;&#115;&#116;&#97;&#110;&#64;&#102;&#114;&#105;&#46;&#117;&#110;&#105;&#45;&#108;&#106;&#46;&#115;&#105;?subject=VOT2017 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 

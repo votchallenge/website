@@ -23,6 +23,7 @@ Researchers from industry as well as academia are invited to participate. The ch
 ### Participate by
 
  * Run your tracker on VOT2017 challenge and submit the results. The joint results of the VOT2017 challenge will be presented at the VOT2017 workshop.
+ * Run your tracker on VOT-TIR2017 challenge (which is the VOT-TIR2016 reopened) and submit the results.
  * Submit (and present) a research paper on visual tracking at the VOT2017 workshop.
 
 Visit the [participation page](/vot2017/participation.html) for detailed information on how to participate.

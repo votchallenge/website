@@ -7,7 +7,7 @@ title: Support
 # Documentation
 
 - [Toolkit documentation](http://box.vicos.si/vot/toolkit/docs/)
-- [TraX protocol technical report](http://prints.vicos.si/publications/311/)
+- [TraX protocol documentation](http://trax.readthedocs.io/)
 
 # Resources
 

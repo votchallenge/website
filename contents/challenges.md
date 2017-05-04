@@ -12,7 +12,7 @@ title: Challenges
 <a href="/vot2017/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2017_logo_website.png" alt="VOT2017" />
 <h3>VOT2017 challenge</h3>
-<p class="description">VOT2017 challenge will conclude with a workshop at ICCV 2017.</p>
+<p class="description">The VOT2017 challenge will be the 5th visual object tracking challenge. Results will be presented at VOT workshop at ICCV2017. This year the VOT dataset has been refreshed, the winner will be determined on sequestered dataset and a real-time experiment has been introduced.</p>
 </a>
 </div>
 

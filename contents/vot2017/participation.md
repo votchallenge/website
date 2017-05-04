@@ -18,6 +18,11 @@ submenu: Participate
 
 ## Participate by attending the VOT2017 challenge
 
+* The VOT2017 will contain the following experiments: (1) reset-based experiment for accuracy/robustness/expected average overlap computation,  (2) no-reset experiment to allow average overlap computation and (3) a real-time experiment to evaluate tracker performance under real-time constraints.
+* The VOT2017 dataset is a refreshed version of the VOT2016 challenge with easy sequences replaced by completely new sequences not available in other tracking datasets.
+* The winner will be determined on a separate sequestered dataset that we constructed in parallel to the VOT2017 dataset. That dataset will not be published. The VOT committee will run trackers that obtain top performance on public dataset to determine the winner.
+* The VOT-TIR2017 will not introduce a new dataset. Rather VOT-TIR2016 challenge will be re-opened.
+
 ### Participation instructions
 
  * The **most recent version of the [VOT toolkit](https://github.com/votchallenge/vot-toolkit) is required** (VOT-TIR2017: the TIR challenge is also supported by the new toolkit).

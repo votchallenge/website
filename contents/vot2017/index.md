@@ -32,7 +32,7 @@ Visit the [participation page](/vot2017/participation.html) for detailed informa
 
 This is a tentative list of important dates for VOT2017:
 
- * Data available: May 7th 2017
+ * Data available: May 8th 2017
  * Paper Submission: June 16th 2017
  * Results submission deadline: June 17th 2017
  * Notification of Acceptance: July 11th 2017

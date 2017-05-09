@@ -15,6 +15,10 @@ If you cannot find the answer to your question on this page, <a href="https://gr
 
 ### Preparation
 
+- **Is it safe to use non-ASCII characters in filesystem paths?**
+
+   Short answer: better not. Long answer: it turns out that UTF support is not fully present in Matlab at the moment so even if the rest of the toolkit would support it, you would have problem. But since we cannot test and debug it, we recommend that you stay away from non-ASCII filesystem paths.
+
 - **I have a workspace that was created using VOT toolkit 1 (VOT2013) or 2 (VOT2014). What do I have to do to use the workspace in VOT toolkit 3 (VOT2015)?**
 
    For VOT2015 we have made some changes to the toolkit. Most of them are just reorganization and renaming of functions and scripts. To use an old workspace with the new toolkit, you have to either rename these functions in all the scripts with `run_` prefix in your workspace, but the easier option is to delete the `configuration.m` script and run the `workspace_create` script in the folder again. Keep all the subdirectories as they are, they will not get overwritten, but the scripts will get re-generated.

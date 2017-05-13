@@ -13,7 +13,7 @@ Look at the [Frequently Asked Questions](faq.html) for a list of most frequently
 
 # Documentation
 
-- [Toolkit documentation](http://box.vicos.si/vot/toolkit/docs/)
+- [Toolkit documentation](http://docs.votchallenge.net/)
 - [TraX protocol documentation](http://trax.readthedocs.io/)
 
 # Resources

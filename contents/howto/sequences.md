@@ -17,7 +17,7 @@ title: Selecting sequences
             let t=t+1;
         done
 
-    Under Windows, you can use the following Visual Basic script. 
+    Under Windows, you can use the following Visual Basic script.
 
         Set objFS = CreateObject("Scripting.FileSystemObject")
         file_directory=".\"
@@ -47,22 +47,22 @@ title: Selecting sequences
                       Else
                         If idx < 10000000 Then
                           string_replace = "0" & idx
-                        End If 
-                      End If 
-                    End If 
-                  End If 
-                End If 
-              End If 
+                        End If
+                      End If
+                    End If
+                  End If
+                End If
+              End If
             End If
             file_name.Name = string_replace & "." & file_extension
-          End If  
+          End If
         Next
 
     Copy it into the directory where your files are located and run the following line in the command line:
         cscript //nologo script_rename_files.vbs
 
 
-2.  If it is necessary, change the format of the groundtruth annotations according to the [VOT annotation format](http://box.vicos.si/vot/toolkit/docs/sequence/index.html). The groundtruth file should be named `groundtruth.txt` and placed next to the image files in the sequence directory.
+2.  If it is necessary, change the format of the groundtruth annotations according to the [VOT annotation format](http://docs.votchallenge.net/sequence/index.html). The groundtruth file should be named `groundtruth.txt` and placed next to the image files in the sequence directory.
 
 3.  Move your sequence directory to the `vot-workspace/sequences` directory.
 

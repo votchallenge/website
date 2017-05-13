@@ -11,10 +11,10 @@ The sequences were chosen from a large pool of sequences including the [ALOV dat
 
 The sequences were annotated by the VOT committee using rotated bounding boxes in order to provide highly accurate ground truth values for comparing results.
 
-The dataset is automatically downloaded by the evaluation kit during the install process; there is no need to separately download the sequences for the challenge. If you are solely interested in the sequences, please download the [dataset](http://box.vicos.si/vot/vot2014.zip). The compressed archive contains directories of images for each sequence and per frame annotations of the rotated bounding box marking the object. The annotations are stored in a text file with the format:
+The dataset is automatically downloaded by the evaluation kit during the install process; there is no need to separately download the sequences for the challenge. If you are solely interested in the sequences, please download the [dataset](http://data.votchallenge.net/vot2014/vot2014.zip). The compressed archive contains directories of images for each sequence and per frame annotations of the rotated bounding box marking the object. The annotations are stored in a text file with the format:
 
 	frameN: X1, Y1, X2, Y2, X3, Y3, X4, Y4
-	
+
 where `Xi` and `Yi` are the coordinates of corner `i` of the bounding box in frame `N`, the N-th row in the text file.
 
 The following gallery gives an overview of the dataset (hover over image to see several snapshots from the sequence).

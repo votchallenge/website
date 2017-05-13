@@ -20,7 +20,7 @@ Assuming you have your working directory set up and configured `vot-workspace` a
 </ul>
 
 
-## Modifying the script run_analysis.m 
+## Modifying the script run_analysis.m
 
 <div class="row">
 <div class="col-lg-6 col-sm-12">
@@ -29,7 +29,7 @@ Assuming you have your working directory set up and configured `vot-workspace` a
 </a>
 
 <ul>
-<li> download the [results file](http://box.vicos.si/vot/vot2013_results.zip). This file contains results
+<li> download the [results file](http://data.votchallenge.net/vot2014/vot2013_results.zip). This file contains results
 of all trackers from VOT2013 challenge. </li>
 
 <li> Extract the archive to `vot-toolkit/results`. </li>
@@ -45,7 +45,7 @@ of all trackers from VOT2013 challenge. </li>
 
 <br>
 
-Disclaimer: Due to ongoing changes in the toolkit some results for VOT2013 may not be completely identical to the 
+Disclaimer: Due to ongoing changes in the toolkit some results for VOT2013 may not be completely identical to the
 official ones. We are currently working to obtain the published results.
 
 </div>
@@ -57,7 +57,7 @@ official ones. We are currently working to obtain the published results.
 </a>
 
 <ul>
-<li> download the [results file](http://box.vicos.si/vot/vot2014_results.zip). This file contains results
+<li> download the [results file](http://data.votchallenge.net/vot2014/vot2014_results.zip). This file contains results
 of all trackers from VOT2014 challenge. </li>
 
 <li> Extract the archive to `vot-toolkit/results`. </li>
@@ -65,7 +65,7 @@ of all trackers from VOT2014 challenge. </li>
 <li> Remove `error` command. </li>
 
 <li> Modify `trackers` variable such that
-`trackers = tracker_load(vot2014.txt', '{{yourtracker}}')`, where `{{yourtracker}}` is the name of your 
+`trackers = tracker_load(vot2014.txt', '{{yourtracker}}')`, where `{{yourtracker}}` is the name of your
 tracker. </li>
 
 <li> Comment `report_article`. </li>
@@ -81,7 +81,7 @@ tracker. </li>
 <a class="buttonevaluationpaper text-primary">
 <h3>To generate results for your paper</h3>
 </a>
- 
+
 <ul>
 <li> Download the raw results for the trackers you want to compare to (e.g. from VOT2013 challenge). </li>
 

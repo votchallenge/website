@@ -5,7 +5,7 @@ submenu: Results
 
 # Documents
 
--   [Report](Download/vot_2013_paper.pdf) - The paper that summarizes Visual Object Tracking VOT2013 challenge results 
+-   [Report](Download/vot_2013_paper.pdf) - The paper that summarizes Visual Object Tracking VOT2013 challenge results
 -   [Presentation](Download/vot_2013_presentation.pdf) - The presentation of Visual Object Tracking VOT2013 challenge results
 
 # Generated results
@@ -16,6 +16,6 @@ submenu: Results
 
 # Raw data
 
--   [Sequence deataset](http://box.vicos.si/vot/vot2013.zip) - Sequences for the VOT2013 dataset (this file is automatically downloaded by the toolkit) 
--   [Raw results](http://box.vicos.si/vot/vot2013_results.zip) - Raw results of participating trackers needed for comparative analysis
+-   [Sequence deataset](http://data.votchallenge.net/vot2013/vot2013.zip) - Sequences for the VOT2013 dataset (this file is automatically downloaded by the toolkit)
+-   [Raw results](http://data.votchallenge.net/vot2013/vot2013_results.zip) - Raw results of participating trackers needed for comparative analysis
 

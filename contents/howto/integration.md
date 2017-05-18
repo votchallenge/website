@@ -7,13 +7,13 @@ title: Integrating tracker
 # Integrating tracker into the VOT toolkit
 
 This tutorial assumes that you already have the toolkit on your computer, that you have [set up](workspace.html) the workspace correctly. After this the setup script has generated a template file for your tracker configuration that has to be manually edited. Open the tracker configuration file `vot-workspace/tracker_{{name}}.m`, where `{{name}}` is the unique identifier of your tracker:
-- Remove line: `error('Tracker not configured!');` 
+- Remove line: `error('Tracker not configured!');`
 - Optionally, set `tracker_label = [];` to `tracker_label = '{{name}}';`, where `{{name}}` is a non-unique human-readable name of the tracker.
 - Set the `tracker_command` variable to the absolute path to your tracker executable and the optional parameters as explained further down.
 - If you are using an interpreter to run your tracker (e.g. Matlab or Python) verify that `tracker_interpreter` variable is set to the correct value.
 - Set variable `tracker_linkpath` if the tracker needs some additional libraries which are not in standard library path.`
 <div class="screenshot"><img src="/howto/img/perfeval/22.png"/></div>
-       
+
 Also, verify that `./vot-workspace/run_experiments.m` line `tracker = tracker_load('{{tracker}}')` is set that `{{tracker}}` is the unique identifier of your tracker. (e.g. `tracker = tracker_load('NCC')`). This is important to do if you are running multiple trackers in the same workspace.
 
 <div class="screenshot"><img src="/howto/img/perfeval/23.png" /></div>
@@ -65,10 +65,10 @@ If the code is compiled as C++ the following simple example illustrates how the 
 
         VOTRegion region = vot.region(); // Get region and first frame
         string path = vot.frame();
-        
+
         // TODO: Load the first frame and use the initialization region to initialize the tracker.
 
-        //track   
+        //track
         while (true) {
             path = vot.frame(); // Get the next frame
             if (path.empty()) break; // Are we done?
@@ -86,6 +86,8 @@ If the code is compiled as C++ the following simple example illustrates how the 
     }
 
 To register a native tracker in the environment, simply set the `tracker_command` variable value in the tracker configuration file to the full absolute path to the executable (optionally together with required parameters if the tracker requires some).
+
+**TraX library**: The wrapper header overlays the TraX library to communicate with the toolkit. Because of this you have to download and enable the [TraX library](https://github.com/votchallenge/trax) (precompiled releases are available for major platforms on [BinTray](https://bintray.com/votchallenge/trax/stable/_latestVersion)).
 
 **Linking problems**: In some cases the executable requires access to some additional libraries, found in non-standard directories. Matlab overrides the default linking path environmental variable, which can cause linking problems in some cases. For this we have introduced a `tracker_linkpath` variable. This variable should be a cell-array of all directories that should be included in the linking path. An example below adds two custom directories to the library path list in Linux:
 
@@ -118,12 +120,12 @@ The communcation between the toolkit and the tracker is handled by the code in `
             if isempty(image) % Are we done?
                 break;
             end;
-         
+
             image_rgb = imread(image); % Read the image from file
 	        % TODO: Perform a tracking step with the image, obtain new region
-            
+
             handle = handle.report(handle, region); % Report position for the given frame
-            
+
         end;
 
         handle.quit(handle); % Output the results and clear the resources
@@ -132,11 +134,13 @@ The communcation between the toolkit and the tracker is handled by the code in `
 
 For an concrete example of integration please check out the Matlab tracker example in the `tracker/examples/matlab` directory.
 
-When specifying the `tracker_command` variable in the tracker configuration file please note that the wrapper script file is not the one being executed but functions only as a parameter to the Matlab executable. For convinience, the toolkit provides a function that generates a valid `tracker_command` string for Matlab trackers by specifying the script that should be run and the directories that should be included before that. 
+When specifying the `tracker_command` variable in the tracker configuration file please note that the wrapper script file is not the one being executed but functions only as a parameter to the Matlab executable. For convinience, the toolkit provides a function that generates a valid `tracker_command` string for Matlab trackers by specifying the script that should be run and the directories that should be included before that.
 
     tracker_command = generate_matlab_command('<TODO: tracker script>', {'<TODO: path to script>'});
 
 It is important that all the directories containing required Matlab scripts are contained in the MATLAB path when the evaluation is run. Also note that any unhandled exception thrown in the script will result in Matlab breaking to interactive mode and that this will prevent the evaluation from continuing. It is therefore advised that all exceptions are handled explicitly so that the wrapper script always terminates the interpreter.
+
+**TraX mex**: The wrapper header overlays the TraX library to communicate with the toolkit. If you have downloaded the toolkit with pre-compiled MEX files it should already include the required components, otherwise the toolkit will compile them (you need a C/C++ compiler to do that).
 
 ## Python trackers
 
@@ -163,11 +167,13 @@ For trackers, written in Python the communcation between the toolkit and the tra
         handle.report(selection)
         time.sleep(0.01)
 
-When specifying the `tracker_command` variable in the tracker configuration file please note that the wrapper script file is not the one being executed but functions only as a parameter to the Python interpreter executable. For convinience, the toolkit provides a function that generates a valid `tracker_command` string for Python trackers by locating the interpreter executable and specifying the script that should be run and the directories that should be included before that. 
+When specifying the `tracker_command` variable in the tracker configuration file please note that the wrapper script file is not the one being executed but functions only as a parameter to the Python interpreter executable. For convinience, the toolkit provides a function that generates a valid `tracker_command` string for Python trackers by locating the interpreter executable and specifying the script that should be run and the directories that should be included before that.
 
     tracker_command = generate_python_command('<TODO: tracker script>', {'<TODO: path to script>'});
 
 It is important that all the directories containing required modules are contained in the Python path or provided to the generator command.
+
+**TraX package**: The wrapper class for Python overlays the TraX library to communicate with the toolkit. You can get the Python implementation of the TraX protocol in the [reference implementation repository](https://github.com/votchallenge/trax), but by default the toolkit should also download it when it is initialized (check if `native/trax` directory exists).
 
 ## Testing integration
 
@@ -183,14 +189,13 @@ To make the tracker evaluation fair we list several rules that you should be awa
 
 		RandStream.setGlobalStream(RandStream('mt19937ar', 'Seed', sum(clock)));
 
-* _Image stream_ - The tracking scenario specifies input images as a stream. Therefore the tracker should always only access images in the specified order and not skip ahead. 
+* _Image stream_ - The tracking scenario specifies input images as a stream. Therefore the tracker should always only access images in the specified order and not skip ahead.
 * _Tracker parameters_ - The tracker is supposed to be executed with the same set of parameters on all the sequences. Any effort to determine the parameter values that were pre-tuned to a specific challenge sequence from the given images is prohibited.
 * _Resources access_ - The tracker program should only access the files in the directory that it is executed in.
 
 While we cannot enforce these guidelines in the current toolkit, the adherence of these rules is mandatory. Any violation is considered as cheating and could result in disqualification from the challenge.
 
 
-       
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-question-sign hugeicon"></i> </div>
 <h4>Need more information?</h4>

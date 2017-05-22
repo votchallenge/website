@@ -15,7 +15,7 @@ Each tracker is referred as **NAME (Appendix Nr NN)**, where NAME is the name gi
 
 If you have any question or suggestion, please <a href="https://groups.google.com/forum/?hl=en#!forum/votchallenge-help"> contact us on the support forum</a>.
 
-# Trackers
+### Trackers
 
 -   [DPCF (Appendix Nr 1)](http://data.votchallenge.net/vot2016/trackers/01_DPCF.zip)
 

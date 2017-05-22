@@ -6,21 +6,21 @@ title: Setting up VOT workspace
 
 # Setting up VOT workspace
 
-Download VOT toolkit from git repository (https://github.com/votchallenge/vot-toolkit), either
-* by using git command line : `git clone https://github.com/votchallenge/vot-toolkit`
+You can download the VOT toolkit with pre-compiled components from BinTray.
 
-or
+ * Latest VOT toolkit binaries: [![Download](https://api.bintray.com/packages/votchallenge/toolkit/vot2017/images/download.svg) ](https://bintray.com/votchallenge/toolkit/vot2017/_latestVersion)
+ * Latest TraX library binaries: [![Download](https://api.bintray.com/packages/votchallenge/trax/stable/images/download.svg) ](https://bintray.com/votchallenge/trax/stable/_latestVersion)
 
-* by downloading a zip file
+Alternatively, you can download just the sources from the [VOT toolkit GitHub repository](https://github.com/votchallenge/vot-toolkit).
 
 <div class="screenshot"><img src="/howto/img/perfeval/1b.png" width=600 alt="Download zip VOT toolkit"/></div>
 
 From now on we are assuming you have toolkit in `vot-toolkit` directory. It is recommended that you add at least this directory to default path list in [Matlab/Octave](http://www.mathworks.com/help/matlab/matlab_env/what-is-the-matlab-search-path.html). Then create an empty directory that will be used to perform your experiments. We will call this directory `vot-workspace`.
 
 1. Run `toolkit_path` to ensure that all the required subdirectories are in matlab path (you must be in `vot-toolkit` directory or have have the `vot-toolkit` directory in the path list for this to work).
-2. Go to `vot-workspace` directory. Run matlab and execute `workspace_create` command.
+2. Go to `vot-workspace` directory. Run Matlab/Octave and execute `workspace_create` command.
 3. Select an experiment stack that you want to use (e.g. `vot2013` denotes the VOT2013 benchmark experiment stack).
-4. Enter the unique indentifier of your tracker (e.g. `NCC` for norm-crosscorrelation tracker).
+4. Enter the unique identifier of your tracker (e.g. `NCC` for normalized cross-correlation tracker that is supplied in the `tracker/examples` directory).
 5. Select the interpreter used in your tracker (or none if the tracker is compiled into an executable).
 
   <div class="screenshot"><img src="/howto/img/perfeval/2b.png" alt="Workspace setup guide"/></div>

@@ -25,7 +25,7 @@ submenu: Participate
 
 ### Participation instructions
 
- * The **most recent version of the [VOT toolkit](https://github.com/votchallenge/vot-toolkit) is required** (VOT-TIR2017: the TIR challenge is also supported by the new toolkit).
+ * The **most recent version of the [VOT toolkit](https://github.com/votchallenge/vot-toolkit) is required** (VOT-TIR2017: the TIR challenge is also supported by the new toolkit). Because of some recent changes at least version 5.0.1 of the toolkit is required (previous results may be invalid).
  * Follow [this tutorial](/howto/workspace.html) to download the toolkit and set up the environment and [this tutorial](/howto/integration.html) to integrate your tracker into the toolkit. The toolkit will automatically download the dataset, alternatively you can download it [here](http://data.votchallenge.net/vot2017/vot2017.zip).
 
 <div class="alert alert-info" role="alert">

@@ -5,10 +5,10 @@ submenu: Results
 
 # Documents
 
--   [VOT Report](/vot2016/presentations/vot_2016_paper.pdf) The paper that summarizes Visual Object Tracking VOT2016 challenge results
--   [VOT Presentation](/vot2016/presentations/vot_2016_presentation.pdf) The presentation of Visual Object Tracking VOT2016 challenge results
--   [VOT-TIR Report](/vot2016/presentations/vot_tir_2016_paper.pdf) The paper that summarizes Visual Object Tracking VOT-TIR2016 challenge results
--   [VOT-TIR Presentation](/vot2016/presentations/vot_tir_2016_presentation.pdf) The presentation of Visual Object Tracking VOT-TIR2016 challenge results
+-   [VOT Report](http://data.votchallenge.net/vot2016/presentations/vot_2016_paper.pdf) The paper that summarizes Visual Object Tracking VOT2016 challenge results
+-   [VOT Presentation](http://data.votchallenge.net/vot2016/presentations/vot_2016_presentation.pdf) The presentation of Visual Object Tracking VOT2016 challenge results
+-   [VOT-TIR Report](http://data.votchallenge.net/vot2016/presentations/vot_tir_2016_paper.pdf) The paper that summarizes Visual Object Tracking VOT-TIR2016 challenge results
+-   [VOT-TIR Presentation](http://data.votchallenge.net/vot2016/presentations/vot_tir_2016_presentation.pdf) The presentation of Visual Object Tracking VOT-TIR2016 challenge results
 
 # Trackers code
 

@@ -68,9 +68,9 @@ A collection of documentation and tutorials on various topics.
   </div>
   <div class="panel-body">
 
-    VOT2017 will be held in cojunction with ICCV2017 in October! 
+    VOT2017 will be held in cojunction with ICCV2017 in October!
     <br>
-    Note that the new challenge will no longer support the legacy VOT2013 integration. All trackers must be integrated with the TraX protocol (see guidelines here http://www.votchallenge.net/howto/).
+    The dataset has been updated, we have also introduced a real-time experiment. Because of this we will no longer support the legacy VOT2013 integration. All trackers must be integrated with the TraX protocol. Challenge winner will be determined on a sequestered dataset.
   </div>
 </div>
 

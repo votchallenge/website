@@ -38,7 +38,7 @@ The legacy file-based integration approach, introduced in VOT2013 is not support
 
 ### Participation requirements
 
- * The real-time experiment requires running the tracker on a single machine (you can use multiple CPUs or GPU) on an i7 CPU or lower. Please, make sure that this is the hardware that you are using when running the tracker. Also, specify your hardware setup correctly when submitting the results.
+ * The real-time experiment requires running the tracker on a single machine (you can use multiple CPUs or GPU). Please, make sure that this is the hardware that you are using when running the tracker. Also, specify your hardware setup correctly when submitting the results.
  * Authors are required to help the VOT technical committee to reproduce their results. If the results cannot be reproduced by the VOT using the submitted code, the tracker will be removed from the paper.
  * The submission should contain all the results and the tracker code following several requirements that will enable us to automatically process the submission and re-produce the results:
    - ALL source code for the tracker must be included in the submission.

@@ -34,7 +34,7 @@ The legacy file-based integration approach, introduced in VOT2013 is not support
 
  * Make sure that you select the correct experiment stack (`vot2017` for VOT2017 challenge and `vottir2016` for VOT-TIR2017 challenge) for the corresponding challenge.
  * Follow [this tutorial](/howto/perfeval.html) to run the experiments and correctly pack the results.
- * After packing the results submit them via the submission page (available soon).
+ * After packing the results submit them via the [submission page](http://submit.votchallenge.net/).
 
 ### Participation requirements
 

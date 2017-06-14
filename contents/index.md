@@ -67,7 +67,7 @@ A collection of documentation and tutorials on various topics.
     <h3 class="panel-title">VOT2017 deadline extended</h3>
   </div>
   <div class="panel-body">
-    The deadline for VOT2017 challenge submissions has been extended to Monday, 19th at 12.00 AM (noon) CET (Central-European time).
+    The deadline for VOT2017 challenge submissions has been extended to Monday, 19th of June at 12.00 AM (noon) CET (Central-European time).
   </div>
 </div>
 

@@ -34,7 +34,7 @@ This is a tentative list of important dates for VOT2017:
 
  * Data available: May 8th 2017
  * Paper Submission: June 16th 2017
- * Results submission deadline: June 17th 2017
+ * Results submission deadline: June 19th 2017 (12.00 AM CET - noon)
  * Notification of Acceptance: July 11th 2017
  * Camera-Ready Paper Due: August 20th 2017
  * Workshop: October 28th 2017 (Half day, AM)

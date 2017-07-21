@@ -10,11 +10,18 @@ submenu: Participate
  * Original or improved trackers as well as papers giving new insights into existing trackers or class of trackers (see below). Note that participation at VOT2017 challenge is required.
  * Novel ways of using and extending the VOT framework for tracker performance analysis.
 
-### Submission instructions
+### Submission instructions for regular papers
 
  * The full-length VOT2017 workshop papers must follow the standard requirements for ICCV2017 regular papers.
  * Submit the paper using the [VOT2017 CMT paper submission system](https://cmt3.research.microsoft.com/VOT2017).
  * The submitted papers should be compiled for double-blind reviewing.
+
+### Submission instructions for ICCV-rejected papers
+
+We offer authors of ICCV-rejected tracking papers to submit their paper to the VOT workshop. Rules are the same as for the regular submission process with some additions.
+
+ * You must include all review forms and rebuttal letter as single PDF document to your submission.
+ * You must address criticism and exposed flaws in your submitted paper to meet the requirements of the VOT workshop. Your submission will be assessed by the VOT organizers based on the provided review forms and rebuttal letter.
 
 ## Participate by attending the VOT2017 challenge
 

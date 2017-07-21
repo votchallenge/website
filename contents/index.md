@@ -64,10 +64,10 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">VOT2017 deadline extended</h3>
+    <h3 class="panel-title">VOT2017 welcomes ICCV-rejected papers</h3>
   </div>
   <div class="panel-body">
-    The deadline for VOT2017 challenge submissions has been extended to Monday, 19th of June at 12.00 AM (noon) CET (Central-European time).
+    We offer authors of ICCV-rejected papers addressing visual tracking to submit their paper for review until August 4th, 2017. Please look at the [participation instructions](/vot2017/participation.html) for more information.
   </div>
 </div>
 

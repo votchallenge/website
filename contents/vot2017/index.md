@@ -5,7 +5,7 @@ submenu: Home
 
 # VOT2017 Challenge
 
-<img class="logo float-right frame" src="../img/vot2017_logo_website_large.png" alt="VOT2017" />
+<img class="logo float-right frame" src="../img/vot2017_logo_website_large.png" alt="VOT2017"  />
 
 The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
 

@@ -5,7 +5,7 @@ submenu: Program
 
 # Workshop program
 
-<img class="logo float-right frame" src="./img/logo_ljubljana.png" alt="VOT2016" />
+<img class="logo float-right frame" src="/img/org/logo_ljubljana.png" alt="VOT2016" />
 
 
 Sponsor: <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Information Science</a>, University of Ljubljana.

@@ -31,7 +31,7 @@ TBA
 ## Supporting organizations
 
 <div class="supporters">
-<a href="http://www.ait.ac.at/?L=1"><img src="/img/org/logo_ait.png" alt="AIT"></a>
+<a href="http://www.ait.ac.at/?L=1"><img src="/img/org/logo_ait.png" alt="AIT" ></a>
 <a href="http://www.fri.uni-lj.si/en"><img src="/img/org/logo_ljubljana.png" alt="University of Ljubljana"></a>
 <a href="http://www.birmingham.ac.uk"><img src="/img/org/logo_birmingham.png" alt="University of Birmingham"></a>
 <a href="http://intranet.cvut.cz/en"><img src="/img/org/logo_cvut.png" alt="CTU, Prague"></a>

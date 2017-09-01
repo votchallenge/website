@@ -26,7 +26,14 @@ submenu: People
 
 ## Program committee
 
-TBA
+- Cher Heng, Panasonic R&D Center
+- Federico Pernici, University Florence
+- Jörgen Ahlberg, Termisk Systemteknik
+- Kyoung Mu Lee, Seoul National University
+- Larry Davis, University of Maryland at College Park
+- Michael Arens, Fraunhofer IOSB
+- Peter Roth, AIT
+- Richard Bowden, University of Surrey
 
 ## Supporting organizations
 

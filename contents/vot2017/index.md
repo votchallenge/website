@@ -49,3 +49,4 @@ The main sponsor of the VOT2017 workshop is Faculty of Computer and Information 
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="250px"/></a>
 </div>
 
+

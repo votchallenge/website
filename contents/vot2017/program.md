@@ -46,7 +46,7 @@ Sponsor: <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Inform
 
 ## Oral session II (11.00-12.30)
 
-11.00 	Invited/Keynote Talk: TBA
+11.00 	Invited/Keynote Talk: Davide Scaramuzza (title TBA)
 
 11.30 	Presentation of the VOT-TIR2017 winning tracker: TBA
 
@@ -55,4 +55,5 @@ Sponsor: <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Inform
 12.00 	Panel Discussion
 
 12.30 	Closing Remarks
+
 

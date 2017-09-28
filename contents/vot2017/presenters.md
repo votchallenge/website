@@ -21,7 +21,7 @@ The location of the workshop is available [here](http://iccv2017.thecvf.com/prog
  * In addition, please remember to prepare a poster of your paper which will be presented in the poster session.
 
 ### Slides Format
- * You are required to send a video recording of your slides in MP4 format using a 1024x768 resolution. The video should be exactly 3 min and 10 sec long. Longer videos will be truncated.
+ * You are required to send a video recording of your slides in MP4 format using a 1024x768 resolution. The video should be exactly 5 min long. Longer videos will be truncated.
  * Hints: If you prepare your presentation using MS PowerPoint you can time your slides and save the presentation as a WMV video directly from PowerPoint.
  * Some instructions on how to do this can be found [here](https://support.office.com/en-us/article/Turn-your-presentation-into-a-video-c140551f-cb37-4818-b5d4-3e30815c3e83). You will then need to convert the WMV video into MP4 (with e.g. FFMPEG)
 
@@ -36,3 +36,7 @@ The location of the workshop is available [here](http://iccv2017.thecvf.com/prog
 
  * Please attach the poster to the corresponding stand, before the workshop begins. Organisers will be present 25 min before the workshop. The corresponding stand will show your CMT submission number. Check with the organisers, when you cannot find your poster stand.
  * The poster session will take place during the coffee break.
+ * Poster stands have a dimension of 2 (width) x 3 (height) m. You can use any poster size within these bounds, but we recommend using a horizontal layout (e.g. 2 x 1.5 m).
+ * A PowerPoint template is provided [here](http://iccv2017.thecvf.com/files/iccv17_poster_template.pptx).
+
+

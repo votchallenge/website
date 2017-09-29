@@ -13,13 +13,13 @@ Sponsor: <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Inform
 
 ## Oral session I (08.25-10.00)
 
-08.25 	Welcome
+ * 08.25 	**Welcome**
 
-08.30 	The VOT2017 and VOT-TIR2017 challenge results
+ * 08.30 	**The VOT2017 and VOT-TIR2017 challenge results**
 
-09.15 	The VOT2017 winning tracker: TBA
+ * 09.15 	**The VOT2017 winning tracker**: TBA
 
-09.30 	Spotlight presentations of the poster session
+ * 09.30 	Spotlight presentations of the poster session
 
 ## Poster session (10.00-11.00)
 
@@ -46,14 +46,16 @@ Sponsor: <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Inform
 
 ## Oral session II (11.00-12.30)
 
-11.00 	Invited/Keynote Talk: Davide Scaramuzza (title TBA)
+ * 11.00 	Invited/Keynote Talk: **Davide Scaramuzza, Robust, Visual-Inertial State Estimation: from Frame to Event Cameras**
 
-11.30 	Presentation of the VOT-TIR2017 winning tracker: TBA
+    I will present the main algorithms to achieve robust, 6-DOF, state estimation for mobile robots using passive sensing. Since cameras alone are not robust enough to high-speed motion and high-dynamic range scenes, I will describe how IMUs and event-based cameras can be fused with visual information to achieve higher accuracy and robustness. I will therefore dig into the topic of event-based cameras, which are revolutionary sensors with a latency of microseconds, a very high dynamic range, and a measurement update rate that is almost a million time faster than standard cameras. Finally, I will show concrete applications of these methods in autonomous navigation of vision-controlled drones.
 
-11.45 	The VOT-realtime challenge best performing tracker talk: TBA
+ * 11.30 	**Presentation of the VOT-TIR2017 winning tracker**: TBA
 
-12.00 	Panel Discussion
+ * 11.45 	**The VOT-realtime challenge best performing tracker talk**: TBA
 
-12.30 	Closing Remarks
+ * 12.00 	Panel Discussion
+
+ * 12.30 	Closing Remarks
 
 

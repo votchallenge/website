@@ -41,35 +41,11 @@ A collection of documentation and tutorials on various topics.
 
 </div>
 
+## Citing VOT Challenge
+
+When using any of VOT benchmarks in your paper, please cite the VOT journal paper (A Novel Performance Evaluation Methodology for Single-Target Trackers, TPAMI 2016) as well as the relevant VOT workshop paper describing the relevant benchmark.
+
 ## Highlights and news
-
-<!--div class="panel panel-success">
-  <div class="panel-heading">
-    <h3 class="panel-title"> VOT2016 challenge updates</h3>
-  </div>
-  <div class="panel-body">
-<ul>
-    <li><a href="/vot2016/index.html#info_20160714">Workshop day</a> (Posted on July 14th 2016)</li>
-    <li><a href="/vot2016/index.html#info_20160630">Paper deadline extension</a> (Posted on June 30th 2016)</li>
-    <li><a href="/vot2016/index.html#info_20160616">Information about GT</a> (Posted on June 16th 2016)</li>
-    <li><a href="/vot2016/index.html#info_20160610">Challenge deadline extension</a> (Posted on June 10th 2016)</li>
-    <li><a href="/vot2016/index.html#info_20160609">VOT2016 toolkit update</a> (Posted on June 9th 2016)</li>
-</ul>
-
-    For more details check the [challenge webpage](http://www.votchallenge.net/vot2016/index.html)</li>
-
-
-  </div>
-</div-->
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">VOT2017 welcomes ICCV-rejected papers</h3>
-  </div>
-  <div class="panel-body">
-    We offer authors of ICCV-rejected papers addressing visual tracking to submit their paper for review until August 4th, 2017. Please look at the [participation instructions](/vot2017/participation.html) for more information.
-  </div>
-</div>
 
 <div class="panel panel-default">
   <div class="panel-heading">
@@ -82,32 +58,6 @@ A collection of documentation and tutorials on various topics.
     The dataset has been updated, we have also introduced a real-time experiment. Because of this we will no longer support the legacy VOT2013 integration. All trackers must be integrated with the TraX protocol. Challenge winner will be determined on a sequestered dataset.
   </div>
 </div>
-
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">VOT2016 Trackers repository</h3>
-  </div>
-  <div class="panel-body">
-
-    The VOT2016 trackers repository is [on-line](http://www.votchallenge.net/vot2016/trackers.html).
-  </div>
-</div>
-
-
-
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">VOT2016 ground truth segmentations</h3>
-  </div>
-  <div class="panel-body">
-
-    The VOT2016 video segmentations are now freely available to the tracking community. All frames in the 60 sequences of the VOT2016 have been manually segmented with tools developed by the VOT technical committee. The segmentations as well as the code to automatically fit bounding boxes to the segmentations are now publicly available from [this link](http://cmp.felk.cvut.cz/~vojirtom/dataset/votseg/index.html).
-  </div>
-</div>
-
-
 
 <div class="panel panel-default">
   <div class="panel-heading">

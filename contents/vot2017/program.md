@@ -5,12 +5,6 @@ submenu: Program
 
 # Workshop program
 
-<img class="logo float-right frame" src="/img/org/logo_ljubljana.png" alt="VOT2017" />
-
-
-Sponsor: <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Information Science</a>, University of Ljubljana.
-<br><br>
-
  * 08.25 	**Welcome**
 
  * 08.30-10.00 **Oral session I**, session chair Ji&#345;i Matas
@@ -50,9 +44,9 @@ Sponsor: <a href="https://www.fri.uni-lj.si/">the Faculty of Computer and Inform
 
       I will present the main algorithms to achieve robust, 6-DOF, state estimation for mobile robots using passive sensing. Since cameras alone are not robust enough to high-speed motion and high-dynamic range scenes, I will describe how IMUs and event-based cameras can be fused with visual information to achieve higher accuracy and robustness. I will therefore dig into the topic of event-based cameras, which are revolutionary sensors with a latency of microseconds, a very high dynamic range, and a measurement update rate that is almost a million time faster than standard cameras. Finally, I will show concrete applications of these methods in autonomous navigation of vision-controlled drones.
 
-   * 11.30 	**Presentation of the VOT-TIR2017 winning tracker**: TBA
+   * 11.30	**The VOT-realtime challenge best performing tracker talk**: TBA
 
-   * 11.45 	**The VOT-realtime challenge best performing tracker talk**: TBA
+   * 11.45  **Advantages & Challenges of Thermal Imaging**, Adel Lablack, Stefan Schulte, FLIR
 
  * 12.00-12.30 **Panel**
 

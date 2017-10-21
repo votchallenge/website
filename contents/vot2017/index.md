@@ -43,10 +43,11 @@ This is a tentative list of important dates for VOT2017:
 
 ## Sponsors
 
-The main sponsor of the VOT2017 workshop is Faculty of Computer and Information Science, University of Ljubljana.
+The VOT2017 workshop sponsors are Faculty of Computer and Information Science, University of Ljubljana and SICK.
 
 <div class="spotlight">
-<a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="250px"/></a>
+<a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="150px"/></a>
+<a href="https://www.sick.com/us/en/"><img src="/img/org/logo_sick.gif" width="100px"/></a>
 </div>
 
 

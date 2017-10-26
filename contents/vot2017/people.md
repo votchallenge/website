@@ -23,6 +23,7 @@ submenu: People
 -   [Tom&#225;&#353; Voji&#345;](http://cmp.felk.cvut.cz/~vojirtom/), Czech Technical University in Prague, Czech Republic
 -   [Gustav H&auml;ger](http://www.liu.se/personal/isy/cvl/gusha40?l=en), Link&ouml;ping University, Sweden
 -   [Alan Luke&#382;i&#269;](http://www.vicos.si/User:Alanl), University of Ljubljana, Slovenia
+-   [Abdelrahman Eldesokey](https://liu.se/en/employee/abdel62), Link&ouml;ping University, Sweden
 
 ## Program committee
 

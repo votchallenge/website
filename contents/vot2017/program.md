@@ -13,7 +13,7 @@ submenu: Program
 
    * 09.15 	**The VOT2017 winning tracker**: TBA
 
-   * 09.30 	Spotlight presentations of the poster session
+   * 09.30  Spotlight presentations (chair: Roman Pflugfelder)
 
  * 10.00-11.00 **Poster session**, session chair Roman Pflugfelder
 
@@ -49,10 +49,6 @@ submenu: Program
    * 11.45  **Advantages & Challenges of Thermal Imaging**, Adel Lablack, Stefan Schulte, FLIR
 
  * 12.00-12.30 **Panel**
-
-   *  Advantages & Challenges of Thermal Imaging, Adel Lablack, Stefan Schulte, FLIR
-
-   *  Discussion
 
  * 12.30 	Closing Remarks
 

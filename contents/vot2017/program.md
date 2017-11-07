@@ -5,13 +5,15 @@ submenu: Program
 
 # Workshop program
 
- * 08.25 	**Welcome**
+ * 08.25 **Welcome** ([presentation](http://data.votchallenge.net/vot2017/presentations/vot2017_hello.pdf))
 
  * 08.30-10.00 **Oral session I**, session chair Ji&#345;i Matas
 
-   * 08.30 	**The VOT2017 and VOT-TIR2017 challenge results**
+   * 08.30 	**The VOT2017 and VOT-TIR2017 challenge results** ([presentation](http://data.votchallenge.net/vot2017/presentations/vot2017_presentation.pdf))
 
-   * 09.15 	**The VOT2017 winning tracker**: TBA
+   * 09.15 	**The VOT2017 winning tracker**: Convolutional Features for Correlation Filters
+
+     Erhan Gundogdu (Middle East Technical University), Aydin Alatan (Middle East Technical University)
 
    * 09.30  Spotlight presentations (chair: Roman Pflugfelder)
 
@@ -44,7 +46,9 @@ submenu: Program
 
       I will present the main algorithms to achieve robust, 6-DOF, state estimation for mobile robots using passive sensing. Since cameras alone are not robust enough to high-speed motion and high-dynamic range scenes, I will describe how IMUs and event-based cameras can be fused with visual information to achieve higher accuracy and robustness. I will therefore dig into the topic of event-based cameras, which are revolutionary sensors with a latency of microseconds, a very high dynamic range, and a measurement update rate that is almost a million time faster than standard cameras. Finally, I will show concrete applications of these methods in autonomous navigation of vision-controlled drones.
 
-   * 11.30	**The VOT-realtime challenge best performing tracker talk**: TBA
+   * 11.30	**The VOT-realtime challenge best performing tracker talk**: Discriminative Correlation Filter with Channel and Spatial Reliability
+
+     Alan Lukežič (University of Ljubljana), Tomáš Vojíř (CTU in Prague), Luka Čehovin Zajc (University of Ljubljana), Jiří Matas (CTU in Prague), Matej Kristan (University of Ljubljana)
 
    * 11.45  **Advantages & Challenges of Thermal Imaging**, Adel Lablack, Stefan Schulte, FLIR
 

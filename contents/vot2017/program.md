@@ -54,9 +54,9 @@ All papers, presented at the VOT2017 workshop are available in the [proceedings 
 
       I will present the main algorithms to achieve robust, 6-DOF, state estimation for mobile robots using passive sensing. Since cameras alone are not robust enough to high-speed motion and high-dynamic range scenes, I will describe how IMUs and event-based cameras can be fused with visual information to achieve higher accuracy and robustness. I will therefore dig into the topic of event-based cameras, which are revolutionary sensors with a latency of microseconds, a very high dynamic range, and a measurement update rate that is almost a million time faster than standard cameras. Finally, I will show concrete applications of these methods in autonomous navigation of vision-controlled drones.
 
-   * 11.30	**The VOT-realtime challenge best performing tracker talk**: Discriminative Correlation Filter with Channel and Spatial Reliability
+   * 11.30	**The VOT-realtime challenge best performing tracker talk**: Discriminative Correlation Filter with Channel and Spatial Reliability ([presentation](http://data.votchallenge.net/vot2017/presentations/csr-dcf.pdf))
 
-     Alan Lukežič (University of Ljubljana), Tomáš Vojíř (CTU in Prague), Luka Čehovin Zajc (University of Ljubljana), Jiří Matas (CTU in Prague), Matej Kristan (University of Ljubljana)
+     Alan Lukežič (University of Ljubljana), Andrej Muhič (University of Ljubljana), Tomáš Vojíř (CTU in Prague), Luka Čehovin Zajc (University of Ljubljana), Jiří Matas (CTU in Prague), Matej Kristan (University of Ljubljana)
 
    * 11.45  **Advantages & Challenges of Thermal Imaging**, Adel Lablack, Stefan Schulte, FLIR
 

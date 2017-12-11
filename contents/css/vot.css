@@ -225,3 +225,13 @@ ul.publications.embedded li .published {
     font-size: 90%;
     color: gray;
 }
+
+.bibtex {
+    padding: 10px;
+    font-size: 10px;
+    font-family: monospace;
+    white-space: pre;
+    color: #444444;
+}
+
+

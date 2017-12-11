@@ -43,21 +43,18 @@ A collection of documentation and tutorials on various topics.
 
 ## Citing VOT Challenge
 
-When using any of VOT benchmarks in your paper, please cite the VOT journal paper (A Novel Performance Evaluation Methodology for Single-Target Trackers, TPAMI 2016) as well as the relevant VOT workshop paper describing the relevant benchmark.
+When using any of VOT benchmarks in your paper, please cite the VOT journal paper as well as the relevant VOT workshop paper describing the relevant benchmark.
+
+<div class="bibtex panel panel-default">@article {VOT_TPAMI,
+    author = {Matej Kristan and Jiri Matas and Ale\v{s} Leonardis and Tomas Vojir and Roman Pflugfelder and Gustavo Fernandez and Georg Nebehay and Fatih Porikli and Luka \v{C}ehovin},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    title={A Novel Performance Evaluation Methodology for Single-Target Trackers},
+    year={2016}, month={Nov}, volume={38}, number={11}, pages={2137-2155},
+    doi={10.1109/TPAMI.2016.2516982}, ISSN={0162-8828}
+}</div>
+
 
 ## Highlights and news
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">VOT2017 @ ICCV 2017!</h3>
-  </div>
-  <div class="panel-body">
-
-    VOT2017 will be held in cojunction with ICCV2017 in October!
-    <br>
-    The dataset has been updated, we have also introduced a real-time experiment. Because of this we will no longer support the legacy VOT2013 integration. All trackers must be integrated with the TraX protocol. Challenge winner will be determined on a sequestered dataset.
-  </div>
-</div>
 
 <div class="panel panel-default">
   <div class="panel-heading">

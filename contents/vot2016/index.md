@@ -15,7 +15,7 @@ It is still possible to use the benchmark to evaluate your tracker and compare i
 
 <img class="logo float-right frame" src="../img/vot2016_logo_website_large.png" alt="VOT2016" />
 
-Welcome to the official homepage of the VOT2016 benchmark. This benchmark was used in the VOT2016 challenge which is now over. The results were presented at a VOT2016 workshop on October 10th, 2015 in Amsterdam, Netherlands in conjunction with [ECCV 2016](http://pamitc.org/iccv15/).<br/><br/>
+Welcome to the official homepage of the VOT2016 benchmark. This benchmark was used in the VOT2016 challenge which is now over. The results were presented at a VOT2016 workshop on October 10th, 2016 in Amsterdam, Netherlands in conjunction with [ECCV 2016](http://www.eccv2016.org).<br/><br/>
 
 <img class="frame float-center" src="img/workshop_collage.jpg" alt="VOT2016 Workshop" />
 

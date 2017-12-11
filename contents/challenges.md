@@ -8,17 +8,9 @@ title: Challenges
 
 <div class="row">
 
-<div class="col-lg-6 col-sm-12">
-<a href="/vot2017/" class="challengebutton text-primary">
-<img class="logo" src="/img/vot2017_logo_website.png" alt="VOT2017" />
-<h3>VOT2017 challenge</h3>
-<p class="description">The VOT2017 challenge will be the 5th visual object tracking challenge. Results will be presented at VOT workshop at ICCV2017. This year the VOT dataset has been refreshed, the winner will be determined on sequestered dataset and a real-time experiment has been introduced.</p>
-</a>
-</div>
-
-<!--div class="alert alert-info" role="alert">
+<div class="alert alert-info" role="alert">
  There are currently no open challenges.
-</div-->
+</div>
 </div>
 
 
@@ -27,6 +19,14 @@ title: Challenges
 Official results of past challenges are still available as a benchmark to researchers. We invite the visual tracking researchers to compare their methods with those results.
 
 <div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vot2017/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2017_logo_website.png" alt="VOT2017" />
+<h3>VOT2017 benchmark</h3>
+<p class="description">The VOT2017 benchmark introduced a refreshed a dataset and a real-time experiment. The winner will was determined on sequestered dataset.</p>
+</a>
+</div>
 
 <div class="col-lg-6 col-sm-12">
 <a href="/vot2016/" class="challengebutton text-primary">

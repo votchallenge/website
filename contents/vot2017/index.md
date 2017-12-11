@@ -3,47 +3,32 @@ template: page2017.jade
 submenu: Home
 ---
 
-# VOT2017 Challenge
+# VOT2017 Benchmark
+
+<div class="alert alert-info" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
+<h4>The VOT2017 challenge has ended</h4>
+
+It is still possible to use the benchmark to evaluate your tracker and compare it to the official results using the challenge ranking methodology. For more information on how to do this look at the [list of tutorials](/howto/index.html).
+</div>
 
 <img class="logo float-right frame" src="../img/vot2017_logo_website_large.png" alt="VOT2017"  />
 
-The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
+Welcome to the official homepage of the VOT2017 benchmark. This benchmark was used in the VOT2017 challenge which is now over. The results were presented at a VOT2017 workshop on October 28th, 2016 in Venice, Italy in conjunction with [ICCV2017](http://iccv2017.thecvf.com/).
 
-Following four highly successful VOT challenges, we are happy to announce the 5th Visual Object Tracking Challenge VOT2017 that will be held in conjunction with the [ICCV2017](http://iccv2017.thecvf.com/).
+<img class="frame float-center" src="img/workshop_collage.jpg" alt="VOT2017 Workshop" />
 
-Researchers from industry as well as academia are invited to participate. The challenge aims at **single-object short-term trackers** that do not apply pre-learned models of object appearance (**model-free**). Trackers do not necessarily need to be capable of automatic re-initialization, as the objects are visible over the whole course of the sequences.
 
-### Highlights
+### VOT2017 Highlights
 
  * Updated dataset
  * Realtime experiment
  * Full transition to TraX protocol
  * Winner will be determined on a sequestered dataset
 
-### Participate by
-
- * Run your tracker on VOT2017 challenge and submit the results. The joint results of the VOT2017 challenge will be presented at the VOT2017 workshop.
- * Run your tracker on VOT-TIR2017 challenge (which is the VOT-TIR2016 reopened) and submit the results.
- * Submit (and present) a research paper on visual tracking at the VOT2017 workshop.
-
-Visit the [participation page](/vot2017/participation.html) for detailed information on how to participate.
-
-### Important dates
-
-This is a tentative list of important dates for VOT2017:
-
- * Data available: May 8th 2017
- * Paper Submission: June 16th 2017
- * Results submission deadline: June 19th 2017 (12.00 AM CET - noon)
- * Notification of Acceptance: July 11th 2017
- * ICCV-rejected Paper Submission: August 4th 2017
- * ICCV-rejected Paper Author Notification: August 7th, 2017
- * Camera-Ready Paper Due: August 20th 2017
- * Workshop: October 28th 2017 (Half day, AM)
-
 ## Sponsors
 
-The VOT2017 workshop sponsors are Faculty of Computer and Information Science, University of Ljubljana and SICK.
+The VOT2017 workshop was sposored by the Faculty of Computer and Information Science, University of Ljubljana and SICK.
 
 <div class="spotlight">
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="150px"/></a>

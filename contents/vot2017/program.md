@@ -5,6 +5,14 @@ submenu: Program
 
 # Workshop program
 
+<div class="alert alert-info" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
+<h4>Workshop proceedings</h4>
+
+All papers, presented at the VOT2017 workshop are available in the [proceedings on the CVF website](http://openaccess.thecvf.com/ICCV2017_workshops/ICCV2017_W28.py).
+</div>
+
+
  * 08.25 **Welcome** ([presentation](http://data.votchallenge.net/vot2017/presentations/vot2017_hello.pdf))
 
  * 08.30-10.00 **Oral session I**, session chair Ji&#345;i Matas

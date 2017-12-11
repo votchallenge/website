@@ -47,3 +47,4 @@ submenu: People
 <a href="http://www.liu.se/?l=en&sc=true"><img src="/img/org/logo_liu.png" alt="University of Link&ouml;ping"></a>
 </div>
 
+

@@ -86,7 +86,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [Discriminative Correlation Filter with Channel and Spatial Reliability - fast (CSRDCFf)](https://github.com/alanlukezic/csr-dcf) - Appendix Nr 39
 
--   [Discriminative Correlation Filter with Channel and Spatial Reliability - C++ (CSRDCF++)](http://data.votchallenge.net/vot2017/trackers/) - Appendix Nr 40
+<!-- -   [Discriminative Correlation Filter with Channel and Spatial Reliability - C++ (CSRDCF++)](http://data.votchallenge.net/vot2017/trackers/) - Appendix Nr 40 -->
 
 <!-- -   [Deformable part correlation filter tracker (DPT)](http://data.votchallenge.net/vot2017/trackers/) - Appendix Nr 41 -->
 

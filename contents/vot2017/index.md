@@ -14,7 +14,7 @@ It is still possible to use the benchmark to evaluate your tracker and compare i
 
 <img class="logo float-right frame" src="../img/vot2017_logo_website_large.png" alt="VOT2017"  />
 
-Welcome to the official homepage of the VOT2017 benchmark. This benchmark was used in the VOT2017 challenge which is now over. The results were presented at a VOT2017 workshop on October 28th, 2016 in Venice, Italy in conjunction with [ICCV2017](http://iccv2017.thecvf.com/).
+Welcome to the official homepage of the VOT2017 benchmark. This benchmark was used in the VOT2017 challenge which is now over. The results were presented at a VOT2017 workshop on October 28th, 2017 in Venice, Italy in conjunction with [ICCV2017](http://iccv2017.thecvf.com/).
 
 <img class="frame float-center" src="img/workshop_collage.jpg" alt="VOT2017 Workshop" />
 

@@ -56,6 +56,22 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 ## Highlights and news
 
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">VOT2018 announcement</h3>
+  </div>
+  <div class="panel-body">
+We have received several inquiries about whether the VOT challenge will be organized this year.<br/><br/>
+
+The VOT2018 is planned, but the form depends on several factors. The VOT workshop proposal is pending and a joint results paper will be subject to acceptance of the workshop proposal, but the challenge does not depend on the proposal acceptance. If all goes well, the challenge will be announced in early April and will open in late April or early May, with results submission deadline in early June.<br/><br/>
+
+This year we plan to run (i) the VOT main challenge, (ii) the VOT-TIR sub-challenge, the and (iii) VOT-realtime sub-challenge. In addition, a new, VOT-long-term sub-challenge is planned, which will address long-term trackers (class of trackers that copes with situations where targets leave the field of view and re-enter it after some time).
+
+  </div>
+</div>
+
+
 <div class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">The VideoNet initiative</h3>

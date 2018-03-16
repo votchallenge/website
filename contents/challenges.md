@@ -8,9 +8,17 @@ title: Challenges
 
 <div class="row">
 
-<div class="alert alert-info" role="alert">
- There are currently no open challenges.
+<div class="col-lg-6 col-sm-12">
+<div class="challengebutton text-primary">
+<img class="logo" src="/img/vot_upcoming.png" alt="VOT2018" />
+<h3>VOT2018 challenge</h3>
+<p class="description">The VOT2018 challenge is announced. Stay tuned for more information.</p>
 </div>
+</div>
+
+<!--div class="alert alert-info" role="alert">
+ There are currently no open challenges.
+</div-->
 </div>
 
 

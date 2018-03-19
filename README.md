@@ -1,5 +1,5 @@
-VOT website
-===========
+Main website for the VOT challenges
+===================================
 
 Source files for the VOT challenge website.
 
@@ -14,7 +14,7 @@ npm install -g wintersmith
 ```
 * Clone this repository
 ```
-git clone git@github.com:xxx/vot-website
+git clone git@github.com:votchallenge/website
 ```
 After navigating to your local folder where the website resides (still in the terminal), you have two options:
 

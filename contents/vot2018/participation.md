@@ -40,19 +40,22 @@ We offer authors of papers submitted to ECCV but not accepted to re-submit their
  * A new methodology was developed to test the long-term tracking performance.
  * A new dataset has been constructed with many occurances of target leaving and re-entering the field of view.
 
-VOT 2018 thermal and infrared subchallenge
-  * The VOT-TIR will not be opened this year.
+### VOT 2018 thermal and infrared subchallenge
+
+<div class="alert alert-warning" role="alert">
+The VOT-TIR will not be opened this year.
+</div>
 
 ## Participation instructions
 
 * The most recent version of the VOT toolkit is required because of adaptation to long-term challenge and regular maintenance.
-* Follow this tutorial to download the toolkit and set up the environment and this tutorial to integrate your tracker into the toolkit. The toolkit will automatically download the dataset, alternatively you can download it here.
+* Follow [this tutorial](/howto/workspace.html) to download the toolkit and set up the environment and [this tutorial](/howto/integration.html) to integrate your tracker into the toolkit. The toolkit will automatically download the dataset, alternatively you can download it here.
 
 The legacy file-based integration approach, introduced in VOT2013 is not supported any more. All trackers require integration via the [TraX protocol](https://github.com/votchallenge/trax). The guidelines for integrating TraX protocol directly are available [here](https://trax.readthedocs.io/en/latest/tutorials.html). Additionally a wrapper is also provided to simplify the integration for people that have used VOT toolkit in the past, check the integration examples in the VOT toolkit repository on how to use it.
 
  * Make sure that you select the correct experiment stack (vot2018 for VOT2018 main challenge and votlt2018 for VOT-LT2018 subchallenge) for the corresponding challenge. The VOT-realtime subchallenge is automatically run as one of the experiments of the main VOT2018 challenge.
- * Follow this tutorial to run the experiments and correctly pack the results.
- * After packing the results submit them via the submission page.
+ * Follow [this tutorial](/howto/perfeval.html) to run the experiments and correctly pack the results.
+ * After packing the results submit them via the submission page (opening soon).
 
 ### Participation requirements
 

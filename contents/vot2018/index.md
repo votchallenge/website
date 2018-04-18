@@ -36,7 +36,7 @@ This is a tentative list of important dates for VOT2018:
  * ECCV tracking papers that were not accepted: July 10th 2018
  * Notification of Acceptance: July 12th 2018
  * Camera-Ready Paper Due: July 24th 2018
- * Workshop: September (between 8th and 14th) 2018 (Half day)
+ * Workshop: September 14th 2018 (Half day)
 
 ## Sponsors
 

@@ -12,7 +12,7 @@ title: Challenges
 <a href="/vot2018/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2018_logo_website.png" alt="VOT2018" />
 <h3>VOT2018 challenge</h3>
-<p class="description">The VOT2018 challenge is announced. Stay tuned for more information.</p>
+<p class="description">The VOT2018 challenge will be the 6th Visual Object Tracking challenge. Results will be presented at VOT workshop at ECCV2018. This challenge introduces a long-term subchallenge VOT-LT2018.</p>
 </a>
 </div>
 

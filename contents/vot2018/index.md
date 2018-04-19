@@ -45,7 +45,7 @@ The main sponsor of the VOT2018 workshop is Faculty of Computer and Information 
 
 <div class="spotlight">
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="150px"/></a>
-<!--a href="https://www.sick.com/us/en/"><img src="/img/org/logo_sick.gif" width="100px"/></a-->
+<a href="https://www.sick.com/us/en/"><img src="/img/org/logo_sick.gif" width="100px"/></a>
 </div>
 
 

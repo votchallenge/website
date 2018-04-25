@@ -42,9 +42,12 @@ For native trackers, written in C or C++ the communcation between the toolkit an
             const char* imagefile = vot_frame(); // Get the next frame
             if (!imagefile) break; // Are we done?
 
+            // tracker can report the confidence of the predicted region
+            float confidence;
+
             // TODO: Perform a tracking step with the image, obtain new region
 
-            vot_report(region); // Report the position of the tracker
+            vot_report2(region, confidence); // Report the position of the tracker
         }
 
         vot_region_release(&region); // In C regions have to be released to free memory.
@@ -73,9 +76,12 @@ If the code is compiled as C++ the following simple example illustrates how the 
             path = vot.frame(); // Get the next frame
             if (path.empty()) break; // Are we done?
 
+            // tracker can report the confidence of the predicted region
+            float confidence;
+
             // TODO: Perform a tracking step with the image, obtain new region
 
-            vot.report(region); // Report the position of the tracker
+            vot.report(region, confidence); // Report the position of the tracker
         }
 
         // Finishing the communication is completed automatically with the destruction
@@ -95,17 +101,12 @@ To register a native tracker in the environment, simply set the `tracker_command
 
 ## Matlab trackers
 
-Matlab-based trackers are a bit more tricky to integrate as the scripts are typically run in an integrated development environment. In order to integrate a Matlab tracker into the evaluation, a wrapper function has to be created. This function will usually read the input files, process it and write the output data. In case of the old integration approach is it is important that the `exit` command is called at the end in order to terminate Matlab interpreter completely. This is very important as the toolkit waits for the tracker executable to stop before it continues with the evaluation of the generated results. Another issue that has to be addressed is the user-issued termination. When a `Ctrl+C` command is issued during the `system` call the command is forwarded to the child process. Because of this the child Matlab will break the execution and return to interactive mode. In order to tell Matlab to quit in this case we can use the [onCleanup](http://www.mathworks.com/help/matlab/ref/oncleanup.html) function which also addresses the normal termination scenario:
-
-	function your tracker
-		cleanup = onCleanup(@() exit() ); % Tell Matlab to exit once the function exits
-		... tracking code ...
+Matlab-based trackers are a bit more tricky to integrate as the scripts are typically run in an integrated development environment. In order to integrate a Matlab tracker into the evaluation, a wrapper function has to be created. 
 
 The communcation between the toolkit and the tracker is handled by the code in `vot.m` file that is available in the `tracker/examples/matlab` directory. It is best to copy this file to your tracker directory. The function `vot` accepts a string parameter that should contain either value `'rectangle'` or `'polygon'` depending on which region format does your tracker expect (formats will be automatically converted, however, you may want to do it manually to avoid any problems and to get the most information from the input data). Below is a simple example that illustrates how the communication is performed.
 
     function your_tracker
 
-        cleanup = onCleanup(@() exit() ); % Always call exit command at the end to terminate Matlab!
         RandStream.setGlobalStream(RandStream('mt19937ar', 'Seed', sum(clock))); % Set random seed to a different value every time as required by the VOT rules.
 
         [handle, image, region] = vot('rectangle'); % Obtain communication object
@@ -124,7 +125,7 @@ The communcation between the toolkit and the tracker is handled by the code in `
             image_rgb = imread(image); % Read the image from file
 	        % TODO: Perform a tracking step with the image, obtain new region
 
-            handle = handle.report(handle, region); % Report position for the given frame
+            handle = handle.report(handle, region, confidence); % Report position and confidence for the given frame
 
         end;
 
@@ -164,7 +165,7 @@ For trackers, written in Python the communcation between the toolkit and the tra
         if not imagefile:
             break
 
-        handle.report(selection)
+        handle.report(selection, confidence)
         time.sleep(0.01)
 
 When specifying the `tracker_command` variable in the tracker configuration file please note that the wrapper script file is not the one being executed but functions only as a parameter to the Python interpreter executable. For convinience, the toolkit provides a function that generates a valid `tracker_command` string for Python trackers by locating the interpreter executable and specifying the script that should be run and the directories that should be included before that.
@@ -192,6 +193,7 @@ To make the tracker evaluation fair we list several rules that you should be awa
 * _Image stream_ - The tracking scenario specifies input images as a stream. Therefore the tracker should always only access images in the specified order and not skip ahead.
 * _Tracker parameters_ - The tracker is supposed to be executed with the same set of parameters on all the sequences. Any effort to determine the parameter values that were pre-tuned to a specific challenge sequence from the given images is prohibited.
 * _Resources access_ - The tracker program should only access the files in the directory that it is executed in.
+* _Tracking confidence_ - A tracker can report the confidence of predicted region. The number can be on an arbitrary range where high value represents high confidence and vice versa. In the long-term tracking challenge reporting of a confidence score is required, while it is optional for the main challenge.
 
 While we cannot enforce these guidelines in the current toolkit, the adherence of these rules is mandatory. Any violation is considered as cheating and could result in disqualification from the challenge.
 

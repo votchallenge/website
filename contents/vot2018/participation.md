@@ -40,6 +40,7 @@ We offer authors of papers submitted to ECCV but not accepted to re-submit their
  * A new methodology was developed to test the long-term tracking performance.
  * A new dataset has been constructed with many occurances of target leaving and re-entering the field of view.
 
+
 ### VOT 2018 thermal and infrared subchallenge
 
 <div class="alert alert-warning" role="alert">

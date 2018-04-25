@@ -62,9 +62,9 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
     <h3 class="panel-title">VOT2018 announcement</h3>
   </div>
   <div class="panel-body">
-The VOT2018 challenge will be opened in late April or early May, with results submission deadline in early June. The results will be announced at the ECCV 2018 workshop on 14th of September. More information on the [challenge page](/vot2018/).<br/><br/>
+The VOT2018 challenge is opened, with results submission deadline in early June. The results will be announced at the ECCV 2018 workshop on 14th of September. More information on the [challenge page](/vot2018/).<br/><br/>
 
-This year we plan to run the VOT main challenge and the VOT-realtime sub-challenge. In addition, a new, VOT-long-term sub-challenge is planned, which will address long-term trackers (class of trackers that copes with situations where targets leave the field of view and re-enter it after some time).
+This year we are running the VOT main challenge and the VOT-realtime sub-challenge. In addition, a new, VOT-long-term sub-challenge is available, which addresses long-term trackers (class of trackers that copes with situations where targets leave the field of view and re-enter it after some time).
 
   </div>
 </div>

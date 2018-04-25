@@ -5,6 +5,13 @@ submenu: Home
 
 # VOT2018 Challenge
 
+<div class="alert alert-info" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
+<h4>The VOT2018 challenge is now open (beta testing)</h4>
+
+You can download the toolkit and run the experiments. The submission form will be available when the testing phase is over (see Important dates).
+</div>
+
 <img class="logo float-right frame" src="../img/vot2018_logo_website_large.png" alt="VOT2018"  />
 
 The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
@@ -29,7 +36,7 @@ Visit the [participation page](participation.html) for detailed information on h
 
 This is a tentative list of important dates for VOT2018:
 
- * Data available for beta testing: April 20th 2018
+ * Data available for beta testing: April 25th 2018
  * Challenge open: May 5th 2018
  * Results submission deadline: June 7th 2018 (12.00 AM CET - noon)
  * Paper Submission: June 20th 2018

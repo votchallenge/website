@@ -8,7 +8,7 @@ title: Setting up VOT workspace
 
 You can download the VOT toolkit with pre-compiled components from BinTray.
 
- * Latest VOT toolkit binaries: [![Download](https://api.bintray.com/packages/votchallenge/toolkit/vot2017/images/download.svg) ](https://bintray.com/votchallenge/toolkit/vot2017/_latestVersion)
+ * Latest VOT toolkit binaries: [![Download](https://api.bintray.com/packages/votchallenge/toolkit/current/images/download.svg) ](https://bintray.com/votchallenge/toolkit/current/_latestVersion)
  * Latest TraX library binaries: [![Download](https://api.bintray.com/packages/votchallenge/trax/stable/images/download.svg) ](https://bintray.com/votchallenge/trax/stable/_latestVersion)
 
 Alternatively, you can download just the sources from the [VOT toolkit GitHub repository](https://github.com/votchallenge/vot-toolkit).

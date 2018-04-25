@@ -100,6 +100,14 @@ footer {
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
 }
 
+.challengebutton.open {
+    background: transparent url("../img/badge_open.png") no-repeat right top;
+}
+
+.challengebutton.deprecated {
+    background: transparent url("../img/badge_deprecated.png") no-repeat right top;
+}
+
 .challengebutton:hover,
 .hugebutton:hover {
     background-color: #fafafa;

@@ -16,6 +16,5 @@ submenu: Results
 
 # Raw data
 
--   [Sequence deataset](http://data.votchallenge.net/vot2013/vot2013.zip) - Sequences for the VOT2013 dataset (this file is automatically downloaded by the toolkit)
 -   [Raw results](http://data.votchallenge.net/vot2013/vot2013_results.zip) - Raw results of participating trackers needed for comparative analysis
 

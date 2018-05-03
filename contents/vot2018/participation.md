@@ -13,7 +13,7 @@ submenu: Participate
 ### Submission instructions for regular papers
 
  * Full-length VOT2018 workshop papers must follow the standard requirements for ICCV2018 regular papers.
- * Submit the paper using the VOT2018 CMT paper submission system (opening soon).
+ * Submit the paper using the [VOT2018 CMT paper submission system](https://cmt3.research.microsoft.com/VOT2018).
  * The submitted papers should be compiled for double-blind reviewing.
 
 ### Submission instructions for tracking papers not accepted to ECCV

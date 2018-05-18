@@ -56,7 +56,7 @@ The legacy file-based integration approach, introduced in VOT2013 is not support
 
  * Make sure that you select the correct experiment stack (vot2018 for VOT2018 main challenge and votlt2018 for VOT-LT2018 subchallenge) for the corresponding challenge. The VOT-realtime subchallenge is automatically run as one of the experiments of the main VOT2018 challenge.
  * Follow [this tutorial](/howto/perfeval.html) to run the experiments and correctly pack the results.
- * After packing the results submit them via the submission page (opening soon).
+ * After packing the results submit them via the [submission page](http://submit.votchallenge.net).
 
 ### Participation requirements
 
@@ -70,7 +70,7 @@ The legacy file-based integration approach, introduced in VOT2013 is not support
    * In case tracker uses a GPU, provide the GPU and CPU version.
  * To counter attempts of intentionally reporting large bounding boxes to avoid resets, the VOT committee will analyze the submitted tracker outputs. If such or similar strategies are detected, the committee reserves the right to disqualify the tracker.
  * Authors are encouraged to submit their own previously published trackers.
- * Authors may submit modified versions of third-party trackers. The submission document should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.
+ * Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.
 
 ### Challenge winner requirements
 

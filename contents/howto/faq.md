@@ -80,6 +80,10 @@ Be careful when changing the official benchmark parameters. For a valid submissi
 
   To debug crashes, turn on debug information in `vot-workspace/configuration.m` by uncommenting line `set_global_variable('debug', 1);`. After that evaluation kit is more verbose and it is easier to debug your tracker. If this happens at the beginning of the evaluation it is very likely that you have not integrated your tracker correctly. Make sure that you first test the integration using `run_test` script.
 
+- **Long-term evaluation**
+
+  It is required that long-term trackers report confidence of their prediction besides predicted bounding box. The toolkit does not specify the range of the confidence score. Interpretation of the score is the following: high value represents high confidence, while low value represents low confidence of the predicted position. For more details of integrating long-term trackers please see [tutorial page](/howto/integration.html) and examples in the toolkit directory `tracker/examples`.
+  
 ### Analysis
 
 - **The results in ranking analysis change if I add another tracker, is this correct?**

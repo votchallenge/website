@@ -40,7 +40,7 @@ This is a tentative list of important dates for VOT2018:
  * Results [submission](http://submit.votchallenge.net) deadline: June 14th 2018 (12.00 AM CET - noon)
  * Paper Submission: June 29th 2018
  * ECCV tracking papers that were not accepted: July 27th 2018
- * Notification of Acceptance: August 3rd 2018
+ * Notification of Acceptance: August 2nd 2018 (moved to an earlier date due to early registration deadline)
  * Camera-Ready Paper Due: August 24th 2018
  * Workshop: September 14th 2018 (Half day)
 

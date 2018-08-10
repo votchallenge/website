@@ -80,3 +80,4 @@ The legacy file-based integration approach, introduced in VOT2013 is not support
 
 Questions regarding the VOT2018 challenge should be directed to [the VOT committee](mailto:gustavojavier.fernandez@ait.ac.at;matej.kristan@fri.uni-lj.si?subject=VOT2018 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 
+

@@ -42,7 +42,7 @@ This is a tentative list of important dates for VOT2018:
  * ECCV tracking papers that were not accepted: July 27th 2018
  * Notification of Acceptance: August 1st 2018
  * Camera-Ready Paper Due: August 24th 2018
- * Workshop: September 14th 2018 (Half day)
+ * Workshop: September 14th 2018 (Half day, [program](program.html))
 
 ## Sponsors
 
@@ -53,5 +53,6 @@ The main sponsor of the VOT2018 workshop is Faculty of Computer and Information 
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="150px"/></a>
 <a href="https://www.sick.com/us/en/"><img src="/img/org/logo_sick.gif" width="100px"/></a>
 </div>
+
 
 

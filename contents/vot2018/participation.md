@@ -78,6 +78,7 @@ The legacy file-based integration approach, introduced in VOT2013 is not support
  * Learning from the tracking datasets (OTB, VOT, ALOV, NUSPRO, TempleColor) is prohibited. The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).
  * Agreement to publish the code online at VOT page is required.
 
+
 Questions regarding the VOT2018 challenge should be directed to [the VOT committee](mailto:gustavojavier.fernandez@ait.ac.at;matej.kristan@fri.uni-lj.si?subject=VOT2018 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 
 

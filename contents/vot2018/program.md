@@ -39,7 +39,7 @@ submenu: Program
 
 
  * 11:00 - 12:35 **Oral session 2** (Chair: Aleš Leonardis)
-   * Invited talk: J.-C. Olivo-Marin (Institut Pasteur, BioImage Analysis Unit)
+   * Invited talk: J.-C. Olivo-Marin (Institut Pasteur, BioImage Analysis Unit): **Tracking in biological imaging**
    * VOT Short-term challenge second-best tracker talk
    * VOT Real-time challenge winners talk
    * VOT Long-term challenge winners talk

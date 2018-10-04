@@ -8,17 +8,9 @@ title: Challenges
 
 <div class="row">
 
-<div class="col-lg-6 col-sm-12">
-<a href="/vot2018/" class="challengebutton open text-primary">
-<img class="logo" src="/img/vot2018_logo_website.png" alt="VOT2018" />
-<h3>VOT2018 challenge</h3>
-<p class="description">The VOT2018 challenge will be the 6th Visual Object Tracking challenge. Results will be presented at VOT workshop at ECCV2018. This challenge introduces a long-term subchallenge VOT-LT2018.</p>
-</a>
-</div>
-
-<!--div class="alert alert-info" role="alert">
+<div class="alert alert-info" role="alert">
  There are currently no open challenges.
-</div-->
+</div>
 </div>
 
 
@@ -29,10 +21,18 @@ Official results of past challenges are still available as a benchmark to resear
 <div class="row">
 
 <div class="col-lg-6 col-sm-12">
+<a href="/vot2018/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2018_logo_website.png" alt="VOT2018" />
+<h3>VOT2018 benchmark</h3>
+<p class="description">The VOT2018 benchmark introduced a long-term subchallenge VOT-LT2018. Results were presented at VOT workshop at ECCV2018.</p>
+</a>
+</div>
+
+<div class="col-lg-6 col-sm-12">
 <a href="/vot2017/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2017_logo_website.png" alt="VOT2017" />
 <h3>VOT2017 benchmark</h3>
-<p class="description">The VOT2017 benchmark introduced a refreshed a dataset and a real-time experiment. The winner will was determined on sequestered dataset.</p>
+<p class="description">The VOT2017 benchmark introduced a refreshed a dataset and a real-time experiment. The winner will was determined on sequestered dataset. The results were presented at the VOT workshop at ICCV2017.</p>
 </a>
 </div>
 

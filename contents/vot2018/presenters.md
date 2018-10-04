@@ -29,10 +29,10 @@ Please submit the following material via CMT: A ZIP file called W03PXX.zip, wher
 
 This zip file should contain, just like main ECCV submissions, the following items:
 
-a: A single pdf for the camera-ready version of the paper, entitled W03PXX.pdf
-b: A single pdf or zip for supplementary files, entitled W03PXX-supp.pdf or W03PXX-supp.zip (up to 100Mb in size)
-c: A single zip file containing a folder called \source\, containing all source files (tex, bbl, figures…) of the paper. There should not be a compiled pdf of the paper in this folder. Please do not send source files for supplementary material.
-d: A single pdf, manually signed and scanned, 3-page copyright named W03PXX-copyright.pdf. The copyright for workshop papers is different from the main conference, please use [this document](https://eccv2018.org/wp-content/uploads/2018/07/ECCV-Workshop-2018-Copyright-Form.pdf).
+ * A single pdf for the camera-ready version of the paper, entitled W03PXX.pdf
+ * A single pdf or zip for supplementary files, entitled W03PXX-supp.pdf or W03PXX-supp.zip (up to 100Mb in size)
+ * A single zip file containing a folder called \source\, containing all source files (tex, bbl, figures…) of the paper. There should not be a compiled pdf of the paper in this folder. Please do not send source files for supplementary material.
+ * A single pdf, manually signed and scanned, 3-page copyright named W03PXX-copyright.pdf. The copyright for workshop papers is different from the main conference, please use [this document](https://eccv2018.org/wp-content/uploads/2018/07/ECCV-Workshop-2018-Copyright-Form.pdf).
 
 Please use the updated [camera-ready paper kit](https://eccv2018.org/wp-content/uploads/2018/07/eccv2018camerareadykit.zip) in preparing your paper.
 

@@ -27,8 +27,26 @@ submenu: People
 
 ## Program committee
 
-
-TBA
+-   Andrea Cavallaro
+-   Anfeng He
+-   Csaba Beleznai
+-   Erhan Gundogdu
+-   Federico Pernici
+-   Francois Bremond
+-   Horst Possegger
+-   Huchuan Lu
+-   Jack Valmadre
+-   Kai Chen
+-   Klamer Schutte
+-   Larry Davis
+-   Michael Arens
+-   Ming-Hsuan Yang
+-   Oswald Lanz
+-   Peter Roth
+-   Qiang Wang
+-   Qing Guo
+-   Richard Bowden
+-   Yibing Song
 
 ## Supporting organizations
 

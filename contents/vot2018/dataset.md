@@ -11,10 +11,11 @@ The following gallery gives an overview of the datasets (hover over image to see
 
 ### VOT2018 dataset preview
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2018/main/description.json"></div>
+<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2018/main/description.json" ></div>
 
 ### VOT-LT2018 dataset preview
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2018/longterm/description.json"></div>
+<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2018/longterm/description.json" ></div>
+
 
 

@@ -16,13 +16,13 @@ submenu: Results
 
 # VOT2016 Raw data
 
--   [Sequence dataset](http://data.votchallenge.net/vot2016/vot2016.zip) - Sequences for the VOT2016 dataset (this file is automatically downloaded by the toolkit)
+-   Sequence dataset - Sequences for the VOT2016 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2016/dataset.html) for more information.
 -   [Raw results](http://data.votchallenge.net/vot2016/vot2016_results.zip) - Raw results of participating trackers needed for comparative analysis
 -   [Tracker descriptions](http://data.votchallenge.net/vot2016/vot2016_trackers.zip) - Tracker description files for human-readable tracker names
 -   [VOT2016 ground truth segmentations](http://cmp.felk.cvut.cz/~vojirtom/dataset/votseg/index.html) - Ground truth segmentations
 
 # VOT-TIR2016 Raw data
 
--   [Sequence dataset](http://data.votchallenge.net/vot2016/vot-tir2016.zip) - Sequences for the VOT-TIR2016 dataset (this file is automatically downloaded by the toolkit)
+-   Sequence dataset - Sequences for the VOT-TIR2016 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2016/dataset.html) for more information.
 -   [Raw results](http://data.votchallenge.net/vot2016/vot-tir2016_results.zip) - Raw results of participating trackers needed for comparative analysis
 -   Tracker descriptions (Link coming soon) - Tracker description files for human-readable tracker names

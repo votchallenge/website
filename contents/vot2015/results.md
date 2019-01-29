@@ -12,7 +12,7 @@ submenu: Results
 
 # VOT2015 Raw data
 
--   [Sequence dataset](http://data.votchallenge.net/vot2015/vot2015.zip) - Sequences for the VOT2015 dataset (this file is automatically downloaded by the toolkit)
+-   Sequence dataset - Sequences for the VOT2015 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2015/dataset.html) for more information.
 -   [Raw results](http://data.votchallenge.net/vot2015/vot2015_results.zip) - Raw results of participating trackers needed for comparative analysis
 -   [Tracker descriptions](http://data.votchallenge.net/vot2016/vot2015_trackers.zip) - Tracker description files for human-readable tracker names
 

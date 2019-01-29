@@ -11,7 +11,7 @@ The following gallery gives an overview of the datasets (hover over image to see
 
 ### VOT2016 dataset preview
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2016/dataset/description.json"></div>
+<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2016/main/description.json"></div>
 
 If you want to access the VOT2016 Ground Truth segmentations directly, follow this [link](http://cmp.felk.cvut.cz/~vojirtom/dataset/votseg/index.html).
 

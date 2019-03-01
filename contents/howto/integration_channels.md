@@ -15,6 +15,8 @@ Be careful that TraX is compiled using the same architecture (32 or 64 bit) as y
 
 	set_global_variable('trax_source', '<path-to-trax-folder>');
 
+Be sure that you have added a path to the compiled trax <b>bin</b> folder into the system path.
+
 It is important that you compile TraX and set `trax_source` variable before next steps described in this tutorial.
 If you will not manually compile TraX from branch <b>channels</b>, the toolkit will automatically download TraX from master branch and compile it, but it will not work.
 

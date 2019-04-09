@@ -59,12 +59,25 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">VOT2018 announcement</h3>
+    <h3 class="panel-title">VOT2019 announcement</h3>
   </div>
   <div class="panel-body">
-The VOT2018 challenge is opened, with results submission deadline in early June. The results will be announced at the ECCV 2018 workshop on 14th of September. More information on the [challenge page](/vot2018/).<br/><br/>
+  
+The VOT2019 workshop proposal has been submitted and we expect decision from the workshop chairs in early April. Here's some announcements and heads-ups:</br></br>
 
-This year we are running the VOT main challenge and the VOT-realtime sub-challenge. In addition, a new, VOT-long-term sub-challenge is available, which addresses long-term trackers (class of trackers that copes with situations where targets leave the field of view and re-enter it after some time).
+In addition to the (1) VOT short-term challenge, (2) VOT short-term realtime and (3) VOT long-term challenge, we plan to introduce two new challenges:</br>
+4) VOT-RGBT challenge (RGB + Thermal/infra-red)</br>
+5) VOT-RGBD challenge (RGB + Depth)</br></br>
+
+These two challenges anticipate 4-channel videos (3 8-bit channels for RGB + additional 16-bit channel). The VOT-RGBT challenge is a natural evolution of the VOT-TIR challenges addressing short-term trackers that use RGB and TIR modalities. VOT-TIR will be likely organized as well as part of the VOT-RGBT challenge.</br></br>
+
+The VOT-RGBD challenge is a new challenge aiming at trackers that use both RGB and depth information in a long-term tracking scenario -- objects may disappear and reappear, thus re-detection capabilities are required.</br></br>
+
+We are aware that RGBD trackers are not as wide-spread as RGB-only, and we see this as a chance to boost the development of this type of trackers. To allow researchers to prepare early for the VOT-RGBD challenge, we have updated the VOT-toolkit and trax protocol (new versions available on GIT). The guidelines for integration and testing are available on the [VOT homepage](http://www.votchallenge.net/howto/integration_channels.html). We included two test sequences (not part of the final dataset) to allow early integration and tracker testing -- the toolkit will automatically download the sequences.</br></br>
+
+Here's a roughly planned timeline for VOT2019 challenge (may change):</br>
+- 15. April: VOT 2019 challenge open, datasets available</br>
+- 30. May: Tracker results submission deadline
 
   </div>
 </div>

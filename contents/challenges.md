@@ -8,9 +8,17 @@ title: Challenges
 
 <div class="row">
 
-<div class="alert alert-info" role="alert">
- There are currently no open challenges.
+<div class="col-lg-6 col-sm-12">
+<a href="/vot2019/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2019_logo_website.png" alt="VOT2019" />
+<h3>VOT2019 challenge</h3>
+<p class="description">The VOT2019 challenge will Results will be presented at a VOT workshop at ICCV2019.</p>
+</a>
 </div>
+
+<!--div class="alert alert-info" role="alert">
+ There are currently no open challenges.
+</div-->
 </div>
 
 

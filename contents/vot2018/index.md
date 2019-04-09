@@ -24,7 +24,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 ## Sponsors
 
-The VOT2017 workshop was sposored by the Faculty of Computer and Information Science, University of Ljubljana and SICK.
+The VOT2018 workshop was sposored by the Faculty of Computer and Information Science, University of Ljubljana and SICK.
 
 <div class="spotlight">
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="150px"/></a>

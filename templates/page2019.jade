@@ -1,0 +1,34 @@
+extends page
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append head
+    title VOT2019 Challenge |
+        = submenu
+
+block submenu
+    -var menu_items = { 'Home': '/vot2019/index.html', 'Participate': '/vot2019/participation.html', 'People': '/vot2019/people.html' };
+    .navbar.navbar-default.navbar-static-top(role='navigation')
+        .container
+            .navbar-header
+                a(class='navbar-brand' href='/vot2019/') VOT2019
+            ul(class='nav navbar-nav nav-collapse')
+                each val, key in menu_items
+                    if submenu == key
+                        li.active
+                            a(href=val)= key
+                    else
+                        li
+                            a(href=val)= key
+            div(class='navbar-text navbar-right')
+              a(class='navbar-conjunction' href='http://iccv2019.thecvf.com/') ICCV2019, Seoul, South Korea
+
+    .clearer

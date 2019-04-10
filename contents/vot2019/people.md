@@ -15,15 +15,18 @@ submenu: People
     University, Sweden
 -   [Roman Pflugfelder](https://at.linkedin.com/in/romanpflugfelder),
     Austrian Institute of Technology, Austria
+-   [Joni-Kristian Kämäräinen](http://vision.cs.tut.fi/personal/JoniKamarainen/),
+    Tampere University, Finland
 
 ## Technical committee
 
 -   [Luka &#268;ehovin](http://www.vicos.si/People/Luka_Cehovin), University of Ljubljana, Slovenia
 -   [Alan Luke&#382;i&#269;](http://www.vicos.si/User:Alanl), University of Ljubljana, Slovenia
 -   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria
--   [Tom&#225;&#353; Voji&#345;](http://cmp.felk.cvut.cz/~vojirtom/), Czech Technical University in Prague, Czech Republic
+-   [Ondrej Drbohlav](http://cmp.felk.cvut.cz/~drbohlav/), Czech Technical University in Prague, Czech Republic
 -   [Amanda Berg](http://users.isy.liu.se/en/cvl/amabe60/), Link&ouml;ping University, Sweden
 -   [Abdelrahman Eldesokey](https://liu.se/en/employee/abdel62), Link&ouml;ping University, Sweden
+-   Jani Käpylä, Tampere University, Finland
 
 ## Program committee
 

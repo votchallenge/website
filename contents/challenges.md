@@ -12,7 +12,7 @@ title: Challenges
 <a href="/vot2019/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2019_logo_website.png" alt="VOT2019" />
 <h3>VOT2019 challenge</h3>
-<p class="description">The VOT2019 challenge will Results will be presented at a VOT workshop at ICCV2019.</p>
+<p class="description">The VOT2019 challenge will address short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results will be presented at ICCV2019 VOT workshop.</p>
 </a>
 </div>
 

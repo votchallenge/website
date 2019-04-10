@@ -3,7 +3,7 @@ template: page2019.jade
 submenu: Home
 ---
 
-# VOT2018 Challenge
+# VOT2019 Challenge
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
@@ -42,12 +42,12 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 ## Important dates
 
+
 * Challenge open: April 15th 2019
 * Results Submission: May 31st 2019 (24:00 CET - midnight)
-* Paper Submission I (standard): June 14th 2019
-* Notification for papers I: July 5th 2019
+* Paper Submission I (standard): TBD
 * Paper Submission II (high-quality tracking papers not accepted to ICCV): August 3rd 2019
-* Notification for papers II: August 12th 2019
+* Notification: August 12th 2019
 * Camera-ready: August 25th 2019
 * Workshop: either October 27, 28 or November 2, 2019 (TBD)
 

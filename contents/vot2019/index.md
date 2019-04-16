@@ -28,11 +28,11 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 ## The VOT2019 Challenges
 
-* VOT short-term tracking challenge VOT-ST2019 (same as in VOT2018)
-* VOT short-term real-time challenge VOT-RT2019 (same as in VOT2018)
-* VOT long-term tracking challenge VOT-LT2019 (same as in VOT2018)
-* VOT thermal and infrared short-term tracking challenge VOT-RGBT2019 (NEW)
-* VOT color and depth long-term tracking challenge VOT-RGBD2019 (NEW)
+* VOT short-term tracking challenge VOT-ST2019 (same as in VOT2018) - Robust short-term tracking under appearance variation, occlusion and clutter.
+* VOT short-term real-time challenge VOT-RT2019 (same as in VOT2018) - Robust short-term tracking under time constraints.
+* VOT long-term tracking challenge VOT-LT2019 (same as in VOT2018) - Robust tracking with target disappearance.
+* VOT thermal and infrared short-term tracking challenge VOT-RGBT2019 (NEW) - Multi-modality tracking under RGB and T partial modality de-synchronization.
+* VOT color and depth long-term tracking challenge VOT-RGBD2019 (NEW) - Using depth to improve LT RGB tracking with target disappearance.
 
 ## Participation
 
@@ -45,7 +45,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 * Challenge open: April 15th 2019
 * Results Submission: May 31st 2019 (24:00 CET - midnight)
-* Paper Submission I (standard): TBD
+* Paper Submission I (standard): June 14th 2019
 * Paper Submission II (high-quality tracking papers not accepted to ICCV): August 3rd 2019
 * Notification: August 12th 2019
 * Camera-ready: August 25th 2019

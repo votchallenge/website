@@ -47,6 +47,7 @@ High-quality tracking papers submitted (but not accepted) to ICCV2019 can be re-
  * VOT-RGBT2019 addresses short-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-ST2019 subchallenge.
  * The trackers work with a 4-channel input composed of RGB+thermal channels.
  * A completely new dataset has been constructed for this subchallenge.
+ * The nature of RGB+T acquisition is such that the RGB and T channels are temporally fairly well synchronized for the most part, but in some frames the RGB and T modality will go out of sync. This results in slight misalignment between the target location in RGB and T channels. The ground truth is specified in the T-channel since this is the primary modality and the RGB channels are considered as an auxiliary modality. Thus the trackers are required to address the de-synchronization issue and output the target location as specified in the primary modality (T channel).
 
 ### VOT 2019 RGB and depth subchallenge
 
@@ -54,6 +55,7 @@ High-quality tracking papers submitted (but not accepted) to ICCV2019 can be re-
  * The trackers work with a 4-channel input composed of RGB+depth channels.
  * A completely new dataset has been constructed for this challenge.
  * The guidelines for early start on integration and testing are available [here](http://www.votchallenge.net/howto/integration_channels.html). We included two test sequences (not part of the final dataset) to allow early integration and tracker testing -- the toolkit will automatically download the sequences.
+ * Care has been taken to accurately temporally synchronize and spatially align the RGB and Depth channels, resulting in nearly per-pixel accurate alignment between all channels.
 
 ## Participation instructions
 

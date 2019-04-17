@@ -7,9 +7,9 @@ submenu: Home
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
-<h4>Tentative information</h4>
+<h4>VOT2019 open</h4>
 
-The VOT2019 is planned to open on April 15th, more information will be available after it opens.
+The VOT2019 challenge is now open! This year we offer five subchallenges to test your trackers on, each addressing a specific class of trackers or a tracking domain. The datasets of all subchallenges have been either updated or constructed anew.
 </div>
 
 <img class="logo float-right frame" src="../img/vot2019_logo_website_large.png" alt="VOT2019" />

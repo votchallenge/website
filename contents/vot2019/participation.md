@@ -49,7 +49,7 @@ High-quality tracking papers submitted (but not accepted) to ICCV2019 can be re-
  * A completely new dataset has been constructed for this subchallenge.
  * The nature of RGB+T acquisition is such that the RGB and T channels are temporally fairly well synchronized for the most part, but in some frames the RGB and T modality will go out of sync. This results in slight misalignment between the target location in RGB and T channels. The ground truth is specified in the T-channel since this is the primary modality and the RGB channels are considered as an auxiliary modality. Thus the trackers are required to address the de-synchronization issue and output the target location as specified in the primary modality (T channel).
 
-### VOT 2019 RGB and depth subchallenge
+###  VOT 2019 RGB and depth subchallenge
 
  * VOT-RGBD2019 addresses long-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-LT2019 subchallenge.
  * The trackers work with a 4-channel input composed of RGB+depth channels.

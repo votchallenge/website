@@ -3,7 +3,7 @@ template: page2019.jade
 submenu: People
 ---
 
-## Organizing committee
+##  Organizing committee
 
 -   [Matej Kristan](http://www.vicos.si/People/Matejk), University of
     Ljubljana, Slovenia

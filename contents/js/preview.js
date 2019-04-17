@@ -2,7 +2,7 @@
 function show_dataset(url, parent) {
 
     var container = $(parent);
-console.log(container);
+
     var placeholder = $("<div>").addClass("alert alert-info").text("Loading preveiw, please wait ...");
 
     container.append(placeholder);
@@ -13,19 +13,23 @@ console.log(container);
 
         var gallery = $("<div>");
 
-        var modal = $('<div class="modal fade" tabindex="-1" role="dialog"><div class="modal-dialog" role="document"><div class="modal-content"><div class="modal-header"><h4 class="modal-title" id="myModalLabel"></h4></div><div class="modal-body"></div></div></div></div>').hide();
+        var modal = $('<div class="modal fade" tabindex="-1" role="dialog"><div class="modal-dialog" role="document"><div class="modal-content"><div class="modal-header"><h4 class="modal-title" id="modalwindow"></h4></div><div class="modal-body"></div></div></div></div>').hide();
 
         modal.modal({show: false});
 
         function configure_preview(sequence) {
 
-            var relative_url_preview = URI(sequence.preview);
             var relative_url_thumbnail = URI(sequence.thumbnail);
+            var relative_url_preview = relative_url_thumbnail;
+
+            if (sequence.preview != null) relative_url_preview = URI(sequence.preview);
 
             var src_preview = relative_url_preview.absoluteTo(parent_url);
             var src_thumbnail = relative_url_thumbnail.absoluteTo(parent_url);
 
             var preview = $("<img>").addClass("image sequence preview").attr({"title" : sequence["name"],  "alt" : sequence["name"], "src" : src_thumbnail.toString()});
+
+            preview.hide();
 
             preview.hover(
                 function() {
@@ -61,6 +65,10 @@ console.log(container);
                 modal.modal('show');
 
             });
+
+            preview.img = $(new Image());
+            preview.img.on('load', function() { preview.show(); });
+            preview.img[0].src = src_thumbnail.toString();
 
             return preview;
         }

@@ -14,7 +14,7 @@ submenu: People
 -   [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/), Link&ouml;ping
     University, Sweden
 -   [Roman Pflugfelder](https://at.linkedin.com/in/romanpflugfelder),
-    Austrian Institute of Technology, Austria
+    Austrian Institute of Technology and Vienna University of Technology, Austria
 -   [Joni-Kristian Kämäräinen](http://vision.cs.tut.fi/personal/JoniKamarainen/),
     Tampere University, Finland
 
@@ -43,6 +43,7 @@ TBA
 <a href="http://www.epics-project.eu/"><img src="/img/org/logo_epics.png" alt="EPiCS"></a>
 <a href="http://www.liu.se/?l=en&sc=true"><img src="/img/org/logo_liu.png" alt="University of Link&ouml;ping"></a>
 <a href="https://www.tuni.fi/en"><img src="/img/org/logo_tut.png" alt="Tampere University of Applied Sciences"></a>
+<a href="https://www.tuwien.at/en/"><img src="/img/org/logo_tuw.gif" alt="Vienna University of Technology"></a>
 </div>
 
 

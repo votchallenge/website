@@ -85,7 +85,7 @@ All trackers require integration via the [TraX protocol](https://github.com/votc
 ### Subchallenge winner requirements
 
  * Top performance on the corresponding subchallenge.
- * Learning from the tracking datasets (OTB, VOT, ALOV, NUSPRO, TempleColor) is prohibited. The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).
+ * Learning from the tracking datasets (OTB, VOT, ALOV, NUSPRO, TempleColor, GOT10k, RGBT234) is prohibited. The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).
  * Agreement to publish the code online at VOT page is required.
 
 

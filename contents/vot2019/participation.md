@@ -85,7 +85,10 @@ All trackers require integration via the [TraX protocol](https://github.com/votc
 ### Subchallenge winner requirements
 
  * Top performance on the corresponding subchallenge.
- * Learning from the tracking datasets (OTB, VOT, ALOV, UAV123, NUSPRO, TempleColor, GOT10k, RGBT234) is prohibited. The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).
+ * The tracker should obey the following learning restrictions:
+	* OTB, VOT, ALOV, UAV123, NUSPRO, TempleColor, RGBT234 (or datasets with parts of it, e.g. RGBT210) are NOT allowed to be used in learning.
+	* Most part of GOT10k CAN be used for learning, except from its (1) test set, (2) validation set and (3) the 1k sequences specified in the following [list](res/list0_prohibited_1000.txt). 
+	* The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).
  * Agreement to publish the code online at VOT page is required.
 
 

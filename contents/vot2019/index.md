@@ -7,6 +7,12 @@ submenu: Home
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
+<h4>Results submission deadline extended to 9.6.2019</h4>
+Due to multiple requests the VOT2019 results submission deadline has been extended to 9.6.2019.
+</div>
+
+<div class="alert alert-info" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
 <h4>VOT2019 open</h4>
 
 The VOT2019 challenge is now open! This year we offer five subchallenges to test your trackers on, each addressing a specific class of trackers or a tracking domain. The datasets of all subchallenges have been either updated or constructed anew.
@@ -44,7 +50,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 
 * Challenge open: April 15th 2019
-* Results Submission: May 31st 2019 (24:00 CET - midnight)
+* Results Submission: <strike>May 31st 2019 (24:00 CET - midnight)</strike> -> June 9th 2019 (24:00 CET - midnight)
 * Paper Submission I (standard): June 14th 2019
 * Paper Submission II (high-quality tracking papers not accepted to ICCV): August 3rd 2019
 * Notification: August 12th 2019

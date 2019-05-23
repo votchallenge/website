@@ -63,6 +63,8 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
   </div>
   <div class="panel-body">
   
+Due to multiple requests the VOT2019 results submission deadline has been extended to 9.6.2019.</br></br>
+  
 The VOT2019 workshop proposal has been submitted and we expect decision from the workshop chairs in early April. Here's some announcements and heads-ups:</br></br>
 
 In addition to the (1) VOT short-term challenge, (2) VOT short-term realtime and (3) VOT long-term challenge, we plan to introduce two new challenges:</br>
@@ -77,7 +79,7 @@ We are aware that RGBD trackers are not as wide-spread as RGB-only, and we see t
 
 Here's a roughly planned timeline for VOT2019 challenge (may change):</br>
 - 15. April: VOT 2019 challenge open, datasets available</br>
-- 30. May: Tracker results submission deadline
+- 9. June: Tracker results submission deadline
 
   </div>
 </div>

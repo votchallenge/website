@@ -7,6 +7,12 @@ submenu: Home
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
+<h4>VOT-RGBT-annotation update</h4>
+Due to the semi-automatic annotation process, some few frames had slightly inaccurate bounding boxes and in some few cases, one coordinate of the bonding box was placed outside the image. In order to avoid technical problems and inaccuracies in the evaluation, we decided to update the annotations. Please delete your local copy of the dataset on the disk and re-run the experiment (the toolkit will download the new dataset automatically). We apologize for potential extra work and hope to welcome you at the VOT-workshop!
+</div>
+
+<div class="alert alert-info" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
 <h4>Results submission deadline extended to 9.6.2019</h4>
 Due to multiple requests the VOT2019 results submission deadline has been extended to 9.6.2019.
 </div>

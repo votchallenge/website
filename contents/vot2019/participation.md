@@ -13,7 +13,7 @@ submenu: Participate
 ### Submission instructions for regular papers
 
  * Full-length VOT2019 workshop papers must follow the standard requirements for [ICCV2019 regular papers](http://iccv2019.thecvf.com/submission/main_conference/author_guidelines).
- * Submit the paper using the VOT2019 CMT paper submission system (TBA).
+ * Submit the paper using the [VOT2019 CMT paper submission system](https://cmt3.research.microsoft.com/VOT2019).
  * The submitted papers should be compiled for double-blind reviewing.
 
 ### Submission instructions for tracking papers not accepted to ICCV

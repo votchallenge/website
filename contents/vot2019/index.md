@@ -57,7 +57,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 * Challenge open: April 15th 2019
 * Results Submission: <strike>May 31st 2019 (24:00 CET - midnight)</strike> -> June 9th 2019 (24:00 CET - midnight)
-* Paper Submission I (standard): June 14th 2019
+* Paper Submission I (standard): <strike>June 14th 2019</strike> -> June 30th 2019 (24:00 CET - midnight)
 * Paper Submission II (high-quality tracking papers not accepted to ICCV): August 3rd 2019
 * Notification: August 12th 2019
 * Camera-ready: August 25th 2019

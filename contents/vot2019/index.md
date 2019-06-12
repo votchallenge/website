@@ -61,7 +61,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
 * Paper Submission II (high-quality tracking papers not accepted to ICCV): August 3rd 2019
 * Notification: August 12th 2019
 * Camera-ready: August 25th 2019
-* Workshop: either October 27, 28 or November 2, 2019 (TBD)
+* Workshop: October 28th 2019
 
 ## Sponsors
 

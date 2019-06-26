@@ -9,8 +9,8 @@ title: Integrating tracker (multi-channel support)
 ## Prerequisites
 
 This tutorial assumes that you already have the toolkit on your computer:
-The [toolkit](https://github.com/votchallenge/vot-toolkit) and [TraX](https://github.com/votchallenge/trax) are downloaded from github repository.
-Note that the source code has to be checkouted from <b>channels</b> branch. TraX protocol has to be compiled manually using cmake and C++ compiler.
+The [toolkit](https://github.com/votchallenge/vot-toolkit) and [TraX](https://github.com/votchallenge/trax) are downloaded from github repository (master).
+TraX protocol has to be compiled manually using cmake and C++ compiler.
 Be careful that TraX is compiled using the same architecture (32 or 64 bit) as your tracker and Matlab are using. In the `configuration.m` set the following command:
 
 	set_global_variable('trax_source', '<path-to-trax-folder>');
@@ -18,7 +18,6 @@ Be careful that TraX is compiled using the same architecture (32 or 64 bit) as y
 Be sure that you have added a path to the compiled trax <b>bin</b> folder into the system path.
 
 It is important that you compile TraX and set `trax_source` variable before next steps described in this tutorial.
-If you will not manually compile TraX from branch <b>channels</b>, the toolkit will automatically download TraX from master branch and compile it, but it will not work.
 
 ## Integrating the tracker
 

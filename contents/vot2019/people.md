@@ -28,6 +28,8 @@ submenu: People
 -   [Abdelrahman Eldesokey](https://liu.se/en/employee/abdel62), Link&ouml;ping University, Sweden
 -   Jani Käpylä, Tampere University, Finland
 -   [Ugur Kart](https://www.linkedin.com/in/ugurkart/?originalSubdomain=fi), Tampere University, Finland
+-   [Jon Muhovič](https://www.vicos.si/User:JonNatanael), University of Ljubljana, Slovenia
+-   Lojze Žust, University of Ljubljana, Slovenia
 
 ## Program committee
 

@@ -1,5 +1,5 @@
 ---
-template: page2018.jade
+template: page2018.pug
 submenu: Home
 ---
 

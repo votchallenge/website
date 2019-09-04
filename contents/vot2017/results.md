@@ -1,5 +1,5 @@
 ---
-template: page2017.jade
+template: page2017.pug
 submenu: Results
 ---
 

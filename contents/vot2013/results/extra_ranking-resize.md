@@ -1,5 +1,5 @@
 ---
-template: page2013results.jade
+template: page2013results.pug
 ---
 <div class='results'>
 <h1 class="caption">Ranking report for experiment resize</h1>

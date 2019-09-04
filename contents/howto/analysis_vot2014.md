@@ -1,5 +1,5 @@
 ---
-template: page.jade
+template: page.pug
 menu: Support
 title: Reproducing VOT2014 TPAMI paper results
 ---

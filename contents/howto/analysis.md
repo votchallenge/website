@@ -1,5 +1,5 @@
 ---
-template: page.jade
+template: page.pug
 menu: Support
 title: Analyzing results and generating reports
 ---

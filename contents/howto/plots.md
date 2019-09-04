@@ -1,5 +1,5 @@
 ---
-template: page.jade
+template: page.pug
 menu: Support
 title: Plotting graphs after evaluation on benchmark
 ---

@@ -1,5 +1,5 @@
 ---
-template: page2019.jade
+template: page2019.pug
 submenu: Dataset
 ---
 

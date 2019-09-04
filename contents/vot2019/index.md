@@ -5,6 +5,7 @@ submenu: Home
 
 # VOT2019 Challenge
 
+<!--
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
 <h4>Paper submission deadline extended to 30.6.2019</h4>
@@ -16,6 +17,7 @@ The VOT2019 paper submission deadline has been extended to 30.6.2019 (24:00 CET 
 <h4>VOT-RGBT-annotation update</h4>
 Due to the semi-automatic annotation process, some few frames had slightly inaccurate bounding boxes and in some few cases, one coordinate of the bonding box was placed outside the image. In order to avoid technical problems and inaccuracies in the evaluation, we decided to update the annotations. Please delete your local copy of the dataset on the disk and re-run the experiment (the toolkit will download the new dataset automatically). We apologize for potential extra work and hope to welcome you at the VOT-workshop!
 </div>
+-->
 
 <img class="logo float-right frame" src="../img/vot2019_logo_website_large.png" alt="VOT2019" />
 
@@ -63,6 +65,4 @@ The VOT2019 workshop was sposored by the Faculty of Computer and Information Sci
 <div class="spotlight">
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="150px"/></a>
 </div>
-
-
 

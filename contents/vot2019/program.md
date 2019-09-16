@@ -39,7 +39,9 @@ submenu: Program
 
  * 11:50 - 13:30 **Lunch** - 1h 40min
 
- * 13:30 - 14:20 **Invited talk** (Jiri Matas) - TBD
+ * 13:30 - 14:20 **Invited talk** (Chair: Jiri Matas)
+ 
+    TBD
 
  * 14:20 - 16:00 **Poster session & coffee** - 1h 40min
 

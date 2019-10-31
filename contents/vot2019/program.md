@@ -14,7 +14,7 @@ submenu: Program
 
  * 10:40 - 11:10 **Coffee break** - 30min
 
- * 11:10 - 11:50 **Poster spotlight session** (Chair: Roman Pflugfelder)
+ * 11:10 - 11:50 **Poster spotlight session** (Chair: Gustavo Fernández)
 
    * **Semi-automatic Annotation of Objects in Visual-Thermal Video**
      Amanda Berg (Linköping university)*; Joakim Johnander (Linköping University); Flavie Durand de Gevigney (University Grenoble Alpes); Jorgen Ahlberg (Computer Vision Laboratory, Linköping University); Michael Felsberg (Linköping University)
@@ -39,7 +39,9 @@ submenu: Program
 
  * 11:50 - 13:30 **Lunch** - 1h 40min
 
- * 13:30 - 14:20 **Invited talk** (Jiri Matas) - TBD
+ * 13:30 - 14:20 **Invited talk** (Chair: Jiri Matas)
+ 
+   **Learning from Video Segmentation Challenge**, Ning Xu (Adobe Research) 
 
     [Learning from Video Segmentation Challenge](http://data.votchallenge.net/vot2019/vot2019_invited.pdf) (Ning Xu, Adobe Research)
 

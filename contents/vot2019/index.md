@@ -47,17 +47,6 @@ The VOT challenges provide the tracking community with a precisely defined and r
 * Submit a tracking paper as a standard submission.
 * Authors of high-quality tracking papers not accepted to ICCV due to, e.g., insufficient significance, can re-submit to VOT.
 
-## Important dates
-
-
-* Challenge open: April 15th 2019
-* <strike>Results Submission: May 31st 2019 (24:00 CET - midnight) -> June 9th 2019 (24:00 CET - midnight)</strike>
-* <strike>Paper Submission I (standard): June 14th 2019 -> June 30th 2019 (24:00 CET - midnight)</strike>
-* <strike>Paper Submission II (high-quality tracking papers not accepted to ICCV): August 3rd 2019</strike>
-* Notification: August 12th 2019
-* Camera-ready: August 25th 2019
-* Workshop: October 28th 2019
-
 ## Sponsors
 
 The VOT2019 workshop was sposored by the Faculty of Computer and Information Science, University of Ljubljana.

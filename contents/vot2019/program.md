@@ -7,7 +7,7 @@ submenu: Program
 
  * 9:00 - 10:40 **Oral session 1** (Chair: Aleš Leonardis)
    * Welcome
-   * VOT-RGB ST/RT/LT challenges and results (Matej Kristan)
+   * [VOT-RGB ST/RT/LT challenges and results](http://data.votchallenge.net/vot2019/vot2019_st_rt_lt.pdf) (Matej Kristan)
    * VOT-ST winner talk (TBD)
    * VOT-RT winner talk (TBD)
    * VOT-LT winner talk (TBD)
@@ -32,7 +32,7 @@ submenu: Program
      Bao Xin Chen (York University)*; John Tsotsos (York University)
 
    * **Visual Tracking by means of Deep Reinforcement Learning and an Expert Demonstrator**
-     Matteo Dunnhofer (University of Udine)*; Niki Martinel (University of Udine); Gian Luca Foresti (University of Udine, Italy); CHRISTIAN MICHELONI (University of Udine, Italy)
+     Matteo Dunnhofer (University of Udine)*; Niki Martinel (University of Udine); Gian Luca Foresti (University of Udine, Italy); Christian Micheloni (University of Udine, Italy)
 
    * **Intra-frame Object Tracking by Deblatting**
      Jan Kotera (Institute of Information Theory and Automation, Czech Academy of Sciences)*; Denys Rozumnyi (Czech Technical University); Filip Šroubek (Institute of Information Theory and Automation, Czech Academy of Sciences); Jiri Matas (CMP CTU FEE)
@@ -41,13 +41,15 @@ submenu: Program
 
  * 13:30 - 14:20 **Invited talk** (Jiri Matas) - TBD
 
+    [Learning from Video Segmentation Challenge](http://data.votchallenge.net/vot2019/vot2019_invited.pdf) (Ning Xu, Adobe Research)
+
  * 14:20 - 16:00 **Poster session & coffee** - 1h 40min
 
  * 16:00 - 17:20 **Oral session 2** (Chair: Luka Čehovin Zajc)
 
-   * VOT-RGBT results (Michael Felsberg)
+   * [VOT-RGBT results](http://data.votchallenge.net/vot2019/vot2019_rgbt.pdf) (Michael Felsberg)
    * VOT-RGBT winner talk (TBD)
-   * VOT-RGBD results (Alan Lukežič)
+   * [VOT-RGBD results](http://data.votchallenge.net/vot2019/vot2019_rgbd.pdf) (Alan Lukežič)
    * VOT-RGBD winner talk (TBD)
 
  * 17:20 - 17:40 **Panel** (Planned changes in VOT2020 & Feedback) (Chair: TBA)

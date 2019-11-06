@@ -47,7 +47,7 @@ High-quality tracking papers submitted (but not accepted) to ICCV2019 can be re-
  * VOT-RGBT2019 addresses short-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-ST2019 subchallenge.
  * The trackers work with a 4-channel input composed of RGB+thermal channels.
  * A completely new dataset has been constructed for this subchallenge.
- * The nature of RGB+T acquisition is such that the RGB and T channels are temporally fairly well synchronized for the most part, but in some frames the RGB and T modality will go out of sync. This results in slight misalignment between the target location in RGB and T channels. The ground truth is specified in the T-channel since this is the primary modality and the RGB channels are considered as an auxiliary modality. Thus the trackers are required to address the de-synchronization issue and output the target location as specified in the primary modality (T channel).
+ * The nature of RGB+T acquisition is such that the RGB and T channels are temporally fairly well synchronized for the most part, but in some frames the RGB and T modality will go out of sync. This results in slight misalignment between the target location in RGB and T channels. The ground truth is specified in the T-channel since this is the primary modality and the RGB channels are considered as an auxiliary modality. Thus the trackers are required to address the de-synchronization issue and output the target location as specified in the primary modality (T  channel).
 
 ###  VOT 2019 RGB and depth subchallenge
 
@@ -87,11 +87,10 @@ All trackers require integration via the [TraX protocol](https://github.com/votc
  * Top performance on the corresponding subchallenge.
  * The tracker should obey the following learning restrictions:
 	* OTB, VOT, ALOV, UAV123, NUSPRO, TempleColor, RGBT234 (or datasets with parts of it, e.g. RGBT210) are NOT allowed to be used in learning.
-	* Most part of GOT10k CAN be used for learning, except from its (1) test set, (2) validation set and (3) the 1k sequences specified in the following [list](res/list0_prohibited_1000.txt). 
+	* Most part of GOT10k CAN be used for learning, except from its (1) test set, (2) validation set and (3) the 1k sequences specified in the following [list](res/list0_prohibited_1000.txt).
 	* The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).
  * Agreement to publish the code online at VOT page is required.
 
 
 Questions regarding the VOT2019 challenge should be directed to [the VOT committee](mailto:gustavojavier.fernandez@ait.ac.at;matej.kristan@fri.uni-lj.si?subject=VOT2019 question). If you have general technical questions regarding the VOT toolkit, first consult the [FAQ page](/howto/faq.html) and the [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
-
 

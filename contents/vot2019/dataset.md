@@ -23,8 +23,5 @@ The following gallery gives an overview of the datasets (hover over image to see
 
 ### VOT-RGBTIR2019 dataset preview
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2019/rgbtir/meta/description.json" ></div>
-
-
-
+<div  class="gallery" data-votdataset="http://data.votchallenge.net/vot2019/rgbtir/meta/description.json" ></div>
 

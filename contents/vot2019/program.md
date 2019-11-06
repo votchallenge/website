@@ -8,9 +8,9 @@ submenu: Program
  * 9:00 - 10:40 **Oral session 1** (Chair: Aleš Leonardis)
    * Welcome
    * [VOT-RGB ST/RT/LT challenges and results](http://data.votchallenge.net/vot2019/vot2019_st_rt_lt.pdf) (Matej Kristan)
-   * VOT-ST winner talk (TBD)
-   * VOT-RT winner talk (TBD)
-   * VOT-LT winner talk (TBD)
+   * VOT-ST winner: B. Li, D. Song, L. Wang, X. Tang, C. Zhang, Y Liu, Z. Ni, S. Li, K. Wang, Y. Zhou, X. Bai, W. Liu, B. He, J. Liu - Accurate Tracking by Progressively refining (ATP)
+   * VOT-RT winner: G. Chen, L. Chen, G. Li, Y. Chen, F. Wang, S. You, C. Qian - Discriminative Siamese Embedding for Object Tracking (SiamMargin)
+   * VOT-LT winner: K. Dai, Y. Zhang, J. Li, D. Wang, X. Yang, H. Lu - Longterm tracking by diving videos into successive short episodes (LTDSE)
 
  * 10:40 - 11:10 **Coffee break** - 30min
 
@@ -40,8 +40,8 @@ submenu: Program
  * 11:50 - 13:30 **Lunch** - 1h 40min
 
  * 13:30 - 14:20 **Invited talk** (Chair: Jiri Matas)
- 
-   **Learning from Video Segmentation Challenge**, Ning Xu (Adobe Research) 
+
+   **Learning from Video Segmentation Challenge**, Ning Xu (Adobe Research)
 
     [Learning from Video Segmentation Challenge](http://data.votchallenge.net/vot2019/vot2019_invited.pdf) (Ning Xu, Adobe Research)
 
@@ -50,9 +50,9 @@ submenu: Program
  * 16:00 - 17:20 **Oral session 2** (Chair: Luka Čehovin Zajc)
 
    * [VOT-RGBT results](http://data.votchallenge.net/vot2019/vot2019_rgbt.pdf) (Michael Felsberg)
-   * VOT-RGBT winner talk (TBD)
+   * VOT-RGBT winner: L. Zhang, A. Gonzalez-Garcia, J. van de Weijer - Multimodal fusion for endtoend RGBT tracking (mfDiMP)
    * [VOT-RGBD results](http://data.votchallenge.net/vot2019/vot2019_rgbd.pdf) (Alan Lukežič)
-   * VOT-RGBD winner talk (TBD)
+   * VOT-RGBD winner: H. Yu, H. Peng, Z. Wu, Y. Huang, J. Fu, L. Wang - Online Deeper and Wider Siamese Networks for RGBD Visual Tracking (SiamDW-D)
 
- * 17:20 - 17:40 **Panel** (Planned changes in VOT2020 & Feedback) (Chair: TBA)
+ * 17:20 - 17:40 **Panel** (Planned changes in VOT2020 & Feedback) (Chair: Michael Felsberg)
 

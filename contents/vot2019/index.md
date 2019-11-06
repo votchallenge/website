@@ -3,21 +3,14 @@ template: page2019.pug
 submenu: Home
 ---
 
-# VOT2019 Challenge
-
-<!--
-<div class="alert alert-info" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
-<h4>Paper submission deadline extended to 30.6.2019</h4>
-The VOT2019 paper submission deadline has been extended to 30.6.2019 (24:00 CET - midnight).
-</div>
+# VOT2019 Benchmark
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
-<h4>VOT-RGBT-annotation update</h4>
-Due to the semi-automatic annotation process, some few frames had slightly inaccurate bounding boxes and in some few cases, one coordinate of the bonding box was placed outside the image. In order to avoid technical problems and inaccuracies in the evaluation, we decided to update the annotations. Please delete your local copy of the dataset on the disk and re-run the experiment (the toolkit will download the new dataset automatically). We apologize for potential extra work and hope to welcome you at the VOT-workshop!
+<h4>The VOT2019 challenge has ended</h4>
+
+It is still possible to use the benchmark to evaluate your tracker and compare it to the official results using the challenge ranking methodology. For more information on how to do this look at the [list of tutorials](/howto/index.html).
 </div>
--->
 
 <img class="logo float-right frame" src="../img/vot2019_logo_website_large.png" alt="VOT2019" />
 
@@ -41,11 +34,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
 * VOT thermal and infrared short-term tracking challenge VOT-RGBT2019 (NEW) - Multi-modality tracking under RGB and T partial modality de-synchronization.
 * VOT color and depth long-term tracking challenge VOT-RGBD2019 (NEW) - Using depth to improve LT RGB tracking with target disappearance.
 
-## Participation
-
-* Run your tracker on one or more challenges and submit the results.
-* Submit a tracking paper as a standard submission.
-* Authors of high-quality tracking papers not accepted to ICCV due to, e.g., insufficient significance, can re-submit to VOT.
+<img class="frame" src="img/vot2019.jpg" alt="VOT2019 highlights" />
 
 ## Sponsors
 

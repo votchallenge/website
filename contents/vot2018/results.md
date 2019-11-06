@@ -10,7 +10,7 @@ submenu: Results
 
 # Trackers code
 
--   Submitted trackers source code (coming soon)
+-   [Submitted trackers source code](/vot2018/trackers.html)
 
 # VOT2018 Raw data
 

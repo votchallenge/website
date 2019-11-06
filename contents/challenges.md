@@ -6,19 +6,8 @@ title: Challenges
 
 # Open Challenges
 
-<div class="row">
-
-<div class="col-lg-6 col-sm-12">
-<a href="/vot2019/" class="challengebutton text-primary">
-<img class="logo" src="/img/vot2019_logo_website.png" alt="VOT2019" />
-<h3>VOT2019 challenge</h3>
-<p class="description">The VOT2019 challenge will address short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results will be presented at ICCV2019 VOT workshop.</p>
-</a>
-</div>
-
-<!--div class="alert alert-info" role="alert">
+<div class="alert alert-info" role="alert">
  There are currently no open challenges.
-</div-->
 </div>
 
 
@@ -27,6 +16,15 @@ title: Challenges
 Official results of past challenges are still available as a benchmark to researchers. We invite the visual tracking researchers to compare their methods with those results.
 
 <div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vot2019/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2019_logo_website.png" alt="VOT2019" />
+<h3>VOT2019 benchmark</h3>
+<p class="description">The VOT2019 benchmark addresses short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results were presented at ICCV2019 VOT workshop.</p>
+</a>
+</div>
+
 
 <div class="col-lg-6 col-sm-12">
 <a href="/vot2018/" class="challengebutton text-primary">
@@ -78,5 +76,4 @@ The results were published in a joint paper presented at an ECCV2014 workshop.</
 </div>
 
 </div>
-
 

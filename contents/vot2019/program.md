@@ -7,10 +7,10 @@ submenu: Program
 
  * 9:00 - 10:40 **Oral session 1** (Chair: Aleš Leonardis)
    * Welcome
-   * [VOT-RGB ST/RT/LT challenges and results](http://data.votchallenge.net/vot2019/vot2019_st_rt_lt.pdf) (Matej Kristan)
-   * VOT-ST winner: B. Li, D. Song, L. Wang, X. Tang, C. Zhang, Y Liu, Z. Ni, S. Li, K. Wang, Y. Zhou, X. Bai, W. Liu, B. He, J. Liu - Accurate Tracking by Progressively refining (ATP)
-   * VOT-RT winner: G. Chen, L. Chen, G. Li, Y. Chen, F. Wang, S. You, C. Qian - Discriminative Siamese Embedding for Object Tracking (SiamMargin)
-   * VOT-LT winner: K. Dai, Y. Zhang, J. Li, D. Wang, X. Yang, H. Lu - Longterm tracking by diving videos into successive short episodes (LTDSE)
+   * [VOT-RGB ST/RT/LT challenges and results](http://data.votchallenge.net/vot2019/presentations/vot2019_st_rt_lt.pdf) (Matej Kristan)
+   * VOT-ST winner: B. Li, D. Song, L. Wang, X. Tang, C. Zhang, Y Liu, Z. Ni, S. Li, K. Wang, Y. Zhou, X. Bai, W. Liu, B. He, J. Liu - [Accurate Tracking by Progressively refining (ATP)](http://data.votchallenge.net/vot2019/presentations/vot2019_st-tracker.pdf)
+   * VOT-RT winner: G. Chen, L. Chen, G. Li, Y. Chen, F. Wang, S. You, C. Qian - [Discriminative Siamese Embedding for Object Tracking (SiamMargin)](http://data.votchallenge.net/vot2019/presentations/vot2019_rt-tracker.pdf)
+   * VOT-LT winner: K. Dai, Y. Zhang, J. Li, D. Wang, X. Yang, H. Lu - [Longterm tracking by diving videos into successive short episodes (LTDSE)](http://data.votchallenge.net/vot2019/presentations/vot2019_lt-tracker.pdf)
 
  * 10:40 - 11:10 **Coffee break** - 30min
 
@@ -43,16 +43,16 @@ submenu: Program
 
    **Learning from Video Segmentation Challenge**, Ning Xu (Adobe Research)
 
-    [Learning from Video Segmentation Challenge](http://data.votchallenge.net/vot2019/vot2019_invited.pdf) (Ning Xu, Adobe Research)
+    [Learning from Video Segmentation Challenge](http://data.votchallenge.net/vot2019/presentations/vot2019_invited.pdf) (Ning Xu, Adobe Research)
 
  * 14:20 - 16:00 **Poster session & coffee** - 1h 40min
 
  * 16:00 - 17:20 **Oral session 2** (Chair: Luka Čehovin Zajc)
 
-   * [VOT-RGBT results](http://data.votchallenge.net/vot2019/vot2019_rgbt.pdf) (Michael Felsberg)
+   * [VOT-RGBT results](http://data.votchallenge.net/vot2019/presentations/vot2019_rgbt.pdf) (Michael Felsberg)
    * VOT-RGBT winner: L. Zhang, A. Gonzalez-Garcia, J. van de Weijer - Multimodal fusion for endtoend RGBT tracking (mfDiMP)
-   * [VOT-RGBD results](http://data.votchallenge.net/vot2019/vot2019_rgbd.pdf) (Alan Lukežič)
-   * VOT-RGBD winner: H. Yu, H. Peng, Z. Wu, Y. Huang, J. Fu, L. Wang - Online Deeper and Wider Siamese Networks for RGBD Visual Tracking (SiamDW-D)
+   * [VOT-RGBD results](http://data.votchallenge.net/vot2019/presentations/vot2019_rgbd.pdf) (Alan Lukežič)
+   * VOT-RGBD winner: H. Yu, H. Peng, Z. Wu, Y. Huang, J. Fu, L. Wang - [Online Deeper and Wider Siamese Networks for RGBD Visual Tracking (SiamDW-D)](http://data.votchallenge.net/vot2019/presentations/vot2019_rgbd-tracker.pdf)
 
  * 17:20 - 17:40 **Panel** (Planned changes in VOT2020 & Feedback) (Chair: Michael Felsberg)
 

@@ -33,7 +33,23 @@ submenu: People
 
 ## Program committee
 
-TBA
+* Anfeng	He,	USTC
+* Csaba		Beleznai, Austrian Institute of Technology, Austria
+* Federico	Pernici, University of Florence
+* Horst		Possegger, Graz University of Technology
+* Huchuan		Lu, Dalian University of Technology
+* Jack		Valmadre, Google
+* James		Ferryman, UNIV. OF READING, UK
+* Jörgen		Ahlberg, Termisk Systemteknik
+* Klamer		Schutte, TNO
+* Peter		Tu, GE Global Research
+* Qiang		Wang, CASIA
+* Qing		Guo, Nanyang Technological University
+* Richard		Bowden, University of Surrey
+* Roman		Pflugfelder, TU Wien
+* Vincent		Lepetit, TU Graz
+* Yibing		Song, Tencent
+
 
 ## Supporting organizations
 
@@ -47,6 +63,4 @@ TBA
 <a href="https://www.tuni.fi/en"><img src="/img/org/logo_tut.png" alt="Tampere University of Applied Sciences"></a>
 <a href="https://www.tuwien.at/en/"><img src="/img/org/logo_tuw.gif" alt="Vienna University of Technology"></a>
 </div>
-
-
 

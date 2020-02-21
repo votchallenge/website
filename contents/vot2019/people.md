@@ -46,7 +46,6 @@ submenu: People
 * Qiang		Wang, CASIA
 * Qing		Guo, Nanyang Technological University
 * Richard		Bowden, University of Surrey
-* Roman		Pflugfelder, TU Wien
 * Vincent		Lepetit, TU Graz
 * Yibing		Song, Tencent
 

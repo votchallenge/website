@@ -75,14 +75,14 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
   * Authors of top-performing trackers will be invited to present their trackers at VOT2020 workshop.
 
 ### Important dates
-  * Early March: Alpha version of the toolkit available, tookit testing period started
-  * 20th March: Challenge open, datasets & final toolkit available
-  * 3rd May: Results submission deadline
-  * 31st May: Submission deadline for contributed papers to VOT2020
-  * 6th July: Submission deadline for the <i>tracking papers not accepted to ECCV</i> for e.g. insufficient significance for the main conference (accompanied by the ECCV reviews and a letter of changes).
-  * 10th July: Author notification (submitted paper decisions)
-  * 17th July: Camera ready deadline 
-  * 28th August: VOT2020 workshop in conjunction with the ECCV2020
+  * Toolkit alpha testing opens: early March 2020
+  * Challenge open: March 20th 2020 
+  * Results Submission: May 3rd 2020 (24:00 CET - midnight) 
+  * Paper Submission I (standard): May 31st 2020
+  * Paper Submission II (high-quality tracking papers not accepted to ECCV): July 6th 2020
+  * Notification (submitted papers): July 10th 2020
+  * Camera-ready: July 17th 2020
+  * Workshop: August 28th 2020
   </div>
 </div>
 

@@ -5,7 +5,9 @@ submenu: Home
 
 # VOT2020 Challenge
 
-The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following seven highly successful VOT challenges, the 8th Visual Object Tracking Challenge VOT2020 and workshop is planned in conjunction with an upcoming major computer vision conference (decisions pending).
+The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following seven highly successful VOT challenges, the 8th Visual Object Tracking Challenge VOT2020 and workshop will be held in conjunction with ECCV 2020.
+
+More details about challenge participation will be provided soon.
 
 ## Highlights
 
@@ -27,12 +29,13 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 ## Important dates
 
- * Early March: Alpha version of the toolkit available, tookit testing period started
- * 20th March: Challenge open, datasets & final toolkit available
- * 3rd May: Results submission deadline
- * 31st May: Submission deadline for contributed papers to VOT2020
- * 6th July: Submission deadline for the <i>tracking papers not accepted to ECCV</i> for e.g. insufficient significance for the main conference (accompanied by the ECCV reviews and a letter of changes).
- * 10th July: Author notification (submitted paper decisions)
- * 17th July: Camera ready deadline 
- * 28th August: VOT2020 workshop in conjunction with the ECCV2020
+ * Toolkit alpha testing opens: early March 2020
+ * Challenge open: March 20th 2020 
+ * Results Submission: May 3rd 2020 (24:00 CET - midnight) 
+ * Paper Submission I (standard): May 31st 2020
+ * Paper Submission II (high-quality tracking papers not accepted to ECCV): July 6th 2020
+ * Notification (submitted papers): July 10th 2020
+ * Camera-ready: July 17th 2020
+ * Workshop: August 28th 2020
+
 

@@ -11,32 +11,23 @@ title: Support
 Look at the [Frequently Asked Questions](faq.html) for a list of most frequently asked questions.
 </div>
 
-# Documentation
-
-- [Toolkit documentation](http://docs.votchallenge.net/)
-- [TraX protocol documentation](http://trax.readthedocs.io/)
-
-# Resources
-
-The workshop presentations, report papers, and raw results needed to reproduce the analysis are available for each VOT benchmark on its corresponding sub-page.
-
-- [VOT2016 resources](/vot2016/results.html)
-- [VOT2015 resources](/vot2015/results.html)
-- [VOT2014 resources](/vot2014/results.html)
-- [VOT2013 resources](/vot2013/results.html)
-
 # Tutorials and guides
 
 These tutorials cover various topics on how to use VOT toolkit in your experiments:
 
-- [Setting up the workspace](workspace.html)
-- [Integrate a tracker](integration.html)
+<!-- - [Tutorial for the Python version](tutorial_python.html) -->
+- [Setting up the workspace (Matlab)](workspace.html)
+- [Integrate a tracker (Matlab)](integration.html)
 - [Building tracker examples on Windows using Visual Studio](visualstudio.html)
 - [Building tracker examples using CMake](cmake.html)
-- [Perform evaluation and submit results](perfeval.html)
-- [Analyzing results and generating reports](analysis.html)
+- [Perform evaluation and submit results (Matlab)](perfeval.html)
+- [Analyzing results and generating reports (Matlab)](analysis.html)
 - [Reproducing the 2016 TPAMI paper results](analysis_vot2014.html)
-- [Using different set of sequences with VOT toolkit](sequences.html)
+
+# Documentation
+
+- [Toolkit documentation (Matlab version)](http://docs.votchallenge.net/)
+- [TraX protocol documentation](http://trax.readthedocs.io/)
 
 # Support forum
 

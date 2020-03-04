@@ -21,6 +21,7 @@ This tutorial assumes that you already have the toolkit on your computer, that y
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-question-sign hugeicon"></i> </div>
 <h4>Need more information?</h4>
+
 You can find more detailed information about the toolkit and how to set it up in the [toolkit documentation](http://docs.votchallenge.net). If the problem still cannot be resolved with the documentation, look at the [Frequently Asked Questions](/howto/faq.html) or <a href="https://groups.google.com/forum/?hl=en#!forum/votchallenge-help"> contact us on the support forum</a>.
 </div>
 

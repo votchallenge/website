@@ -11,6 +11,7 @@ title: Building tracker examples using CMake
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-question-sign hugeicon"></i> </div>
 <h4>TraX protocol</h4>
+
 This example explains how to prepare a CMake project using the VOT C/C++ wrapper. It is however recommended that you integrate support for TraX protocol directly as the tracker will also work with the toolkit but also with other TraX clients. Follow the [official TraX tutorials](https://trax.readthedocs.io/en/latest/tutorials.html) for more information.
 </div>
 

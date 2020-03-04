@@ -59,28 +59,26 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">VOT2019 announcement</h3>
+    <h3 class="panel-title">VOT2020 announcement</h3>
   </div>
   <div class="panel-body">
   
-Due to multiple requests the VOT2019 results submission deadline has been extended to 9.6.2019.</br></br>
-  
-The VOT2019 workshop proposal has been submitted and we expect decision from the workshop chairs in early April. Here's some announcements and heads-ups:</br></br>
+  The [VOT2020 challenge](/vot2020/) will be organized in conjunction with ECCV2020! The details will be provided soon.
 
-In addition to the (1) VOT short-term challenge, (2) VOT short-term realtime and (3) VOT long-term challenge, we plan to introduce two new challenges:</br>
-4) VOT-RGBT challenge (RGB + Thermal/infra-red)</br>
-5) VOT-RGBD challenge (RGB + Depth)</br></br>
+### Highlights
+  * Five challenges planned
+  * VOT-toolkit re-implemented in Python
+  * A new performance evaluation protocol introduced for short-term tracker evaluation
+  * 2020 datasets refreshed in VOT-ST challenge
+  * Bounding boxes VOT-ST2020 & VOT-RT2020 will be replaced by segmentation masks (performance evaluated on segmentation)
+  * Authors of well-performing trackers will be invited to coauthor the VOT2020 results papers.
+  * Authors of top-performing trackers will be invited to present their trackers at VOT2020 workshop.
 
-These two challenges anticipate 4-channel videos (3 8-bit channels for RGB + additional 16-bit channel). The VOT-RGBT challenge is a natural evolution of the VOT-TIR challenges addressing short-term trackers that use RGB and TIR modalities. VOT-TIR will be likely organized as well as part of the VOT-RGBT challenge.</br></br>
-
-The VOT-RGBD challenge is a new challenge aiming at trackers that use both RGB and depth information in a long-term tracking scenario -- objects may disappear and reappear, thus re-detection capabilities are required.</br></br>
-
-We are aware that RGBD trackers are not as wide-spread as RGB-only, and we see this as a chance to boost the development of this type of trackers. To allow researchers to prepare early for the VOT-RGBD challenge, we have updated the VOT-toolkit and trax protocol (new versions available on GIT). The guidelines for integration and testing are available on the [VOT homepage](http://www.votchallenge.net/howto/integration_channels.html). We included two test sequences (not part of the final dataset) to allow early integration and tracker testing -- the toolkit will automatically download the sequences.</br></br>
-
-Here's a roughly planned timeline for VOT2019 challenge (may change):</br>
-- 15. April: VOT 2019 challenge open, datasets available</br>
-- 9. June: Tracker results submission deadline
-
+### Tentative timeline:
+  * Early March: Alpha version of the toolkit available, tookit testing period started
+  * 20th March: Challenge open, datasets & final toolkit available
+  * 3rd May: Results submission deadline
+  * 31st May: Submission deadline for contributed papers to VOT2020
   </div>
 </div>
 
@@ -91,7 +89,7 @@ Here's a roughly planned timeline for VOT2019 challenge (may change):</br>
   </div>
   <div class="panel-body">
 
-    VideoNet is a new initiative to bring together the community of researchers that have put effort into creating benchmarks for video tasks.  The goal of the VideoNet is to exchange ideas on how to improve annotations, evaluation measures, and learn from each other's experiences. More information available at the [official page](http://videonet.team/).
+  VideoNet is a new initiative to bring together the community of researchers that have put effort into creating benchmarks for video tasks.  The goal of the VideoNet is to exchange ideas on how to improve annotations, evaluation measures, and learn from each other's experiences. More information available at the [official page](http://videonet.team/).
   </div>
 </div>
 
@@ -102,11 +100,7 @@ Here's a roughly planned timeline for VOT2019 challenge (may change):</br>
   </div>
   <div class="panel-body">
 
-    We are happy to announce that the VOT (2013-2014) methodology paper has been accepted to Transactions on Pattern
-    Analysis and Machine Intelligence (TPAMI). The paper can be accessed from the [VOT publications page
-    link](http://www.votchallenge.net/publications.html). For future reference, if you use any of the VOT datasets
-    in your evaluation, please cite this paper as  methodology reference as well as the relevant VOT workshop paper
-    for the dataset.
+  We are happy to announce that the VOT (2013-2014) methodology paper has been accepted to Transactions on Pattern   Analysis and Machine Intelligence (TPAMI). The paper can be accessed from the [VOT publications page link](http://www.votchallenge.net/publications.html). For future reference, if you use any of the VOT datasets in your evaluation, please cite this paper as  methodology reference as well as the relevant VOT workshop paper for the dataset.
   </div>
 </div>
 

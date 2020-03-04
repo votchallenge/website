@@ -25,10 +25,14 @@ The VOT challenges provide the tracking community with a precisely defined and r
  * VOT thermal and infrared short-term tracking challenge VOT-RGBT2020 - Multi-modality tracking under RGB and T partial modality de-synchronization.
  * VOT color and depth long-term tracking challenge VOT-RGBD2020 - Using depth to improve LT RGB tracking with target disappearance.
 
-## Tentative timeline
+## Important dates
 
- * February (end): Alpha version of the toolkit available, tookit testing period started
- * 20th of March: Challenge open, datasets & final toolkit available
- * 3rd of May: Results submission deadline
- * 31st of May: (if the workshop is accepted)  Submission deadline for contributed papers to VOT2020
+ * Early March: Alpha version of the toolkit available, tookit testing period started
+ * 20th March: Challenge open, datasets & final toolkit available
+ * 3rd May: Results submission deadline
+ * 31st May: Submission deadline for contributed papers to VOT2020
+ * 6th July: Submission deadline for the <i>tracking papers not accepted to ECCV</i> for e.g. insufficient significance for the main conference (accompanied by the ECCV reviews and a letter of changes).
+ * 10th July: Author notification
+ * 17th July: Camera ready deadline 
+ * 28th August: VOT2020 workshop in conjunction with the ECCV2020
 

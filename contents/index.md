@@ -63,7 +63,7 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
   </div>
   <div class="panel-body">
 
-  The [VOT2020 challenge](/vot2020/) will be organized in conjunction with ECCV2020! The details will be provided soon.
+  The [VOT2020 challenge](/vot2020/) will be organized in conjunction with ECCV2020 (28.8.2020)! 
 
 ### Highlights
   * Five challenges planned
@@ -74,11 +74,15 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
   * Authors of well-performing trackers will be invited to coauthor the VOT2020 results papers.
   * Authors of top-performing trackers will be invited to present their trackers at VOT2020 workshop.
 
-### Tentative timeline:
+### Important dates
   * Early March: Alpha version of the toolkit available, tookit testing period started
   * 20th March: Challenge open, datasets & final toolkit available
   * 3rd May: Results submission deadline
   * 31st May: Submission deadline for contributed papers to VOT2020
+  * 6th July: Submission deadline for the <i>tracking papers not accepted to ECCV</i> for e.g. insufficient significance for the main conference (accompanied by the ECCV reviews and a letter of changes).
+  * 10th July: Author notification
+  * 17th July: Camera ready deadline 
+  * 28th August: VOT2020 workshop in conjunction with the ECCV2020
   </div>
 </div>
 

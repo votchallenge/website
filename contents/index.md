@@ -62,7 +62,7 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
     <h3 class="panel-title">VOT2020 announcement</h3>
   </div>
   <div class="panel-body">
-  
+
   The [VOT2020 challenge](/vot2020/) will be organized in conjunction with ECCV2020! The details will be provided soon.
 
 ### Highlights
@@ -110,3 +110,4 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 If you want to stay informed about the future VOT activities you can subscribe to [our news mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge). If you are interested in the toolkit and technical aspects, subscribe to [VOT support forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
 </div>
+

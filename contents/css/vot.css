@@ -55,7 +55,23 @@ footer {
     clear: both;
     padding-top: 60px;
     text-align: center;
+    text-align: center;
+    font-size: small;
+    color: #AAAAAA;
+}
 
+footer a {
+    color: #AAAAAA;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: #AAAAAA;
+    text-decoration: none;
+}
+
+.hosted img {
+    margin-bottom: 10px;
 }
 
 .clearer {
@@ -63,16 +79,7 @@ footer {
 }
 
 .poweredby {
-    padding-top: 30px;
     padding-bottom: 30px;
-    text-align: center;
-    font-size: small;
-    color: #AAAAAA;
-}
-
-.poweredby a {
-    color: #AAAAAA;
-    font-weight: bold;
 }
 
 .screenshot img {

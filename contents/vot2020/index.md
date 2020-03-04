@@ -32,7 +32,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
  * 3rd May: Results submission deadline
  * 31st May: Submission deadline for contributed papers to VOT2020
  * 6th July: Submission deadline for the <i>tracking papers not accepted to ECCV</i> for e.g. insufficient significance for the main conference (accompanied by the ECCV reviews and a letter of changes).
- * 10th July: Author notification
+ * 10th July: Author notification (submitted paper decisions)
  * 17th July: Camera ready deadline 
  * 28th August: VOT2020 workshop in conjunction with the ECCV2020
 

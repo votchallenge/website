@@ -17,14 +17,14 @@ pip install git+https://github.com/lukacu/vot-toolkit-python
 ```
 Alternatively, you can download just the sources from the [VOT toolkit GitHub repository](https://github.com/votchallenge/toolkit).
 
-The toolkit is compatible with Python 3 (version greater than 3.4.). Then create an empty directory that will be used to perform your experiments. We will call this directory `vot-workspace`. It is highly recommended to use some environment management tool, e.g., <i>Anaconda</i> or <i>venv</i>.
+The toolkit is compatible with Python 3 (version greater than 3.6.). Then create an empty directory that will be used to perform your experiments. We will call this directory `vot-workspace`. It is highly recommended to use some environment management tool, e.g., <i>Anaconda</i> or <i>venv</i>.
 
 1. In the terminal run a command to create workspace:
 ```console
 vot workspace <stack-name> --workspace <workspace-path>
 ```
-Make sure that `<stack-name>` is a valid stack from directory vot/stack, e.g., use `vot2014` if you want to use vot2014.yaml stack denoting the VOT 2014 Challenge setup. `<workspace-path>` is full path to the `vot-workspace` directory.
-2. In the `trackers` directory in `vot-workspace` create an .ini file to describe the tracker. The following programming languages are supported: Python, Matlab and C/C++. Instructions for creating an .ini file are available below (section <i>Tracker integration</i>). 
+Make sure that `<stack-name>` is a valid stack from directory vot/stack, e.g., use `vot2014` if you want to use vot2014.yaml stack denoting the VOT 2014 Challenge setup. `<workspace-path>` is the full path to the `vot-workspace` directory.
+2. Put a tracker description in the `trackers.ini` file, located in the `vot-workspace` directory. See section <i>Tracker integration</i> below, which explains how to create a tracker description. The following programming languages are supported: Python, Matlab and C/C++.
 3. Assuming that you have created a tracker named `<tracker-name>`, it can be run using the following command:
 ```console
 vot evaluate --workspace <workspace-path> <tracker-name>
@@ -34,9 +34,9 @@ The command will automatically download the dataset and perform experiments desc
 
 # Tracker integration
 
-A tracker can be integrated into the toolkit by an .ini file. These files are usually placed to the `trackers` directory within the `vot-workspace`. Here are examples of integration for three trackers (Python, Matlab and native). Source code of the example trackers can be found [here](https://github.com/votchallenge/integration).
+A tracker can be integrated into the toolkit by putting a tracker description in the `trackers.ini` file, which is placed in the `vot-workspace` directory. Note that multiple tracker descriptions can be in the same `trackers.ini` file. Here are examples of integration for three trackers (Python, Matlab and native). Source code of the example trackers can be found [here](https://github.com/votchallenge/integration).
 
-Example of an .ini file for a Python tracker (NCC tracker - <i>python_ncc.py</i> from [Python integration examples](https://github.com/votchallenge/integration/tree/master/python)):
+Example of a tracker description for a Python tracker (NCC tracker - <i>python_ncc.py</i> from [Python integration examples](https://github.com/votchallenge/integration/tree/master/python)):
 ```
 [NCCPython]  # <tracker-name>
 label = PyNCC
@@ -51,7 +51,7 @@ paths = <path-to-tracker-source-directory>
 env_PATH = <additional-env-paths>;${PATH}
 ```
 
-Example of an .ini file for a Matlab tracker (NCC tracker - <i>ncc.m</i> from [Matlab integration examples](https://github.com/votchallenge/integration/tree/master/matlab)):
+Example of a tracker description for a Matlab tracker (NCC tracker - <i>ncc.m</i> from [Matlab integration examples](https://github.com/votchallenge/integration/tree/master/matlab)):
 ```
 [NCCMatlab]  # <tracker-name>
 label = NCC
@@ -67,7 +67,7 @@ env_PATH = <additional-env-paths>;${PATH}
 ```
 Make sure that you have compiled traxserver.cpp and added the path to the directory with this MEX file into the `paths`. Traxserver can be found on [TraX Github](https://github.com/votchallenge/trax/tree/master/support/matlab) and compiled using the script `compile_trax.m`. 
 
-Example of an .ini file for a native tracker (NCC tracker - <i>ncc.cpp</i> from [Native integration examples](https://github.com/votchallenge/integration/tree/master/native)):
+Example of a tracker description for a native tracker (NCC tracker - <i>ncc.cpp</i> from [Native integration examples](https://github.com/votchallenge/integration/tree/master/native)):
 ```
 [NCCNative]  # <tracker-name>
 label = NCCNative

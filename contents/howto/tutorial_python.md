@@ -25,7 +25,11 @@ vot workspace <stack-name> --workspace <workspace-path>
 ```
 Make sure that `<stack-name>` is a valid stack from directory vot/stack, e.g., use `vot2014` if you want to use vot2014.yaml stack denoting the VOT 2014 Challenge setup. `<workspace-path>` is the full path to the `vot-workspace` directory.
 2. Put a tracker description in the `trackers.ini` file, located in the `vot-workspace` directory. See section <i>Tracker integration</i> below, which explains how to create a tracker description. The following programming languages are supported: Python, Matlab and C/C++.
-3. Assuming that you have created a tracker named `<tracker-name>`, it can be run using the following command:
+3. You can test the integration of the tracker on a synthetic sequence using the following command (assuming that you are in the same folder than `trackers.ini`):
+```console
+vot test <tracker-name>
+```
+4. Assuming that you have created a tracker named `<tracker-name>`, it can be run using the following command:
 ```console
 vot evaluate --workspace <workspace-path> <tracker-name>
 ```
@@ -47,7 +51,7 @@ command = python_ncc
 # Specify a path to trax python wrapper if it is not visible (separate by ; if using multiple paths)
 paths = <path-to-tracker-source-directory>
 
-# Additional environment paths 
+# Additional environment paths
 env_PATH = <additional-env-paths>;${PATH}
 ```
 
@@ -65,7 +69,7 @@ paths = <matlab-paths>
 # Additional environment paths
 env_PATH = <additional-env-paths>;${PATH}
 ```
-Make sure that you have compiled traxserver.cpp and added the path to the directory with this MEX file into the `paths`. Traxserver can be found on [TraX Github](https://github.com/votchallenge/trax/tree/master/support/matlab) and compiled using the script `compile_trax.m`. 
+Make sure that you have compiled traxserver.cpp and added the path to the directory with this MEX file into the `paths`. Traxserver can be found on [TraX Github](https://github.com/votchallenge/trax/tree/master/support/matlab) and compiled using the script `compile_trax.m`.
 
 Example of a tracker description for a native tracker (NCC tracker - <i>ncc.cpp</i> from [Native integration examples](https://github.com/votchallenge/integration/tree/master/native)):
 ```

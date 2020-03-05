@@ -13,7 +13,7 @@ pip install http://data.votchallenge.net/toolkit/trax/vot-trax-3.0.0.tar.gz
 
 Install the toolkit using pip:
 ```console
-pip install git+https://github.com/votchallenge/toolkit
+pip install git+https://github.com/lukacu/vot-toolkit-python
 ```
 Alternatively, you can download just the sources from the [VOT toolkit GitHub repository](https://github.com/votchallenge/toolkit).
 

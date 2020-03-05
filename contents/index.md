@@ -56,6 +56,24 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 ## Highlights and news
 
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">VOT2020 beta toolkit now available</h3>
+  </div>
+  <div class="panel-body">
+
+  A new VOT Python toolkit is now available for beta testing (the old one is deprecated). The toolkit implements the most recent changes in evaluation protocol and the ground truth format (segmentation will be used in the short-term challenge). 
+
+  To give you a head start before the VOT2020 challenge official opening (late March), we are pre-releasing the toolkit along with preliminary demo sequences so that you can test your tracker integration and the new target location reporting format.
+
+  The instructions are available on the toolkit [tutorial page](/howto/tutorial_python.html). Please test the toolkit and report potential issues to the technical team via the [forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
+
+  A few remarks:
+  * Trackers integrated with the old toolkit (with TraX) should work out-of-the-box with the new one. But we strongly advise to update the TraX wrappers from the [Github integration repository](https://github.com/votchallenge/integration).
+  * The new toolkit pre-release does not support the previous VOT benchmarks yet -- use the old toolkit for that. This release is just to test for the VOT2020.
+  * The new toolkit does not yet implement all the performance measures -- this is just to test the integration.
+  </div>
+</div>
 
 <div class="panel panel-primary">
   <div class="panel-heading">

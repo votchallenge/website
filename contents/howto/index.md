@@ -15,7 +15,7 @@ Look at the [Frequently Asked Questions](faq.html) for a list of most frequently
 
 These tutorials cover various topics on how to use VOT toolkit in your experiments:
 
-<!-- - [Tutorial for the Python version](tutorial_python.html) -->
+- [Tutorial for the Python version (beta version)](tutorial_python.html)
 - [Setting up the workspace (Matlab)](workspace.html)
 - [Integrate a tracker (Matlab)](integration.html)
 - [Building tracker examples on Windows using Visual Studio](visualstudio.html)

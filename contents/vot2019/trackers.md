@@ -141,7 +141,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [Synergistic CooSiam Framework based on Comprehensive Template's Feature and Detection (CooSiam)](http://data.votchallenge.net/vot2019/trackers/CooSiam-code-2019-06-09T10_39_15.898047.zip) - Appendix B.3
 
--   [Fully Correlational Long-Term Tracker (Fu-CoLoT)] - Appendix B.4
+-   [Fully Correlational Long-Term Tracker (Fu-CoLoT)](https://github.com/alanlukezic/fucolot) - Appendix B.4
 
 -   [long-term tracking by diving videos into successive short episodes (LT-DSE)](http://data.votchallenge.net/vot2019/trackers/LT_DSE-code-2019-06-09T22_36_29.680803.zip) - Appendix B.5
 
@@ -154,7 +154,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 -   [Optimize SiamRPN with Random Search for Long-Term Tracking (SiamRPNsLT)](http://data.votchallenge.net/vot2019/trackers/SiamRPNsLT-code-2019-06-09T21_23_41.624088.zip) - Appendix B.9
 
 
-### RGBD
+### RGB-TIR Trackers
 
 -   [Channel Independent Spatially Regularized Discriminative Correlation Filter Tracker (CISRDCF)](http://data.votchallenge.net/vot2019/trackers/CISRDCF-code-2019-06-09T12_56_48.961403.zip) - Appendix C.1
 
@@ -173,7 +173,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 -   [Online Deeper and Wider Siamese Networks for RGBT Visual Tracking (SiamDW-T)](http://data.votchallenge.net/vot2019/trackers/SiamDW_T-code-2019-06-09T16_25_24.726208.zip) - Appendix C.8
 
 
-### RGBTIR
+### RGB-D Trackers
 
 -   [Accurate Tracking by Category-Agnostic Instance Segmentation for RGBD Image (ATCAIS)](http://data.votchallenge.net/vot2019/trackers/ATCAIS-code-2019-06-09T16_40_52.975602.zip) - Appendix D.1
 

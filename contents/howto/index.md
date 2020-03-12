@@ -39,13 +39,11 @@ If you did not find the information that you were looking for in the FAQ, docume
 var a = document.getElementById("forum_embed");
 var uri = encodeURIComponent(window.location.href);
 a.src = "https:" + "//groups.google.com/forum/embed/?place=forum/votchallenge-help\u0026parenturl=" + uri;
-
 function resize_handle() {
-	var a = $("#forum_embed");
-	a.attr('width', a.parent().width() + 'px');
+var a = $("#forum_embed");
+a.attr('width', a.parent().width() + 'px');
 }
 $(window).resize(resize_handle);
 resize_handle();
 </script>
-
 

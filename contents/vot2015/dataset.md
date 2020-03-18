@@ -32,7 +32,7 @@ Annotators:
 
 The following gallery gives an overview of the dataset (hover over image to see several snapshots from the sequence, click to view sequence details).
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2015/dataset/description.json"></div>
+<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2015/dataset/description.json"></div>
 
 ## VOT-TIR2015 Dataset
 
@@ -52,5 +52,5 @@ Regading local, per-frame, annotations, the label illumination change has been r
 
 The following gallery gives an overview of the dataset (hover over image to see several snapshots from the sequence, click to view sequence details).
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2015/thermal/description.json"></div>
+<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2015/thermal/description.json"></div>
 

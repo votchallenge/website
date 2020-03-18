@@ -9,5 +9,5 @@ The dataset comprises 25 short sequences showing various objects in challenging 
 
 The sequences were annotated by the VOT committee using rotated bounding boxes in order to provide highly accurate ground truth values for comparing results. The dataset is automatically downloaded by the evaluation kit during the install process; there is no need to separately download the sequences for the challenge. The following gallery gives an overview of the dataset (hover over image to see several snapshots from the sequence, click to view sequence details).
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2014/dataset/description.json"></div>
+<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2014/dataset/description.json"></div>
 

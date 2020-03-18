@@ -12,9 +12,9 @@ The following gallery gives an overview of the datasets (hover over image to see
 
 ### VOT2017 dataset preview
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2017/main/description.json" />
+<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2017/main/description.json" />
 
 ### VOT-TIR2017 dataset preview
 
-<div class="gallery" data-votdataset="http://data.votchallenge.net/vot2017/thermal/description.json" />
+<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2017/thermal/description.json" />
 

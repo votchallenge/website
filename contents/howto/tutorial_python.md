@@ -4,20 +4,17 @@ menu: Support
 title: Setting up VOT workspace
 ---
 
-# Setting up the VOT workspace
+# VOT Toolkit installation
 
-First install the TraX library using pip:
-```console
-pip install http://data.votchallenge.net/toolkit/trax/vot-trax-3.0.0.tar.gz
-```
-
-Install the toolkit using pip:
+ The toolkit requires Python 3 (version greater than 3.6.). Install the toolkit using pip:
 ```console
 pip install git+https://github.com/lukacu/vot-toolkit-python
 ```
 Alternatively, you can download just the sources from the [VOT toolkit GitHub repository](https://github.com/votchallenge/toolkit).
 
-The toolkit is compatible with Python 3 (version greater than 3.6.). Then create an empty directory that will be used to perform your experiments. We will call this directory `vot-workspace`. It is highly recommended to use some environment management tool, e.g., <i>Anaconda</i> or <i>venv</i>.
+# Setting up the VOT workspace
+
+Then create an empty directory that will be used to perform your experiments. We will call this directory `vot-workspace`. It is highly recommended to use some environment management tool, e.g., <i>Anaconda</i> or <i>venv</i>.
 
 1. In the terminal run a command to create workspace:
 ```console

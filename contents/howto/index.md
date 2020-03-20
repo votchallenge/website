@@ -15,14 +15,15 @@ Look at the [Frequently Asked Questions](faq.html) for a list of most frequently
 
 These tutorials cover various topics on how to use VOT toolkit in your experiments:
 
-- [Tutorial for the Python version (beta version)](tutorial_python.html)
-- [Setting up the workspace (Matlab)](workspace.html)
-- [Integrate a tracker (Matlab)](integration.html)
+- [Tutorial for the Python version](tutorial_python.html)
 - [Building tracker examples on Windows using Visual Studio](visualstudio.html)
 - [Building tracker examples using CMake](cmake.html)
+- [Setting up the workspace (Matlab)](workspace.html)
+- [Integrate a tracker (Matlab)](integration.html)
 - [Perform evaluation and submit results (Matlab)](perfeval.html)
 - [Analyzing results and generating reports (Matlab)](analysis.html)
 - [Reproducing the 2016 TPAMI paper results](analysis_vot2014.html)
+
 
 # Documentation
 

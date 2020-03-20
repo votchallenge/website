@@ -8,9 +8,9 @@ title: Setting up VOT workspace
 
  The toolkit requires Python 3 (version greater than 3.6.). Install the toolkit using pip:
 ```console
-pip install git+https://github.com/lukacu/vot-toolkit-python
+pip install git+https://github.com/votchallenge/vot-toolkit-python
 ```
-Alternatively, you can download just the sources from the [VOT toolkit GitHub repository](https://github.com/votchallenge/toolkit).
+Alternatively, you can download just the sources from the [VOT toolkit GitHub repository](https://github.com/votchallenge/vot-toolkit-python).
 
 # Setting up the VOT workspace
 

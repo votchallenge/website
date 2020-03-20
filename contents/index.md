@@ -58,49 +58,14 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">VOT2020 beta toolkit now available</h3>
+    <h3 class="panel-title">VOT2020 challenge is now open!</h3>
   </div>
   <div class="panel-body">
 
-  A new VOT Python toolkit is now available for beta testing (the old one is deprecated). The toolkit implements the most recent changes in evaluation protocol and the ground truth format (segmentation will be used in the short-term challenge). 
+The VOT2020 is now officially open. You can participate by submitting a scientific paper and/or evaluating your tracker on one of the four VOT2020 subchallenges. Please see the [challenge homepage](/vot2020/) for details.
 
-  To give you a head start before the VOT2020 challenge official opening (late March), we are pre-releasing the toolkit along with preliminary demo sequences so that you can test your tracker integration and the new target location reporting format.
+Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launched at the intended date. We hope that we will still be able to launch the sub-challenge before the end of March and we will inform you by no later than March 30th.
 
-  The instructions are available on the toolkit [tutorial page](/howto/tutorial_python.html). Please test the toolkit and report potential issues to the technical team via the [forum](https://groups.google.com/forum/?hl=en#!forum/votchallenge-help).
-
-  A few remarks:
-  * Trackers integrated with the old toolkit (with TraX) should work out-of-the-box with the new one. But we strongly advise to update the TraX wrappers from the [Github integration repository](https://github.com/votchallenge/integration).
-  * The new toolkit pre-release does not support the previous VOT benchmarks yet -- use the old toolkit for that. This release is just to test for the VOT2020.
-  * The new toolkit does not yet implement all the performance measures -- this is just to test the integration.
-  </div>
-</div>
-
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">VOT2020 announcement</h3>
-  </div>
-  <div class="panel-body">
-
-  The [VOT2020 challenge](/vot2020/) will be organized in conjunction with ECCV2020 (28.8.2020)! 
-
-### Highlights
-  * Five challenges planned
-  * VOT-toolkit re-implemented in Python
-  * A new performance evaluation protocol introduced for short-term tracker evaluation
-  * 2020 datasets refreshed in VOT-ST challenge
-  * Bounding boxes VOT-ST2020 & VOT-RT2020 will be replaced by segmentation masks (performance evaluated on segmentation)
-  * Authors of well-performing trackers will be invited to coauthor the VOT2020 results papers.
-  * Authors of top-performing trackers will be invited to present their trackers at VOT2020 workshop.
-
-### Important dates
-  * Toolkit alpha testing opens: early March 2020
-  * Challenge open: March 20th 2020 
-  * Results Submission: May 3rd 2020 (24:00 CET - midnight) 
-  * Paper Submission I (standard): May 31st 2020
-  * Paper Submission II (high-quality tracking papers not accepted to ECCV): July 6th 2020
-  * Notification (submitted papers): July 10th 2020
-  * Camera-ready: July 17th 2020
-  * Workshop: August 28th 2020
   </div>
 </div>
 

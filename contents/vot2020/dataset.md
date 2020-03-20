@@ -19,7 +19,11 @@ The dataset is the same as [last year](../vot2019/dataset.html).
 
 ### VOT-RGBT2020 dataset preview
 
-More information available shortly.
+<div class="alert alert-warning" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
+
+Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launched at the intended date. We hope that we will still be able to launch the sub-challenge before the end of March and we will inform you by no later than March 30th.
+</div>
 
 ### VOT-RGBD2020 dataset preview
 

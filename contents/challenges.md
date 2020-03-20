@@ -16,7 +16,7 @@ title: Challenges
 <a href="/vot2020/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot_upcoming.png" alt="VOT2020" />
 <h3>VOT2020 challenge</h3>
-<p class="description">The VOT2020 challenge will address short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results will be presented at ECCV2020 VOT workshop.</p>
+<p class="description">The VOT2020 challenge addresses short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results will be presented at ECCV2020 VOT workshop.</p>
 </a>
 </div>
 

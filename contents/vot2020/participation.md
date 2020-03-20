@@ -13,10 +13,18 @@ submenu: Participate
 
 ## Participate by attending the VOT2020 subchallenges
 
+<div class="alert alert-info" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
+<h4>New toolkit</h4>
+
 Please note that using the new Python toolkit is required for participation. See the [toolkit guide](/howto/tutorial_python.html) on how to set it up and use it with your tracker.
+</div>
+
+
 
 ### VOT standard (VOT-ST2020) and realtime (VOT-RT2020) subchallenges
  * VOT-ST2020 and VOT-RT2020 address short-term, causal, model-free trackers. These trackers are required to report the target in every frame of the sequence.
+ * Trackers may report target location as a segmentation mask or a bounding box. Performance is evaluated w.r.t. to a segmentation ground truth.
  * The general requirements for the trackers submitted to these challenges are the same as in previous VOT challenges
  * VOT-ST2020 will use a new multi-start experiment setup and modified accuracy/robustness/expected average overlap measures for performance assesment
  * VOT-ST2020 dataset is refreshed version of the dataset from VOT-ST2019 with new segmentation-based annotations.
@@ -26,6 +34,7 @@ Please note that using the new Python toolkit is required for participation. See
 ###  VOT long-term subchallenge (VOT-LT2020)
 
  * VOT-LT2020 addresses long-term, causal, model-free trackers.
+ * Trackers may report target location as a segmentation mask or a bounding box. Performance is evaluated w.r.t. to a bounding box ground truth.
  * These trackers are required to determine the target disappearance (e.g., as the target leaves the field of view of undergoes a full occlusion) and re-detect the target once it re-enters the scene.
  * For the toolkit compatibility reasons, the tracker has to report the target position in each frame as well as a certainty score that the target is present (high for when the tracker believes the target is present and low/negative when the target is not present).
  * A dataset is the same as in the VOT-LT2019 challenge.
@@ -37,6 +46,7 @@ Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launche
 ###  VOT RGB and depth subchallenge (VOT-RGBD2020)
 
  * VOT-RGBD2020 addresses long-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-LT2020 subchallenge.
+ * Trackers may report target location as a segmentation mask or a bounding box. Performance is evaluated w.r.t. to a bounding box ground truth.
  * The trackers work with a 4-channel input composed of RGB+depth channels.
  * A dataset is the same as in the VOT-RGBD2019 challenge.
  * Care has been taken to accurately temporally synchronize and spatially align the RGB and Depth channels, resulting in nearly per-pixel accurate alignment between all channels.

@@ -30,6 +30,7 @@ Please note that using the new Python toolkit is required for participation. See
  * VOT-ST2020 dataset is refreshed version of the dataset from VOT-ST2019 with new segmentation-based annotations.
  * VOT-ST2020 winner will be determined on a separate sequestered dataset. The VOT committee will run trackers that obtain top performance on public dataset to determine the winner.
  * VOT-RT2020 will be run as one of the experiments of the VOT-ST2020 with real-time constraints, the experiment is conceptually the same as in the past challenges.
+ * The new VOT2020 evaluation protocol and measures are used - more information available [here](https://data.votchallenge.net/vot2020/vot-2020-protocol.pdf)
 
 ###  VOT long-term subchallenge (VOT-LT2020)
 

@@ -22,7 +22,7 @@ Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launche
 
  * Five challenges planned
  * Toolkit re-implemented in Python
- * A new performance evaluation protocol introduced for short-term tracker evaluation
+ * A new performance evaluation protocol introduced for short-term tracker evaluation - more information [here](https://data.votchallenge.net/vot2020/vot-2020-protocol.pdf)
  * 2020 datasets refreshed in VOT-ST challenge
  * Bounding boxes VOT-ST2020 & VOT-RT2020 will be replaced by segmentation masks (performance evaluated on segmentation)
  * Authors of well-performing trackers will be invited to coauthor the VOT2020 results papers.

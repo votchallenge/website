@@ -58,6 +58,17 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 <div class="panel panel-primary">
   <div class="panel-heading">
+    <h3 class="panel-title">The new VOT2020 evaluation protocol</h3>
+  </div>
+  <div class="panel-body">
+
+We have introduced a new short-term evaluation protocol and performance evaluation measures for the VOT2020 Challenge. More information about the new protocol and measures can be found [here](https://data.votchallenge.net/vot2020/vot-2020-protocol.pdf).
+
+  </div>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading">
     <h3 class="panel-title">VOT2020 challenge is now open!</h3>
   </div>
   <div class="panel-body">

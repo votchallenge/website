@@ -15,6 +15,8 @@ Please see the [participation page](participation.html) for more details on how 
 Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launched at the intended date. We hope that we will still be able to launch the sub-challenge before the end of March and we will inform you by no later than March 30th.
 </div>
 
+<img class="logo float-right frame" src="../img/vot2020_logo_website_large.png" alt="VOT2020" />
+
 
 
 
@@ -38,8 +40,8 @@ Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launche
 
 ## Important dates
 
- * Toolkit alpha testing opens: early March 2020
- * Challenge open: March 20th 2020
+ * ~~Toolkit beta testing opens: early March 2020~~
+ * ~~Challenge open: March 20th 2020~~
  * Results Submission: May 3rd 2020 (24:00 CET - midnight)
  * Paper Submission I (standard): May 31st 2020
  * Paper Submission II (high-quality tracking papers not accepted to ECCV): July 6th 2020

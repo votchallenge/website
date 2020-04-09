@@ -19,7 +19,7 @@ submenu: Results
 # VOT-LT2019 Raw data
 
 -   Sequence dataset - Sequences for the VOT-LT2019 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2019/dataset.html) for more information.
--   [Raw results](http://data.votchallenge.net/vot2019/results/votlt2019_results.zip) - Raw results of participating trackers needed for comparative analysis.
+-   [Raw results](http://data.votchallenge.net/vot2019/results/vot2019lt_results.zip) - Raw results of participating trackers needed for comparative analysis.
 
 # VOT-RGBT2019 Raw data
 

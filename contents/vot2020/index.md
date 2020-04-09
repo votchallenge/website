@@ -15,7 +15,7 @@ Please see the [participation page](participation.html) for more details on how 
 Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launched at the intended date. We hope that we will still be able to launch the sub-challenge before the end of March and we will inform you by no later than March 30th.
 </div>
 
-<img class="logo float-right frame" src="../img/vot2020_logo_website_large.png" alt="VOT2020" />
+<img class="logo float-right frame" src="../img/vot2020_logo_website_large.png" alt="VOT2020"  />
 
 
 

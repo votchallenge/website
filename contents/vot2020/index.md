@@ -12,7 +12,7 @@ Please see the [participation page](participation.html) for more details on how 
 <div class="alert alert-warning" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
 
-Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launched at the intended date. We hope that we will still be able to launch the sub-challenge before the end of March and we will inform you by no later than March 30th.
+As indicated earlier, we have experienced a lockdown-caused delay of the RGBT-challenge launch. We are very sorry for this inconvenience and will go for a bounding-box evaluation to speed up the launch. If you want to test your tracker prior to the launch, please use the old VOT2019 toolkit (VOT-RGBT2019 challenge). Note however that the reinitialization will be different and final robustness tuning will require switching to the new VOT2020 toolkit, which is to be launched in the next few days.
 </div>
 
 <img class="logo float-right frame" src="../img/vot2020_logo_website_large.png" alt="VOT2020"  />

@@ -61,7 +61,7 @@ All trackers require integration via the [TraX protocol](https://github.com/votc
 
  * Make sure that you select the correct experiment stack (votst2020 for VOT-ST2020 main short-term subchallenge ; votlt2020 for VOT-LT2020 subchallenge ; votrgbt2020 for VOT-RGBT2020 subchallenge ; votrgbd2020 for VOT-RGBD2020 subchallenge) for the corresponding challenge. The VOT-realtime subchallenge is automatically run as one of the experiments of the VOT-ST2020 subchallenge.
  * Perform evaluation and pack the results.
- * After packing the results submit them via the submission page (will be available soon).
+ * After packing the results submit them via the [submission page](https://submit.votchallenge.net).
 
 ### Participation requirements
 

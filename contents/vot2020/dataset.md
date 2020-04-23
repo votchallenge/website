@@ -11,7 +11,7 @@ The following gallery gives an overview of the datasets (hover over image to see
 
 ### VOT-ST2020 dataset preview
 
-<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2020/shortterm/description.json"></div>
+<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2020/shortterm/description.json" ></div>
 
 ### VOT-LT2020 dataset preview
 

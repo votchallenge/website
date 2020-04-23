@@ -14,7 +14,7 @@ submenu: Participate
 ## Participate by attending the VOT2020 subchallenges
 
 <div class="alert alert-info" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon" ></i> </div>
+<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
 <h4>New toolkit</h4>
 
 Please note that using the new Python toolkit is required for participation. See the [toolkit guide](/howto/tutorial_python.html) on how to set it up and use it with your tracker.

@@ -42,7 +42,10 @@ Please note that using the new Python toolkit is required for participation. See
 
 ###  VOT RGB thermal and infrared subchallenge (VOT-RGBT2020)
 
-Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launched at the intended date. We hope that we will still be able to launch the sub-challenge before the end of March and we will inform you by no later than March 30th.
+ * VOT-RGBT2020 addresses short-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-ST2020 subchallenge.
+ * The trackers work with a 4-channel input composed of RGB+thermal channels.
+ * A completely new dataset has been constructed for this subchallenge.
+ * The nature of RGB+T acquisition is such that the RGB and T channels are temporally fairly well synchronized for the most part, but in some frames the RGB and T modality will go out of sync. This results in slight misalignment between the target location in RGB and T channels. The ground truth is specified in the T-channel since this is the primary modality and the RGB channels are considered as an auxiliary modality. Thus the trackers are required to address the de-synchronization issue and output the target location as specified in the primary modality (T  channel).
 
 ###  VOT RGB and depth subchallenge (VOT-RGBD2020)
 

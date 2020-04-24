@@ -19,11 +19,9 @@ The dataset is the same as [last year](../vot2019/dataset.html).
 
 ### VOT-RGBT2020 dataset preview
 
-<div class="alert alert-warning" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
+The dataset is the same as [last year](../vot2019/dataset.html), but is annotated with extra data that supports the new short-term experiment methodology.
 
-Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launched at the intended date. We hope that we will still be able to launch the sub-challenge before the end of March and we will inform you by no later than March 30th.
-</div>
+<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2020/rgbtir/meta/description.json" ></div>
 
 ### VOT-RGBD2020 dataset preview
 

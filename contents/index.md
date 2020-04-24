@@ -73,9 +73,7 @@ We have introduced a new short-term evaluation protocol and performance evaluati
   </div>
   <div class="panel-body">
 
-The VOT2020 is now officially open. You can participate by submitting a scientific paper and/or evaluating your tracker on one of the four VOT2020 subchallenges. Please see the [challenge homepage](/vot2020/) for details.
-
-Due to a COVID-19-caused lock down, the VOT-RGBT sub-challenge cannot be launched at the intended date. We hope that we will still be able to launch the sub-challenge before the end of March and we will inform you by no later than March 30th.
+The VOT2020 is now officially open. You can participate by submitting a scientific paper and/or evaluating your tracker on one of the four VOT2020 subchallenges. Please see the [challenge homepage](/vot2020/) for details.s
 
   </div>
 </div>

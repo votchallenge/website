@@ -18,16 +18,23 @@ submenu: People
 -   [Joni-Kristian Kämäräinen](http://vision.cs.tut.fi/personal/JoniKamarainen/),
     Tampere University, Finland
 -   [Martin Danelljan](https://martin-danelljan.github.io/), ETH Zurich
-
-## Technical committee
-
 -   [Luka &#268;ehovin Zajc](http://www.vicos.si/People/Luka_Cehovin), University of Ljubljana, Slovenia
 -   [Alan Luke&#382;i&#269;](http://www.vicos.si/User:Alanl), University of Ljubljana, Slovenia
 -   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria
+
+## Technical committee
+
 -   [Ondrej Drbohlav](http://cmp.felk.cvut.cz/~drbohlav/), Czech Technical University in Prague, Czech Republic
 -   Linbo He, Link&ouml;ping University, Sweden
 -   Song Yan, ampere University, Finland
--   Jinyu, University of Birmingham, UK
+-   Jinyu Yang, University of Birmingham, UK
+
+## Individual challenge caretakers
+
+-   VOT-ST/RT2020: Matej Kristan
+-   VOT-LT2020: Matej Kristan
+-   VOT-RGBD2020: Joni Karmerainen
+-   VOT-RGBT2020: Michael Felsberg
 
 ## Program committee
 

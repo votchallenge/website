@@ -26,8 +26,9 @@ submenu: People
 
 -   [Ondrej Drbohlav](http://cmp.felk.cvut.cz/~drbohlav/), Czech Technical University in Prague, Czech Republic
 -   Linbo He, Link&ouml;ping University, Sweden
--   Song Yan, ampere University, Finland
+-   Song Yan, Tampere University, Finland
 -   Jinyu Yang, University of Birmingham, UK
+-   Yushan Zhang, Beijing Institute of Technology, China and Link&ouml;ping University, Sweden
 
 ## Individual challenge caretakers
 

@@ -12,8 +12,9 @@ Please see the [participation page](participation.html) for more details on how 
 <div class="alert alert-info role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon" ></i> </div>
 
-Finally, and after lengthy lockdown-caused delays that we apologize for, the RGBT-challenge is now launched. Note that if you have tested your tracker prior to the launch using the old VOT2019 Matlab toolkit using the VOT-RGBT2019
-challenge, you will have to switch to the new Python toolkit as the VOT-RGBT2020 dataset is only available there. Also note that the evaluation protocol has changed this year so the results obtained on VOT-RGBT2019 will change.
+Due to the long delay in the opening of the RGBT-challenge, we will
+extend the VOT2020-RGBT challenge until May 10th 2020. Note that this
+will not apply to the other VOT2020 sub-challenges.
 </div>
 
 <img class="logo float-right frame" src="../img/vot2020_logo_website_large.png" alt="VOT2020"  />
@@ -43,7 +44,7 @@ challenge, you will have to switch to the new Python toolkit as the VOT-RGBT2020
 
  * ~~Toolkit beta testing opens: early March 2020~~
  * ~~Challenge open: March 20th 2020~~
- * Results Submission: May 3rd 2020 (24:00 CET - midnight)
+ * Results Submission: May 3rd 2020 (24:00 CET - midnight), VOT-RGBT2020 deadline extended to May 10th 2020
  * Paper Submission I (standard): May 31st 2020
  * Paper Submission II (high-quality tracking papers not accepted to ECCV): July 6th 2020
  * Notification (submitted papers): July 10th 2020

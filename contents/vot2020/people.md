@@ -17,7 +17,7 @@ submenu: People
     Austrian Institute of Technology and Vienna University of Technology, Austria
 -   [Joni-Kristian Kämäräinen](http://vision.cs.tut.fi/personal/JoniKamarainen/),
     Tampere University, Finland
--   [Martin Danelljan](https://martin-danelljan.github.io/), ETH Zurich
+-   [Martin Danelljan](https://martin-danelljan.github.io/), ETH Zurich, Switzerland
 -   [Luka &#268;ehovin Zajc](http://www.vicos.si/People/Luka_Cehovin), University of Ljubljana, Slovenia
 -   [Alan Luke&#382;i&#269;](http://www.vicos.si/User:Alanl), University of Ljubljana, Slovenia
 -   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria
@@ -29,12 +29,13 @@ submenu: People
 -   Song Yan, Tampere University, Finland
 -   Jinyu Yang, University of Birmingham, UK
 -   Yushan Zhang, Beijing Institute of Technology, China and Link&ouml;ping University, Sweden
+-   [Goutam Bhat](https://ee.ethz.ch/the-department/people-a-z/person-detail.MjU4NjE4.TGlzdC8zMjc5LC0xNjUwNTg5ODIw.html), ETH Zurich, Switzerland
 
 ## Individual challenge caretakers
 
 -   VOT-ST/RT2020: Matej Kristan
 -   VOT-LT2020: Matej Kristan
--   VOT-RGBD2020: Joni Karmerainen
+-   VOT-RGBD2020: Joni-Kristian Kämäräinen
 -   VOT-RGBT2020: Michael Felsberg
 
 ## Program committee

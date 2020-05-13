@@ -7,9 +7,22 @@ submenu: Participate
 
 ### Scope of the solicited papers
 
- * Original or improved trackers as well as papers giving new insights into existing trackers or class of trackers (see below). Participation at VOT2020 challenge is required.
- * Novel ways of using and extending the VOT framework for tracker performance analysis.
- * More information on paper submission will be available later.
+ * Original or improved single object trackers as well as papers that give new insights into existing single object trackers and analysis of tracker performance.
+ * Novel ways of using and extending the VOT framework for performance analysis of trackers.
+
+### Submission instructions for regular papers
+
+ * Full-length VOT2019 workshop papers must follow the [standard requirements for ECCV2020 regular papers](https://eccv2020.eu/author-instructions/).
+ * Submit the paper using the [VOT2020 CMT paper submission system](https://cmt3.research.microsoft.com/VOT2020).
+ * The submitted papers should be compiled for double-blind review.
+
+### Submission instructions for tracking papers not accepted to ECCV
+
+High-quality tracking papers submitted (but not accepted) to ECCV2020 can be re-submitted to VOT2020. Rules are the same as for the regular submission process with some additions.
+
+ * Include all review forms and the rebuttal letter as a single PDF document to your submission.
+ * The re-submission should address the criticism and exposed flaws in your ECCV submitted paper to meet the requirements of the VOT workshop.
+ * The submissions will be assessed by the VOT organizers based on the provided review forms and the rebuttal letter.
 
 ## Participate by attending the VOT2020 subchallenges
 

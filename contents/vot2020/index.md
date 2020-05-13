@@ -44,7 +44,7 @@ will not apply to the other VOT2020 sub-challenges.
 
  * ~~Toolkit beta testing opens: early March 2020~~
  * ~~Challenge open: March 20th 2020~~
- * Results Submission: May 3rd 2020 (24:00 CET - midnight), VOT-RGBT2020 deadline extended to May 10th 2020
+ * ~~Results Submission: May 3rd 2020 (24:00 CET - midnight), VOT-RGBT2020 deadline extended to May 10th 2020~~
  * Paper Submission I (standard): May 31st 2020
  * Paper Submission II (high-quality tracking papers not accepted to ECCV): July 6th 2020
  * Notification (submitted papers): July 10th 2020

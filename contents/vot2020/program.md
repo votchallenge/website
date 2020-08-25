@@ -24,9 +24,9 @@ The VOT2020 will take place online on 28.8.2020. The presentations will be split
 **Offline session** (Contributed papers pre-recorded videos viewing)
 <ul style="margin-top: -0.5em; margin-bottom: 0;">
   <li>AF2S: An Anchor-Free Two-Stage Tracker Based on a Strong SiamFC Baseline <br />
-  <span style="color:gray">He, Anfeng , Anfeng He, Guangting Wang, Chong Luo, Xinmei Tian, and Wenjun Zeng</span></li>
+  <span style="color:gray">Anfeng He, Guangting Wang, Chong Luo, Xinmei Tian, Wenjun Zeng</span></li>
   <li>AFOD: Adaptive Focused Discriminative Segmentation Tracker <br />
-  <span style="color:gray">Yiwei Chen, Jingtao Xu, JiaqianYu, Qiang Wang, Byung InYoo, and Jae-Joon Han</span></li>
+  <span style="color:gray">Yiwei Chen, Jingtao Xu, JiaqianYu, Qiang Wang, Byung InYoo, Jae-Joon Han</span></li>
   <li>An Exploration of Target-Conditioned Segmentation Methods for Visual Object Trackers <br />
   <span style="color:gray">Matteo Dunnhofer, Niki Martinel, Christian Micheloni</span></li>
   <li>Cascaded Tracking via Pyramid Dense Capsules <br />

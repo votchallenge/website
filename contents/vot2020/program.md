@@ -11,12 +11,12 @@ The VOT2020 will take place online on 28.8.2020. The presentations will be split
 8:00 - 8:10 Hello <br />
 8:10 - 9:40 Results session (Chair: Aleš Leonardis)
 <ul style="margin-top: -0.5em; margin-bottom: 0;">
-  <li>8:10 - 8:55 VOT-ST/RT/LT2020 challenge results + Q&A [Matej Kristan]</li>
+  <li>8:10 - 8:55 [VOT-ST/RT/LT2020 challenge results](http://data.votchallenge.net/vot2020/presentations/vot2020-st.pdf) + Q&A (Matej Kristan)</li>
   <li>8:55 - 9:00 Buffer / Break (5min)</li>
-  <li>9:00 - 9:20 VOT-RGBT2020 challenge results + Q&A [Michael Felsberg]</li>
-  <li>9:20 - 9:40 VOT-RGBD2020 challenge results + Q&A [Joni-Kristian Kämäräinen]</li>
+  <li>9:00 - 9:20 [VOT-RGBT2020 challenge results](http://data.votchallenge.net/vot2020/presentations/vot2020-rgbt.pdf) + Q&A (Michael Felsberg)</li>
+  <li>9:20 - 9:40 [VOT-RGBD2020 challenge results](http://data.votchallenge.net/vot2020/presentations/vot2020-rgbd.pdf) + Q&A (Joni-Kristian Kämäräinen)</li>
 </ul>
-9:40 - 9:50 Contributed papers spotlights (Chair: Roman Pflugfelder) 
+9:40 - 9:50 Contributed papers spotlights (Chair: Roman Pflugfelder)
 
 <br />
 <br />
@@ -34,7 +34,7 @@ The VOT2020 will take place online on 28.8.2020. The presentations will be split
   <li>RPT: Learning Point Set Representation for Siamese Visual Tracking <br />
   <span style="color:gray">Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin</span></li>
   <li>Robust Long-Term Object Tracking via Improved Discriminative Model Prediction <br />
-  <span style="color:gray">Seokeon Choi, Junhyun Lee, Yunsung Lee, Alexander Hauptmann</span></li> 
+  <span style="color:gray">Seokeon Choi, Junhyun Lee, Yunsung Lee, Alexander Hauptmann</span></li>
 </ul>
 
 <br />

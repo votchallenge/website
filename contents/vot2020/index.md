@@ -48,6 +48,6 @@ will not apply to the other VOT2020 sub-challenges.
  * ~~Paper Submission I (standard): May 31st 2020 - extended to June 4th 2020~~
  * ~~Paper Submission II (high-quality tracking papers not accepted to ECCV): July 24th 2020~~
  * ~~Notification (all submitted papers): July 31st 2020~~
- * ~~Workshop: August 28th 2020
- * ~~Camera-ready: September 9th 2020
+ * ~~Workshop: August 28th 2020~~
+ * ~~Camera-ready: September 9th 2020~~
 

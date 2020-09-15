@@ -13,7 +13,7 @@ submenu: People
     University in Prague, Czech Republic
 -   [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/), Link&ouml;ping
     University, Sweden
--   [Roman Pflugfelder](https://at.linkedin.com/in/romanpflugfelder),
+-   [Roman Pflugfelder](https://cvl.tuwien.ac.at/staff/roman-pflugfelder/),
     Austrian Institute of Technology and Vienna University of Technology, Austria
 -   [Joni-Kristian Kämäräinen](http://vision.cs.tut.fi/personal/JoniKamarainen/),
     Tampere University, Finland
@@ -40,7 +40,18 @@ submenu: People
 
 ## Program committee
 
-TBA
+* Anfeng        He, USTC
+* Csaba         Beleznai, Austrian Institute of Technology, Austria
+* Federico      Pernici, University of Florence
+* Horst         Possegger, Graz University of Technology
+* Huchuan       Lu, Dalian University of Technology
+* Jack          Valmadre, Google
+* James         Ferryman, Univ. of Reading, UK
+* Klamer        Schutte, TNO
+* Peter         Tu, GE Global Research
+* Qing          Guo, Nanyang Technological University
+* Richard       Bowden, University of Surrey
+* Vincent       Lepetit, TU Graz
 
 ## Supporting organizations
 

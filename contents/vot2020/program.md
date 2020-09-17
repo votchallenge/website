@@ -17,6 +17,8 @@ The VOT2020 will take place online on 28.8.2020. The presentations will be split
 
 9:40 - 9:50 Contributed papers spotlights (Chair: Roman Pflugfelder)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GI6TWIDyFe8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Offline session** (Contributed papers pre-recorded videos viewing)
 <ul style="margin-top: -0.5em; margin-bottom: 0;">
@@ -50,3 +52,6 @@ The VOT2020 will take place online on 28.8.2020. The presentations will be split
 19:20 - 19:40 Panel (Chair: Michael Felsberg)
 
 19:40 - 19:45 Closing remarks
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJJJXCCYMy4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

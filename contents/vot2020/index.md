@@ -3,19 +3,9 @@ template: page2020.pug
 submenu: Home
 ---
 
-# VOT2020 Challenge
+# VOT2020 Benchmark
 
-The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following seven highly successful VOT challenges, the 8th Visual Object Tracking Challenge VOT2020 and workshop will be held in conjunction with ECCV 2020.
-
-Please see the [participation page](participation.html) for more details on how to attend the challenge.
-
-<div class="alert alert-info role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon" ></i> </div>
-
-Due to the long delay in the opening of the RGBT-challenge, we will
-extend the VOT2020-RGBT challenge until May 10th 2020. Note that this
-will not apply to the other VOT2020 sub-challenges.
-</div>
+The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following seven highly successful VOT challenges, the 8th Visual Object Tracking Challenge VOT2020 and workshop was held in conjunction with ECCV 2020.
 
 <img class="logo float-right frame" src="../img/vot2020_logo_website_large.png" alt="VOT2020"  />
 
@@ -40,14 +30,11 @@ will not apply to the other VOT2020 sub-challenges.
  * VOT thermal and infrared short-term tracking challenge VOT-RGBT2020 - Multi-modality tracking under RGB and T partial modality de-synchronization (challenge will be opened later).
  * VOT color and depth long-term tracking challenge VOT-RGBD2020 - Using depth to improve LT RGB tracking with target disappearance.
 
-## Important dates
+## Sponsors
 
- * ~~Toolkit beta testing opens: early March 2020~~
- * ~~Challenge open: March 20th 2020~~
- * ~~Results Submission: May 3rd 2020 (24:00 CET - midnight), VOT-RGBT2020 deadline extended to May 10th 2020~~
- * ~~Paper Submission I (standard): May 31st 2020 - extended to June 4th 2020~~
- * ~~Paper Submission II (high-quality tracking papers not accepted to ECCV): July 24th 2020~~
- * ~~Notification (all submitted papers): July 31st 2020~~
- * ~~Workshop: August 28th 2020~~
- * ~~Camera-ready: September 9th 2020~~
+The VOT2020 workshop was sposored by the Faculty of Computer and Information Science, University of Ljubljana.
+
+<div class="spotlight">
+<a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="150px"/></a>
+</div>
 

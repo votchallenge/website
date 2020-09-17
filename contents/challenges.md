@@ -6,20 +6,8 @@ title: Challenges
 
 # Open Challenges
 
-<!--div class="alert alert-info" role="alert">
+<div class="alert alert-info" role="alert">
  There are currently no open challenges.
-</div-->
-
-<div class="row">
-
-<div class="col-lg-6 col-sm-12">
-<a href="/vot2020/" class="challengebutton text-primary">
-<img class="logo" src="/img/vot2020_logo_website.png" alt="VOT2020" />
-<h3>VOT2020 challenge</h3>
-<p class="description">The VOT2020 challenge addresses short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results will be presented at ECCV2020 VOT workshop.</p>
-</a>
-</div>
-
 </div>
 
 
@@ -28,6 +16,15 @@ title: Challenges
 Official results of past challenges are still available as a benchmark to researchers. We invite the visual tracking researchers to compare their methods with those results.
 
 <div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vot2020/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2020_logo_website.png" alt="VOT2020" />
+<h3>VOT2020 benchmark</h3>
+<p class="description">The VOT2020 benchmark addresses short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results were presented at ECCV2020 VOT workshop.</p>
+</a>
+</div>
+
 
 <div class="col-lg-6 col-sm-12">
 <a href="/vot2019/" class="challengebutton text-primary">

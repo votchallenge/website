@@ -28,7 +28,7 @@ High-quality tracking papers submitted (but not accepted) to ECCV2020 can be re-
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
-<h4>New toolkit</h4>
+<h4>New toolkit </h4>
 
 Please note that using the new Python toolkit is required for participation. See the [toolkit guide](/howto/tutorial_python.html) on how to set it up and use it with your tracker.
 </div>

@@ -58,33 +58,11 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">The VOT2020 program</h3>
-  </div>
-  <div class="panel-body">
-
-  The VOT2020 will take place online. The tentative program of the workshop, which will be 28.8.2020 is [here](/vot2020/program.html).
-
-  </div>
-</div>
-
-<div class="panel panel-primary">
-  <div class="panel-heading">
     <h3 class="panel-title">The new VOT2020 evaluation protocol</h3>
   </div>
   <div class="panel-body">
 
 We have introduced a new short-term evaluation protocol and performance evaluation measures for the VOT2020 Challenge. More information about the new protocol and measures can be found [here](https://data.votchallenge.net/vot2020/vot-2020-protocol.pdf).
-
-  </div>
-</div>
-
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">VOT2020 challenge is now open!</h3>
-  </div>
-  <div class="panel-body">
-
-The VOT2020 is now officially open. You can participate by submitting a scientific paper and/or evaluating your tracker on one of the four VOT2020 subchallenges. Please see the [challenge homepage](/vot2020/) for details.s
 
   </div>
 </div>

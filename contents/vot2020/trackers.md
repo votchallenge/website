@@ -120,14 +120,14 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [Accurate Multimodal Fusion for RGB-T Object Tracking (AMF)] - Appendix C.3
 
--   [SqueezeNet Based Discriminative Correlation Filter Tracker (SNDCFT)](http://submit.votchallenge.net/data/vot-rgbd2020/Siam_LTD-code-2020-05-03T20:04:17.050151.zip) - Appendix C.4
+-   [SqueezeNet Based Discriminative Correlation Filter Tracker (SNDCFT)] - Appendix C.4
 
 
 ### RGB-D Trackers
 
 -   [Accurate Tracking by Category-Agnostic Instance Segmentation for RGBD Image (ATCAIS)] - Appendix D.1
 
--   [Depth Enhanced DiMP for RGBD Tracking (DDiMP)](http://submit.votchallenge.net/data/vot-rgbt2020/SNDCFT-code-2020-05-10T19:19:08.806494.zip) - Appendix D.2
+-   [Depth Enhanced DiMP for RGBD Tracking (DDiMP)] - Appendix D.2
 
 -   [Complementary Local-Global Search for RGBD Visual Tracking (CLGS-D)] - Appendix D.3
 

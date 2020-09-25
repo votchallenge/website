@@ -18,9 +18,9 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 ### Short Term (ST) Trackers
 
--   [Discriminative Sing-Shot Segmentation Tracker (D3S)](http://submit.votchallenge.net/data/vot-st2020/D3S-code-2020-04-20T12:34:11.394262.zip) - Appendix A.1
+-   [Discriminative Sing-Shot Segmentation Tracker (D3S)] - Appendix A.1
 
--   [Visual Tracking by means of Deep Reinforcement Learning and an Expert Demonstrator (A3CTDmask)](http://submit.votchallenge.net/data/vot-st2020/A3CTDmask-code-2020-04-30T08:58:23.896859.zip) - Appendix A.2
+-   [Visual Tracking by means of Deep Reinforcement Learning and an Expert Demonstrator (A3CTDmask)] - Appendix A.2
 
 -   [Deep Convolutional Descriptor Aggregation for Visual Tracking (DCDA)] - Appendix A.3
 
@@ -28,7 +28,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [SiamMask_SOLO (SiamMask_S)] - Appendix A.5
 
--   [Diverse Ensemble Tracker (DET50)](http://submit.votchallenge.net/data/vot-st2020/DET50-code-2020-04-30T11:30:04.984528.zip) - Appendix A.6
+-   [Diverse Ensemble Tracker (DET50)] - Appendix A.6
 
 -   [VPU_SiamM: Robust Template Update Strategy for Efficient Object Tracking (VPU_SiamM)] - Appendix A.7
 
@@ -40,11 +40,11 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [Tracking by Student FUSing Teachers (TRASFUSTm)] - Appendix A.11
 
--   [Alpha-Refine (AlphaRef)](http://submit.votchallenge.net/data/vot-st2020/AlphaRef-code-2020-05-01T09:01:55.144494.zip) - Appendix A.12
+-   [Alpha-Refine (AlphaRef)]- Appendix A.12
 
 -   [Hierarchical Representations with Discriminative Meta-Filters in Dual Path Network for Tracking (DPMT)] - Appendix A.13
 
--   [SiamMask (siammask)](http://submit.votchallenge.net/data/vot-st2020/siammask-code-2020-05-03T08:49:46.509960.zip) - Appendix A.14
+-   [SiamMask (siammask)] - Appendix A.14
 
 -   [OceanPlus: Online Object-aware Anchor-free Tracking (OceanPlus)] - Appendix A.15
 
@@ -58,11 +58,11 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [InfoGAN based tracker: InfoVITAL (InfoVital)] - Appendix A.20
 
--   [Learning Discriminative Model Prediction for Tracking (DiMP)](http://submit.votchallenge.net/data/vot-st2020/DiMP-code-2020-05-03T15:36:21.815843.zip) - Appendix A.21
+-   [Learning Discriminative Model Prediction for Tracking (DiMP)] - Appendix A.21
 
--   [SuperDiMP (SuperDiMP)](http://submit.votchallenge.net/data/vot-st2020/SuperDiMP-code-2020-05-03T15:37:00.840510.zip) - Appendix A.22
+-   [SuperDiMP (SuperDiMP)] - Appendix A.22
 
--   [Learning What to Learn for Video Object Segmentation (LWTL)](http://submit.votchallenge.net/data/vot-st2020/LWTL-code-2020-05-03T15:37:26.935594.zip) - Appendix A.23
+-   [Learning What to Learn for Video Object Segmentation (LWTL)] - Appendix A.23
 
 -   [Adaptive Failure-Aware Tracker (AFAT)] - Appendix A.24
 
@@ -70,15 +70,15 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [AFOD: Adaptive Focused Discriminative Segmentation Tracker (AFOD)] - Appendix A.26
 
--   [Fast Saliency-guided Continuous Correlation Filter-based tracker (FSC2F)](http://submit.votchallenge.net/data/vot-st2020/FSC2F-code-2020-05-03T22:02:13.521179.zip) - Appendix A.27
+-   [Fast Saliency-guided Continuous Correlation Filter-based tracker (FSC2F)] - Appendix A.27
 
--   [Adaptive Visual Tracking and Instance Segmentation (DESTINE)](http://submit.votchallenge.net/data/vot-st2020/DESTINE-code-2020-05-03T22:55:53.471485.zip) - Appendix A.28
+-   [Adaptive Visual Tracking and Instance Segmentation (DESTINE)] - Appendix A.28
 
 -   [Scale Adaptive Mean-Shift Tracker (ASMS)] - Appendix A.29
 
--   [ATOM: Accurate Tracking by Overlap Maximization (ATOM)](http://data.votchallenge.net/vot2019/trackers/ATOM-code-2019-06-08T11_52_00.012755.zip) - Appendix A.30
+-   [ATOM: Accurate Tracking by Overlap Maximization (ATOM)] - Appendix A.30
 
--   [Discriminative Correlation Filter with Channel and Spatial Reliability - C++ (CSRpp)](http://data.votchallenge.net/vot2019/trackers/csrtpp-code-2018-06-16T14_49_45.311254.zip) - Appendix A.31
+-   [Discriminative Correlation Filter with Channel and Spatial Reliability - C++ (CSRpp)] - Appendix A.31
 
 -   [Incremental Learning for Robust Visual Tracking (IVT)] - Appendix A.32
 
@@ -95,13 +95,13 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 ### Long Term (LT) Trackers
 
--   [Long-Term Visual Tracking with Assistant Global Instance Search (Megtrack)](http://submit.votchallenge.net/data/vot-lt2020/Megtrack-code-2020-05-03T21:48:35.876290.zip) - Appendix B.1
+-   [Long-Term Visual Tracking with Assistant Global Instance Search (Megtrack)] - Appendix B.1
 
--   [Skimming-Perusal Long-Term Tracker (SPLT)](http://submit.votchallenge.net/data/vot-lt2020/SPLT-code-2020-05-03T00:48:57.394762.zip) - Appendix B.2
+-   [Skimming-Perusal Long-Term Tracker (SPLT)] - Appendix B.2
 
 -   [A Baseline Long-Term Tracker with Meta-Updater (LTMU_B)] - Appendix B.3
 
--   [Robust Long-Term Object Tracking via Improved Discriminative Model Prediction (RLTDiMP)](http://submit.votchallenge.net/data/vot-lt2020/RLT_DiMP-code-2020-05-03T21:30:17.801990.zip) - Appendix B.4
+-   [Robust Long-Term Object Tracking via Improved Discriminative Model Prediction (RLTDiMP)] - Appendix B.4
 
 -   [Long-term MDNet (ltMDNet)] - Appendix B.5
 

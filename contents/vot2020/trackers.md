@@ -122,6 +122,12 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [SqueezeNet Based Discriminative Correlation Filter Tracker (SNDCFT)] - Appendix C.4
 
+-   [Decision Fusion Adaptive Tracker (DFAT)] - Appendix C.5
+
+-   [Multi-modal fusion for end-to-end RGB-T tracking (mfDiMP)] - Appendix C.6
+
+-   [Online Deeper and Wider Siamese Networks for RGBT Visual Tracking (SiamDW-T)] - Appendix C.7
+
 
 ### RGB-D Trackers
 
@@ -132,5 +138,4 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 -   [Complementary Local-Global Search for RGBD Visual Tracking (CLGS-D)] - Appendix D.3
 
 -   [Siamese Network for Long-term RGB-D Tracking (Siam_LTD)] - Appendix D.4
-
 

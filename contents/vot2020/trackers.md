@@ -11,7 +11,7 @@ The collection contains only those submissions to VOT2020 for which we were able
 The VOT does not take any responsibility for the state of code/binaries of the trackers available here.
 For any additional information regarding individual trackers, please contact the corresponding authors directly.
 
-Each tracker is referred as **NAME (Appendix Nr NN)**, where NAME is the name given to the tracker and NN is the tracker number referred on the VOT paper (coming soon).
+Each tracker is referred as **NAME (Appendix Nr NN)**, where NAME is the name given to the tracker and NN is the tracker number referred on the VOT paper.
 
 If you have any question or suggestion, please <a href="https://groups.google.com/forum/?hl=en#!forum/votchallenge-help"> contact us on the support forum</a>.
 

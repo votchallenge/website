@@ -74,7 +74,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [Adaptive Visual Tracking and Instance Segmentation (DESTINE)](http://data.votchallenge.net/vot2020/trackers/DESTINE-code-2020-05-03T22_55_53.471485.zip) - Appendix A.28
 
--   [Scale Adaptive Mean-Shift Tracker (ASMS)] - Appendix A.29
+-   [Scale Adaptive Mean-Shift Tracker (ASMS)](https://github.com/vojirt/asms) - Appendix A.29
 
 -   [ATOM: Accurate Tracking by Overlap Maximization (ATOM)](http://data.votchallenge.net/vot2019/trackers/ATOM-code-2019-06-08T11_52_00.012755.zip) - Appendix A.30
 
@@ -82,7 +82,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [Incremental Learning for Robust Visual Tracking (IVT)] - Appendix A.32
 
--   [Kernelized Correlation Filter (KCF)] - Appendix A.33
+-   [Kernelized Correlation Filter (KCF)](https://github.com/vojirt/kcf) - Appendix A.33
 
 -   [Multiple Instance Learning tracker (MIL)] - Appendix A.34
 
@@ -126,7 +126,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [Multi-modal fusion for end-to-end RGB-T tracking (mfDiMP)] - Appendix C.6
 
--   [Online Deeper and Wider Siamese Networks for RGBT Visual Tracking (SiamDW-T)](http://data.votchallenge.net/vot2019/trackers/SiamDW_T-code-2019-06-09T16_25_24.726208.zip) - Appendix C.8
+-   [Online Deeper and Wider Siamese Networks for RGBT Visual Tracking (SiamDW-T)](http://data.votchallenge.net/vot2019/trackers/SiamDW_T-code-2019-06-09T16_25_24.726208.zip) - Appendix C.7
 
 
 ### RGB-D Trackers

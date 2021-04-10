@@ -5,11 +5,8 @@ submenu: Trackers
 
 ## VOT2020 Trackers repository
 
-This page will contain source code of the trackers that participated in VOT2020 Challenge.
-This is an incomplete collection of trackers submitted to VOT2020.
-The collection contains only those submissions to VOT2020 for which we were able to obtain explicit permission from the authors (this was indicated by the authors during results submission process). In most cases the code is provided as it was submitted, in other cases some authors asked us to point the link to their own repositories.
-The VOT does not take any responsibility for the state of code/binaries of the trackers available here.
-For any additional information regarding individual trackers, please contact the corresponding authors directly.
+This is an incomplete collection of trackers submitted to VOT2020. The collection contains only those submissions to VOT2020 for which we were able to obtain explicit permission from the authors (this was indicated by the authors during results submission process). In most cases the code is provided as it was submitted, in other cases some authors asked us to point the link to their own repositories.
+The VOT committee does not take any responsibility for the state of code/binaries of the trackers available here. For any additional information regarding individual trackers, please contact the corresponding authors directly.
 
 Each tracker is referred as **NAME (Appendix Nr NN)**, where NAME is the name given to the tracker and NN is the tracker number referred on the VOT paper.
 

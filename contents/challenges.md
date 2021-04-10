@@ -6,8 +6,20 @@ title: Challenges
 
 # Open Challenges
 
-<div class="alert alert-info" role="alert">
+<!--div class="alert alert-info" role="alert">
  There are currently no open challenges.
+</div-->
+
+<div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vot2021/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2021_logo_website.png" alt="VOT2021" />
+<h3>VOT2021 challenge</h3>
+<p class="description">The VOT2021 challenge addresses short-term, long-term, real-time, RGB and RGBD trackers. Results will be presented at the ICCV2021 VOT workshop.</p>
+</a>
+</div>
+
 </div>
 
 
@@ -21,7 +33,7 @@ Official results of past challenges are still available as a benchmark to resear
 <a href="/vot2020/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2020_logo_website.png" alt="VOT2020" />
 <h3>VOT2020 benchmark</h3>
-<p class="description">The VOT2020 benchmark addresses short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results were presented at ECCV2020 VOT workshop.</p>
+<p class="description">The VOT2020 benchmark addresses short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results were presented at the ECCV2020 VOT workshop.</p>
 </a>
 </div>
 
@@ -30,7 +42,7 @@ Official results of past challenges are still available as a benchmark to resear
 <a href="/vot2019/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2019_logo_website.png" alt="VOT2019" />
 <h3>VOT2019 benchmark</h3>
-<p class="description">The VOT2019 benchmark addresses short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results were presented at ICCV2019 VOT workshop.</p>
+<p class="description">The VOT2019 benchmark addresses short-term, long-term, real-time, RGB, RGBT and RGBD trackers. Results were presented at the ICCV2019 VOT workshop.</p>
 </a>
 </div>
 
@@ -39,7 +51,7 @@ Official results of past challenges are still available as a benchmark to resear
 <a href="/vot2018/" class="challengebutton text-primary">
 <img class="logo" src="/img/vot2018_logo_website.png" alt="VOT2018" />
 <h3>VOT2018 benchmark</h3>
-<p class="description">The VOT2018 benchmark introduced a long-term subchallenge VOT-LT2018. Results were presented at VOT workshop at ECCV2018.</p>
+<p class="description">The VOT2018 benchmark introduced a long-term subchallenge VOT-LT2018. Results were presented at the VOT workshop at ECCV2018.</p>
 </a>
 </div>
 

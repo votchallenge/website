@@ -3,12 +3,6 @@ template: page.pug
 menu: Home
 ---
 
-<!--div class="panel panel-success">
-  <div class="panel-heading">
-    <h3 class="panel-title">Submit to the ECCV [VOT 2016 Workshop](http://www.votchallenge.net/vot2016/index.html)!</h3>
-  </div>
-</div-->
-
 The VOT challenges provide the visual tracking community with a precisely defined and repeatable way of comparing short-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking.
 
 The goal of the challenges is to build up a repository of considerable benchmarks and to organize workshops or similar events in order to push forward research in visual tracking.
@@ -58,12 +52,11 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">The new VOT2020 evaluation protocol</h3>
+    <h3 class="panel-title">The new VOT2021 challenge and workshop announced</h3>
   </div>
   <div class="panel-body">
 
-We have introduced a new short-term evaluation protocol and performance evaluation measures for the VOT2020 Challenge. More information about the new protocol and measures can be found [here](https://data.votchallenge.net/vot2020/vot-2020-protocol.pdf).
-
+VOT2021 workshop will be organized in conjunction with ICCV2021! The VOT2021 challenge is planned to open on 20th April and close on 23rd May. Please see the [VOT2021 challenge page](/vot2021/) for more info."
   </div>
 </div>
 

@@ -6,7 +6,7 @@ submenu: Home
 # VOT2021 Challenge
 
 The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. 
-Following eight highly successful VOT challenges, the 9th Visual Object Tracking Challenge VOT2020 and workshop will be held in conjunction with ICCV 2021.
+Following eight highly successful VOT challenges, the 9th Visual Object Tracking Challenge VOT2021 and workshop will be held in conjunction with ICCV 2021.
 
 <img class="logo float-right frame" src="../img/vot2021_logo_website_large.png" alt="VOT2021"  />
 

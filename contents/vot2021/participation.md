@@ -39,7 +39,7 @@ High-quality tracking papers submitted (but not accepted) to ICCV2021 can be re-
  * VOT-ST2021 and VOT-RT2021 address short-term, causal, model-free trackers. These trackers are required to report the target in every frame of the sequence.
  * Trackers may report target location as a segmentation mask or a bounding box. Performance is evaluated w.r.t. to a segmentation ground truth.
  * The general requirements for the trackers submitted to these challenges are the same as in previous VOT challenges
- * VOT-ST2021 will use a new multi-start experiment setup and modified accuracy/robustness/expected average overlap measures for performance assesment
+ * VOT-ST2021 will use the new multi-start experiment setup and modified accuracy/robustness/expected average overlap measures for performance assesment
  * VOT-ST2021 dataset is the same as VOT-ST2020 dataset.
  * VOT-ST2021 winner will be determined on a separate sequestered dataset. The VOT committee will run trackers that obtain top performance on public dataset to determine the winner.
  * VOT-RT2021 will be run as one of the experiments of the VOT-ST2021 with real-time constraints, the experiment is conceptually the same as in the past challenges.
@@ -57,8 +57,8 @@ High-quality tracking papers submitted (but not accepted) to ICCV2021 can be re-
  * VOT-RGBD2021 addresses long-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-LT2021 subchallenge.
  * Trackers may report target location as a segmentation mask or a bounding box. Performance is evaluated w.r.t. to a bounding box ground truth.
  * The trackers work with a 4-channel input composed of RGB+depth channels.
- * Care has been taken to accurately temporally synchronize and spatially align the RGB and Depth channels, resulting in nearly per-pixel accurate alignment between all channels.
-
+ *  New public and sequestered datasets have been created for VOT-RGBD2021.
+ 
 ## Participation instructions
 
  * Please note that using the [new Python toolkit](https://github.com/votchallenge/vot-toolkit-python/) is required for participation. See the [toolkit guide](/howto/tutorial_python.html) on how to set it up and use it with your tracker.
@@ -69,7 +69,7 @@ Additionally a wrapper is also provided to simplify the integration for people t
 
  * Make sure that you select the correct experiment stack (votst2021 for VOT-ST2021 main short-term subchallenge ; votlt2021 for VOT-LT2021 subchallenge ; votrgbd2021 for VOT-RGBD2021 subchallenge) for the corresponding challenge. The VOT-realtime subchallenge is automatically run as one of the experiments of the VOT-ST2021 subchallenge.
  * Perform evaluation and pack the results.
- * After packing the results submit them via the [submission page](https://submit.votchallenge.net).
+ * After packing the results submit them via the submission page (TBA).
 
 ### Participation requirements
 

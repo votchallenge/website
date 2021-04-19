@@ -76,14 +76,14 @@ Additionally a wrapper is also provided to simplify the integration for people t
  * The real-time experiment requires running the tracker on a single machine (multiple CPU/GPU allowed). Please specify your hardware setup correctly when submitting the results: CPU, memory, GPU, GPU-memory, HD/SSD etc.
  * Authors are required to help the VOT technical committee to reproduce their results. If the results cannot be reproduced by the VOT TC using the submitted code within reasonable time, the tracker will be removed from the challenge and the paper.
  * The submission should contain all the results and the tracker code which follows these requirements for automatic results reproduction:
-  * It is recommended to submit a Singularity file (.def) for the submission
-  * It is strongly recommended to use Linux and Python
-  * The OS MUST be sufficiently recent: Linux Ubuntu 18.04 or newer, Windows 10, MacOS is unfortunately not possible.
-  * ALL source code for the tracker must be included in the submission.
-  * ALL dependencies (operating system, installed libraries, Matlab/Python version, etc.) must be stated in a README file.
-  * A single script to compile all binaries is required (called install.m  for Matlab, or install.sh for others).
-  * A runfile for the tracker, that the toolkit can call to execute it is required. (basically what the toolkit generates for each tracker)
-  * In case tracker uses a GPU, provide the model name of the GPU hardware (including laptop/desktop) and CPU version. Make sure that the code is  compatible with CUDA 11.2.
+    * It is recommended to submit a Singularity file (.def) for the submission
+    * It is strongly recommended to use Linux and Python
+    * The OS MUST be sufficiently recent: Linux Ubuntu 18.04 or newer, Windows 10, MacOS is unfortunately not possible.
+    * ALL source code for the tracker must be included in the submission.
+    * ALL dependencies (operating system, installed libraries, Matlab/Python version, etc.) must be stated in a README file.
+    * A single script to compile all binaries is required (called install.m  for Matlab, or install.sh for others).
+    * A runfile for the tracker, that the toolkit can call to execute it is required. (basically what the toolkit generates for each tracker)
+    * In case tracker uses a GPU, provide the model name of the GPU hardware (including laptop/desktop) and CPU version. Make sure that the code is  compatible with CUDA 11.2.
  * The VOT committee reserves to disqualify submissions for which a cheating strategy is suspected.
  * Authors are encouraged to submit their own previously published trackers.
  * Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.

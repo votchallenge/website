@@ -5,14 +5,6 @@ submenu: Participate
 
 ## Participate by submitting a paper
 
-<div class="alert alert-warning" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
-<h4>Work in progress</h4>
-
-The instructions for the upcoming challenge are still being writtent, this document should not be taken as final.
-</div>
-
-
 ### Scope of the solicited papers
 
  * Original or improved single object trackers as well as papers that give new insights into existing single object trackers and analysis of tracker performance.

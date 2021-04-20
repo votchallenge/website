@@ -25,7 +25,10 @@ submenu: People
 
 ## Technical committee
 
-TBA
+- [Ondrej Drbohlav](https://cmp.felk.cvut.cz/~drbohlav/)
+- [Song Yan](https://tutcris.tut.fi/portal/en/persons/song-yan(2b1cf924-5c59-4fed-ad63-253cb3c0a941).html)
+- Zhang Zhongqun 
+- Jinyu Yang
 
 ## Individual challenge caretakers
 

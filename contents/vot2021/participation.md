@@ -49,8 +49,8 @@ High-quality tracking papers submitted (but not accepted) to ICCV2021 can be re-
  * VOT-RGBD2021 addresses long-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-LT2021 subchallenge.
  * Trackers may report target location as a segmentation mask or a bounding box. Performance is evaluated w.r.t. to a bounding box ground truth.
  * The trackers work with a 4-channel input composed of RGB+depth channels.
- *  New public and sequestered datasets have been created for VOT-RGBD2021.
- 
+ * The testing dataset will be the same as in VOT-RGBD2020 challenge, a novel training set for RGBD trackers is available [here](https://zenodo.org/record/4716441).
+
 ## Participation instructions
 
  * Please note that using the [new Python toolkit](https://github.com/votchallenge/vot-toolkit-python/) is required for participation. See the [toolkit guide](/howto/tutorial_python.html) on how to set it up and use it with your tracker.

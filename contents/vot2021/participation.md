@@ -13,7 +13,7 @@ submenu: Participate
 ### Submission instructions for regular papers
 
  * Full-length VOT2021 workshop papers must follow the [standard requirements for ICCV2021 regular papers](http://iccv2021.thecvf.com/node/4#submission-guidelines).
- * Submit the paper using the [submission system](https://submit.votchallenge.net).
+ * Submit the paper using the submission system (TBA).
  * The submitted papers should be compiled for double-blind review.
 
 ### Submission instructions for tracking papers not accepted to ICCV
@@ -61,7 +61,7 @@ Additionally a wrapper is also provided to simplify the integration for people t
 
  * Make sure that you select the correct experiment stack (votst2021 for VOT-ST2021 main short-term subchallenge ; votlt2021 for VOT-LT2021 subchallenge ; votrgbd2021 for VOT-RGBD2021 subchallenge) for the corresponding challenge. The VOT-realtime subchallenge is automatically run as one of the experiments of the VOT-ST2021 subchallenge.
  * Perform evaluation and pack the results.
- * After packing the results submit them via the submission page (TBA).
+ * After packing the results submit them via the [submission system](https://submit.votchallenge.net).
 
 ### Participation requirements
 

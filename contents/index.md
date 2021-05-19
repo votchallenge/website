@@ -52,11 +52,11 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">The VOT2021 challenge is now open!</h3>
+    <h3 class="panel-title">The VOT2021 challenge deadline extended!</h3>
   </div>
   <div class="panel-body">
 
-VOT2021 workshop will be organized in conjunction with ICCV2021. The VOT2021 challenge is now open, submissions will close on 23rd of May. Please see the [VOT2021 challenge page](/vot2021/) for more info on how to participate."
+The VOT2021 tracker results submission deadline is extended to 31st May. Please see the [VOT2021 challenge page](/vot2021/) for more info on how to participate."
   </div>
 </div>
 

@@ -22,7 +22,7 @@ Following eight highly successful VOT challenges, the 9th Visual Object Tracking
  * 11th or 17th October <tba>: VOT2021 workshop in conjunction with the ICCV2021 (winners disclosed) (virtual event)
 
 The tracking results should be submitted via the [submission page](https://submit.votchallenge.net/).
-Contributed papers should be submitted via the cmt VOT page (TBA).
+Contributed papers should be uploaded with our [submission system](https://cmt3.research.microsoft.com/VOT2021/).
 Please see further guidelines for attending the challenge and/or submitting a paper [here](participation.html).
 
 

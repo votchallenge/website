@@ -5,14 +5,6 @@ submenu: Participate
 
 ## Participate by submitting a paper
 
-<div class="alert alert-warning" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
-<h4>Work in progress</h4>
-
-The instructions for the upcoming challenge are still being writtent, this document should not be taken as final.
-</div>
-
-
 ### Scope of the solicited papers
 
  * Original or improved single object trackers as well as papers that give new insights into existing single object trackers and analysis of tracker performance.
@@ -57,8 +49,8 @@ High-quality tracking papers submitted (but not accepted) to ICCV2021 can be re-
  * VOT-RGBD2021 addresses long-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-LT2021 subchallenge.
  * Trackers may report target location as a segmentation mask or a bounding box. Performance is evaluated w.r.t. to a bounding box ground truth.
  * The trackers work with a 4-channel input composed of RGB+depth channels.
- *  New public and sequestered datasets have been created for VOT-RGBD2021.
- 
+ * The testing dataset will be the same as in VOT-RGBD2020 challenge, a novel training set for RGBD trackers is available [here](https://zenodo.org/record/4716441).
+
 ## Participation instructions
 
  * Please note that using the [new Python toolkit](https://github.com/votchallenge/vot-toolkit-python/) is required for participation. See the [toolkit guide](/howto/tutorial_python.html) on how to set it up and use it with your tracker.
@@ -69,19 +61,22 @@ Additionally a wrapper is also provided to simplify the integration for people t
 
  * Make sure that you select the correct experiment stack (votst2021 for VOT-ST2021 main short-term subchallenge ; votlt2021 for VOT-LT2021 subchallenge ; votrgbd2021 for VOT-RGBD2021 subchallenge) for the corresponding challenge. The VOT-realtime subchallenge is automatically run as one of the experiments of the VOT-ST2021 subchallenge.
  * Perform evaluation and pack the results.
- * After packing the results submit them via the submission page (TBA).
+ * After packing the results submit them via the [submission system](https://submit.votchallenge.net).
 
 ### Participation requirements
 
- * The real-time experiment requires running the tracker on a single machine (you can use multiple CPUs or GPU). Please, make sure that this is the hardware that you are using when running the tracker. Also, specify your hardware setup correctly when submitting the results.
- * Authors are required to help the VOT technical committee to reproduce their results. If the results cannot be reproduced by the VOT using the submitted code, the tracker will be removed from the paper.
- * The submission should contain all the results and the tracker code following several requirements that will enable us to automatically process the submission and re-produce the results:
-   * ALL source code for the tracker must be included in the submission.
-   * ALL dependencies (operating system, installed libraries, Matlab/Python version, etc.) must be stated in a README file.
-   * There must be a single script to compile all binaries (called install.m (Matlab), or install.sh (others)).
-   * There must be a runfile for the tracker, that the toolkit can call to execute it. (basically what the toolkit generates for each tracker)
-   * In case tracker uses a GPU, provide the GPU and CPU version.
- * To counter attempts of intentionally reporting large bounding boxes to avoid resets, the VOT committee will analyze the submitted tracker outputs. If such or similar strategies are detected, the committee reserves the right to disqualify the tracker.
+ * The real-time experiment requires running the tracker on a single machine (multiple CPU/GPU allowed). Please specify your hardware setup correctly when submitting the results: CPU, memory, GPU, GPU-memory, HD/SSD etc.
+ * Authors are required to help the VOT technical committee to reproduce their results. If the results cannot be reproduced by the VOT TC using the submitted code within reasonable time, the tracker will be removed from the challenge and the paper.
+ * The submission should contain all the results and the tracker code which follows these requirements for automatic results reproduction:
+    * It is recommended to submit a Singularity file (.def) for the submission
+    * It is strongly recommended to use Linux and Python
+    * The OS MUST be sufficiently recent: Linux Ubuntu 18.04 or newer, Windows 10, MacOS is unfortunately not possible.
+    * ALL source code for the tracker must be included in the submission.
+    * ALL dependencies (operating system, installed libraries, Matlab/Python version, etc.) must be stated in a README file.
+    * A single script to compile all binaries is required (called install.m  for Matlab, or install.sh for others).
+    * A runfile for the tracker, that the toolkit can call to execute it is required. (basically what the toolkit generates for each tracker)
+    * In case tracker uses a GPU, provide the model name of the GPU hardware (including laptop/desktop) and CPU version. Make sure that the code is  compatible with CUDA 11.2.
+ * The VOT committee reserves to disqualify submissions for which a cheating strategy is suspected.
  * Authors are encouraged to submit their own previously published trackers.
  * Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.
 

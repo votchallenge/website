@@ -13,7 +13,7 @@ title: Challenges
 <div class="row">
 
 <div class="col-lg-6 col-sm-12">
-<a href="/vot2021/" class="challengebutton text-primary">
+<a href="/vot2021/" class="challengebutton open text-primary">
 <img class="logo" src="/img/vot2021_logo_website.png" alt="VOT2021" />
 <h3>VOT2021 challenge</h3>
 <p class="description">The VOT2021 challenge addresses short-term, long-term, real-time, RGB and RGBD trackers. Results will be presented at the ICCV2021 VOT workshop.</p>

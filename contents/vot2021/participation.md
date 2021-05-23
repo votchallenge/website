@@ -21,7 +21,7 @@ The instructions for the upcoming challenge are still being writtent, this docum
 ### Submission instructions for regular papers
 
  * Full-length VOT2021 workshop papers must follow the [standard requirements for ICCV2021 regular papers](http://iccv2021.thecvf.com/node/4#submission-guidelines).
- * Submit the paper using the submission system (TBA).
+ * Submit the paper using our [submission system](https://cmt3.research.microsoft.com/VOT2021).
  * The submitted papers should be compiled for double-blind review.
 
 ### Submission instructions for tracking papers not accepted to ICCV

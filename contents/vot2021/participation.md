@@ -75,7 +75,7 @@ Additionally a wrapper is also provided to simplify the integration for people t
     * ALL dependencies (operating system, installed libraries, Matlab/Python version, etc.) must be stated in a README file.
     * A single script to compile all binaries is required (called install.m  for Matlab, or install.sh for others).
     * A runfile for the tracker, that the toolkit can call to execute it is required. (basically what the toolkit generates for each tracker)
-    * In case tracker uses a GPU, provide the model name of the GPU hardware (including laptop/desktop) and CPU version. Make sure that the code is  compatible with CUDA 11.2.
+    * In case tracker uses a GPU, provide the model name of the GPU hardware (including laptop/desktop) and CPU version. Make sure that the code is compatible with CUDA 11.2 (or as recent as possible, e.g., CUDA 10 should be fine as well).
  * The VOT committee reserves to disqualify submissions for which a cheating strategy is suspected.
  * Authors are encouraged to submit their own previously published trackers.
  * Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.

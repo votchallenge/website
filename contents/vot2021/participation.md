@@ -32,7 +32,6 @@ High-quality tracking papers submitted (but not accepted) to ICCV2021 can be re-
  * Trackers may report target location as a segmentation mask or a bounding box. Performance is evaluated w.r.t. to a segmentation ground truth.
  * The general requirements for the trackers submitted to these challenges are the same as in previous VOT challenges
  * VOT-ST2021 will use the new multi-start experiment setup and modified accuracy/robustness/expected average overlap measures for performance assesment
- * VOT-ST2021 dataset is the same as VOT-ST2020 dataset.
  * VOT-ST2021 winner will be determined on a separate sequestered dataset. The VOT committee will run trackers that obtain top performance on public dataset to determine the winner.
  * VOT-RT2021 will be run as one of the experiments of the VOT-ST2021 with real-time constraints, the experiment is conceptually the same as in the past challenges.
 

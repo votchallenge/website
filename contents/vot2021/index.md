@@ -16,9 +16,9 @@ Following eight highly successful VOT challenges, the 9th Visual Object Tracking
  * <strike>23th</strike> 31st May: Tracker results submission deadline (challenge ends)
  * 15th July: Winners of sub-challenges identified (but not publicly disclosed)
  * <strike>30th June: Submission deadline for regular papers to VOT2021</strike>
- * 1st August: Submission deadline for the “high-quality tracking papers not accepted to ICCV2021 due to, e.g., insufficient significance, but having a great value to VOT community”
- * 4th August: Notification to authors of the contributed papers
- * 15th August: Camera ready deadline
+ * <strike>1st August: Submission deadline for the “high-quality tracking papers not accepted to ICCV2021 due to, e.g., insufficient significance, but having a great value to VOT community”</strike>
+ * 9th August: Notification to authors of the contributed papers
+ * 16th August: Camera ready deadline
  * 16th October: VOT2021 workshop in conjunction with the ICCV2021 (winners disclosed) (virtual event)
 
 The tracking results should be submitted via the [submission page](https://submit.votchallenge.net/).

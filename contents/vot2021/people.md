@@ -29,7 +29,7 @@ submenu: People
 - [Song Yan](https://tutcris.tut.fi/portal/en/persons/song-yan(2b1cf924-5c59-4fed-ad63-253cb3c0a941).html)
 - [Zhongqun Zhang](https://zhongqunzhang.github.io/) 
 - Jinyu Yang
-- [Cristoph Mayer](https://2006pmach.github.io/)
+- [Christoph Mayer](https://2006pmach.github.io/)
 
 ## Individual challenge caretakers
 

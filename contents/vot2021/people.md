@@ -39,7 +39,16 @@ submenu: People
 
 ## Program committee
 
-TBA
+-   Csaba Beleznai, AIT, Austria
+-   Richard Bowden, Univ. of Surrey, UK
+-   Erhan Gundogdu, Amazon, Germany
+-   Gustav Häger, Linköping University, Sweden
+-   Vincent Lepetit, ENPC ParisTech, France
+-   Huchuan Lu, Dalian University of Technology, China
+-   Horst Possegger, Graz University of Technology, Austria
+-   Peter Tu, GE Global Research, US
+-   Jack Valmadre, Google, France
+-   Ming-Hsuan Yang, Univ. of California at Merced, US
 
 ## Supporting organizations
 

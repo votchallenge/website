@@ -6,33 +6,21 @@ submenu: Home
 # VOT2021 Challenge
 
 The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. 
-Following eight highly successful VOT challenges, the 9th Visual Object Tracking Challenge VOT2021 and workshop will be held in conjunction with ICCV 2021.
+Following eight highly successful VOT challenges, the 9th Visual Object Tracking Challenge VOT2021 and workshop will be held in conjunction with ICCV 2021 on 16th of October 2021.
 
 <img class="logo float-right frame" src="../img/vot2021_logo_website_large.png" alt="VOT2021"  />
 
-## Timeline
+## Challenges
 
- * 20th April: VOT2021 challenge opens
- * <strike>23th</strike> 31st May: Tracker results submission deadline (challenge ends)
- * 15th July: Winners of sub-challenges identified (but not publicly disclosed)
- * <strike>30th June: Submission deadline for regular papers to VOT2021</strike>
- * <strike>1st August: Submission deadline for the “high-quality tracking papers not accepted to ICCV2021 due to, e.g., insufficient significance, but having a great value to VOT community”</strike>
- * 9th August: Notification to authors of the contributed papers
- * 16th August: Camera ready deadline
- * 16th October: VOT2021 workshop in conjunction with the ICCV2021 (winners disclosed) (virtual event)
+ * VOT short-term tracking challenge VOT-ST2021 - Robust short-term tracking under appearance variation, occlusion and clutter. Targets annotated by segmentation masks.
+ * VOT short-term real-time challenge VOT-RT2021 - Robust short-term tracking under time constraints. Targets annotated by segmentation masks.
+ * VOT long-term tracking challenge VOT-LT2021 - Robust tracking with target disappearance.
+ * VOT color and depth long-term tracking challenge VOT-RGBD2020 - Using depth to improve LT RGB tracking with target disappearance.
 
-The tracking results should be submitted via the [submission page](https://submit.votchallenge.net/).
-Contributed papers should be uploaded with our [submission system](https://cmt3.research.microsoft.com/VOT2021/).
-Please see further guidelines for attending the challenge and/or submitting a paper [here](participation.html).
-
-
-<!--
 ## Sponsors
 
-The VOT2020 workshop was sposored by the Faculty of Computer and Information Science, University of Ljubljana.
+The VOT2021 workshop is sposored by the Faculty of Computer and Information Science, University of Ljubljana.
 
 <div class="spotlight">
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="150px"/></a>
 </div>
-
--->

@@ -177,7 +177,7 @@ a.hugebutton:hover {
 }
 
 .gallery img.sequence {
-    display: table-cell;
+    display: inline-block;
     text-align: center;
     text-decoration: none;
     padding: 20px;

@@ -5,53 +5,35 @@ submenu: Program
 
 # Workshop program
 
-The VOT2020 will take place online on 28.8.2020. The presentations will be split into two live sessions and one offline session.
+13:00-14:00 (Montreal) / 19:00-20:00 (CET) Session 1: Results (Chair: Jiri Matas) [60min]
 
-**Live sessions I (8:00-10:00, UTC+1):** <br />
-8:00 - 8:10 Hello <br />
-8:10 - 9:40 Results session (Chair: Aleš Leonardis)
- * 8:10 - 8:55 [VOT-ST/RT/LT2020 challenge results](http://data.votchallenge.net/vot2020/presentations/vot2020-st.pdf) + Q&A (Matej Kristan)</li>
- * 8:55 - 9:00 Buffer / Break (5min)</li>
- * 9:00 - 9:20 [VOT-RGBT2020 challenge results](http://data.votchallenge.net/vot2020/presentations/vot2020-rgbt.pdf) + Q&A (Michael Felsberg)</li>
- * 9:20 - 9:40 [VOT-RGBD2020 challenge results](http://data.votchallenge.net/vot2020/presentations/vot2020-rgbd.pdf) + Q&A (Joni-Kristian Kämäräinen)</li>
+ * 3 min Hello & outline
+ * ST/RT results + winners announcement (Matej Kristan)
+ * LT results + winners announcement (Hyung Jin Chang)
+ * RGBD results + winners announcement (Joni Kamarainen)
 
-9:40 - 9:50 Contributed papers spotlights (Chair: Roman Pflugfelder)
+14:00-14:05 (Montreal) / 20:00-20:05 (CET) Break [5 min]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GI6TWIDyFe8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+14:05-15:25 (Montreal) / 20:05-21:25 (CET) Session 2: Contributed papers (Chair: Roman Pflugfelder) [80min]
 
+ *  Invited talk: Horesh Ben Shitrit
+ 
+ *  **Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking** Fei Xie(Southeast University), Wankou Yang (Southeast University), Kaihua Zhang (NUIST), Bo Liu (JD.com), Guangting Wang (University of Science and Technology of China), Wangmeng Zuo (Harbin Institute of Technology)
 
-**Offline session** (Contributed papers pre-recorded videos viewing)
-<ul style="margin-top: -0.5em; margin-bottom: 0;">
-  <li>AF2S: An Anchor-Free Two-Stage Tracker Based on a Strong SiamFC Baseline <br />
-  <span style="color:gray">Anfeng He, Guangting Wang, Chong Luo, Xinmei Tian, Wenjun Zeng</span></li>
-  <li>AFOD: Adaptive Focused Discriminative Segmentation Tracker <br />
-  <span style="color:gray">Yiwei Chen, Jingtao Xu, JiaqianYu, Qiang Wang, Byung InYoo, Jae-Joon Han</span></li>
-  <li>An Exploration of Target-Conditioned Segmentation Methods for Visual Object Trackers <br />
-  <span style="color:gray">Matteo Dunnhofer, Niki Martinel, Christian Micheloni</span></li>
-  <li>Cascaded Tracking via Pyramid Dense Capsules <br />
-  <span style="color:gray">Ding Ma, Xiangqian Wu</span></li>
-  <li>RPT: Learning Point Set Representation for Siamese Visual Tracking <br />
-  <span style="color:gray">Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin</span></li>
-  <li>Robust Long-Term Object Tracking via Improved Discriminative Model Prediction <br />
-  <span style="color:gray">Seokeon Choi, Junhyun Lee, Yunsung Lee, Alexander Hauptmann</span></li>
-</ul>
+ *  **Is First Person Vision Challenging for Object Tracking?** Matteo Dunnhofer (University of Udine), Antonino Furnari (University of Catania), Giovanni Maria Farinella (University of Catania, Italy), CHRISTIAN MICHELONI (University of Udine, Italy)
 
-<br />
+    **Learning Tracking Representations via Dual-Branch Fully Transformer Networks** Fei Xie (Southeast University), Chunyu Wang (Microsoft Research asia), Guangting Wang (University of Science and Technology of China), Wankou Yang (Southeast University), Wenjun Zeng (Microsoft Research)
 
-**Live sessions II (18:00-20:00, UTC+1):**
+15:25-15:30 (Montreal) / 21:25-21:30 (CET) Break [5min]
 
-18:00 - 19:30 Winner presentations session (Chair: Jiri Matas)
+15:30-16:15 (Montreal) / 21:30-22:15 (CET) Session 3: Winner presentations (Chair: Aleš Leonardis) [45min]
 
- * 18:00 - 18:15 VOT-ST2020 winners presentation + Q&A
- * 18:15 - 18:30 VOT-RT2020 winners presentation + Q&A
- * 18:30 - 18:45 VOT-LT2020 winners presentation + Q&A
- * 18:45 - 18:50 Break (5 min)
- * 18:50 - 19:05 VOT-RGBT2020 winners presentation + Q&A
- * 19:05 - 19:20 VOT-RGBD2020 winners presentation + Q&A
+ *  ST2021 winners
+ *  RT2021 winners
+ *  LT2021 winners
+ *  RGBD2021 winners
 
-19:20 - 19:40 Panel (Chair: Michael Felsberg)
+16:15-16:35 (Montreal) / 22:15-22:35 (CET) Feedback session (Chair: Michael Felsberg) [20 min]
 
-19:40 - 19:45 Closing remarks
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJJJXCCYMy4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+16:35 (Montreal) / 22:35 (CET) Closing remarks
 

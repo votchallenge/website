@@ -16,13 +16,15 @@ submenu: Program
 
 14:05-15:25 (Montreal) / 20:05-21:25 (CET) Session 2: Contributed papers (Chair: Roman Pflugfelder) [80min]
 
- *  Invited talk: Horesh Ben Shitrit
+ *  Invited talk: **Multi-Object Tracking - from the lab to the NBA and the English Premier League**,
+    [Horesh Ben Shitrit](https://www.linkedin.com/in/horeshbenshitrit/), [Second Spectrum](https://www.secondspectrum.com/)
+   
  
- *  **Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking** Fei Xie(Southeast University), Wankou Yang (Southeast University), Kaihua Zhang (NUIST), Bo Liu (JD.com), Guangting Wang (University of Science and Technology of China), Wangmeng Zuo (Harbin Institute of Technology)
+ *  **Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking**, Fei Xie(Southeast University), Wankou Yang (Southeast University), Kaihua Zhang (NUIST), Bo Liu (JD.com), Guangting Wang (University of Science and Technology of China), Wangmeng Zuo (Harbin Institute of Technology)
 
- *  **Is First Person Vision Challenging for Object Tracking?** Matteo Dunnhofer (University of Udine), Antonino Furnari (University of Catania), Giovanni Maria Farinella (University of Catania, Italy), CHRISTIAN MICHELONI (University of Udine, Italy)
+ *  **Is First Person Vision Challenging for Object Tracking?**, Matteo Dunnhofer (University of Udine), Antonino Furnari (University of Catania), Giovanni Maria Farinella (University of Catania, Italy), Christian Micheloni (University of Udine, Italy)
 
-    **Learning Tracking Representations via Dual-Branch Fully Transformer Networks** Fei Xie (Southeast University), Chunyu Wang (Microsoft Research asia), Guangting Wang (University of Science and Technology of China), Wankou Yang (Southeast University), Wenjun Zeng (Microsoft Research)
+    **Learning Tracking Representations via Dual-Branch Fully Transformer Networks**, Fei Xie (Southeast University), Chunyu Wang (Microsoft Research asia), Guangting Wang (University of Science and Technology of China), Wankou Yang (Southeast University), Wenjun Zeng (Microsoft Research)
 
 15:25-15:30 (Montreal) / 21:25-21:30 (CET) Break [5min]
 

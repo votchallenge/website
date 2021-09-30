@@ -5,6 +5,8 @@ submenu: Program
 
 # Workshop program
 
+The workshop will be held on 16th of October 2021, it will be an online event.
+
 13:00-14:00 (Montreal) / 19:00-20:00 (CET) Session 1: Results (Chair: Jiri Matas) [60min]
 
  * 3 min Hello & outline

@@ -9,7 +9,7 @@ The workshop will be held on 16th of October 2021, it will be an online event.
 
 13:00-14:00 (Montreal) / 19:00-20:00 (CET) Session 1: Results (Chair: Jiri Matas) [60min]
 
- * 3 min Hello & outline
+ * Hello & outline
  * ST/RT results + winners announcement (Matej Kristan)
  * LT results + winners announcement (Hyung Jin Chang)
  * RGBD results + winners announcement (Joni Kamarainen)
@@ -30,14 +30,14 @@ The workshop will be held on 16th of October 2021, it will be an online event.
 
 15:25-15:30 (Montreal) / 21:25-21:30 (CET) Break [5min]
 
-15:30-16:15 (Montreal) / 21:30-22:15 (CET) Session 3: Winner presentations (Chair: Aleš Leonardis) [45min]
+15:30-16:30 (Montreal) / 21:30-22:30 (CET) Session 3: Winner presentations (Chair: Aleš Leonardis) [60min]
 
  *  ST2021 winners
  *  RT2021 winners
  *  LT2021 winners
  *  RGBD2021 winners
 
-16:15-16:35 (Montreal) / 22:15-22:35 (CET) Feedback session (Chair: Michael Felsberg) [20 min]
+16:30-16:50 (Montreal) / 22:30-22:50 (CET) Feedback session (Chair: Michael Felsberg) [20 min]
 
-16:35 (Montreal) / 22:35 (CET) Closing remarks
+16:50 (Montreal) / 22:50 (CET) Closing remarks
 

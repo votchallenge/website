@@ -32,10 +32,10 @@ The workshop will be held on 16th of October 2021, it will be an online event.
 
 15:30-16:30 (Montreal) / 21:30-22:30 (CET) Session 3: Winner presentations (Chair: Aleš Leonardis) [60min]
 
- *  ST2021 winners
- *  RT2021 winners
- *  LT2021 winners
- *  RGBD2021 winners
+ *  **ST2021 winners - RPTMask**, Zhihong Fu, Liangliang Wang, Qili Deng, Kang Du, Qingjie Liu, Yunhong Wang
+ *  **RT2021 winners - TransT_M**, Xin Chen, Jiawen Zhu, Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang
+ *  **LT2021 winners - mlpLT**, Matteo Dunnhofer, Kristian Simonato, Christian Micheloni
+ *  **RGBD2021 winners - STARK_RGBD**, Xinyu Zhang, Bin Yan, Lijun Wang, Houwen Peng, Dong Wang, Huchuan Lu, Xiaoyun Yang
 
 16:30-16:50 (Montreal) / 22:30-22:50 (CET) Feedback session (Chair: Michael Felsberg) [20 min]
 

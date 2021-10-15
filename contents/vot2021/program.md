@@ -37,7 +37,7 @@ The workshop will be held on 16th of October 2021, it will be an online event.
  *  **LT2021 winners - mlpLT**, Matteo Dunnhofer, Kristian Simonato, Christian Micheloni
  *  **RGBD2021 winners - STARK_RGBD**, Xinyu Zhang, Bin Yan, Lijun Wang, Houwen Peng, Dong Wang, Huchuan Lu, Xiaoyun Yang
 
-16:30-16:50 (Montreal) / 22:30-22:50 (CET) Feedback session (Chair: Michael Felsberg) [20 min]
+16:30-16:50 (Montreal) / 22:30-22:50 (CET) Feedback session (Chair: Jiri Matas) [20 min]
 
 16:50 (Montreal) / 22:50 (CET) Closing remarks
 

@@ -49,7 +49,7 @@ submenu: People
 -   Peter Tu, GE Global Research, US
 -   Jack Valmadre, Google, France
 -   Ming-Hsuan Yang, Univ. of California at Merced, US
-
+ 
 ## Supporting organizations
 
 <div class="supporters">

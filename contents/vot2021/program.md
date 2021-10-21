@@ -37,7 +37,5 @@ submenu: Program
 
 16:35 (Montreal) / 22:35 (CET) Closing remarks
 
-https://youtu.be/N9kN_eSIF9A
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N9kN_eSIF9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

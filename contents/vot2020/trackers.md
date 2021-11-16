@@ -19,7 +19,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [Visual Tracking by means of Deep Reinforcement Learning and an Expert Demonstrator (A3CTDmask)](http://data.votchallenge.net/vot2020/trackers/A3CTDmask-code-2020-04-30T08_58_23.896859.zip) - Appendix A.2
 
--   [Deep Convolutional Descriptor Aggregation for Visual Tracking (DCDA)] - Appendix A.3 (This tracker is under submission and will be available upon acceptance)
+-   [Deep Convolutional Descriptor Aggregation for Visual Tracking (DCDA)](http://data.votchallenge.net/vot2020/trackers/DCDA-code-2020-05-03T16_29_29.938675.zip) - Appendix A.3
 
 -   [IOU guided Siamese networks for visual object tracking (igs)](http://data.votchallenge.net/vot2020/trackers/igs-code-2020-04-26T15_12_42.073921.zip) - Appendix A.4
 

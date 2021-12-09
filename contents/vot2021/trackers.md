@@ -48,7 +48,7 @@ The complete code and trained models of Alpha-Refine have been released at [(git
 
 -   [ReptileFPN (ReptileFPN)](http://data.votchallenge.net/vot2021/trackers/ReptileFPN-code-2021-05-27T04_07_24.047905.zip) - Appendix A.16
 
--   [STARK for the Real-Time Challenge (transformer) (STARK_RT)](http://data.votchallenge.net/vot2021/trackers/STARK_RT-code-2021-05-30T13:54:26.067770.zip) - Appendix A.17
+-   [STARK for the Real-Time Challenge (transformer) (STARK_RT)](http://data.votchallenge.net/vot2021/trackers/STARK_RT-code-2021-05-30T13_54_26.067770.zip) - Appendix A.17
 
 -   [Transformer Tracking (TransT)](http://data.votchallenge.net/vot2021/trackers/TransT-code-2021-05-31T14_53_14.344070.zip) - Appendix A.18
 
@@ -84,7 +84,7 @@ The complete code and trained models of Alpha-Refine have been released at [(git
 
 -   [TRATMask: Tracking by Attention Using Spatio-Temporal Features (TRATMask)](http://data.votchallenge.net/vot2021/trackers/TRATMask-code-2021-06-01T00_09_31.440397.zip) - Appendix A.34
 
--   [KeepTrack (keep_track)](http://data.votchallenge.net/vot2021/keep_track-code-2021-05-31T18:29:56.061576.zip) - Appendix A.35
+-   [KeepTrack (keep_track)](http://data.votchallenge.net/vot2021/keep_track-code-2021-05-31T18_29_56.061576.zip) - Appendix A.35
 
 -   [RPTMask (RPTMask)](http://data.votchallenge.net/vot2021/trackers/RPTMask-code-2021-06-01T00_14_51.727591.zip) - Appendix A.36
 
@@ -94,13 +94,13 @@ The complete code and trained models of Alpha-Refine have been released at [(git
 
 -   [ATOM tracker with Alpha refine post-processing step (AR_ATOM)] - Appendix A.39
 
--   [DiMP50 tracker with Alpha refine post-processing step (AR_DiMP-50)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15:36:21.815843.zip) - Appendix A.40
+-   [DiMP50 tracker with Alpha refine post-processing step (AR_DiMP-50)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15_36_21.815843.zip) - Appendix A.40
 
--   [Know your surrondings tracker with Alpha refine post-processing step (AR_KYS)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15:36:21.815843.zip) - Appendix A.41
+-   [Know your surrondings tracker with Alpha refine post-processing step (AR_KYS)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15_36_21.815843.zip) - Appendix A.41
 
--   [PrDiMP50 tracker with Alpha refine post-processing step (AR_PrDiMP-50)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15:36:21.815843.zip) - Appendix A.42
+-   [PrDiMP50 tracker with Alpha refine post-processing step (AR_PrDiMP-50)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15_36_21.815843.zip) - Appendix A.42
 
--   [SuperDiMP50 tracker with Alpha refine post-processing step (AR_SuperDiMP-50)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15:36:21.815843.zip) - Appendix A.43
+-   [SuperDiMP50 tracker with Alpha refine post-processing step (AR_SuperDiMP-50)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15_36_21.815843.zip) - Appendix A.43
 
 -   [Scale adaptive mean shift (ASMS)](https://github.com/vojirt/asms) - Appendix A.44
 
@@ -114,9 +114,9 @@ The complete code and trained models of Alpha-Refine have been released at [(git
 
 -   [L1APG] - Appendix A.49
 
--   [Learning what to learn tracker with Box2Seg head (LWL_B2S)](http://data.votchallenge.net/vot2020/trackers/LWTL-code-2020-05-03T15:37:26.935594.zip) - Appendix A.50
+-   [Learning what to learn tracker with Box2Seg head (LWL_B2S)](http://data.votchallenge.net/vot2020/trackers/LWTL-code-2020-05-03T15_37_26.935594.zip) - Appendix A.50
 
--   [PrDiMP-50 (PrDiMP-50)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15:36:21.815843.zip) - Appendix A.51
+-   [PrDiMP-50 (PrDiMP-50)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15_36_21.815843.zip) - Appendix A.51
 
 -   [SiameseFC-AlexNet (SiamFc)] - Appendix A.52
 
@@ -141,7 +141,7 @@ The complete code and trained models of Alpha-Refine have been released at [(git
 
 -   [Switch-Refine Tracking Framework (RincTrack)](http://data.votchallenge.net/vot2021/trackers/RincTrack-code-2021-05-30T02_54_35.617212.zip) - Appendix B.8
 
--   [KeepTrack (keep_track_lt)](http://data.votchallenge.net/vot2021/trackers/keep_track-code-2021-05-31T18:22:43.199853.zip) - Appendix B.9
+-   [KeepTrack (keep_track_lt)](http://data.votchallenge.net/vot2021/trackers/keep_track-code-2021-05-31T18_22_43.199853.zip) - Appendix B.9
 
 -   [A More Concise Long-Term Tracker with Meta-updater (SuperD_MU)](http://data.votchallenge.net/vot2021/trackers/SuperD_MU-code-2021-05-30T14_17_55.142382.zip) - Appendix B.10
 
@@ -154,9 +154,9 @@ The complete code and trained models of Alpha-Refine have been released at [(git
 
 ### RGB-D Trackers
 
--   [Spatio-Temporal Transformer with Correlation for RGBD Visual Tracking (sttc_rgbd)](http://data.votchallenge.net/vot2021/trackers/sttc_rgbd-code-2021-05-31T17:39:57.150067.zip) - Appendix C.1
+-   [Spatio-Temporal Transformer with Correlation for RGBD Visual Tracking (sttc_rgbd)](http://data.votchallenge.net/vot2021/trackers/sttc_rgbd-code-2021-05-31T17_39_57.150067.zip) - Appendix C.1
 
--   [STARK for the RGBD challenge (STARK_RGBD)](http://data.votchallenge.net/vot2021/trackers/iiau_rgbd-code-2021-05-25T23:52:48.731864.zip) - Appendix C.2
+-   [STARK for the RGBD challenge (STARK_RGBD)](http://data.votchallenge.net/vot2021/trackers/iiau_rgbd-code-2021-05-25T23_52_48.731864.zip) - Appendix C.2
 
 -   [Spot-Light Masking feature enhanced DiMP for RGBD Tracking (SLMD)](http://data.votchallenge.net/vot2021/trackers/SLMD-code-2021-05-27T16_24_30.962746.zip) - Appendix C.3
 

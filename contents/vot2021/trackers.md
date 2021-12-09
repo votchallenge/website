@@ -44,7 +44,7 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 -   [DeepMix: Online Auto Data Augmentation for Robust Visual Object Tracking (deepmix)](http://data.votchallenge.net/vot2021/trackers/deepmix-code-2021-05-27T13_46_00.471813.zip) - Appendix A.14
 
 -   [Alpha-Refine (AlphaRef)](http://data.votchallenge.net/vot2021/trackers/AlphaRef-code-2021-05-26T16_26_12.638548.zip) - Appendix A.15
-The complete code and trained models of Alpha-Refine have been released at [github.com/MasterBin-IIAU/AlphaRefine](https://github.com/MasterBin-IIAU/AlphaRefine)
+The complete code and trained models of Alpha-Refine have been released at [(github.com/MasterBin-IIAU/AlphaRefine)](https://github.com/MasterBin-IIAU/AlphaRefine)
 
 -   [ReptileFPN (ReptileFPN)](http://data.votchallenge.net/vot2021/trackers/ReptileFPN-code-2021-05-27T04_07_24.047905.zip) - Appendix A.16
 

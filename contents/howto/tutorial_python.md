@@ -18,7 +18,7 @@ Then create an empty directory that will be used to perform your experiments. We
 
 1. In the terminal run a command to create workspace:
 ```console
-vot workspace <stack-name> --workspace <workspace-path>
+vot initialize <stack-name> --workspace <workspace-path>
 ```
 Make sure that `<stack-name>` is a valid stack from directory vot/stack, e.g., use `vot2014` if you want to use vot2014.yaml stack denoting the VOT 2014 Challenge setup. `<workspace-path>` is the full path to the `vot-workspace` directory.
 2. Put a tracker description in the `trackers.ini` file, located in the `vot-workspace` directory. See section <i>Tracker integration</i> below, which explains how to create a tracker description. The following programming languages are supported: Python, Matlab and C/C++.

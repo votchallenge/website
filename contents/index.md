@@ -52,11 +52,22 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">The VOT2021 challenge deadline extended!</h3>
+    <h3 class="panel-title">The VOT2022 challenge announced!</h3>
   </div>
   <div class="panel-body">
 
-The VOT2021 tracker results submission deadline is extended to 31st May. Please see the [VOT2021 challenge page](/vot2021/) for more info on how to participate."
+The VOT2022 challenge is planned to open in late March. We are re-introducing the bounding box tracking challenge in addition to segmentation challenge, while the thermal tracking challenge is suspended this year. The following challenges are thus planned:
+
+* VOT-STs: RGB short-term segmentation tracking challenge
+* VOT-STb: RGB short-term bounding box tracking challenge (NEW)
+* VOT-RT: RGB short-term tracking challenge
+* VOT-LT: RGB long-term bounding box tracking challenge
+* VOT-RGBD: RGB+depth bounding box tracking challenge
+
+A tentative timeline for the challenge:
+ * 20th of March: VOT2022 challenge open, datasets available
+ * 3rd of May: Tracker results submission deadline
+ * 24th of October: VOT2022 workshop 
   </div>
 </div>
 

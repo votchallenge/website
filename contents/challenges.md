@@ -6,21 +6,21 @@ title: Challenges
 
 # Open Challenges
 
-<div class="alert alert-info" role="alert">
+<!--div class="alert alert-info" role="alert">
  There are currently no open challenges.
-</div>
+</div-->
 
-<!--div class="row">
+<div class="row">
 
 <div class="col-lg-6 col-sm-12">
-<a href="/vot2021/" class="challengebutton text-primary">
-<img class="logo" src="/img/vot2021_logo_website.png" alt="VOT2021" />
-<h3>VOT2021 challenge</h3>
-<p class="description">The VOT2021 challenge addresses short-term, long-term, real-time, RGB and RGBD trackers. Results will be presented at the ICCV2021 VOT workshop.</p>
+<a href="#" class="challengebutton text-primary">
+<img class="logo" src="/img/vot_upcoming.png" alt="VOT2022" />
+<h3>VOT2022 challenge</h3>
+<p class="description">The VOT2022 challenge addresses short-term, long-term, real-time, RGB and RGBD trackers.</p>
 </a>
 </div>
 
-</div-->
+</div>
 
 
 ## Benchmarks

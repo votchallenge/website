@@ -1,0 +1,32 @@
+extends page
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append head
+    title VOT2022 Challenge |
+        = submenu
+
+block submenu
+    -var menu_items = { 'Home': '/vot2022/index.html', 'Participate': '/vot2022/participation.html', 'Dataset': '/vot2022/dataset.html', 'People': '/vot2022/people.html' };
+    .navbar.navbar-default.navbar-static-top(role='navigation')
+        .container
+            .navbar-header
+                a(class='navbar-brand' href='/vot2022/') VOT2022
+            ul(class='nav navbar-nav nav-collapse')
+                each val, key in menu_items
+                    if submenu == key
+                        li.active
+                            a(href=val)= key
+                    else
+                        li
+                            a(href=val)= key
+
+    .clearer

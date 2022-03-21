@@ -65,7 +65,7 @@ The VOT2022 challenge is planned to open in late March. We are re-introducing th
 * VOT-RGBD: RGB+depth bounding box tracking challenge
 
 A tentative timeline for the challenge:
- * 20th of March: VOT2022 challenge open, datasets available
+ * 20th of March: VOT2022 challenge open, datasets available (opening will be delayed for a week due to some last minute adjustments to the datasets)
  * 3rd of May: Tracker results submission deadline
  * 24th of October: VOT2022 workshop 
   </div>

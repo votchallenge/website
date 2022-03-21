@@ -14,7 +14,7 @@ title: Challenges
 
 <div class="col-lg-6 col-sm-12">
 <a href="#" class="challengebutton text-primary">
-<img class="logo" src="/img/vot_upcoming.png" alt="VOT2022" />
+<img class="logo" src="/img/vot2022_logo_website.png" alt="VOT2022" />
 <h3>VOT2022 challenge</h3>
 <p class="description">The VOT2022 challenge addresses short-term, long-term, real-time, RGB and RGBD trackers.</p>
 </a>

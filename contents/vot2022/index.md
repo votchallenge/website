@@ -8,6 +8,8 @@ submenu: Home
 The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. 
 Following eight highly successful VOT challenges, the 10th Visual Object Tracking Challenge VOT2022 will be held in the spring of 2022.
 
+<img class="logo float-right frame" src="../img/vot2022_logo_website_large.png" alt="VOT2022"  />
+
 ## Challenges
 
  * VOT-ST2022 segmentation tracking challenge (short-term, input RGB, target localized by a segmentation mask)

@@ -11,13 +11,13 @@ The VOT challenges provide the tracking community with a precisely defined and r
 
 ## Challenges
 
-VOT-STS2022 segmentation tracking challenge (short-term, input RGB, target localized by a segmentation mask)
-VOT-RTS2022 segmentation tracking challenge (short-term, realtime, input RGB, target localized by a segmentation mask)
-VOT-STB2022 bounding box tracking challenge (short-term, input RGB, target localized by a bounding box)
-VOT-RTB2022 bounding box tracking challenge (short-term, realtime, input RGB, target localized by a bounding box)
-VOT-RGBD2022 tracking challenge (short term, input RGB+depth, target localized by a bounding box)
-VOT-D2022 tracking challenge (short term, input depth, target localized by a bounding box)
-VOT-LT2022 tracking challenge (long term, input RGB, target localized by a bounding box)
+ * VOT-STS2022 segmentation tracking challenge (short-term, input RGB, target localized by a segmentation mask)
+ * VOT-RTS2022 segmentation tracking challenge (short-term, realtime, input RGB, target localized by a segmentation mask)
+ * VOT-STB2022 bounding box tracking challenge (short-term, input RGB, target localized by a bounding box)
+ * VOT-RTB2022 bounding box tracking challenge (short-term, realtime, input RGB, target localized by a bounding box)
+ * VOT-RGBD2022 tracking challenge (short term, input RGB+depth, target localized by a bounding box)
+ * VOT-D2022 tracking challenge (short term, input depth, target localized by a bounding box)
+ * VOT-LT2022 tracking challenge (long term, input RGB, target localized by a bounding box)
  
 ## What's new
  * The VOT-STS2022 segmentation tracking challenge dataset refreshed

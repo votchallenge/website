@@ -10,12 +10,12 @@ TBA
 ## Participate by attending the VOT2022 subchallenges
 
 ### VOT short-term and realtime subchallenges
- * Three variants: VOT-STS2022, VOT-STB2022, VOT-RTS2022
+ * Four variants: VOT-STS2022, VOT-RTS2022, VOT-STB2022, VOT-RTB2022
  * Address short-term, causal, model-free trackers. These trackers are required to report the target in every frame of the sequence.
  * VOT-STS2022 – target location reported as a segmentation mask, winners identified on a sequestered dataset.
  * VOT-STB2022 – target location reported as a bounding box, winners identified on a sequestered dataset.
  * VOT-RTS2022 – runs as part of the VOT-STS2022 experiments, target location reported as a segmentation mask, winners identified on the public dataset.
- * VOT-STS2022 & VOT-STB2022 winners identified on sequestered dataset.
+ * VOT-STS2022 & VOT-STB2022 winners identified on a sequestered dataset.
 
 ###  VOT long-term subchallenge (VOT-LT2022)
 

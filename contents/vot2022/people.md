@@ -29,12 +29,14 @@ submenu: People
 - [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/)
 - [Yushan Zhang](https://liu.se/medarbetare/yuszh17)
 - [Zhongqun Zhang](https://zhongqunzhang.github.io/) 
+- [Wenyan Yang](https://www.dsii.fi/wenyanyang)
+- [Dingding Cai](https://scholar.google.com/citations?user=rDG33HAAAAAJ)
 
 ## Individual challenge caretakers
 
--   VOT-ST/RT2020: Matej Kristan
--   VOT-LT2020: Hyung Jin Chang
--   VOT-RGBD2020: Joni-Kristian Kämäräinen and Aleš Leonardis
+-   VOT-ST/RT2022: Matej Kristan
+-   VOT-LT2022: Hyung Jin Chang
+-   VOT-RGBD2022: Joni-Kristian Kämäräinen and Aleš Leonardis
 
 ## Program committee
 

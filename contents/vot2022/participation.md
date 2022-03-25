@@ -39,7 +39,7 @@ TBA
 
 ## Participation instructions
 
- * Please note that using the [new Python toolkit](https://github.com/votchallenge/toolkit/) is required for participation. See the [toolkit guide](/howto/tutorial_python.html) on how to set it up and use it with your tracker. The most recent version of the VOT toolkit is required.
+ * Please note that using the [new Python toolkit](https://github.com/votchallenge/toolkit/) is required for participation. See the [toolkit guide](/howto/tutorial_python.html) on how to set it up and use it with your tracker. The most recent version of the VOT toolkit is required (at least 0.5.3).
 
 All trackers require integration via the [TraX protocol](https://github.com/votchallenge/trax). The guidelines for integrating TraX protocol directly are available [here](https://trax.readthedocs.io/en/latest/tutorials.html). 
 Additionally a wrapper is also provided to simplify the integration for people that have used VOT toolkit in the past, check the [integration examples repository](https://github.com/votchallenge/integration) for the code.

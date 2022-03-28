@@ -15,7 +15,7 @@ submenu: People
 -   [Joni-Kristian Kämäräinen](http://vision.cs.tut.fi/personal/JoniKamarainen/),
     Tampere University, Finland
 -   [Roman Pflugfelder](https://cvl.tuwien.ac.at/staff/roman-pflugfelder/),
-    Austrian Institute of Technology and Vienna University of Technology, Austria
+    TUM, Germany; Technion, Israel; AIT and TU Wien, Austria
 -   [Luka &#268;ehovin Zajc](http://www.vicos.si/People/Luka_Cehovin), University of Ljubljana, Slovenia
 -   [Alan Luke&#382;i&#269;](http://www.vicos.si/User:Alanl), University of Ljubljana, Slovenia
 -   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria

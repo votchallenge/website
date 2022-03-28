@@ -53,6 +53,6 @@ TBA
 <a href="https://www.tuni.fi/en"><img src="/img/org/logo_tut.png" alt="Tampere University of Applied Sciences"></a>
 <a href="https://www.tuwien.at/en/"><img src="/img/org/logo_tuw.gif" alt="Vienna University of Technology"></a>
 <a href="https://vision.ee.ethz.ch/"><img src="/img/org/logo_ethz.png" alt="ETH Z&uuml;rich"></a>
-<a href="http://www.ait.ac.at/?L=1"><img src="/img/org/logo_tum.png" alt="TUM" ></a>
+<a href="http://www.tum.de/en"><img src="/img/org/logo_tum.png" alt="TUM" width="150"></a>
 </div>
 

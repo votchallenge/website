@@ -26,9 +26,12 @@ The VOT challenges provide the tracking community with a precisely defined and r
  * New long-term tracking dataset introduced in VOT-LT2022
  
 ## Important dates
- * 25.3 Challenges open, datasets available
- * 3.5. Results submission deadline
- * 30.6. Notification to the winners
- * Late May: Submission of contributed papers (TBA)
- * Late October: Results presentation (TBA)
+ * 25. March - Challenges open, datasets available
+ * 3. May - Results submission deadline
+ * 31. May - Submission deadline for contributed papers to VOT2022
+ * 30. June - Notification to the winners
+ * 17. July - Submission deadline for the “high-quality tracking papers not accepted to ECCV2022 due to, e.g., insufficient significance”
+ * 21. July - Notification to all authors about decisions
+ * 31. July - Camera ready deadline
+ * 24. October - VOT2022 workshop in conjunction with the ECCV2022
 

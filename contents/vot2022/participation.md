@@ -5,7 +5,29 @@ submenu: Participate
 
 ## Participate by submitting a paper
 
-TBA
+### Scope of the solicited papers
+
+ * Incrementally adapted or novel methods for single-object tracking
+ * New insights into existing methods of single-object tracking
+ * New ideas for the performance analysis of single-object
+ * Novel ways of using and extending the VOT framework for performance analysis of trackers
+
+### Submission instructions for regular papers
+
+ * VOT2022 papers must follow the [submission guidelines for ECCV2022 papers](https://eccv2022.ecva.net/submission/call-for-papers/)
+ * The same ECCV2022 policies apply for plagiarism, dual/double submissions, review process
+ * Your paper will be part of the ECCVW2022 workshop proceedings and will be available after the conference as open access publication at the [CvF portal](https://openaccess.thecvf.com/)
+ * Submit your paper by using our [submission system](https://cmt3.research.microsoft.com/VOT2022)
+
+### Submission instructions for rejected ECCV2022 papers
+
+Papers not accepted to ECCV2022 can be re-submitted in short-time to VOT2022 after notification by following the instructions for regular papers and by the following additions:
+
+ * Include all review forms and the rebuttal letter as a single PDF document to your re-submission
+ * The re-submission should address the criticism and exposed flaws of your ECCV submission
+ * Your re-submitted paper must meet the scope of a solicited VOT workshop paper
+ * The quality of your re-submitted paper will be carefully assessed by the VOT organizers based on the eventually improved paper, the provided review forms and the rebuttal letter
+ * The VOT organisers finally decide by simple majority about the acceptance of your re-submitted ECCV paper
 
 ## Participate by attending the VOT2022 subchallenges
 

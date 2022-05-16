@@ -31,6 +31,7 @@ submenu: People
 - [Zhongqun Zhang](https://zhongqunzhang.github.io/) 
 - [Wenyan Yang](https://www.dsii.fi/wenyanyang)
 - [Dingding Cai](https://scholar.google.com/citations?user=rDG33HAAAAAJ)
+- [Christoph Mayer](https://2006pmach.github.io/)
 
 ## Individual challenge caretakers
 

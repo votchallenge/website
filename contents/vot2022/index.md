@@ -28,7 +28,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
 ## Important dates
  * 25. March - Challenges open, datasets available
  * 4. May - Results submission deadline (12.00 CET)
- * ~~31. May~~ 5. June - Submission deadline for contributed papers to VOT2022
+ * 31. May - Submission deadline for contributed papers to VOT2022
  * 30. June - Notification to the winners
  * 17. July - Submission deadline for the “high-quality tracking papers not accepted to ECCV2022 due to, e.g., insufficient significance”
  * 21. July - Notification to all authors about decisions

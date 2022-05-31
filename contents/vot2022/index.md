@@ -31,7 +31,7 @@ The VOT challenges provide the tracking community with a precisely defined and r
  * ~~31. May~~ 14. June - Final submission deadline for contributed papers to VOT2022
  * 30. June - Notification to the winners
  * 17. July - Submission deadline for the “high-quality tracking papers not accepted to ECCV2022 due to, e.g., insufficient significance”
- * 21. July - Notification to all authors about decisions
- * 31. July - Camera ready deadline
+ * 22. July - Notification to all authors about decisions
+ * 15. August - Camera ready deadline
  * 24. October - VOT2022 workshop in conjunction with the ECCV2022
 

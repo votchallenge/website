@@ -18,7 +18,7 @@ submenu: People
     TUM, Germany; Technion, Israel; AIT and TU Wien, Austria
 -   [Luka &#268;ehovin Zajc](http://www.vicos.si/People/Luka_Cehovin), University of Ljubljana, Slovenia
 -   [Alan Luke&#382;i&#269;](http://www.vicos.si/User:Alanl), University of Ljubljana, Slovenia
--   Gustavo Fern&#225;ndez, Austrian Institute of Technology, Austria
+-   [Gustavo Fern&#225;ndez](gustavo.fernandez@ait.ac.at), Austrian Institute of Technology, Austria
 -   [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/), Link&ouml;ping
     University, Sweden 
 -   [Martin Danelljan](https://martin-danelljan.github.io/), ETH Zurich, Switzerland
@@ -29,6 +29,7 @@ submenu: People
 - [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/)
 - [Yushan Zhang](https://liu.se/medarbetare/yuszh17)
 - [Zhongqun Zhang](https://zhongqunzhang.github.io/) 
+- Song Yan (song.yan@tuni.fi)
 - [Wenyan Yang](https://www.dsii.fi/wenyanyang)
 - [Dingding Cai](https://scholar.google.com/citations?user=rDG33HAAAAAJ)
 - [Christoph Mayer](https://2006pmach.github.io/)

@@ -18,7 +18,7 @@ submenu: People
     TUM, Germany; Technion, Israel; AIT and TU Wien, Austria
 -   [Luka &#268;ehovin Zajc](http://www.vicos.si/People/Luka_Cehovin), University of Ljubljana, Slovenia
 -   [Alan Luke&#382;i&#269;](http://www.vicos.si/User:Alanl), University of Ljubljana, Slovenia
--   [Gustavo Fern&#225;ndez](gustavo.fernandez@ait.ac.at), Austrian Institute of Technology, Austria
+-   Gustavo Fern&#225;ndez (gustavo.fernandez@ait.ac.at), Austrian Institute of Technology, Austria
 -   [Michael Felsberg](http://users.isy.liu.se/cvl/mfe/), Link&ouml;ping
     University, Sweden 
 -   [Martin Danelljan](https://martin-danelljan.github.io/), ETH Zurich, Switzerland

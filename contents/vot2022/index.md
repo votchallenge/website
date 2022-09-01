@@ -5,7 +5,7 @@ submenu: Home
 
 # VOT2022 Challenge
 
-The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following nine highly successful VOT challenges, the 10th Visual Object Tracking Challenge VOT2022 will be held in the spring of 2022.
+The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following nine highly successful VOT challenges, the 10th Visual Object Tracking Challenge VOT2022 will was held in spring of 2022. The results will be presented on 24.10.2022 as an ECCV2022 workshop.
 
 <img class="logo float-right frame" src="../img/vot2022_logo_website_large.png" alt="VOT2022"  />
 
@@ -25,13 +25,11 @@ The VOT challenges provide the tracking community with a precisely defined and r
  * The VOT-RGBD2022 challenge will apply a short-term tracking methodology as VOT-STS2022
  * New long-term tracking dataset introduced in VOT-LT2022
  
-## Important dates
- * 25. March - Challenges open, datasets available
- * 4. May - Results submission deadline (12.00 CET)
- * 31. May - Submission deadline for contributed papers to VOT2022
- * 30. June - Notification to the winners
- * 17. July - Submission deadline for the “high-quality tracking papers not accepted to ECCV2022 due to, e.g., insufficient significance”
- * 21. July - Notification to all authors about decisions
- * 31. July - Camera ready deadline
- * 24. October - VOT2022 workshop in conjunction with the ECCV2022
+## Sponsors
+
+The VOT2022 workshop is sposored by the Faculty of Computer and Information Science, University of Ljubljana.
+
+<div class="spotlight">
+<a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="170px"/></a>
+</div>
 

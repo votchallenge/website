@@ -5,4 +5,47 @@ submenu: Program
 
 # Workshop program
 
-TBA
+The VOT2022 workshop will be held on 24.10.2022 @ECCV2022 afternoon 2:00PM-6:00PM (Israel local time: GMT +2) and will be hybrid. This means that in addition to in-person attendance, online participation will be available through a Zoom link (to be provided here for registered participants). All times in the program are in Israel local time (GMT+2).
+
+14:00 - 15:00 Challenge results (chair: Aleš Leonardis)
+
+ * *(14:00 - 14:05)* *Hello*
+ * *(14:05 - 14:25)* **VOT-STs/RTs2022+STb/RTb2022 results + winners announcement**, Matej Kristan
+ * *(14:25 - 14:45)* **VOT-LT2022 results + winners announcement**, Hyung Jin Chang
+ * *(14:45 - 15:00)* **VOT-RGBD+D 2022 results + winners announcement**, Joni-Kristian Kämäräinen
+
+15:00 - 16:05 Invited talk & contributed papers: (Chair: Jiri Matas)
+
+ * *(15:00 - 15:35)* *Keynote: Prof. Laura Leal-Taixé*
+ * *(15:35 - 15:50)* Contributed paper 1: **Learning Dual-Fused Modality-Aware Representations for RGBD Tracking**
+   Shang Gao (Southern University of Science and Technology)*; Jinyu Yang (Southern University of Science and Technology); Zhe LI (SUSTech); Feng Zheng (SUSTech); Ales Leonardis (University of Birmingham); Jingkuan Song (UESTC)
+
+ * *(15:50 - 16:05)* **Contributed paper 2: Efficient Visual Tracking via Hierarchical Cross-Attention Transformer**
+   Xin Chen (Dalian University of Technology); Kang Ben (Dalian University of Technology); Dong Wang (Dalian University of Technology)*; Dongdong Li (National University of Defense Technology); Huchuan Lu (Dalian University of Technology)
+
+16:05 - 16:35 Break
+
+16:35 - 18:00 Winners presentations: (Chair: Luka Čehovin Zajc)
+
+ * *(16:35 - 16:55)* VOT-STs2022 + VOT-RTs2022 winners
+    **MS_AOT: Associating Objects with Multi-scale Transformers for Video Object Segmentation**,
+    Zongxin Yang (Zhejiang University), Yangming Cheng (Zhejiang University), Yuanyou Xu (Zhejiang University), Chao Sun (Zhejiang University), Yi Yang (Zhejiang University), Yueting Zhuang (Zhejiang University)
+
+ * *(16:55 - 17:10)* VOT-STb2022 winners
+   **APT_MR: Adaptive Part Mining Tracker with Multi-Region**
+    Yinchao, Ma (University of Science and Technology of China), Dawei, Yang (University of Science and Technology of China), Qianjin Yu (University of Science and Technology of China, Jianfeng He (University of Science and Technology of China), Fei Wang (University of Science and Technology of China), Wangkai Li (University of Science and Technology of China), Tianzhu Zhang (University of Science and Technology of China)
+
+ * *(17:10 - 17:25)* VOT-RTb2022 winners
+    **One-stream tracker with online template updating**
+    Botao Ye (Institute of Computing Technology, Chinese Academy of Sciences), Hong Chang (Institute of Computing Technology, Chinese Academy of Sciences), Bingpeng Ma (University of Chinese Academy of Sciences),  Shiguang Shan (Institute of Computing Technology, Chinese Academy of Sciences), Xilin  Chen (Institute of Computing Technology, Chinese Academy of Sciences)
+
+ * *(17:25 - 17:40)* VOT-LT2022 winners
+   **VITKT_M -- A Motion-aware Ensemble Tracker of ViT-based and KeepTrack-based Models**
+Jie Zhao (Dalian University of Technology, China), Xin Chen (Dalian University of Technology, China), Chang Liu (Dalian University of Technology, China), Houwen Peng (Microsoft Research Asia, China), Dong Wang (Dalian University of Technology, China) Huchuan Lu (Dalian University of Technology, China)
+
+ * *(17:40 - 18:00)* VOT-RGBD2022 + VOT-D2022 winners
+    **MixFormer_RGBD: End-to-End Tracking with Iterative Mixed Attention for rgbd tracking**
+    Simiao Lai (IIAU-Lab, Dalian University of Technology, China), Ming Li (Dalian Maritime University), Jiawen Zhu (IIAU-Lab, Dalian University of Technology, China), Lijun Wang (IIAU-Lab, Dalian University of Technology, China), Dong Wang (IIAU-Lab, Dalian University of Technology, China), Huchuan Lu (IIAU-Lab, Dalian University of Technology, China)
+
+
+18:00 Closing remarks

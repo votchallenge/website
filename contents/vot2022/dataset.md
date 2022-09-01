@@ -2,7 +2,7 @@
 template: page2022.pug
 submenu: Dataset
 ---
-
+ 
 ## Datasets
 
 All VOT2022 datasets are available through the VOT toolkit. The correct dataset will be automatically downloaded by selecting the corresponding experiment stack when configuring evaluation workspace.

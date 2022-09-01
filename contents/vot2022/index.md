@@ -5,7 +5,7 @@ submenu: Home
 
 # VOT2022 Challenge
 
-The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following nine highly successful VOT challenges, the 10th Visual Object Tracking Challenge VOT2022 will was held in spring of 2022. The results will be presented on 24.10.2022 as an ECCV2022 workshop.
+The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following nine highly successful VOT challenges, the 10th Visual Object Tracking Challenge VOT2022 was held in spring of 2022 (challenge closed). The results will be presented at the VOT2022 workshop at [ECCV2022](https://eccv2022.ecva.net/program/workshop-schedule/) in Tel Aviv, Israel, 24th October, afternoon slot (hybrid format).
 
 <img class="logo float-right frame" src="../img/vot2022_logo_website_large.png" alt="VOT2022"  />
 
@@ -32,4 +32,5 @@ The VOT2022 workshop is sposored by the Faculty of Computer and Information Scie
 <div class="spotlight">
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="170px"/></a>
 </div>
+
 

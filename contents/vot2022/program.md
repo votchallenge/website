@@ -16,7 +16,7 @@ The VOT2022 workshop will be held on 24.10.2022 @ECCV2022 afternoon 2:00PM-6:00P
 
 15:00 - 16:05 **Invited talk & contributed papers**: (Chair: Roman Pflugfelder)
 
- * *(15:00 - 15:35)* Keynote: Prof. Laura Leal-Taixé
+ * *(15:00 - 15:35)* Keynote: Prof. Laura Leal-Taixé: *Opening up open-world tracking*
  * *(15:35 - 15:50)* Contributed paper 1: 
     *Learning Dual-Fused Modality-Aware Representations for RGBD Tracking* <br />
     <span style="color:gray">Shang Gao (Southern University of Science and Technology)*; Jinyu Yang (Southern University of Science and Technology); Zhe LI (SUSTech); Feng Zheng (SUSTech); Ales Leonardis (University of Birmingham); Jingkuan Song (UESTC)</span>

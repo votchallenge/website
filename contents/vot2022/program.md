@@ -33,11 +33,11 @@ The VOT2022 workshop will be held on 24.10.2022 @ECCV2022 afternoon 2:00PM-6:00P
     *MS_AOT: Associating Objects with Multi-scale Transformers for Video Object Segmentation* <br />
     <span style="color:gray">Zongxin Yang (Zhejiang University), Yangming Cheng (Zhejiang University), Yuanyou Xu (Zhejiang University), Chao Sun (Zhejiang University), Yi Yang (Zhejiang University), Yueting Zhuang (Zhejiang University)</span>
 
- * *(16:55 - 17:10)* VOT-STb2022 winners:
+ * *(16:55 - 17:10)* VOT-STb2022 (mask GT) winners:
     *APT_MR: Adaptive Part Mining Tracker with Multi-Region* <br />
     <span style="color:gray">Yinchao, Ma (University of Science and Technology of China), Dawei, Yang (University of Science and Technology of China), Qianjin Yu (University of Science and Technology of China, Jianfeng He (University of Science and Technology of China), Fei Wang (University of Science and Technology of China), Wangkai Li (University of Science and Technology of China), Tianzhu Zhang (University of Science and Technology of China)</span>
 
- * *(17:10 - 17:25)* VOT-RTb2022 winners:
+ * *(17:10 - 17:25)* VOT-STb2022 (box GT) & VOT-RTb2022 winners:
     *One-stream tracker with online template updating* <br />
     <span style="color:gray">Botao Ye (Institute of Computing Technology, Chinese Academy of Sciences), Hong Chang (Institute of Computing Technology, Chinese Academy of Sciences), Bingpeng Ma (University of Chinese Academy of Sciences),  Shiguang Shan (Institute of Computing Technology, Chinese Academy of Sciences), Xilin  Chen (Institute of Computing Technology, Chinese Academy of Sciences)</span>
 

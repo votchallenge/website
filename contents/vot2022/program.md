@@ -10,9 +10,9 @@ The VOT2022 workshop will be held on 24.10.2022 @ECCV2022 afternoon 2:00PM-6:00P
 14:00 - 15:00 **Challenge results** (Chair: Jiri Matas)
 
  * *(14:00 - 14:05)* Hello
- * *(14:05 - 14:25)* VOT-STs/RTs2022+STb/RTb2022 results + winners announcement, Matej Kristan
- * *(14:25 - 14:40)* VOT-LT2022 results + winners announcement, Hyung Jin Chang
- * *(14:40 - 15:00)* VOT-RGBD+D 2022 results + winners announcement, Joni-Kristian Kämäräinen
+ * *(14:05 - 14:25)* [VOT-STs/RTs2022+STb/RTb2022 results + winners announcement](https://data.votchallenge.net/vot2022/vot2022_st_rt.pdf), Matej Kristan
+ * *(14:25 - 14:40)* [VOT-LT2022 results + winners announcement](https://data.votchallenge.net/vot2022/vot2022_lt.pdf), Hyung Jin Chang
+ * *(14:40 - 15:00)* [VOT-RGBD+D 2022 results + winners announcement](https://data.votchallenge.net/vot2022/vot2022_rgbd.pdf), Joni-Kristian Kämäräinen
 
 15:00 - 16:05 **Invited talk & contributed papers**: (Chair: Roman Pflugfelder)
 

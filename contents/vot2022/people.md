@@ -42,7 +42,17 @@ submenu: People
 
 ## Program committee
 
-TBA
+- Bing Shuai, Amazon
+- Chao Ma, Shanghai Jiao Tong University
+- Cristovao Sousa, Perceive3D
+- Erhan Gundogdu, Amazon
+- Horst Possegger, Graz University of Technology
+- Jenq-Neng Hwang, University of Washington
+- Shi Jie Sun, Chang'an University
+- Si-Yuan Cao, Zheijiang University
+- Wei Mao, ANU
+- Xingyi Zhou, University of Texas Austin
+- Zhongdao Wang, Tsinghua University
  
 ## Supporting organizations
 

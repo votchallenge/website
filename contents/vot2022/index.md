@@ -2,7 +2,7 @@
 template: page2022.pug
 submenu: Home
 ---
-
+ 
 # VOT2022 Benchmark
 
 The VOT challenges provide the tracking community with a precisely defined and repeatable way of comparing short-term trackers and long-term trackers as well as a common platform for discussing the evaluation and advancements made in the field of visual tracking. Following nine highly successful VOT challenges, the 10th Visual Object Tracking Challenge VOT2022 was held in spring of 2022 (challenge closed). The results was presented at the VOT2022 workshop at [ECCV2022](https://eccv2022.ecva.net/program/workshop-schedule/) in Tel Aviv, Israel, 24th October, afternoon slot (hybrid format).

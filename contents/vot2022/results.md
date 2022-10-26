@@ -2,7 +2,7 @@
 template: page2022.pug
 submenu: Results
 ---
-
+ 
 ## Documents
 
 -   [VOT Report](http://prints.vicos.si/publications/416) The paper that summarizes Visual Object Tracking VOT2022 challenge results

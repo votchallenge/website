@@ -35,7 +35,7 @@ submenu: People
 - [Christoph Mayer](https://2006pmach.github.io/)
 
 ## Individual challenge caretakers
-
+ 
 -   VOT-ST/RT2022: Matej Kristan
 -   VOT-LT2022: Hyung Jin Chang
 -   VOT-RGBD2022: Joni-Kristian Kämäräinen and Aleš Leonardis

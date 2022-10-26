@@ -5,7 +5,7 @@ submenu: Program
 
 # Workshop program
 
-The VOT2022 workshop will be held on 24.10.2022 @ECCV2022 afternoon 2:00PM-6:00PM (Israel local time: GMT +3) and will be hybrid. This means that in addition to in-person attendance, online participation will be available through a Zoom link (to be provided here for registered participants). All times in the program are in Israel local time (GMT+3).
+The VOT2022 workshop was held on 24.10.2022 @ECCV2022 afternoon 2:00PM-6:00PM (Israel local time: GMT +3) and will be hybrid. All times in the program are in Israel local time (GMT+3).
 
 14:00 - 15:00 **Challenge results** (Chair: Jiri Matas)
 

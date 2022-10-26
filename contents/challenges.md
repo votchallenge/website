@@ -6,20 +6,8 @@ title: Challenges
 
 # Open Challenges
 
-<!--div class="alert alert-info" role="alert">
+<div class="alert alert-info" role="alert">
  There are currently no open challenges.
-</div-->
-
-<div class="row">
-
-<div class="col-lg-6 col-sm-12">
-<a href="/vot2022/" class="challengebutton text-primary">
-<img class="logo" src="/img/vot2022_logo_website.png" alt="VOT2022" />
-<h3>VOT2022 challenge</h3>
-<p class="description">The VOT2022 challenge addresses short-term, long-term, real-time, RGB and RGBD trackers.</p>
-</a>
-</div>
-
 </div>
 
 
@@ -28,6 +16,14 @@ title: Challenges
 Official results of past challenges are still available as a benchmark to researchers. We invite the visual tracking researchers to compare their methods with those results.
 
 <div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vot2022/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot2022_logo_website.png" alt="VOT2022" />
+<h3>VOT2022 benchmark</h3>
+<p class="description">The VOT2022 benchmark addresses short-term, long-term, real-time, RGB and RGBD trackers. Results were presented at the ECCV2022 VOT workshop.</p>
+</a>
+</div>
 
 <div class="col-lg-6 col-sm-12">
 <a href="/vot2021/" class="challengebutton text-primary">

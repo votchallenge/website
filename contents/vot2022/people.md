@@ -29,7 +29,7 @@ submenu: People
 - [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/)
 - [Yushan Zhang](https://liu.se/medarbetare/yuszh17)
 - [Zhongqun Zhang](https://zhongqunzhang.github.io/) 
-- Song Yan (song.yan@tuni.fi)
+- [Song Yan](mailto:song.yan@tuni.fi)
 - [Wenyan Yang](https://www.dsii.fi/wenyanyang)
 - [Dingding Cai](https://scholar.google.com/citations?user=rDG33HAAAAAJ)
 - [Christoph Mayer](https://2006pmach.github.io/)

@@ -50,7 +50,7 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 ## Highlights and news
 
-<div class="panel panel-primary">
+<!--div class="panel panel-primary">
   <div class="panel-heading">
     <h3 class="panel-title">The VOT2022 workshop at ECCV2022</h3>
   </div>
@@ -58,7 +58,7 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
 
 The VOT2022 challenge results will be presented at ECCV2022 workshop on October, 24th 2022 in Grand Ballroom B, InterContinental David, Tel Aviv.
   </div>
-</div>
+</div-->
 
 
 <div class="panel panel-default">

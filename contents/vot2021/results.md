@@ -9,16 +9,16 @@ submenu: Results
 
 ## VOT-ST2021 and VOT-RT2021 Raw data
 
--   Sequence dataset - Sequences for the VOT2020 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
+-   Sequence dataset - Sequences for the VOT2021 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
 -   Raw results will be uploaded.
 
 ## VOT-LT2021 Raw data
 
--   Sequence dataset - Sequences for the VOT-LT2020 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
+-   Sequence dataset - Sequences for the VOT-LT2021 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
 -   Raw results will be uploaded.
 
 ## VOT-RGBD2021 Raw data
 
--   Sequence dataset - Sequences for the VOT-RGBD2020 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
+-   Sequence dataset - Sequences for the VOT-RGBD2021 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
 -   Raw results will be uploaded.
 

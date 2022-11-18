@@ -59,13 +59,13 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [SuperDiMP50 tracker with Alpha refine post-processing step (SuperDiMP-50_AR)](http://data.votchallenge.net/vot2020/trackers/DiMP-code-2020-05-03T15_36_21.815843.zip) - Appendix A.22
 
--   [Scale adaptive mean shift (ASMS)](https_//github.com/vojirt/asms) - Appendix A.23
+-   [Scale adaptive mean shift (ASMS)](https://github.com/vojirt/asms) - Appendix A.23
 
 -   [Discriminative Correlation Filter with Channel and Spatial Reliability (CSRDCF)] - Appendix A.24
 
 -   [Discriminative Sing-Shot Segmentation Tracker v2 (D3Sv2)] - Appendix A.25
 
--   [Kernelized Correlation Filter (KCF)](https_//github.com/vojirt/kcf) - Appendix A.26
+-   [Kernelized Correlation Filter (KCF)](https://github.com/vojirt/kcf) - Appendix A.26
 
 -   [Local-Global Tracking tracker (LGT)] - Appendix A.27
 

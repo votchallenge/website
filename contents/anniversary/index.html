@@ -106,8 +106,8 @@
               <span class="nav__title">Future</span> 
             </a>
           </li>
-
       </ul>
+      <a href="#" id="showabout">About</a>
     </nav>
 
     <section class="section section1" id="section0">
@@ -133,9 +133,9 @@
     <section class="section section1" id="section1">
         <h1>In the beginning there was a methodology ...</h1>
 
-        <p>The VOT initiative started from the apparent <b>lack of standardization</b> of evaluation in the field of <b>visual object tracking</b>. 
-            It started with a paper on <b>evaluation methodology</b> for visual object tracking that attracted attention of researchers at a local workshop (CVWW). 
-            The first challenge was presented at a workshop at the <b>International Conference on Computer Vision</b> (ICCV) in 2013, the conference was held in Sydney, Australia.</p>
+        <p>The VOT initiative was established to address the <b>absence of standard evaluation</b> for <b>visual object trackers</b>. 
+          The idea for the initiative was formed when a paper on <b>evaluation methodology</b> for visual object tracking was presented at a Computer Vision Winter Workshop CVWW2013. 
+          The first VOT challenge was carried out as part of the VOT2013 workshop held at the <b>International Conference on Computer Vision</b> (ICCV2013) in Sydney, Australia.</p>
         
         <div class="gallery">
             <img src="2013/1.jpg" alt="Matej Kristan is presenting the results" />
@@ -153,7 +153,7 @@
     <section class="section section2" id="section2">
         <h1>Rolling on and gaining momentum</h1>
 
-        <p>After the success of the first VOT challenge, it became clear that this may become a recurring event. The second VOT challenge refreshed the dataset with <b>additional sequences</b> and introduced the first attempt to improve limitations of axis-aligned bounding boxes by introducing <b>rotated bounding boxes</b>. The evaluation toolkit supported a new integration protocol called <b>TraX</b> that offered more flexible experimental setups and faster execution. The results of the challenge were presented at a workshop at the <b>European Conference in Computer Vision</b> (ECCV) in 2014 in Zurich, Switzerland.</p>
+        <p>Encouraged by the marked success of VOT2013, the challenge was evolved and repeated in the following year. The second VOT challenge refreshed the dataset with <b>additional sequences</b> and introduced the first attempt to improve limitations of axis-aligned bounding boxes by introducing <b>rotated bounding boxes</b>. The evaluation toolkit supported a new integration protocol called <b>TraX</b> that offered more flexible experimental setups and faster execution. The results of the challenge were presented at a workshop at the <b>European Conference in Computer Vision</b> (ECCV2014) in Zurich, Switzerland.</p>
         <div class="gallery">
             <img src="2014/1.jpg" alt="Results presentation" />
             <img src="2014/2.jpg" alt="Winner ceremony" />
@@ -161,13 +161,13 @@
             <img src="2014/4.jpg" alt="Working dinner after the workshop" />
         </div>
 
-        <p>The challenge received <b>36</b> submissions by <b>65 authors</b> from <b>ten countries</b>. In contrast to the first challenge, where no specific methodology was trending, the second challenge saw the raise of trackers based on <b>correlation filters</b>. These trackers were very fast and versatile. </p>
+        <p>The challenge received <b>36</b> submissions by <b>65 authors</b> from <b>ten countries</b>. In contrast to the first challenge, where no specific methodology was trending, the second challenge declared the raise of trackers based on <b>correlation filters</b>. These trackers were very fast and versatile. </p>
     </section> 
 
     <section class="section section3" id="section3">
         <h1>Deep learning meets visual tracking</h1>
 
-        <p>The third challenge introduced a <b>new evaluation measure</b> that combined the two aspects, benchmarked in previous challenges: <b>robustness</b> and <b>accuracy</b>. The toolkit was upgraded to support this new evaluation. The dataset was again refreshed, its size increased to <b>60 sequences</b>. A new sub-challenge based on <b>thermal imaging</b> was introduced to promote the specific nature of different data modalities. The results of the challenge were presented at a workshop at the <b>International Conference in Computer Vision</b> (ICCV) 2015 in Santiago, Chile.
+        <p>The third challenge introduced a <b>new evaluation measure</b> that combined the two aspects, benchmarked in previous challenges: <b>robustness</b> and <b>accuracy</b>. The toolkit was upgraded to support this new evaluation. The dataset was again refreshed and enlarged to <b>60 sequences</b>. A new sub-challenge addressing <b>thermal-image-based</b> tracking was introduced to promote the specific nature of different data modalities. The results of the challenge were presented at a workshop at the <b>International Conference in Computer Vision</b> (ICCV2015) in Santiago, Chile.
         </p>
 
         <div class="gallery">
@@ -177,14 +177,16 @@
           <img src="2015/4.jpg" alt="Organizers group photo" />
         </div>
 
-        <p>The challenge received <b>86</b> submissions by <b>155 authors</b> from <b>14 countries</b>. A large part of the submissions utilized correlation filters, but the winning tracker was already using <b>deep learning</b> detector methodology. This approach enabled more <b>robust detection</b> at the cost of much <b>slower</b> runtime.</p>
+        <p>The challenge received <b>86</b> submissions by <b>155 authors</b> from <b>14 countries</b>. A large part of the submissions utilized correlation filters, but the winning tracker was already using <b>deep learning</b> detector methodology. Compared to other trackers, this tracker was more <b>robust</b>, but at a cost of being much <b>slower</b>.</p>
     </section>
 
 
     <section class="section section4" id="section4">
         <h1>Consolidation and reannotation</h1>
 
-        <p>The fourth challenge was primarily used to <b>consolidate</b> the dataset for short-term RGB tracking. The dataset was <b>re-annotated</b> with a special procedure that involved <b>segmentation</b>. This then enabled more objective bounding box fitting. The thermal sub-challenge was also organized. The results of the challenge were presented at a workshop at the <b>European Conference in Computer Vision</b> (ECCV) in 2016 in Amsterdam, Netherlands.</p>
+        <p>The fourth challenge introduced a <b>new annotation procedure</b> for the short-term RGB tracking dataset. 
+          All targets were manually per-frame segmented. The <b>segmentation masks</b> enabled objective bounding box fitting, thus avoiding the human annotator bias. 
+          The thermal sub-challenge was also organized. The results of the challenge were presented at a workshop at the <b>European Conference in Computer Vision</b> (ECCV2016) in Amsterdam, Netherlands.</p>
 
         <div class="gallery">
           <img src="2016/1.jpg" alt="Workshop audience" />
@@ -193,13 +195,17 @@
           <img src="2016/4.jpg" alt="Organizers group photo" />
         </div>
 
-        <p>The challenge received <b>92</b> submissions by <b>169 authors</b> from <b>18 countries</b>. The primary methodologies remained <b>deep learning</b> and <b>correlation filters</b> that received performance boost by using more descriptive (deep) <b>features</b> to work with.</p>
+        <p>The challenge received <b>92</b> submissions by <b>169 authors</b> from <b>18 countries</b>. The primary methodologies remained <b>deep learning</b> and <b>correlation filters</b> 
+          that received performance boost by using more descriptive (deep) <b>features</b> to work with.</p>
     </section>
 
     <section class="section section5" id="section5">
         <h1>Measuring real-time</h1>
 
-        <p>Starting with the fifth VOT challenge the <b>TraX protocol</b> that was optional before became the only possible way of integrating trackers with the toolkit. This enabled a more realistic <b>real-time experiment</b> with frame drops. The dataset was again refreshed and a <b>sequestered dataset</b> was introduced for final winner identification to prevent overfitting of methods to the dataset. The results of the challenge were presented at a workshop at the <b>International Conference in Computer Vision</b> (ICCV) 2017 in Venice, Italy.</p>
+        <p>The fifth VOT challenge made the <b>TraX protocol</b> a central building block for integrating trackers with the toolkit. 
+          This enabled a more realistic <b>real-time experiment</b> with frame drops. 
+          The dataset was again refreshed and a <b>sequestered dataset</b> was introduced for winner identification to avoid public dataset overfitting issues. 
+          The results of the challenge were presented at a workshop at the <b>International Conference in Computer Vision</b> (ICCV2017) in Venice, Italy.</p>
 
         <div class="gallery">
           <img src="2017/1.jpg" alt="Matej Kristan and Jiri Matas are presenting the results" />
@@ -209,15 +215,19 @@
           <img src="2017/5.jpg" alt="Erhan and Aydin with their winner certificate" />
         </div>
 
-        <p>The challenge received <b>52</b> submissions by <b>123 authors</b> from <b>14 countries</b>. A more comprex integration as well as running only a single challenge resulted in a slight drop in submission number. 
-          On the other handled a proper real-time experiment highlited the performance benefits of ceratin methods, espectially <b>correlation</b> filters and <b>Siamese</b> deep models.
+        <p>The challenge received <b>52</b> submissions by <b>123 authors</b> from <b>14 countries</b>. 
+          A slight drop in the number of submissions was witnessed due to a more complex tracker integration and running a single challenge.
+          On the other hand, a proper real-time experiment highlited the performance benefits of ceratin methods, espectially <b>correlation</b> filters and <b>Siamese</b> deep models.
         </p>
     </section>
 
     <section class="section section6" id="section6">
       <h1>Evaluating long-term tracking</h1>
 
-      <p>The sixth challenge introduced a <b>long-term tracking</b> category that was again based on prior research work on evaluation methodology. In the case of long-term tracker re-detections are very important and this required some changes in the evaluation toolkit and a new dataset that contained many <b>occlusions</b> and <b>out-of-view</b> conditions. The results of the challenge were presented at a workshop at the <b>European Conference in Computer Vision</b> (ECCV) in 2018 in Munich, Germany.</p>
+      <p>The sixth challenge introduced a <b>long-term tracking</b> category that was again based on prior research work on evaluation methodology. 
+        The evaluation toolkit required substantial changes to address the long-term tracking specifics, such as re-detection. 
+        For the same reason, a dedicated dataset was constructed to contain many <b>occlusions</b> and targets <b>leaving the field of view</b>. 
+        The results of the challenge were presented at a workshop at the <b>European Conference in Computer Vision</b> (ECCV2018) in Munich, Germany.</p>
 
       <div class="gallery">
         <img src="2018/1.jpg" alt="Workshop audience listening to results announcement" />
@@ -226,14 +236,19 @@
         <img src="2018/4.jpg" alt="Conference dinner" />
       </div>
 
-       <p>The challenge received <b>87</b> submissions by <b>195 authors</b> from <b>16 countries</b>. In contrast to previous years, a wider use of <b>localization-trained</b> deep features and deep trackers based on <b>Siamese</b> architectures was observed in addition to <b>bounding box regression</b>. These architectures enabled <b>larger search windows</b> and could thus locate faster targets. In terms of long-term tracking, the use of <b>redetection</b> became apparent.
+       <p>The challenge received <b>87</b> submissions by <b>195 authors</b> from <b>16 countries</b>. 
+        In contrast to previous years, a wider use of <b>localization-trained</b> deep features and deep trackers based on <b>Siamese</b> architectures was observed in addition to 
+        <b>bounding box regression</b>. These architectures enabled <b>larger search windows</b> and could thus locate fast-moving targets. 
+        In long-term tracking, the benefits of robust <b>redetection</b> methods became apparent.
        </p>
       </section>
 
     <section class="section section7" id="section7">
       <h1>Going multi-modal</h1> 
         
-      <p>The seventh VOT challenge expanded the list of sub-challenges with <b>multi-modal</b> sequences. Two new sub-challenges were introduced next to the RGB short-term and long-term challenges that received dataset updates. The thermal sub-challenge that was suspended after two years was revived as <b>RGBT</b> sub-challenge and a <b>RGBD</b> sub-challenge was added to facilitate the increasing number of depth cameras. The toolkit and the TraX protocol were extended to support multi-channel sequence frames. The results of the challenge were presented at a workshop at the <b>International Conference in Computer Vision</b> (ICCV) 2019 in Seoul, South Korea.
+      <p>The seventh VOT challenge expanded the list of sub-challenges with <b>multi-modal</b> sequences. 
+        Two new sub-challenges were introduced in addition to the RGB short-term and long-term challenges that received dataset updates. 
+        The thermal sub-challenge that was paused for two years has resumed as <b>RGBT</b> sub-challenge and a <b>RGBD</b> sub-challenge was introduced to facilitate research in depth-based tracking. The toolkit and the TraX protocol were extended to support multi-channel sequence frames. The results of the challenge were presented at a workshop at the <b>International Conference in Computer Vision</b> (ICCV2019) in Seoul, South Korea.
       </p>
 
         <div class="gallery">
@@ -244,15 +259,19 @@
         </div>
 
         <p>
-          The challenge received <b>81</b> submissions by <b>219 authors</b> from <b>17 countries</b>. More methods used deep learning in some way, some also combined multiple <b>pre-trained models</b> to improve tracking. <b>Semantic segmentation</b> is used
-          to improve accuracy of top trackers making clear that the field of visual tracking is ready for more accurate and specific groundtruth.
+          The challenge received <b>81</b> submissions by <b>219 authors</b> from <b>17 countries</b>. 
+          Extensive use of <b>deep learning</b> was observed, some trackers combining <b>multiple</b> pre-trained models for improved performance.
+          <b>Semantic segmentation</b> was used by top trackers to improve their accuracy, making clear that the field of visual tracking was ready for more accurate groundtruth format.
         </p>
     </section>
 
     <section class="section section8" id="section8">
       <h1>Tracking with segmentation</h1>
 
-      <p>The eight challenge introduced a new type of annotation in the form of <b>segmentation masks</b>. The idea was to push forward the accuracy by enabling trackers to report very <b>detailed positions</b> of objects. This change required minor changes to the communication protocol. A <b>new evaluation toolkit</b> also replaced the previous one, it was implemented in Python> that became the dominant programming language in computer vision research. Similarly to the previous year, four sub-challenges were run, <b>short-term</b>, <b>long-term</b>, <b>RGBD</b>, and <b>RGBT</b>. The results of the challenge were presented at a virtual workshop at the <b>European Conference in Computer Vision</b> (ECCV) 2020.</p>
+      <p>The eight challenge introduced target position annotation by <b>segmentation masks</b>. 
+        The goal was to promote segmentation-based tracking and thus push towards development of <b>highly accurate</b> trackers. This required minor changes of the TraX communication protocol.
+        The <b>evaluation toolkit</b> was extended and re-written in <b>Python</b>, following the community-wide programming language shift.
+        Similarly to the previous year, four sub-challenges were run, <b>short-term</b>, <b>long-term</b>, <b>RGBD</b>, and <b>RGBT</b>. The results of the challenge were presented at a virtual workshop at the <b>European Conference in Computer Vision</b> (ECCV2020).</p>
 
       <div class="gallery">
         <img src="2020/1.jpg" alt="Results presentation" />
@@ -261,12 +280,19 @@
         <img src="2020/4.jpg" alt="Panel discussion" />
       </div>
 
-      <p>The challenge received <b>58</b> submissions by <b>131 authors</b> from <b>14 countries</b>. The shift towards segmentation in the main sub-challenge and the pandemic uncertainty have decreased the number of participants. Despite that, the submissions were interesting and while true segmentation trackers were not common, many methods were still adapted to the new scenario using specialized single-short segmentation heads that were appended to the main tracker architecture.</p>
+      <p>The challenge received <b>58</b> submissions by <b>131 authors</b> from <b>14 countries</b>.
+        Despite the main challenge shift towards segmentation-based tracking and the instability caused by the pandemic, the challenges were well attended. 
+        The submissions presented highly interesting solutions and while pure segmentation trackers were scarce, 
+        it became clear that performance can be improved by combining <b>bounding-box trackers</b> with post-hoc <b>target segmentation</b> and that deeper integration should be considered.
+      </p>
     </section>
 
     <section class="section section9" id="section9">
       <h1>The rise of transformers</h1>
-        <p>The ninth VOT challenge was again about <b>consolidation</b>. The core RGB short-term dataset was updated according to the established method of removing easy sequences and introducing sequences that <b>increased diversity</b>. The long-term and RGBD sub-challenges were also organized with no changes to their datasets while the RGBT sub-challenge was not. The results of the challenge were presented at a virtual workshop at the <b>International Conference in Computer Vision</b> (ICCV) 2021.</p>
+        <p>The ninth VOT challenge was again about <b>consolidation</b>. 
+          The core RGB short-term dataset was updated according to the established method of removing easy sequences and introducing sequences that <b>increased diversity</b>. 
+          The long-term and RGBD sub-challenges were also organized with no changes to their datasets while the RGBT sub-challenge was put on pause.
+          The results of the challenge were presented at a virtual workshop at the <b>International Conference in Computer Vision</b> (ICCV2021).</p>
 
         <div class="gallery">
           <img src="2021/1.jpg" alt="Results present" />
@@ -276,86 +302,120 @@
           <img src="2021/5.jpg" alt="Mateo and Christian with their winner certificate" />
         </div>
 
-        <p>The challenge received <b>71</b> submissions by <b>157 authors</b> from <b>15 countries</b>. From the methodological perspective many well performing trackers used attention blocks, popularized by <b>transformer architectures</b>. These methods handled large motions and appearance changes and were also fast enough to be used in real-time.
+        <p>The challenge received <b>71</b> submissions by <b>157 authors</b> from <b>15 countries</b>. 
+          From the methodological perspective many well performing trackers used attention blocks, popularized by <b>transformer architectures</b>. 
+          These methods handled large motions and appearance changes and were also fast enough to be used in real-time.
         </p>
     </section>
 
     <section class="section section10" id="section10">
       <h1>Towards the tracking multiverse</h1>
 
-      <p>The tenth VOT challenge introduced the <b>highest number of sub-challenges</b> since its beginning, the <b>short-term</b> challenge was evaluated on segmentation and aligned-bounding box trackers, both challenges also included <b>realtime</b> counterparts. The short-term dataset was refreshed with new sequences. The <b>RGBD</b> dataset was used for RGBD and Depth challenges, both now using short-term evaluation methodology. The <b>long-term</b> sub-challenge introduced an entirely <b>new dataset</b>. The results of the challenge were presented at a workshop at the <b>International Conference in Computer Vision</b> (ICCV) 2022 in Tel Aviv, Israel.</p>
+      <p>The tenth VOT challenge introduced the <b>highest number of sub-challenges</b> since its beginning, the <b>short-term</b> challenge was evaluated on segmentation and axis-aligned bounding box trackers, and both challenges also included <b>realtime</b> counterparts. The short-term dataset was refreshed with new sequences. The <b>RGBD</b> dataset was used for RGBD and Depth challenges, both now using short-term evaluation methodology. The <b>long-term</b> sub-challenge introduced an entirely <b>new dataset</b>. The challenge results were presented at a workshop at the <b>International Conference in Computer Vision</b> (ICCV2022) in Tel Aviv, Israel.</p>
 
       <div class="gallery">
         <img src="2022/1.jpg" alt="Matej Kristan is presenting the results" />
-        <img src="2022/2.jpg" alt="Matej Kristan is presenting the results" />
-        <img src="2022/3.jpg" alt="Matej Kristan is presenting the results" />
-        <img src="2022/4.jpg" alt="Matej Kristan is presenting the results" />
+        <img src="2022/2.jpg" alt="Team credits" />
+        <img src="2022/3.jpg" alt="Invited talk by Laura Leal-Taixe" />
+        <img src="2022/4.jpg" alt="Coffee break screensaver" />
+        <img src="2022/5.jpg" alt="APMT_MR team group photo" />
       </div>
 
-    <p>The challenge received <b>93</b> submissions by <b>180 authors</b> from <b>11 countries</b>. After two years of virtual workshops that have notably reduced interest in this kind of event, this year the workshop was a hybrid event. The interest in visual tracking has again been gaining momentum. At the same time the research in visual object tracking is increasingly <b>interacting</b> with other research fields like <b>detection</b> and <b>segmentation</b>. These kinds of interactions will likely shape the convergence of methods in the future.</p>
+    <p>The challenge received <b>93</b> submissions by <b>180 authors</b> from <b>11 countries</b>. After two years of virtual workshops, this year's edition was a hybrid event. The interest in visual tracking has again been gaining momentum. At the same time the research in visual object tracking is increasingly <b>interacting</b> with other research fields like <b>detection</b>, <b>segmentation</b>, and <b>reconstruction</b>. These kinds of interactions will likely shape the convergence of methods in the future.</p>
 
     </section>
 
 
     <section class="section section11" id="section11">
         <h1>Community testimonials</h1>
-        <p>In the span of a decade the VOT challenges impacted carreers of many researchers. We have reached to them to get some feedback. If you would like to add your own thoughts you can still contact us.</p>
+        <p>In the span of a decade the VOT challenges impacted carreers of many researchers. We have reached out and are happy to have received feedbacks. The call is still open. If you would like to contribute with your own thoughts, let us know and we'll add them to the list below.</p>
     
-        <div class="gallery testimonials">
-          <p>
+        <div class="testimonials">
+          <p class="testimony short">
+            <span class="author">Aleksandr Romanov, HSE University</span>
+
             Datasets, tutorials and source codes from the VOT Challenge portal are a great help for students in the course "Artificial Intelligence Systems" that I teach and projects. I even hold competitions among students and they try to improve the results of the winners of the VOT challenge.
             The VOT initiative team is amazing! Congratulations! I wish you great success! 
             
-            <span class="author">Aleksandr Romanov, HSE University</span>
+            
           </p>
 
-          <p>
+          <p class="testimony long">
+            <span class="author">Erhan Gondogdu, METU</span>
+
             We - my PhD advisor and myself - joined this great community and challenges from 2016 until 2018. VOT Challenge motivated us as researchers who are curious about visual tracking because it increases the visibility of innovative and working solutions, and provides a unique benchmarking platform that has continuously raised the bar on scientific evaluation and brought a novel perspective to evaluating short- and long-term tracking. Following the challenge every year helped us zoom out and understood what was needed to go beyond the boundaries of the state-of-the-art family of trackers. Moreover, being able to access data and tools that the VOT community provided was easy and handy to ablate approaches. Joining the challenge and becoming a winning team is a great experience that connected us with enthusiasts in the field. We are grateful to this meticulous organization for making our research more visible to a large extent.
 
-            <span class="author">Erhan and Aydin</span>
+            
 
           </p>
-          <p>
+          <p class="testimony long">
+            <span class="author">Matteo Dunnhofer, University of Udine</span>
+
             The VOT workshop had an important influence on shaping my PhD path, and consequently it showed me a model of how to conduct research in visual tracking. During the work towards my PhD thesis, my group and I targeted the VOT workshop as a major event to submit papers and discuss ideas. I had the privilege of presenting a paper at the workshop in each of the three years of my PhD. VOTs also hosted significant moments of my career, of which I attach two pictures: my first conference presentation of my very first first-author paper, happened at VOT2019; and my first research award, at the (unfortunately virtual) VOT2021. I am grateful to the organizers for giving me the opportunity of living such experiences. Our confidence in the event and in the expertise of the organizing committee was not just because of the VOT challenge’s popularity in computer vision, but also because we always received detailed and useful feedback from the reviewers and participants, even better than the one got from the main conference’s reviewers. 
 
           I wish you (at least) other 10 successful editions of the VOT challenge!
 
-          <span class="author">Matteo Dunnhofer, University of Udine</span>
+          
           </p>
-          <p>
+          <p class="testimony short">
+            <span class="author">Zongxin Yang, Zhejiang University</span>
+
             There is no doubt that the VOT Challenge has continued to push the field of tracking through thoughtful organizations over the past decade. In the 10th VOT Challenge in 2022, I am very excited to see that our AOT algorithm based on segmentation tracking achieves a robustness beyond the bounding-box tracking algorithms for the first time. I believe this breakthrough will promote another development in the tracking field.
 
-            <span class="author">Zongxin Yang</span>
+            
           </p>
-          <p>
+          <p class="testimony long">
+            <span class="author">Jack Valmadre, The University of Adelaide</span>
+
             Anyone who's tried to read and compare tracking papers from before 2013 will immediately appreciate the importance of the VOT challenge. The existence of a standard, representative benchmark has been critical in enabling the rapid, positive progress of the field. While it's important to remember that benchmarks are primarily a means for evaluating scientific hypotheses, it's undeniable that healthy competition has also helped drive the advancement of object tracking over the past decade. The people behind the challenge have been reliable, selfless and indefatigable over the years, not only organising the annual competition, workshop and report, but also working to continuously improve the challenge in response to the needs of the community. They must be congratulated and thanked for this mammoth effort that has benefited the field as a whole.
 
-            <span class="author">Jack Valmadre, The University of Adelaide</span>
+            
           </p>
+
+          <p class="testimony short">
+            <span class="author">Yinchao Ma, USTC</span>
+
+            Thanks to the VOT Challenge for building an excellent community of researchers interested in visual tracking.
+            The VOT Challenge is one of the most watched competitions in visual tracking.
+            Nowadays, visual tracking is increasingly essential in smart cities, autonomous driving, robotics, and more.
+            We believe that the VOT Challenge will attract more researchers in the future to help advance the AI era together.
+          </p>
+
+          <p class="testimony short">
+            <span class="author">Alan Lukežič, University of Ljubljana</span>
+
+            Since 2014, I've been an active member of the VOT community. At first, I participated as a challenge competitor, but later became a committee member as well. This allowed me to develop tracking algorithms alongside the evaluation methodology, which had a positive impact on both sides. By understanding how trackers function and recognizing their limitations, helped us to create a strong performance evaluation methodology. Additionally, insights gained from developing this methodology helped us improve our trackers and make them more robust. Despite investing a considerable amount of time, being part of the VOT family has been a pleasure. VOT accompanied me throughout the whole period of my PhD and contributed greatly for being a great success.
+          </p>
+
           </div>
     
-    
+
     </section>
 
     <section class="section section12" id="section12">
-        <h1>And now what?</h1>
+        <h1>The outlook</h1>
 
         <p>
-          In 2022 the VOT Initiative celebrated 10 years of continuous effort to push forward visual object tracking research. 
-          The organizing committee tried to listen to trends in the community as well as to shape the progress of the research. 
-          It is clear that it is now time for some major changes.
-
-          A decade is a long time in computer vision, as some questions are answered and new ones appear. Research directions that 
-          evolved independently for long time, suddenly start converging. 
-          It looks like something like this may happen to visual tracking and the broder field of motion understanding as well.
+          The community feedbacks and their participation played a crucial role in shaping the VOT activities, the datasets and the evaluation protocols. We are deeply grateful for their contributions. 
+          Standing 10 years after the VOT emergence, has tracking been solved? Well, a decade is a long time in computer vision - old questions are answered, new appear and various research fields have long since been converging, making amazing advancements. 
+          But tracking has not been solved in the 90s, when a paper with a cheeky abstract stated it might be, and it is not solved now. The goals have just become more ambitious. And this calls for a new evolutionary step in tracking challenges.
         </p>
     </section>
 
+  </section>
+
   </div>
 
+  <div id="about">
+    <h1>VOT 10 year anniversary exhibition</h1> 
+    <h2>2023, Luka Čehovin Zajc and VOT innitiative members</h2>
+    <p>Special thanks to Faculty of Computer and Information Science, University of Ljubljana for supporting VOT innitiative all these years and to ARNES for hosting VOT content including this page</p>
+  </div>
+
+
   <div id="modal" class="modal">
-    <img class="modal-content" id="image">
-    <div id="caption"></div>
+    <div class="content">
+    </div>
   </div>
 
 </body>
@@ -384,10 +444,24 @@ $("#modal").hide();
 $("#modal").click(function() { $("#modal").hide(); });
 
 $(".gallery img").click(function() {
-  $("#image").attr("src", $(this).attr("src"));
-  $("#caption").text($(this).attr("alt"));
+  var image = $("<img>").attr("src", $(this).attr("src"));
+  var caption = $("<div>").text($(this).attr("alt")).addClass("caption");
+  $("#modal > .content").empty().append(image).append(caption);
   $("#modal").show();
 });
+
+$(".testimonials p").click(function() {
+  $("#modal > .content").html($(this).clone());
+  $("#modal").show();
+});
+
+$("#showabout").click(function() {
+  $("#modal > .content").html($("#about").clone());
+  $("#modal").show();
+});
+
+
+
 /*
   .each(function (index, elem) {
   var title = elem.attr("alt");

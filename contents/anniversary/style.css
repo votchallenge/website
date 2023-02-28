@@ -288,18 +288,23 @@ body {
     display: none;
   }
 
-  #showabout {
-    opacity: 0.2;
-    font-size: 2em;
-    color: white;
+  #tools {
     display: block;
     text-align: center;
     position: fixed;
-    left: 80px;
+    left: 20px;
     bottom: 20px;
+    width: 150px;
   }
 
-  #showabout:hover {
+  #tools a {
+    opacity: 0.2;
+    font-size: 2em;
+    color: white;
+    margin-right: 10px;
+  }
+
+  #tools a:hover {
     opacity: 1;
     text-decoration: none;
   }

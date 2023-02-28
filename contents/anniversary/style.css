@@ -281,6 +281,7 @@ body {
 
   #about h1, #about h2 {
     margin-bottom: 1em;
+    
   }
 
   body > #about {
@@ -288,13 +289,18 @@ body {
   }
 
   #showabout {
-    color: lightgray;
+    opacity: 0.2;
+    font-size: 2em;
+    color: white;
     display: block;
     text-align: center;
+    position: fixed;
+    left: 80px;
+    bottom: 20px;
   }
 
   #showabout:hover {
-    font-weight: bold;
+    opacity: 1;
     text-decoration: none;
   }
 
@@ -302,7 +308,7 @@ body {
       0%  { opacity: 1;   }
       90% { opacity: 0.3; }
   }
-  
+
   @media (max-width: 1400px) {
     section {
       font-size: 20px;

@@ -10,7 +10,7 @@
   <meta name="robots" content="noindex">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700">
 
 <link rel="stylesheet" href="./style.css">
@@ -107,7 +107,7 @@
             </a>
           </li>
       </ul>
-      <a href="#" id="showabout">About</a>
+      <a href="#" id="showabout"><i class="bi bi-info-circle-fill"></i></a>
     </nav>
 
     <section class="section section1" id="section0">
@@ -409,7 +409,7 @@
   <div id="about">
     <h1>VOT 10 year anniversary exhibition</h1> 
     <h2>2023, Luka Čehovin Zajc and VOT innitiative members</h2>
-    <p>Special thanks to Faculty of Computer and Information Science, University of Ljubljana for supporting VOT innitiative all these years and to ARNES for hosting VOT content including this page</p>
+    <p>Special thanks to Faculty of Computer and Information Science, University of Ljubljana for supporting VOT innitiative all these years and to Academic and Research Network of Slovenia (ARNES) for hosting VOT content including this page.</p>
   </div>
 
 
@@ -441,23 +441,25 @@ $('a[href*=#]:not([href=#])').click(function() {
 
 $("#modal").hide();
 
-$("#modal").click(function() { $("#modal").hide(); });
+$("#modal").click(function() { $("#modal").fadeOut(200); });
 
 $(".gallery img").click(function() {
   var image = $("<img>").attr("src", $(this).attr("src"));
   var caption = $("<div>").text($(this).attr("alt")).addClass("caption");
   $("#modal > .content").empty().append(image).append(caption);
-  $("#modal").show();
+  $("#modal").fadeIn(1000);
 });
 
 $(".testimonials p").click(function() {
   $("#modal > .content").html($(this).clone());
-  $("#modal").show();
+  $("#modal").fadeIn(1000);
+  return false;
 });
 
 $("#showabout").click(function() {
   $("#modal > .content").html($("#about").clone());
-  $("#modal").show();
+  $("#modal").fadeIn(1000);
+  return false;
 });
 
 

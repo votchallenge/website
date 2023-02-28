@@ -27,24 +27,8 @@ These tutorials cover various topics on how to use VOT toolkit in your experimen
 
 # Documentation
 
-- [Toolkit documentation (Matlab version)](http://docs.votchallenge.net/)
 - [TraX protocol documentation](http://trax.readthedocs.io/)
 
 # Support forum
 
 If you did not find the information that you were looking for in the FAQ, documentation, or tutorials, you can <a href="https://groups.google.com/forum/?hl=en#!forum/votchallenge-help"> contact us on the support forum</a>.
-
-<iframe id="forum_embed" src="javascript:void(0)" scrolling="no" frameborder="0" height="600">
-</iframe>
-<script type="text/javascript">
-var a = document.getElementById("forum_embed");
-var uri = encodeURIComponent(window.location.href);
-a.src = "https:" + "//groups.google.com/forum/embed/?place=forum/votchallenge-help\u0026parenturl=" + uri;
-function resize_handle() {
-var a = $("#forum_embed");
-a.attr('width', a.parent().width() + 'px');
-}
-$(window).resize(resize_handle);
-resize_handle();
-</script>
-

@@ -19,21 +19,42 @@ The goal of the challenges is to build up a repository of considerable benchmark
 </div>
 
 <div class="col-lg-4 col-sm-12">
+<a href="/anniversary/" class="hugebutton text-primary" style="background: radial-gradient(circle, rgba(0,124,167,1) 0%, rgba(28,197,255,1) 100%); color: white; text-align: center; font-size: 1em; padding: 30px; vertical-align: middle;">
+  <img src="/anniversary/logo.png" height="80px" style="margin-bottom: 10px;"/>
+  <p>To commemorate 10 years of VOT challenges, the VOT Innitiative has set up a short online exhibition.</p>
+</a>
+</div>
+
+<div class="col-lg-4 col-sm-12">
 <a href="/howto/" class="hugebutton text-primary">
 <h3><i class="glyphicon glyphicon-book"></i> Support</h3>
 A collection of documentation and tutorials on various topics.
 </a>
 </div>
 
-<div class="col-lg-4 col-sm-12">
+<!--div class="col-lg-4 col-sm-12">
 <div  class="hugebutton text-muted">
 <h3><i class="glyphicon glyphicon-cloud"></i> Database</h3>
 <p>An online repository of sequences and results.</p>
 <p class="text-warning"><i class="glyphicon glyphicon-wrench"></i> The database is currently under construction.</p>
 </div>
-</div>
+</div-->
 
 </div>
+
+
+
+
+<!--div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">The VOT2022 workshop at ECCV2022</h3>
+  </div>
+  <div class="panel-body">
+
+The VOT2022 challenge results will be presented at ECCV2022 workshop on October, 24th 2022 in Grand Ballroom B, InterContinental David, Tel Aviv.
+  </div>
+</div-->
+
 
 ## Citing VOT Challenge
 
@@ -47,40 +68,6 @@ When using any of VOT benchmarks in your paper, please cite the VOT journal pape
     doi={10.1109/TPAMI.2016.2516982}, ISSN={0162-8828}
 }</div>
 
-
-## Highlights and news
-
-<!--div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">The VOT2022 workshop at ECCV2022</h3>
-  </div>
-  <div class="panel-body">
-
-The VOT2022 challenge results will be presented at ECCV2022 workshop on October, 24th 2022 in Grand Ballroom B, InterContinental David, Tel Aviv.
-  </div>
-</div-->
-
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">The VideoNet initiative</h3>
-  </div>
-  <div class="panel-body">
-
-  VideoNet is a new initiative to bring together the community of researchers that have put effort into creating benchmarks for video tasks.  The goal of the VideoNet is to exchange ideas on how to improve annotations, evaluation measures, and learn from each other's experiences. More information available at the [official page](http://videonet.team/).
-  </div>
-</div>
-
-
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">VOT paper was accepted at Transactions on Pattern Analysis and Machine Intelligence</h3>
-  </div>
-  <div class="panel-body">
-
-  We are happy to announce that the VOT (2013-2014) methodology paper has been accepted to Transactions on Pattern   Analysis and Machine Intelligence (TPAMI). The paper can be accessed from the [VOT publications page link](http://www.votchallenge.net/publications.html). For future reference, if you use any of the VOT datasets in your evaluation, please cite this paper as  methodology reference as well as the relevant VOT workshop paper for the dataset.
-  </div>
-</div>
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>

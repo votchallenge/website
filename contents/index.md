@@ -43,17 +43,21 @@ A collection of documentation and tutorials on various topics.
 </div>
 
 
+## News
 
-
-<!--div class="panel panel-primary">
+<div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">The VOT2022 workshop at ECCV2022</h3>
+    <h3 class="panel-title">Announcing VOTS2023!</h3>
   </div>
   <div class="panel-body">
+After the 10th anniversary, we feel the community is ready for convergence of tracking subfields that the previous VOT editions kept apart to ensure focused advancements. Thus major changes are planned. 
+<br/><br/>
+The new VOT challenge will contain a single (currently dubbed VOTS) challenge. This challenge will involve RGB tracking by segmentation of several targets in the video and the targets may disappear for long periods of time and return into the scene. New performance measures and the new dataset that will test your short/long-term segmentation-based multi-target trackers are being created.
+<br/><br/>
 
-The VOT2022 challenge results will be presented at ECCV2022 workshop on October, 24th 2022 in Grand Ballroom B, InterContinental David, Tel Aviv.
+According to our current timeline the challegne will open on May 4th and close on June 8th. More details will be available soon.
   </div>
-</div-->
+</div>
 
 
 ## Citing VOT Challenge

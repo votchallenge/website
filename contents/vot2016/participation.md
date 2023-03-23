@@ -10,7 +10,7 @@ A prerequisite for participating either VOT2016 challenge or VOT-TIR2016 challen
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i></div><h4>Important</h4>
-Please, subscribe to our [mailing list](https://service.ait.ac.at/mailman/listinfo/votchallenge) so that you receive recent news about the workshop and the challenge details.
+Please, subscribe to our [mailing list](https://liste.arnes.si/mailman3/lists/votchallenge.lists.arnes.si/) so that you receive recent news about the workshop and the challenge details.
 </div>
 
 <br>

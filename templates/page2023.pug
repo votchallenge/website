@@ -1,0 +1,34 @@
+extends page
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append head
+    title VOTS2023 Challenge |
+        = submenu
+
+block submenu
+    -var menu_items = { 'Home': '/vots2023/index.html', 'Program': '/vots2023/program.html', 'People': '/vots2023/people.html' };
+    .navbar.navbar-default.navbar-static-top(role='navigation')
+        .container
+            .navbar-header
+                a(class='navbar-brand' href='/vots2023/') VOTS2023
+            ul(class='nav navbar-nav nav-collapse')
+                each val, key in menu_items
+                    if submenu == key
+                        li.active
+                            a(href=val)= key
+                    else
+                        li
+                            a(href=val)= key
+            div(class='navbar-text navbar-right')
+              a(class='navbar-conjunction' href='https://iccv2023.thecvf.com/') ICCV2023, Pariz, France 
+
+    .clearer

@@ -52,10 +52,12 @@ A collection of documentation and tutorials on various topics.
   <div class="panel-body">
 After the 10th anniversary, we feel the community is ready for convergence of tracking subfields that the previous VOT editions kept apart to ensure focused advancements. Thus major changes are planned. 
 <br/><br/>
-The new VOT challenge will contain a single (currently dubbed VOTS) challenge. This challenge will involve RGB tracking by segmentation of several targets in the video and the targets may disappear for long periods of time and return into the scene. New performance measures and the new dataset that will test your short/long-term segmentation-based multi-target trackers are being created.
+The new VOT challenge will contain a single (currently dubbed VOTS) challenge. 
+This challenge will involve RGB tracking by segmentation of several targets in the video and the targets may disappear for long periods of time and return into the scene. 
+New performance measures and the new dataset that will test your short/long-term segmentation-based multi-target trackers are being created.
 <br/><br/>
 
-According to our current timeline the challegne will open on May 4th and close on June 8th. More details will be available soon.
+According to our current timeline the challegne will open on May 4th and close on June 8th. More details will be available [here](/vots2023/).
   </div>
 </div>
 

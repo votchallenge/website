@@ -275,3 +275,7 @@ ul.publications.embedded li .published {
 
 }
 
+.container img {
+    max-width: 100%;
+}
+

@@ -30,5 +30,3 @@ Tracking has matured to a point where the constraints enforced in past VOT chall
 More details coming soon. Subscribe to the new VOT mailing list by [sending an empty email](mailto:votchallange-join@lists.arnes.si).
 </div>
 
-
-

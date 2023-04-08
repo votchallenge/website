@@ -9,9 +9,10 @@ title: Challenges
 <div class="row">
 <div class="col-lg-6 col-sm-12">
 <a href="/vots2023/" class="challengebutton text-primary">
+<img class="logo" src="/img/vot_upcoming.png" alt="VOTS2023" />
 <h3>VOTS2023 challenge</h3>
 <p class="description">The VOTS2023 challenge unifies single/multiple-target, short/long-term tracking and segmentation. 
-A single challenge requires tracking one or more targets simultaneously by segmentation over long or short sequences, while the targets may disappear during tracking and reappear later in the video. Results were presented at the ICCV2023 VOTS workshop.</p>
+A single challenge requires tracking one or more targets simultaneously by segmentation over long or short sequences. Results were presented at the ICCV2023 VOTS workshop.</p>
 </a>
 </div>
 </div>

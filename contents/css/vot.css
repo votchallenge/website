@@ -17,6 +17,11 @@ a.navbar-brand img {
     margin-bottom: 0px;
 }
 
+#submenu .navbar-right {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 body {
     min-width: 350px;
 }
@@ -42,13 +47,26 @@ body {
     background-color: #2A6496;
 }
 
-a.navbar-github {
-    font-size: 32px;
+#icons a {
+    font-size: 3em;
     color: #cccccc;
+    margin-left: 20px;
 }
 
-a.navbar-github:hover {
+#icons a:first {
+    margin-left: 0;
+}
+
+#icons a:hover {
     color: #428BCA;
+}
+
+#icons {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    right: 30px;
+    top: 20px;
 }
 
 footer {
@@ -153,11 +171,6 @@ a.hugebutton:hover {
     float: left !important;
     margin-right: 10px;
     margin-bottom: 10px;
-}
-
-#icons {
-    line-height: 20px;
-    padding: 13px;
 }
 
 .supporters {

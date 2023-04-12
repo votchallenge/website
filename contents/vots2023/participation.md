@@ -19,7 +19,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 ![Participation steps](participation_steps.png)
 
 ### Additional clarifications
-
+ 
  - The short tracker description should contain a concise description (LaTeX format) for the VOT results paper appendix (see examples in Appendix of a VOT results papers). The longer description will be used by the VOTS TC for result interpretation. Write the descriptions in advance to speed up the submission process.
  - Results for a single registered tracker may be submitted to the evaluation server at most 10 times. In response to submissions >10, an email  with Subject “Maximum number of VOTS submissions reached” will be sent to avoid confusion about the situation. Registering a slightly modified tracker to increase the number of server evaluations is prohibited. The VOTS committee reserves the discretion to disqualify trackers that violate this constraint. If in doubt whether a modification is “slight”, contact the VOTS committee.
  - When  coauthoring multiple submissions with similar design, the longer description should refer to the other submissions and clearly expose the differences. If in doubt whether a change is sufficient enough, contact the organisers. 

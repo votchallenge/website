@@ -27,6 +27,6 @@ Tracking has matured to a point where the constraints enforced in past VOT chall
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>
 <h4>Do you want to stay informed?</h4>
 
-More details coming soon. Subscribe to the new VOT mailing list by [sending an empty email](mailto:votchallange-join@lists.arnes.si).
+More details coming soon. Subscribe to the new VOT mailing list by [sending an empty email](mailto:votchallange-join@lists.arnes.si) or follow us on [Twitter](https://twitter.com/votchallenge).
 </div>
 

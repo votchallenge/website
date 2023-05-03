@@ -26,6 +26,16 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
  - Authors are encouraged to submit their own previously published or unpublished trackers.
  - Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.
 
+### Tracker registration checklist (prepare in advance)
+
+- Tracker long name
+- Tracker short name
+- Authors, affiliations + emails
+- Short tracker description for the results paper appendix. See examples in the VOT2022 results paper. (~800 characters with spaces when compiled, which is ~1500 characters of LaTeX text without bibtex file)
+- Long tracker description (should detail the main ideas)
+- Bibtex file for the long and short tracker description
+- A link to the tracker code placed in a persistent depository (Github, dropbox, Gdrive,...). If the link is not yet publicly accessible, provide a password. Note that to become a co-author of the results paper, the tracker has to be publicly accessible by the VOTS2023 workshop.
+
 ## FAQ
 
   - **Does the number of targets change during tracking?**

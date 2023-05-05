@@ -11,7 +11,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
 ## Participation steps
 
- - Follow the guidelines to integrate your tracker with the new VOTS toolkit and run the experiment (link TBA).
+ - Follow the guidelines to integrate your tracker with the new [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
  - Register your tracker on the evaluation server page (link TBA), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description (see explanations below).
  - Submit the output produced by the toolkit to the evaluation server (link TBA).
  - Receive performance scores via email. 
@@ -68,7 +68,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>
 <h4>More questions?</h4>
 
-Questions regarding the VOTS2023 challenge should be directed to the VOTS2023 committee. If you have general technical questions regarding the VOTS toolkit, consult the FAQ page and the VOT support forum first.
+Questions regarding the VOTS2023 challenge should be directed to the VOTS2023 committee. If you have general technical questions regarding the VOT toolkit, consult the FAQ page and the VOT support forum first.
 </div>
 
 

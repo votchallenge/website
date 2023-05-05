@@ -10,7 +10,7 @@ title: Support
 These tutorials cover various topics on how to use VOT toolkit in your experiments:
 
 - [Toolkit overview](overview.html) - **NEW**
-- [Tracker integration (multi-object support)](integration_multiobject.html) - **NEW**
+- [Tracker integration (multi-object support - VOTS tracker integration)](integration_multiobject.html) - **NEW**
 - [Tracker integration (single-object)](integration.html)
 - [Tracker integration (multi-channel support)](integration_channels.html)
 - [Visualize tracker outputs and results](visualization.html) - **NEW**

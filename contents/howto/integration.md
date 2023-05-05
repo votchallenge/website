@@ -6,12 +6,6 @@ title: Integrating tracker
 
 # Integrating tracker into the VOT toolkit
 
-<div class="alert alert-info" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-info-sign hugeicon"></i> </div>
-<h4>Integration instructions for new sub-challenges available</h4>
-Next year we intend to organize additional challenges that are based on multi-channel sequences. If you want to help us test support for multi-channel sequences and some other improvements to the toolkit, you can check the [updated integration guide](integration_channels.html). In the future that guide will replace the current default one.
-</div>
-
 
 This tutorial assumes that you already have the toolkit on your computer, that you have [set up](workspace.html) the workspace correctly. After this the setup script has generated a template file for your tracker configuration that has to be manually edited. Open the tracker configuration file `vot-workspace/tracker_{{name}}.m`, where `{{name}}` is the unique identifier of your tracker:
 - Remove line: `error('Tracker not configured!');`
@@ -211,4 +205,3 @@ While we cannot enforce these guidelines in the current toolkit, the adherence o
 
 You can find more detailed information about the toolkit and how to set it up in the [toolkit documentation](http://docs.votchallenge.net). If the problem still cannot be resolved with the documentation, look at the [Frequently Asked Questions](/howto/faq.html) or <a href="https://groups.google.com/forum/?hl=en#!forum/votchallenge-help"> contact us on the support forum</a>.
 </div>
-

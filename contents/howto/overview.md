@@ -16,29 +16,11 @@ Alternatively, you can download just the sources from the [VOT toolkit GitHub re
 
 Then create an empty directory that will be used to perform your experiments. We will call this directory `workspace`. It is highly recommended to use some environment management tool, e.g., Anaconda or venv.
 
-1. In the terminal run a command to create workspace:
-    ```bash
-    vot initialize <stack-name> --workspace <workspace-path>
-    ```
-    Make sure that `<stack-name>` is a valid stack from directory vot/stack, e.g., use `vots2023` if you want to use vots2023.yaml stack denoting the VOTS 2023 Challenge setup. `<workspace-path>` is the full path to the `workspace directory`. You can get the list of included dataset stacks using `vot initialize`.
-
-2. Put a tracker description in the `trackers.ini` file, located in the `workspace` directory. See section `Tracker integration` below, which explains how to create a tracker description. The following programming languages are supported: Python, Matlab and C/C++.
-    ```bash
-    vot initialize <stack-name> --workspace <workspace-path>
-    ```
-3. You can test the integration of the tracker on a synthetic sequence using the following command (assuming that you are in the same folder than `trackers.ini`):
-    ```bash
-    vot test <tracker-name>
-    ```
-    You can also visualize results for a single sequence:
-    ```bash
-    vot test -g <tracker-name>
-    ```
-4. Assuming that you have created a tracker named `<tracker-name>`, it can be run using the following command:
-    ```bash
-    vot evaluate --workspace <workspace-path> <tracker-name>
-    ```
-    The command will automatically download the dataset and perform experiments described in the stack file.
+In the terminal run a command to create workspace:
+```bash
+vot initialize <stack-name> --workspace <workspace-path>
+```
+Make sure that `<stack-name>` is a valid stack from directory vot/stack, e.g., use `vots2023` if you want to use vots2023.yaml stack denoting the VOTS 2023 Challenge setup. `<workspace-path>` is the full path to the `workspace directory`. You can get the list of included dataset stacks using `vot initialize` (without the stack name).
 
 ## Tracker integration
 
@@ -62,6 +44,14 @@ paths = <path-to-tracker-source-directory>
 # Additional environment paths
 env_PATH = <additional-env-paths>;${PATH}
 ```
+
+You can test the integration of the tracker on a synthetic sequence using the following command (assuming that you are in the same folder than `trackers.ini`):
+    ```bash
+    vot test <tracker-name>
+    ```
+    You can also visualize results for a single sequence:
+    ```bash
+    vot test -g <tracker-name>
 
 ## Perform experiments
 

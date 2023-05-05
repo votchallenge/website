@@ -7,6 +7,8 @@ submenu: Home
 
 Tracking has matured to a point where the constraints enforced in past VOT challenges can be relaxed and general object tracking should be considered in a broader context. The new Visual Object Tracking and Segmentation challenge VOTS2023 thus no longer distincts between single- and multi-target tracking nor between short- and long-term tracking. We propose a single challenge that requires tracking one or more targets simultaneously by segmentation over long or short sequences, while the targets may disappear during tracking and reappear later in the video.
 
+<img class="logo float-right frame" src="../img/vots2023_logo_website_large.png" alt="VOTS2023"  />
+
 ## What's new
 
 * A single challenge unifies single/multi-target short/long-term segmentation tracking tasks.

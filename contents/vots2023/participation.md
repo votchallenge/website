@@ -11,12 +11,19 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
 ## Participation steps
 
- - Follow the guidelines to integrate your tracker with the new [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
+ - Follow the guidelines to integrate your tracker with the [new VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
  - Register your tracker on the evaluation server page (link TBA), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description (see explanations below).
  - Submit the output produced by the toolkit to the evaluation server (link TBA).
  - Receive performance scores via email. 
 
 ![Participation steps](participation_steps.png)
+
+## VOTS Datasets
+
+ - The VOTS *development dataset* is composed of 4 sequences with each frame accompanied by a ground truth. This dataset is meant only for development purposes, i.e., to test your tracker integration, you can also test performance evaluation, but the scores are NOT official and have no significance due to small sequence count. To run your tracker on this dataset, create the workspace using command `vot initialize tests/multiobject` and follow the remaining of the instructions in the [toolkit overview tutorial](/howto/overview.html).
+
+ - The *VOT2023 dataset* is composed of 144 sequences with ground truth only available at initialization frames. This dataset is used for the VOTS2023 challenge. Run your tracker on this dataset by creating a workspace using `vot initialize vots2023`. in the toolkit and submit the output masks to the VOTS2023 evaluation server. Since the dataset does not contain groundtruth for the entire sequence, performance evaluation is impossible.
+
 
 ### Additional clarifications
  
@@ -41,12 +48,15 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
   - **Does the number of targets change during tracking?**
 
     All targets in the sequence are specified in the first frame. During tracking, some targets may disappear and possibly reappear later. The number of targets is different from sequence to sequence.
+
   - **Can I participate with a single-target tracker?**
 
     Sure, with a slight adjustment. You will write a wrapper that creates several independent tracker instances, each tracking one of the targets. To the toolkit, your tracker will be a multi-target tracker, while internally, you’re running independent trackers. See the example here.
+
   - **Can I participate with a bounding box tracker?**
 
     Sure, with a slight extension. In previous VOT challenges we showed that box trackers achieve very good performance on segmentation tasks by running a general segmentation on top of a bounding box. So you can simply run AlphaRef (or a similar box refinement module like SAM) on the top of your estimated bounding box to create the per-target segmentation mask. Running a vanilla bounding box tracker is possible, but its accuracy will be low (robustness might still be high).
+
   - **Which datasets can I use for training?**
 
     Validation and test splits of popular tracking datasets are NOT allowed for training the model. These include: OTB, VOT, ALOV, UAV123, NUSPRO, TempleColor, AVisT, LaSOT-val, GOT10k-val, GOT10k-test, TrackingNet-val/test, TOTB.

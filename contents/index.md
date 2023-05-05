@@ -47,17 +47,25 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Announcing VOTS2023!</h3>
+    <h3 class="panel-title">VOTS2023 Challenge is open</h3>
   </div>
   <div class="panel-body">
-After the 10th anniversary, we feel the community is ready for convergence of tracking subfields that the previous VOT editions kept apart to ensure focused advancements. Thus major changes are planned. 
-<br/><br/>
-The new VOT challenge will contain a single (currently dubbed VOTS) challenge. 
-This challenge will involve RGB tracking by segmentation of several targets in the video and the targets may disappear for long periods of time and return into the scene. 
-New performance measures and the new dataset that will test your short/long-term segmentation-based multi-target trackers are being created.
-<br/><br/>
 
-According to our current timeline the challegne will open on May 4th and close on June 8th. More details will be available [here](/vots2023/).
+The VOTS2023 toolkit and development dataset have been released. You can integrate your single/multiple-target tracker and test the integration with the VOTS development dataset [following the tutorial](/howto/integration_multiobject.html). Details of the problem statement and FAQ on applying different tracker types [here](/vots2023/participation.html).
+
+The final VOTS2023 evaluation dataset & server will be released a week later. Stay informed by following us on [Twitter](https://twitter.com/votchallenge).
+
+**Important dates**
+
+ * Challenge open: May 4th 2023
+ * Results Submission: June 12th 2023
+ * Workshop: October 2nd/3rd (TBD) 2023
+
+**Contacts**
+
+ * Twitter: https://twitter.com/votchallenge
+ * Homepage: https://www.votchallenge.net/vots2023/
+ * Mailing list: subscribe by [sending an empty email](mailto:votchallange-join@lists.arnes.si).
   </div>
 </div>
 

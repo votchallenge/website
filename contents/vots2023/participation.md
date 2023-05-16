@@ -32,6 +32,8 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
  - When  coauthoring multiple submissions with similar design, the longer description should refer to the other submissions and clearly expose the differences. If in doubt whether a change is sufficient enough, contact the organisers. 
  - Authors are encouraged to submit their own previously published or unpublished trackers.
  - Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.
+ - The VOTS2023 winner is required to publicly release the pretained tracker and the source code. In case private training sets are used, the authors are strongly encouraged to make the publicly available to foster results reproducibility.
+
 
 ### Tracker registration checklist (prepare in advance)
 
@@ -60,7 +62,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
   - **Which datasets can I use for training?**
 
     Validation and test splits of popular tracking datasets are NOT allowed for training the model. These include: OTB, VOT, ALOV, UAV123, NUSPRO, TempleColor, AVisT, LaSOT-val, GOT10k-val, GOT10k-test, TrackingNet-val/test, TOTB.
-    Other than above, training splits of any dataset is allowed (including LaSOT-train, TrackingNet-train, YouTubeVOS, COCO, etc.). For including the transparent objects, it is allowed to use the Trans2k dataset.
+    Other than above, training splits of any dataset is allowed (including LaSOT-train, TrackingNet-train, YouTubeVOS, COCO, etc.). For including the transparent objects, it is allowed to use the Trans2k dataset. In case private training sets are used, we strongly encourage making them publicly available for results reproduction. 
 
   - **Which performance measures are you using?**
 

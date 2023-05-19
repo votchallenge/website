@@ -13,7 +13,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
  - Follow the guidelines to integrate your tracker with the [new VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
  - Register your tracker on the [registration page](https://forms.gle/TdnCBuHWN2B5Yagz5), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description (see explanations below).
- - Once registered, submit the output produced by the toolkit ([see toolkit tutorial](https://www.votchallenge.net/howto/overview.html)) to the [evaluation server](https://eu.aihub.ml/competitions/25).
+ - Once registered, submit the output produced by the toolkit ([see toolkit tutorial](https://www.votchallenge.net/howto/overview.html)) to the [evaluation server](https://eu.aihub.ml/competitions/191).
  - Receive performance scores via email. 
 
 ![Participation steps](participation_steps.png)

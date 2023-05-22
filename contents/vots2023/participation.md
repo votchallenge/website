@@ -22,7 +22,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
  - The VOTS *development dataset* is composed of 4 sequences with each frame accompanied by a ground truth. This dataset is meant only for development purposes, i.e., to test your tracker integration, you can also test performance evaluation, but the scores are NOT official and have no significance due to small sequence count. To run your tracker on this dataset, create the workspace using command `vot initialize tests/multiobject` and follow the remaining of the instructions in the [toolkit overview tutorial](/howto/overview.html).
 
- - The *VOT2023 dataset* is composed of 144 sequences with ground truth only available at initialization frames. This dataset is used for the VOTS2023 challenge. Run your tracker on this dataset by creating a workspace using `vot initialize vots2023`. in the toolkit and submit the output masks to the VOTS2023 evaluation server. Since the dataset does not contain groundtruth for the entire sequence, performance evaluation is impossible.
+ - The *VOT2023 competiton dataset* is composed of 144 sequences with ground truth only available at initialization frames. This dataset is used for tracker evaluation. Run your tracker on this dataset by creating a workspace using `vot initialize vots2023` in the toolkit and submit the output masks to the VOTS2023 evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
 
 
 ### Additional clarifications
@@ -43,7 +43,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 - Short tracker description for the results paper appendix. See examples in the [VOT2022 results paper](https://prints.vicos.si/publications/files/416). (~800 characters with spaces when compiled, which is ~1500 characters of LaTeX text without bibtex file)
 - Long tracker description (should detail the main ideas)
 - Bibtex file for the long and short tracker description
-- A link to the tracker code placed in a persistent depository (Github, dropbox, Gdrive,...). If the link is not yet publicly accessible, provide a password. Note that to become a co-author of the results paper, the tracker has to be publicly accessible by the VOTS2023 workshop.
+- A link to the tracker code placed in a persistent depository (Github, dropbox, Gdrive,...). If the link is not yet publicly accessible, provide a password. Note that to become a co-author of the results paper, the tracker has to be publicly accessible by the VOTS2023 workshop date.
 
 ## FAQ
 
@@ -53,7 +53,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
   - **Can I participate with a single-target tracker?**
 
-    Sure, with a slight adjustment. You will write a wrapper that creates several independent tracker instances, each tracking one of the targets. To the toolkit, your tracker will be a multi-target tracker, while internally, you’re running independent trackers. See the example here.
+    Sure, with a slight adjustment. You will write a wrapper that creates several independent tracker instances, each tracking one of the targets. To the toolkit, your tracker will be a multi-target tracker, while internally, you’re running independent trackers. See the example [here](https://github.com/votchallenge/integration/blob/master/python/python_ncc.py). 
 
   - **Can I participate with a bounding box tracker?**
 

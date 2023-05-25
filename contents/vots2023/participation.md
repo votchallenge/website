@@ -13,7 +13,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
  - Follow the guidelines to integrate your tracker with the [new VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
  - Register your tracker on the [registration page](https://forms.gle/TdnCBuHWN2B5Yagz5), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description (see explanations below).
- - Once registered, submit the output produced by the toolkit ([see toolkit tutorial](https://www.votchallenge.net/howto/overview.html)) to the [evaluation server](https://eu.aihub.ml/competitions/191).
+ - Once registered, submit the output produced by the toolkit ([see toolkit tutorial](https://www.votchallenge.net/howto/overview.html)) to the [evaluation server](https://eu.aihub.ml/competitions/191). Do not forget to pack the results with the `vot pack` command.
  - Receive performance scores via email. 
 
 ![Participation steps](participation_steps.png)
@@ -70,7 +70,15 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
   - **When will my results be publicly available?**
 
-    The results for a registered tracker are immediately revealed to the participant via an email. But these results will not be publicly disclosed until after the VOTS2023 workshop. At that point, a public VOTS2023 challenge leaderboard will appear on the VOTS webpage.
+    The results for a registered tracker are revealed to the participant via an email in approximately 30 minutes after submission. But these results will not be publicly disclosed until after the VOTS2023 workshop. At that point, a public VOTS2023 challenge leaderboard will appear on the VOTS webpage.
+  
+  - **Why is the analysis computed with the toolkit empty?**
+
+    The VOTS2023 public dataset contains annotations for initialization frame only, which means that the analysis cannot be computed locally by the toolkit. Thus, the results should be submitted to the server, where analysis is computed and then reported to the user via email. For mor information please see the previous post and participation instructions on this page. 
+
+  - **If I submit several timest to the evaluation server, which submission will be used for the final score?**
+    
+    The **final submission** will be used for the final score. Please make sure that the tracker description matches the code that produced the final submission.
 
 
 <br/>

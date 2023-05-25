@@ -12,12 +12,12 @@ This tutorial contains a short tutorial on how to add VOT toolkit support to mul
 
 This tutorial assumes that you already have the toolkit on your computer, that you have set up the workspace correctly. And you also already has integrated a python tracker into the VOT toolkit. 
 
-The communcation between the toolkit and the tracker is handled by the code in the `vot.py` file that is available in the [integration/python](https://github.com/votchallenge/integration) directory. In the `vot.py` file, there is a base class, `VOT`, which is a wrapper around the TraX protocol and can be used for single or multi-object tracking. The wrapper assumes that the experiment will provide new objects only at the first frame and will fail otherwise. Below is a simple (non-complete) example, how 
+The communcation between the toolkit and the tracker is handled by the code in the `vot.py` file that is available in the [integration/python](https://github.com/votchallenge/integration/tree/master/python) directory. Make sure that you are using the newest version of the vot.py file. In the `vot.py` file, there is a base class, `VOT`, which is a wrapper around the TraX protocol and can be used for single or multi-object tracking. The wrapper assumes that the experiment will provide new objects only at the first frame and will fail otherwise. Below is a simple (non-complete) example, how to adapt an existing single-object tracker for multi-object tracking.
 
 ```python
 # tracker implementation omitted
 
-handle = vot.VOT("mask")
+handle = vot.VOT("mask", multiobject=True)
 objects = handle.objects()
 
 imagefile = handle.frame()
@@ -34,7 +34,7 @@ while True:
     handle.report([tracker.track(image) for tracker in trackers])
 ```
 
-The alternative is to use a wrapper class `VOTManager` that provides a simple interface for running multiple single object trackers sequentially. The wrapper accepts a initialization callable that is called for each object with an initial image and the initialization region. The functionr returns a callable that will return a predicted region when given a new frame.
+The alternative is to use a wrapper class `VOTManager` that provides a simple interface for running multiple single object trackers sequentially. The wrapper accepts a initialization callable that is called for each object with an initial image and the initialization region. The function returns a callable that will return a predicted region when given a new frame.
 
 ```python
 # tracker implementation omitted
@@ -45,7 +45,9 @@ if __name__ == "__main__":
     manager.run()
 ```
 
-A tracker can be integrated into the toolkit by putting a tracker description in the `trackers.ini` file, which is placed in the `workspace` directory. Example of a tracker description for a Python tracker (NCC tracker - <i>python_ncc.py</i> from [Python integration examples](https://github.com/votchallenge/integration/tree/master/python)):
+### Integration with the toolkit
+
+A tracker can be integrated into the toolkit by putting a tracker description in the `trackers.ini` file, which is placed in the `workspace` directory. Example of a tracker description for a Python tracker ([NCC tracker](https://github.com/votchallenge/integration/blob/master/python/ncc_multiobject_manager.py) from [Python integration examples](https://github.com/votchallenge/integration/tree/master/python)):
 ```ini
 [NCCPython]
 label = PyNCC
@@ -57,8 +59,14 @@ paths = <path-to-tracker-source-directory>
 env_PATH = <additional-env-paths>;${PATH}
 ```
 
-Native trackers
-----------
+### Reporting target absence
+
+A tracker can report target absence by reporting an empty region in the wrapper file. See the [integration example](https://github.com/votchallenge/integration/blob/master/python/ncc_multiobject_manager.py), or the following code snippet:
+```python
+handle.report(vot.Empty())
+```
+
+## Native trackers
 
 For native trackers, written in C or C++ the communcation between the toolkit and the tracker is handled by the code in the `vot.h` file that is available in the [integration/native](https://github.com/votchallenge/integration). Below is a simple example that illustrates how the communication is performed using this header file in C code.
 

@@ -53,7 +53,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
   - **Can I participate with a single-target tracker?**
 
-    Sure, with a slight adjustment. You will write a wrapper that creates several independent tracker instances, each tracking one of the targets. To the toolkit, your tracker will be a multi-target tracker, while internally, you’re running independent trackers. See the example [here](https://github.com/votchallenge/integration/blob/master/python/python_ncc.py). 
+    Sure, with a slight adjustment. You will write a wrapper that creates several independent tracker instances, each tracking one of the targets. To the toolkit, your tracker will be a multi-target tracker, while internally, you’re running independent trackers. See the examples [here](https://github.com/votchallenge/integration/blob/master/python/). 
 
   - **Can I participate with a bounding box tracker?**
 

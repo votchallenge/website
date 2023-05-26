@@ -58,7 +58,7 @@ The final VOTS2023 evaluation dataset & server will be released a week later. St
 **Important dates**
 
  * Challenge open: May 4th 2023
- * Results Submission: June 12th 2023
+ * Results Submission: June 18th 2023
  * Workshop: October 2nd/3rd (TBD) 2023
 
 **Contacts**

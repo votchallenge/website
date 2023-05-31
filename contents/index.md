@@ -43,17 +43,19 @@ A collection of documentation and tutorials on various topics.
 </div>
 
 
+<div class="row">
+
+<div class="col-lg-6 col-sm-12">
+
 ## News
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">VOTS2023 Challenge is open</h3>
+    <h3 class="panel-title">VOTS2023 Challenge is now open!</h3>
   </div>
   <div class="panel-body">
 
-The VOTS2023 toolkit and development dataset have been released. You can integrate your single/multiple-target tracker and test the integration with the VOTS development dataset [following the tutorial](/howto/integration_multiobject.html). Details of the problem statement and FAQ on applying different tracker types [here](/vots2023/participation.html).
-
-The final VOTS2023 evaluation dataset & server will be released a week later. Stay informed by following us on [Twitter](https://twitter.com/votchallenge).
+The VOTS2023 toolkit and development dataset have been released. You can integrate your single/multiple-target tracker and test the integration with the VOTS development dataset [following the tutorial](/howto/integration_multiobject.html). Details of the problem statement and FAQ on applying different tracker types [here](/vots2023/participation.html). Stay informed by following us on [Twitter](https://twitter.com/votchallenge).
 
 **Important dates**
 
@@ -69,6 +71,16 @@ The final VOTS2023 evaluation dataset & server will be released a week later. St
   </div>
 </div>
 
+</div>
+
+<div class="col-lg-6 col-sm-12">
+
+## Social
+
+<a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/votchallenge?ref_src=twsrc%5Etfw">Tweets by votchallenge</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+</div>
 
 ## Citing VOT Challenge
 

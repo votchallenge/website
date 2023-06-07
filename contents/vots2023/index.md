@@ -22,8 +22,8 @@ Tracking has matured to a point where the constraints enforced in past VOT chall
 * Challenge open: May 4th 2023
 * Results Submission: June 18th 2023
 * Winner notification: June 22nd 2023
-* Results paper public review: 30th June 2023
-* Workshop: October 2nd/3rd (TBD) 2023
+* Results paper public review: June 30th 2023
+* Workshop: October 3rd 2023 (half-day, morning)
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>

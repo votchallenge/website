@@ -70,7 +70,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
   - **When will my results be publicly available?**
 
-    The results for a registered tracker are revealed to the participant via an email in approximately 30 minutes after submission. But these results will not be publicly disclosed until after the VOTS2023 workshop. At that point, a public VOTS2023 challenge leaderboard will appear on the VOTS webpage.
+    The results for a registered tracker are revealed to the participant via an email in approximately 30 minutes after submission. Considering many requests, we decided to also reveal all results in the week after the challenge closes. The leaderboard data will contain also tracker registration details (without participants personal details, long tracker description and source code password). Note that public link to the source code is mandatory for the results paper coauthorship, but can be kept under password (revealed only to VOTS committee) until the VOTS workshop.
   
   - **Why is the analysis computed with the toolkit empty?**
 
@@ -80,6 +80,9 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
     
     The **final submission** will be used for the final score. Please make sure that the tracker description matches the code that produced the final submission.
 
+  - **Will the evaluation server remain open after the VOTS2023 deadline?**
+
+    After the challenge deadline, the VOTS2023 challenge becomes the VOTS2023 benchmark and the evaluation server will remain open. The results submission link on the challenge page will change to enable post-challenge submissions not included in the VOTS2023 results paper. However, all benchmark and challenge submissions will appear on the same leaderboard.
 
 <br/>
 <br/>

@@ -61,7 +61,7 @@ The VOTS2023 toolkit and development dataset have been released. You can integra
 
  * Challenge open: May 4th 2023
  * Results Submission: June 18th 2023
- * Workshop: October 2nd/3rd (TBD) 2023
+ * Workshop: October 3rd 2023 (half-day, morning)
 
 **Contacts**
 

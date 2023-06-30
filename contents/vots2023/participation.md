@@ -11,9 +11,11 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
 ## Participation steps
 
+The VOTS2023 challenge took place between May 4th and June 18th 2023. After the results have been processed and analyzed by the VOTS2023 challenge committee, 47 tracker were accepted to the VOTS2023 challenge official leaderboard. To facilitate development the challenge has reopened as a VOTS2023 benchmark for the research community with the VOTS2023 challenge trackers indicated in the public leaderboard.
+
  - Follow the guidelines to integrate your tracker with the [new VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
- - Register your tracker on the [registration page](https://forms.gle/TdnCBuHWN2B5Yagz5), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description (see explanations below).
- - Once registered, submit the output produced by the toolkit ([see toolkit tutorial](https://www.votchallenge.net/howto/overview.html)) to the [evaluation server](https://eu.aihub.ml/competitions/191). Do not forget to pack the results with the `vot pack` command.
+ - Register your tracker on the [registration page](https://forms.gle/YjQUsJnBN9DNod386), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description (see explanations below).
+ - Once registered, submit the output produced by the toolkit ([see toolkit tutorial](https://www.votchallenge.net/howto/overview.html)) to the [evaluation server](https://eu.aihub.ml/competitions/201). Do not forget to pack the results with the `vot pack` command.
  - Receive performance scores via email. 
 
 ![Participation steps](participation_steps.png)

@@ -25,3 +25,26 @@ submenu: People
  * [Christoph Mayer](https://2006pmach.github.io/)
  * [Yushan Zhang](https://liu.se/medarbetare/yuszh17)
  * [Lei Ke](https://www.kelei.site/)
+
+
+## Division of work
+
+The following abbreviations are used: Matej Kristan (MK), Alan Lukežič (AL), Gustavo Fernandez (GF), Michael Felsberg (MF), Khanh-Tung Tran (TT), Martin Danelljan (MD), Xuan-Son Vu (SV), Johanna Björklund (JB), Jie Zhao (JZ), Yushan Zhang (YZ), Christoph Mayer (CM), Lei Ke (LK), Ondrej Drbohlav (OD), Jiri Matas (JM), Hyung Jin Chang (HJC), Zhongqun Zhang (ZZ), Luka Čehovin Zajc (LCZ).
+
+ * Dataset construction: MK, AL, MD, CM, LK, OD, JM
+ * Dataset annotation and annotation supervision: OD; 
+ * Results interpretation: MK, AL 
+ * Toolkit development: LCZ, AL
+ * Toolkit team supervision: LCZ
+ * Performance measures design: MK, AL, MF, MD, JM
+ * Paper drafting: MK, GF
+ * Paper proofing: MK, GF, MF, AL
+ * Coordination of public review: GF
+ * Camera ready submission: GF
+ * Evaluation server implementation: TT, SV
+ * Evaluation team supervision: MF, LCZ
+ * VOTS teams coordination:MK
+ * Evaluation server test: JZ, YZ
+ * Evaluation of baselines: CM
+ * Tutorial development: AL, ZZ, LCZ
+ * Tutorial team supervision: AL, HJC, LCZ

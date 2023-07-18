@@ -4,11 +4,11 @@ menu: Challenges
 title: Challenges
 ---
 
-# Open Challenges
+# Challenges
 
 <div class="row">
 <div class="col-lg-6 col-sm-12">
-<a href="/vots2023/" class="challengebutton open text-primary">
+<a href="/vots2023/" class="challengebutton text-primary">
 <img class="logo" src="/img/vots2023_logo_website.png" alt="VOTS2023" />
 <h3>VOTS2023 challenge</h3>
 <p class="description">The VOTS2023 challenge unifies single/multiple-target, short/long-term tracking and segmentation. Results will be presented at the ICCV2023 VOTS workshop.</p>

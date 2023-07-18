@@ -5,11 +5,6 @@ block append page_vars
     if page.metadata.submenu
         -submenu = page.metadata.submenu
 
-block append page_vars
-    -var menu='Challenges';
-    if page.metadata.submenu
-        -submenu = page.metadata.submenu
-
 block append head
     title VOT2022 Challenge |
         = submenu

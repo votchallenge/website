@@ -16,7 +16,7 @@ submenu: People
  * [Hyung Jin Chang](https://www.cs.bham.ac.uk/~changhj), University of Birmingham, UK
 
 ## Technical committee
-
+ 
  * [Khanh-Tung Tran](https://www.linkedin.com/in/khanh-tung-tran-83b3541ab/)
  * [Ondrej Drbohlav](https://cmp.felk.cvut.cz/~drbohlav/), Czech Technical University in Prague, Czech Republic
  * [Xuan-Son Vu](https://people.cs.umu.se/sonvx)

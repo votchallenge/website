@@ -2,7 +2,7 @@
 template: page2023.pug
 submenu: Program
 ---
-
+ 
 ## Program
  
 The workshop will take place on October 3rd (morning) 2023 @ICCV2023 in Paris.

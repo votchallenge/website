@@ -1,6 +1,6 @@
 ---
 template: page2023.pug
-submenu: GenArt
+submenu: VOT GenArt
 ---
 
 ## VOTS2023 GenArt Challenge

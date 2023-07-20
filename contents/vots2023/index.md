@@ -32,3 +32,11 @@ Tracking has matured to a point where the constraints enforced in past VOT chall
 More details coming soon. Subscribe to the new VOT mailing list by [sending an empty email](mailto:votchallange-join@lists.arnes.si) or follow us on [Twitter](https://twitter.com/votchallenge).
 </div>
 
+## Sponsors
+
+The VOTS2023 workshop is sposored by the Faculty of Computer and Information Science, University of Ljubljana and Eyedea.
+
+<div class="spotlight">
+<a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="170px"/></a>
+<a href="https://www.eyedea.cz/"><img src="/img/org/logo_eyedea.png" width="170px"/></a>
+</div>

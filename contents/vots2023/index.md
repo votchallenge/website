@@ -29,9 +29,10 @@ Tracking has matured to a point where the constraints enforced in past VOT chall
 
 The VOTS2023 workshop is sposored by the Faculty of Computer and Information Science, University of Ljubljana and Eyedea.
 
-<div class="spotlight">
+<div class="spotlight logos">
 <a href="http://www.fri.uni-lj.si/"><img src="/img/org/logo_ljubljana.png" width="170px"/></a>
 <a href="https://www.eyedea.cz/"><img src="/img/org/logo_eyedea.png" width="170px"/></a>
+<a href="https://www.birmingham.ac.uk/index.aspx"><img src="/img/org/logo_birmingham.png" width="170px"/></a>
 </div>
 
 <div class="alert alert-info" role="alert">

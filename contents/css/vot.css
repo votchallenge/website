@@ -292,3 +292,6 @@ ul.publications.embedded li .published {
     max-width: 100%;
 }
 
+.logos a{
+    margin: 10px;
+}

@@ -25,7 +25,7 @@ submenu: People
  * [Christoph Mayer](https://2006pmach.github.io/)
  * [Yushan Zhang](https://liu.se/medarbetare/yuszh17)
  * [Lei Ke](https://www.kelei.site/)
- 
+  
 
 ## Division of work
 

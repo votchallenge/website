@@ -9,7 +9,7 @@ The workshop will take place on October 3rd (morning) 2023 @ICCV2023 in Paris.
 
 8:30 - 10:00 **Session 1** 
 * VOTS challenge outline & results
-* *Keynote 1*: Jia Deng (topic tba)
+* *Keynote 1*: Bastian Leibe (topic tba)
 * *Keynote 2*:  Adam Harley (topci tba)
 
 10:00 - 10:30 **Coffee break**

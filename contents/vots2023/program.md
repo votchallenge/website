@@ -10,14 +10,14 @@ The workshop will take place on October 3rd (morning) 2023 @ICCV2023 in Paris.
 8:30 - 10:00 **Session 1** 
 * VOTS challenge outline & results
 * *Keynote 1*: Bastian Leibe (topic tba)
-* *Keynote 2*:  Adam Harley (topci tba)
+* *Keynote 2*:  Adam Harley - Scaling Up Fine-Grained Tracking
 
 10:00 - 10:30 **Coffee break**
 
 10:30 - 12:00 **Session 2**
 * VOTS winners talk
 * VOTS runner-ups talk
-* *Keynote 3*: Carl Vondrick (topic tba)
+* *Keynote 3*: Carl Vondrick - Seeing through Occlusions with 3D World Representations
 * *Keynote 4*: Fatma Güney (topic tba)  
 
 12:00 - 12:30 **Session 3**
@@ -43,7 +43,7 @@ Bastian Leibe is a Full Professor of Computer Science with RWTH Aachen Universit
 
 [**Dr. Adam Harley**](https://adamharley.com/)
 
-TBA
+Adam is a postdoc at Stanford University, working with Leonidas Guibas. He recently completed his Ph.D. at The Robotics Institute at Carnegie Mellon University, where he worked with Katerina Fragkiadaki. His research interests lie in Computer Vision and Machine Learning, particularly for 3D understanding and fine-grained tracking. 
 </div>
 
 

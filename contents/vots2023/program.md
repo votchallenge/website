@@ -18,7 +18,7 @@ The workshop will take place on October 3rd (morning) 2023 @ICCV2023 in Paris.
 * VOTS winners talk
 * VOTS runner-ups talk
 * *Keynote 3*: Carl Vondrick - Seeing through Occlusions with 3D World Representations
-* *Keynote 4*: Fatma Güney (topic tba)  
+* *Keynote 4*: Fatma Güney - Paying Attention to Temporal Axis in Unsupervised Object-Centric Learning
 
 12:00 - 12:30 **Session 3**
 * Panel discussion & closing remarks
@@ -62,6 +62,8 @@ Carl Vondrick is an associate professor of computer science at Columbia Universi
 [<img class="float-left" src="speakers/Fatma_Guney.jpg" width="100"/>](https://mysite.ku.edu.tr/fguney/)
 
 [**Prof. Fatma Güney**](https://mysite.ku.edu.tr/fguney/)
+
+Fatma Guney is an assistant professor of computer science at Koc University in Istanbul. She works on computer vision with a special focus on autonomous driving. Previously, she was a postdoc at VGG in Oxford and she received her PhD from Max Planck in 2017 advised by Andreas Geiger. Her research is supported by the ERC and the British Royal Society, including the 2023 ERC Starting Grant.
 
 TBA
 </div>

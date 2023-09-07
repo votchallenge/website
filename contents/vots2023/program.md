@@ -7,22 +7,26 @@ submenu: Program
  
 The workshop will take place on October 3rd (morning) 2023 @ICCV2023 in Paris.
 
-8:30 - 10:00 **Session 1** 
-* VOTS challenge outline & results
-* *Keynote 1*: Bastian Leibe (topic tba)
-* *Keynote 2*:  Adam Harley - Scaling Up Fine-Grained Tracking
+8:45 - 10:15 Session 1 [Chair:Jiri Matas]
 
-10:00 - 10:30 **Coffee break**
+ * [08:45 - 08:50] Intro & hello (organizers)
+ * [08:50 - 09:15] VOTS challenge outline & results (Matej Kristan)
+ * [09:15 - 09:45] Keynote 1: Bastian Leibe
+ * [09:45 - 10:15] Keynote 2: Adam Harley - Scaling Up Fine-Grained Tracking
 
-10:30 - 12:00 **Session 2**
-* VOTS winners talk
-* VOTS runner-ups talk
-* *Keynote 3*: Carl Vondrick - Seeing through Occlusions with 3D World Representations
-* *Keynote 4*: Fatma Güney - Paying Attention to Temporal Axis in Unsupervised Object-Centric Learning
+10:15 - 10:45 Coffee break (30 min)
 
-12:00 - 12:30 **Session 3**
-* Panel discussion & closing remarks
+10:45 - 12:15 Session 2 [Chair: Martin Danelljan]
 
+ * [10:45-11:15] Keynote 3: Carl Vondrick - Seeing through Occlusions with 3D World Representations
+ * [11:15-11:30] VOTS winners talk: Yangming Cheng, Zongxin Yang, Yuanyou Xu, Xiaodi Li, Jiahao Li, Yi Yang, Yueting Zhuang, "DMAOT -- Decoupled Memory AOT"
+ * [11:30-11:45] VOTS spotlight talk:Yinchao Ma, Wangkai Li, Dawei Yang, Rui Sun, Qianjin Yu, Fei Wang, Tianzhu Zhang, "DMNet -- Dynamic Matching Network"
+ * [11:45-12:15] Keynote 4: Fatma Güney - Paying Attention to Temporal Axis in Unsupervised Object-Centric Learning
+
+12:15 - 12:45 Session 3 [Chair: Hyung Jin Chang]
+
+ * [12:15-12:40] Panel discussion (speakers)
+ * [12:40-12:45] Closing remarks
 
 ## Keynotes
  

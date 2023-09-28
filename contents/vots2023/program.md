@@ -11,22 +11,26 @@ The workshop will take place on October 3rd (morning) 2023 @ICCV2023 in Paris.
 
  * [08:45 - 08:50] Intro & hello (organizers)
  * [08:50 - 09:15] VOTS challenge outline & results (Matej Kristan)
- * [09:15 - 09:45] Keynote 1: Bastian Leibe
- * [09:45 - 10:15] Keynote 2: Adam Harley - Scaling Up Fine-Grained Tracking
+ * [09:15 - 09:45] **Keynote 1**: Bastian Leibe
+ * [09:45 - 10:15] **Keynote 2**: Adam Harley - Scaling Up Fine-Grained Tracking
 
 10:15 - 10:45 Coffee break (30 min)
 
 10:45 - 12:15 Session 2 [Chair: Martin Danelljan]
 
- * [10:45-11:15] Keynote 3: Carl Vondrick - Seeing through Occlusions with 3D World Representations
- * [11:15-11:30] VOTS winners talk: Yangming Cheng, Zongxin Yang, Yuanyou Xu, Xiaodi Li, Jiahao Li, Yi Yang, Yueting Zhuang, "DMAOT -- Decoupled Memory AOT"
- * [11:30-11:45] VOTS spotlight talk:Yinchao Ma, Wangkai Li, Dawei Yang, Rui Sun, Qianjin Yu, Fei Wang, Tianzhu Zhang, "DMNet -- Dynamic Matching Network"
- * [11:45-12:15] Keynote 4: Fatma Güney - Paying Attention to Temporal Axis in Unsupervised Object-Centric Learning
+ * [10:45-10:55] VOTS2023 GenArt challenge results (Luka Čehovin Zajc)
+ * [10:55-11:25] **Keynote 3**: Carl Vondrick - Seeing through Occlusions with 3D World Representations
+ * [11:25-11:40] VOTS winners talk: Yangming Cheng, Zongxin Yang,
+Yuanyou Xu, Xiaodi Li, Jiahao Li, Yi Yang, Yueting Zhuang, “DMAOT –
+Decoupled Memory AOT”
+  * [11:40-11:55] VOTS spotlight talk:Yinchao Ma, Wangkai Li, Dawei
+Yang, Rui Sun, Qianjin Yu, Fei Wang, Tianzhu Zhang, “DMNet – Dynamic
+Matching Network”
 
-12:15 - 12:45 Session 3 [Chair: Hyung Jin Chang]
+11:55 - 12:25 Session 3 [Chair: Hyung Jin Chang]
 
- * [12:15-12:40] Panel discussion (speakers)
- * [12:40-12:45] Closing remarks
+ * [11:55-12:20] Panel discussion (speakers)
+ * [12:20-12:25] Closing remarks
 
 ## Keynotes
  
@@ -60,14 +64,3 @@ Adam is a postdoc at Stanford University, working with Leonidas Guibas. He recen
 Carl Vondrick is an associate professor of computer science at Columbia University where he studies computer vision and machine learning. Previously, he was a Research Scientist at Google and he received his PhD from MIT in 2017 advised by Antonio Torralba. His research is supported by the NSF, DARPA, Amazon, Google, and Toyota, including the 2021 NSF CAREER Award.
 </div>
 
-
-<div class="container float-left">
-
-[<img class="float-left" src="speakers/Fatma_Guney.jpg" width="100"/>](https://mysite.ku.edu.tr/fguney/)
-
-[**Prof. Fatma Güney**](https://mysite.ku.edu.tr/fguney/)
-
-Fatma Guney is an assistant professor of computer science at Koc University in Istanbul. She works on computer vision with a special focus on autonomous driving. Previously, she was a postdoc at VGG in Oxford and she received her PhD from Max Planck in 2017 advised by Andreas Geiger. Her research is supported by the ERC and the British Royal Society, including the 2023 ERC Starting Grant.
-
-TBA
-</div>

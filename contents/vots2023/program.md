@@ -23,7 +23,7 @@ The workshop will take place on October 3rd (morning) 2023 @ICCV2023 in Paris.
  * [11:25-11:40] VOTS winners talk: Yangming Cheng, Zongxin Yang,
 Yuanyou Xu, Xiaodi Li, Jiahao Li, Yi Yang, Yueting Zhuang, “DMAOT –
 Decoupled Memory AOT”
-  * [11:40-11:55] VOTS spotlight talk:Yinchao Ma, Wangkai Li, Dawei
+ * [11:40-11:55] VOTS spotlight talk:Yinchao Ma, Wangkai Li, Dawei
 Yang, Rui Sun, Qianjin Yu, Fei Wang, Tianzhu Zhang, “DMNet – Dynamic
 Matching Network”
 

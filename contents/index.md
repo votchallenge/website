@@ -7,7 +7,7 @@ The VOT challenges provide the visual tracking community with a precisely define
 
 The goal of the challenges is to build up a repository of considerable benchmarks and to organize workshops or similar events in order to push forward research in visual tracking.
 
-<div class="alert success" role="alert">
+<div class="alert alert-success" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>
 <h4>VOTS2023 Workshop at ICCV2023</h4>
 

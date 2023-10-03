@@ -16,14 +16,13 @@ The workshop will take place on **October 3rd (morning)** 2023 @ICCV2023 in Pari
 
 10:15 - 10:45 Coffee break (30 min)
 
-10:45 - 12:15 Session 2 [Chair: Martin Danelljan]
+10:45 - 11:55 Session 2 [Chair: Martin Danelljan]
 
  * [10:45-10:55] VOTS2023 GenArt challenge results (Luka Čehovin Zajc)
  * [10:55-11:25] **Keynote 3**: Carl Vondrick - **Seeing through Occlusions with 3D World Representations**
- * [11:25-11:40] VOTS winners talk: Yangming Cheng, Zongxin Yang,
-Yuanyou Xu, Xiaodi Li, Jiahao Li, Yi Yang, Yueting Zhuang, **DMAOT – Decoupled Memory AOT**
- * [11:40-11:55] VOTS spotlight talk:Yinchao Ma, Wangkai Li, Dawei
-Yang, Rui Sun, Qianjin Yu, Fei Wang, Tianzhu Zhang, **DMNet – Dynamic Matching Network**
+ * [11:25-11:40] VOTS winners talk: Yangming Cheng, Zongxin Yang, Yuanyou Xu, Xiaodi Li, Jiahao Li, Yi Yang, Yueting Zhuang, **DMAOT – Decoupled Memory AOT**
+ * [11:40-11:55] VOTS spotlight talk:Yinchao Ma, Wangkai Li, Dawei Yang, Rui Sun, Qianjin Yu, Fei Wang, Tianzhu Zhang, **DMNet – Dynamic Matching Network**
+
 11:55 - 12:25 Session 3 [Chair: Hyung Jin Chang]
 
  * [11:55-12:20] Panel discussion (speakers)

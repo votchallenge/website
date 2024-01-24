@@ -6,7 +6,13 @@ title: Challenges
 
 # Challenges
 
-<div class="row">
+
+<div class="alert alert-info" role="alert">
+ There are currently no open challenges.
+</div>
+
+
+<!--div class="row">
 <div class="col-lg-6 col-sm-12">
 <a href="/vots2023/" class="challengebutton text-primary">
 <img class="logo" src="/img/vots2023_logo_website.png" alt="VOTS2023" />
@@ -14,14 +20,22 @@ title: Challenges
 <p class="description">The VOTS2023 challenge unifies single/multiple-target, short/long-term tracking and segmentation. Results will be presented at the ICCV2023 VOTS workshop.</p>
 </a>
 </div>
-</div>
-
+</div-->
 
 # Benchmarks
 
 Official results of past challenges are still available as a benchmark to researchers. We invite the visual tracking researchers to compare their methods with those results.
 
 <div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vots2023/" class="challengebutton text-primary">
+<img class="logo" src="/img/vots2023_logo_website.png" alt="VOTS2023" />
+<h3>VOTS2023 challenge</h3>
+<p class="description">The VOTS2023 challenge unifies single/multiple-target, short/long-term tracking and segmentation. Results were presented at the ICCV2023 VOTS workshop.</p>
+</a>
+</div>
+
 
 <div class="col-lg-6 col-sm-12">
 <a href="/vot2022/" class="challengebutton text-primary">

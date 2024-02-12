@@ -43,44 +43,39 @@ A collection of documentation and tutorials on various topics.
 </div>
 
 
-<div class="row">
-
-<div class="col-lg-6 col-sm-12">
-
 ## News
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">VOTS2023 Challenge is now open!</h3>
+    <h3 class="panel-title">Announcing VOTS2024!</h3>
   </div>
   <div class="panel-body">
 
-The VOTS2023 toolkit and development dataset have been released. You can integrate your single/multiple-target tracker and test the integration with the VOTS development dataset [following the tutorial](/howto/integration_multiobject.html). Details of the problem statement and FAQ on applying different tracker types [here](/vots2023/participation.html). Stay informed by following us on [Twitter](https://twitter.com/votchallenge).
+  <img src="/vots2024/banner.jpg" alt="Banner" style="width: 100%; margin-bottom: 1em;"/>
+
+We are pleased to announce that the activities for VOTS2024 are well underway! The following three challenges are planned:
+
+- **VOTS2024 challenge** - Continuation of the [VOTS2023 challenge](/vots2023/). The task is to track one or more general targets over short-term or long-term sequences by segmentation. The [VOTS evaluation server](https://eu.aihub.ml/competitions/201#results) will be used for submission.
+- **VOTSt2024 challenge** - This is a new challenge extending the VOTS2023 by considering general objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled, etc. It will be based on the recent dataset from Tokmakov et al.<https://www.vostdataset.org/> and will use the same evaluation methodology as VOTS2024. The VOTS evaluation server will be used for submission.
+- **VOTS-GenArt2024 challenge** - Continuation of the [VOTS-GenArt2023 challenge](/vots2023/genart.html) aimed at showcasing creativity and artistic flair of the tracking community in the era of generative computer vision. The task is to generate VOTS-related images or short video clips using generative models. Submissions on the [VOT Twitter/X](https://twitter.com/votchallenge) channel.
 
 **Important dates**
 
- * Challenge open: May 4th 2023
- * Results Submission: June 18th 2023
- * Workshop: October 3rd 2023 (half-day, morning)
+ * **13th of May, 2024** - All challenges open
+ * **23rd of June, 2024** - VOTS2024 & VOTSt2024 results submission deadline
+ * **13th of July, 2024** - VOTS2024 & VOTSt2024 winners announcement
+ * **8th of August, 2024** - VOTS-GenArt2024 closes
+ * **30th of September, 2024** - VOTS2024 workshop (pending acceptance of the WS proposal)
+
 
 **Contacts**
 
  * Twitter: https://twitter.com/votchallenge
- * Homepage: https://www.votchallenge.net/vots2023/
  * Mailing list: subscribe by [sending an empty email](mailto:votchallange-join@lists.arnes.si).
   </div>
-</div>
 
 </div>
 
-<div class="col-lg-6 col-sm-12">
-
-## Social
-
-<a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/votchallenge?ref_src=twsrc%5Etfw">Tweets by votchallenge</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
-</div>
 
 ## Citing VOT Challenge
 

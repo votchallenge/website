@@ -10,7 +10,7 @@ Tracking has matured to a point where the constraints enforced in past VOT chall
 The VOTS2023 Benchmark is continually open for post-challenge evaluation, see the [leaderboard](https://eu.aihub.ml/competitions/201#results) for up-to-date results. Please follow [instructions](participation.html) to submit your results. The paper with the results of the challenge is available [here](https://openaccess.thecvf.com/ICCV2023_workshops/VOTS), the presentation with the results is available [here](https://data.votchallenge.net/vots2023/presentation.pdf).
 
 <img class="logo float-right frame" src="../img/vots2023_logo_website_large.png" alt="VOTS2023"  />
-
+ 
 ## What's new
 
 * A single challenge unifies single/multi-target short/long-term segmentation tracking tasks.

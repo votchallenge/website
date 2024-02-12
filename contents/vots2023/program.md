@@ -4,7 +4,7 @@ submenu: Program
 ---
  
 ## Program
- 
+  
 The workshop will take place on **October 3rd (morning)** 2023 @ICCV2023 in Paris. The workshop will be held in room **S06**.
 
 8:45 - 10:15 Session 1 [Chair:Jiri Matas]

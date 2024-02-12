@@ -10,7 +10,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 ![Problem statement](problem_statement.png)
 
 ## Participation steps
-
+ 
 The VOTS2023 challenge took place between May 4th and June 18th 2023. After the results have been processed and analyzed by the VOTS2023 challenge committee, 47 tracker were accepted to the VOTS2023 challenge official leaderboard. To facilitate development the challenge has reopened as a VOTS2023 benchmark for the research community with the VOTS2023 challenge trackers indicated in the public leaderboard.
 
  - Follow the guidelines to integrate your tracker with the [new VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).

@@ -57,7 +57,7 @@ We are pleased to announce that the activities for VOTS2024 are well underway! T
 
 - **VOTS2024 challenge** - Continuation of the [VOTS2023 challenge](/vots2023/). The task is to track one or more general targets over short-term or long-term sequences by segmentation. The [VOTS evaluation server](https://eu.aihub.ml/competitions/201#results) will be used for submission.
 - **VOTSt2024 challenge** - A new challenge this year considers general objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled, etc. It will be based on the recent [VOST dataset](https://www.vostdataset.org/) and will use the same evaluation methodology as VOTS2024. The VOTS evaluation server will be used for submission.
-- **VOTS-GenArt2024 challenge** - Continuation of the [VOTS-GenArt2023 challenge](/vots2023/genart.html) aimed at showcasing creativity and artistic flair of the tracking community in the era of generative computer vision. The task is to generate VOTS-related images or short video clips using generative models. Submissions on the [VOT Twitter/X](https://twitter.com/votchallenge) channel.
+- **VOTS-GenArt2024 challenge** - Continuation of the [VOTS-GenArt2023 challenge](/vots2023/genart.html) aimed at showcasing creativity and artistic flair of the tracking community in the era of generative computer vision. The task is to generate VOTS-related images or short video clips using generative models. Submissions on the [VOT X/Twitter](https://twitter.com/votchallenge) channel.
 
 **Important dates**
 
@@ -70,7 +70,7 @@ We are pleased to announce that the activities for VOTS2024 are well underway! T
 
 **Contacts**
 
- * Twitter: https://twitter.com/votchallenge
+ * X/Twitter: https://twitter.com/votchallenge
  * Mailing list: subscribe by [sending an empty email](mailto:votchallange-join@lists.arnes.si).
   </div>
 

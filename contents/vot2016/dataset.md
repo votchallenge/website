@@ -17,5 +17,5 @@ If you want to access the VOT2016 Ground Truth segmentations directly, follow th
 
 ### VOT-TIR2016 dataset preview
 
-<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2016/thermal/description.json"></div>
+<div class="gallery" data-votdataset="https://data.votchallenge.net/vot2016/tir/description.json"></div>
 

@@ -13,25 +13,39 @@ Researchers are invited to participate in two challenges: **VOTS2024** and **VOT
 
 ![Challenges](challenges_preview.png)
 
-## Participation steps
- 
-The VOTS2023 challenge took place between May 4th and June 18th 2023. After the results have been processed and analyzed by the VOTS2023 challenge committee, 47 tracker were accepted to the VOTS2023 challenge official leaderboard. To facilitate development the challenge has reopened as a VOTS2023 benchmark for the research community with the VOTS2023 challenge trackers indicated in the public leaderboard.
+## VOTS2024 challenge participation
 
- - Follow the guidelines to integrate your tracker with the [new VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
- - Register your tracker on the [registration page](https://forms.gle/YjQUsJnBN9DNod386), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description (see explanations below).
- - Once registered, submit the output produced by the toolkit ([see toolkit tutorial](https://www.votchallenge.net/howto/overview.html)) to the [evaluation server](https://eu.aihub.ml/competitions/201). Do not forget to pack the results with the `vot pack` command.
- - Receive performance scores via email. 
+* Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
+* Register your tracker on the VOTS2024 challenge registration page <TBA>, fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the VOTS2024 challenge evaluation server <vots LINK TBA>. Do not forget to pack the results with the vot pack command.
+* Receive performance scores via email.
+* See Additional clarifications and FAQ below for further details.
+* We invite the participants to run their trackers also on the VOTSt2024 challenge (see next section) – it’s zero-hassle once you’ve got the tracker running on the VOTS2024 challenge.
 
 ![Participation steps](../vots2023/participation_steps.png)
 
-## VOTS Datasets
+### Relevant datasets
 
  - The VOTS *development dataset* is composed of 4 sequences with each frame accompanied by a ground truth. This dataset is meant only for development purposes, i.e., to test your tracker integration, you can also test performance evaluation, but the scores are NOT official and have no significance due to small sequence count. To run your tracker on this dataset, create the workspace using command `vot initialize tests/multiobject` and follow the remaining of the instructions in the [toolkit overview tutorial](/howto/overview.html).
 
- - The *VOT2023 competiton dataset* is composed of 144 sequences with ground truth only available at initialization frames. This dataset is used for tracker evaluation. Run your tracker on this dataset by creating a workspace using `vot initialize vots2023` in the toolkit and submit the output masks to the VOTS2023 evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
+ - The *VOTS2024 competiton* dataset is the same as in VOTS2023 benchmark – composed of 144 sequences with ground truth only available at initialization frames. This dataset is downloaded automatically when using VOT toolkit and will be used for VOTS2024 tracker evaluation. Run your tracker on this dataset by creating a workspace using `vot initialize vots2024/main` in the toolkit and submit the output masks to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
 
+## VOTSt2024 challenge participation
 
-### Additional clarifications
+* Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
+* Register your tracker on the VOTSt2024 challenge registration page <TBA>, fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the VOTSt2024 challenge evaluation server <TBA>. Do not forget to pack the results with the `vot pack` command.
+* Receive performance scores via email.
+* See Additional clarifications and FAQ below for further details.
+
+![Participation steps](../vots2023/participation_steps.png)
+
+### Relevant datasets
+
+ - The *VOTSt2024 development dataset* is composed of validation sequences, accompanied with the annotations. This dataset is meant only for development purposes, i.e., to test your tracker integration, however, you can also run performance evaluation analysis. To run your tracker on this dataset, create the workspace using command `vot initialize vots2024/stval` and follow the remaining of the instructions in the toolkit overview tutorial. All videos are provided at 10fps.
+ - The *VOTSt2024 competiton dataset* is based on [this paper](https://www.vostdataset.org/) and is used for evaluating trackers submitted to VOTSt2024. The dataset is downloaded automatically by the VOT toolkit. Run your tracker on this dataset by creating a workspace using `vot initialize vots2024/st` in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server. All videos are provided at 10fps.
+
+## Additional clarifications
  
  - The short tracker description should contain a concise description (LaTeX format) for the VOT results paper appendix (see examples in Appendix of a VOT results papers). The longer description will be used by the VOTS TC for result interpretation. Write the descriptions in advance to speed up the submission process.
  - Results for a single registered tracker may be submitted to the evaluation server at most 10 times, each at least 24h apart to mitigate overfitting attempts. In response to submissions >10, an email with Subject “Maximum number of VOTS submissions reached” will be sent to avoid confusion about the situation. Registering a slightly modified tracker to increase the number of server evaluations is prohibited. The VOTS committee reserves the discretion to disqualify trackers that violate this constraint. If in doubt whether a modification is “slight”, contact the VOTS committee.
@@ -43,8 +57,6 @@ The VOTS2023 challenge took place between May 4th and June 18th 2023. After the 
  - Authors are encouraged to submit their own previously published or unpublished trackers.
  - Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.
  - The VOTS2024 challenge winner is required to publicly release the pertained tracker and the source code. In case private training sets are used, the authors are strongly encouraged to make the dataset publicly available to foster results reproducibility.
-
-
 
 ### Tracker registration checklist (prepare in advance)
 
@@ -82,7 +94,7 @@ As the VOT is primarily rooted in the EU, some members are restricted by law to 
 
   - **Which performance measures are you using?**
 
-    The VOTS2023 performance measures are used in both VOTS2024 and VOTSt2024 challengesm, see the [VOTS2023 results paper](https://openaccess.thecvf.com/ICCV2023_workshops/VOTS).
+    The VOTS2023 performance measures are used in both VOTS2024 and VOTSt2024 challenges, see the [VOTS2023 results paper](https://openaccess.thecvf.com/ICCV2023_workshops/VOTS).
 
   - **When will my results be publicly available?**
 

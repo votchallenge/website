@@ -9,10 +9,11 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 
 ![Problem statement](../vots2023/problem_statement.png)
 
-Researchers are invited to participate in two challenges: **VOTS2024** and **VOTSt2024**. The difference between the two challenges is that VOTS2024 considers objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled.
+Researchers are invited to participate in two challenges: [VOTS2024](#vots) and [VOTSt2024](#vost). The difference between the two challenges is that VOTS2024 considers objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled.
 
 ![Challenges](challenges_preview.png)
 
+<a name="vots"></a>
 ## VOTS2024 challenge participation
 
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
@@ -30,6 +31,7 @@ Researchers are invited to participate in two challenges: **VOTS2024** and **VOT
 
  - The *VOTS2024 competiton* dataset is the same as in VOTS2023 benchmark – composed of 144 sequences with ground truth only available at initialization frames. This dataset is downloaded automatically when using VOT toolkit and will be used for VOTS2024 tracker evaluation. Run your tracker on this dataset by creating a workspace using `vot initialize vots2024/main` in the toolkit and submit the output masks to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
 
+<a name="vost"></a>
 ## VOTSt2024 challenge participation
 
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).

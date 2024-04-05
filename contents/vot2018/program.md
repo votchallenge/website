@@ -7,7 +7,7 @@ submenu: Program
 
  * 8:30 - 10:00 **Oral session 1** (Chair: Jiri Matas)
    * Welcome
-   * [VOT Results + winners announcement](http://data.votchallenge.net/vot2018/presentations/vot2018_presentation.pdf)
+   * [VOT Results + winners announcement](https://data.votchallenge.net/vot2018/presentations/vot2018_presentation.pdf)
    * Poster spotlights
 
 

@@ -14,7 +14,7 @@ submenu: Results
 ## VOT-ST2020 and VOT-RT2020 Raw data
 
 -   Sequence dataset - Sequences for the VOT2020 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2020/dataset.html) for more information.
--   [Raw results](http://data.votchallenge.net/vot2020/results/vot-st2020.zip) - Raw results of participating trackers needed for comparative analysis.
+-   [Raw results](https://data.votchallenge.net/vot2020/results/vot-st2020.zip) - Raw results of participating trackers needed for comparative analysis.
 
 ## VOT-LT2020 Raw data
 

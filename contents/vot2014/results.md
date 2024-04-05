@@ -10,6 +10,6 @@ submenu: Results
 
 # Raw data
 
--   [Raw results](http://data.votchallenge.net/vot2014/vot2014_results.zip) - Raw results of participating trackers needed for comparative analysis
--   [Tracker descriptions](http://data.votchallenge.net/vot2014/vot2014_trackers.zip) - Tracker description files for human-readable tracker names
+-   [Raw results](https://data.votchallenge.net/vot2014/vot2014_results.zip) - Raw results of participating trackers needed for comparative analysis
+-   [Tracker descriptions](https://data.votchallenge.net/vot2014/vot2014_trackers.zip) - Tracker description files for human-readable tracker names
 

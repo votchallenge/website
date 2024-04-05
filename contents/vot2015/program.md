@@ -26,19 +26,19 @@ Roman Pflugfelder (Austrian Institute of Technology, Austria),
 <a href="#reference_00">et al.</a>
 <br>
 
-<b>[Presentation](http://data.votchallenge.net/vot2015/presentations/vot_2015_presentation.pdf)</b><br>
-<b>[Paper](http://data.votchallenge.net/vot2015/presentations/vot_2015_paper.pdf)</b><br><br>
+<b>[Presentation](https://data.votchallenge.net/vot2015/presentations/vot_2015_presentation.pdf)</b><br>
+<b>[Paper](https://data.votchallenge.net/vot2015/presentations/vot_2015_paper.pdf)</b><br><br>
 
 **13:50 <i>Winners of the VOT challenge:
-[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](http://data.votchallenge.net/vot2015/presentations/presentation_Hyeonseob.pdf)</i>**
+[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://data.votchallenge.net/vot2015/presentations/presentation_Hyeonseob.pdf)</i>**
 <br>
 Hyeonseob Nam and Bohyung Han (POSTECH, Korea)
 <br><br>
-**14:10 <i>[Scalable Kernel Correlation Filter with Sparse Feature Integration](http://data.votchallenge.net/vot2015/presentations/presentation_Solis_Montero.pdf)</i>**
+**14:10 <i>[Scalable Kernel Correlation Filter with Sparse Feature Integration](https://data.votchallenge.net/vot2015/presentations/presentation_Solis_Montero.pdf)</i>**
 <br>
 Andr&#233;s Sol&#237;s Montero, Jochen Lang, Robert Lagani&#232;re (University of Ottawa, Canada)
 <br><br>
-**14:30 <i>Keynote Talk I: [Fast correlation filter tracking - tricks of the trade](http://data.votchallenge.net/vot2015/presentations/talk_Henriques.pdf)</i>**
+**14:30 <i>Keynote Talk I: [Fast correlation filter tracking - tricks of the trade](https://data.votchallenge.net/vot2015/presentations/talk_Henriques.pdf)</i>**
 <br>
 Jo&#227;o F. Henriques (University of Coimbra, Portugal)
 <br><br>
@@ -47,16 +47,16 @@ Jo&#227;o F. Henriques (University of Coimbra, Portugal)
 <ul><u>
 **<i>Posters</i>**
 </u></ul>
-- **<i>[Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation](http://data.votchallenge.net/vot2015/presentations/poster_Mengdan_Zhang.pdf)</i>**
+- **<i>[Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation](https://data.votchallenge.net/vot2015/presentations/poster_Mengdan_Zhang.pdf)</i>**
 <br>
 Mengdan Zhang, Junliang Xing, Jin Gao, Xinchu Shi, Qiang Wang, Weiming Hu
 (Institute of Automation, Chinese Academy of Sciences, China)
 <br>
-- **<i>[Robust visual tracking by exploiting the historical tracker snapshots](http://data.votchallenge.net/vot2015/presentations/poster_Jiatong_Li.pdf)</i>**
+- **<i>[Robust visual tracking by exploiting the historical tracker snapshots](https://data.votchallenge.net/vot2015/presentations/poster_Jiatong_Li.pdf)</i>**
 <br>
 Jiatong Li (Beijing Institute of Technology, China and University of Technology, Australia), Zhibin Hong (University of Technology, Australia), Baojun Zhao (Beijing Institute of Technology, China)
 <br>
-- **<i>[Multi-Template Scale-Adaptive Kernelized Correlation Filters](http://data.votchallenge.net/vot2015/presentations/poster_Adel_Bibi.pdf)</i>**
+- **<i>[Multi-Template Scale-Adaptive Kernelized Correlation Filters](https://data.votchallenge.net/vot2015/presentations/poster_Adel_Bibi.pdf)</i>**
 <br>
 Adel Bibi, Bernard Ghanem (King Abdullah University of Science and Technology, Saudi Arabia)
 <br>
@@ -75,11 +75,11 @@ Luka &#268;ehovin (University of Ljubljana, Slovenia)
 <u>
 **<i>Demos</i>**
 </u><br>
-- **<i>[Scalable Kernel Correlation Filter with Sparse Feature Integration (sKCF)](http://data.votchallenge.net/vot2015/presentations/demo_Solis_Montero.mp4)</i>**
+- **<i>[Scalable Kernel Correlation Filter with Sparse Feature Integration (sKCF)](https://data.votchallenge.net/vot2015/presentations/demo_Solis_Montero.mp4)</i>**
 <br>
 Andres Solis Montero (University of Ottawa, Canada)
 <br>
-- **<i>[Scale Ratio Adaptive Tracker (SRAT)](http://data.votchallenge.net/vot2015/presentations/demo_Hyemin_Lee.pdf)</i>**
+- **<i>[Scale Ratio Adaptive Tracker (SRAT)](https://data.votchallenge.net/vot2015/presentations/demo_Hyemin_Lee.pdf)</i>**
 <br>
 HyeminLee, Daijin Kim (Postech, Korea)
 <br>
@@ -95,11 +95,11 @@ Xiaomeng Wang (University of Nottingham, UK)
 <br>
 Hilke Kieritz (Fraunhofer Institute, Germany)
 <br>
-- **<i>[SumShift tracker and Concurrent tracker](http://data.votchallenge.net/vot2015/presentations/demo_Jae_Yeong_Lee.mp4)</i>**
+- **<i>[SumShift tracker and Concurrent tracker](https://data.votchallenge.net/vot2015/presentations/demo_Jae_Yeong_Lee.mp4)</i>**
 <br>
 JaeYeong Lee (ETRI, Korea)
 <br>
-- **<i>[Staple: Complementary Learners for Real-Time Tracking](http://data.votchallenge.net/vot2015/presentations/poster_Luca_Bertinetto.pdf)</i>**
+- **<i>[Staple: Complementary Learners for Real-Time Tracking](https://data.votchallenge.net/vot2015/presentations/poster_Luca_Bertinetto.pdf)</i>**
 [Project page](http://www.robots.ox.ac.uk/~luca/staple.html)
 <br>
 Luca Bertinetto (University of Oxford, UK)
@@ -131,14 +131,14 @@ Georg Nebehay (Austrian Institute of Technology, Austria),
 Roman Pflugfelder (Austrian Institute of Technology, Austria),
 <a href="#reference_01">et al.</a>
 <br><br>
-<b>[Presentation](http://data.votchallenge.net/vot2015/presentations/vot_tir_2015_presentation.pdf)</b><br>
-<b>[Paper](http://data.votchallenge.net/vot2015/presentations/vot_tir_2015_paper.pdf)</b><br><br>
+<b>[Presentation](https://data.votchallenge.net/vot2015/presentations/vot_tir_2015_presentation.pdf)</b><br>
+<b>[Paper](https://data.votchallenge.net/vot2015/presentations/vot_tir_2015_paper.pdf)</b><br><br>
 **17:35 <i>Winners of the VOT-TIR challenge:
 Simplified Proposal Selection Tracker (sPST)</i>**
 <br>
 Yang Hua, Karteek Alahari, Cordelia Schmid (INRIA, France)
 <br><br>
-**17:55 <i>[Learning Spatially Regularized Correlation Filters for Visual Tracking](http://data.votchallenge.net/vot2015/presentations/presentation_Danelljan.pdf)</i>**
+**17:55 <i>[Learning Spatially Regularized Correlation Filters for Visual Tracking](https://data.votchallenge.net/vot2015/presentations/presentation_Danelljan.pdf)</i>**
 <br>
 Martin Danelljan, Gustav H&auml;ger, Fahad Khan, Michael Felsberg (Link&ouml;ping University, Sweden)
 <br><br>

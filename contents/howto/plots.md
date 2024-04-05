@@ -29,7 +29,7 @@ Assuming you have your working directory set up and configured `vot-workspace` a
 </a>
 
 <ul>
-<li> download the [results file](http://data.votchallenge.net/vot2014/vot2013_results.zip). This file contains results
+<li> download the [results file](https://data.votchallenge.net/vot2014/vot2013_results.zip). This file contains results
 of all trackers from VOT2013 challenge. </li>
 
 <li> Extract the archive to `vot-toolkit/results`. </li>
@@ -57,7 +57,7 @@ official ones. We are currently working to obtain the published results.
 </a>
 
 <ul>
-<li> download the [results file](http://data.votchallenge.net/vot2014/vot2014_results.zip). This file contains results
+<li> download the [results file](https://data.votchallenge.net/vot2014/vot2014_results.zip). This file contains results
 of all trackers from VOT2014 challenge. </li>
 
 <li> Extract the archive to `vot-toolkit/results`. </li>

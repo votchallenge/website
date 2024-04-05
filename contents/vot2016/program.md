@@ -33,18 +33,18 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <a href="#reference_00">et al.</a>
 <br>
 
-<b>[Presentation](http://data.votchallenge.net/vot2016/presentations/vot_2016_presentation.pdf)</b><br>
-<b>[Paper](http://data.votchallenge.net/vot2016/presentations/vot_2016_paper.pdf)</b><br><br>
+<b>[Presentation](https://data.votchallenge.net/vot2016/presentations/vot_2016_presentation.pdf)</b><br>
+<b>[Paper](https://data.votchallenge.net/vot2016/presentations/vot_2016_paper.pdf)</b><br><br>
 
 **10:00 <i>Talk: Winner of the VOT challenge</i>**
 <br>
-**[Modeling and Propagating CNNs in a Tree Structure for Visual Tracking](http://data.votchallenge.net/vot2016/presentations/presentation_Hyeonseob.pdf)**
+**[Modeling and Propagating CNNs in a Tree Structure for Visual Tracking](https://data.votchallenge.net/vot2016/presentations/presentation_Hyeonseob.pdf)**
 <br>
 Hyeonseob Nam, Mooyeol Baek, Bohyung Han (POSTECH)
 <br><br>
 **10:20 <i>Talk: Best tracker VOT2016</i>**
 <br>
-**[Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](http://data.votchallenge.net/vot2016/presentations/presentation_Danelljan.pdf)**
+**[Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking](https://data.votchallenge.net/vot2016/presentations/presentation_Danelljan.pdf)**
 <br>
 Martin Danelljan, Andreas Robinson, Fahad Shahbaz Khan, Michael Felsberg (Link&#246;ping University)
 <br><br>
@@ -59,7 +59,7 @@ Pascal Fua (EPFL)
 **11:55 <i>Talk: Contributed paper</i>**
 <br>
 **Fully-Convolutional Siamese Networks for Object Tracking
-([presentation](http://data.votchallenge.net/vot2016/presentations/presentation_Bertinetto.pdf), [project page](http://www.robots.ox.ac.uk/~luca/siamese-fc.html))**<br>
+([presentation](https://data.votchallenge.net/vot2016/presentations/presentation_Bertinetto.pdf), [project page](http://www.robots.ox.ac.uk/~luca/siamese-fc.html))**<br>
 Luca Bertinetto, Jack Valmadre, Jo&#227;o F. Henriques, Andrea Vedaldi and Philip H. S. Torr (University of Oxford)
 <br><br>
 **12:15 <i>Coffe break</i>**
@@ -85,8 +85,8 @@ Gustavo Fern&#225;ndez (Austrian Institute of Technology, Austria),
 <a href="#reference_01">et al.</a>
 <br>
 
-<b>[Presentation](http://data.votchallenge.net/vot2016/presentations/vot_tir_2016_presentation.pdf)</b><br>
-<b>[Paper](http://data.votchallenge.net/vot2016/presentations/vot_tir_2016_paper.pdf)</b><br><br>
+<b>[Presentation](https://data.votchallenge.net/vot2016/presentations/vot_tir_2016_presentation.pdf)</b><br>
+<b>[Paper](https://data.votchallenge.net/vot2016/presentations/vot_tir_2016_paper.pdf)</b><br><br>
 
 **13:05 <i>Talk: Winner of the VOT-TIR challenge</i>**
 <br>

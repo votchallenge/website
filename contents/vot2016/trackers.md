@@ -17,29 +17,29 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 ### Trackers
 
--   [DPCF (Appendix Nr 1)](http://data.votchallenge.net/vot2016/trackers/01_DPCF.zip)
+-   [DPCF (Appendix Nr 1)](https://data.votchallenge.net/vot2016/trackers/01_DPCF.zip)
 
--   [EBT (Appendix Nr 2)](http://data.votchallenge.net/vot2016/trackers/02_EBT.zip)
+-   [EBT (Appendix Nr 2)](https://data.votchallenge.net/vot2016/trackers/02_EBT.zip)
 
--   [SWCF (Appendix Nr 3)](http://data.votchallenge.net/vot2016/trackers/03_SWCF.zip)
+-   [SWCF (Appendix Nr 3)](https://data.votchallenge.net/vot2016/trackers/03_SWCF.zip)
 
--   [PKLTF (Appendix Nr 4)](http://data.votchallenge.net/vot2016/trackers/04_PKLTF.zip)
+-   [PKLTF (Appendix Nr 4)](https://data.votchallenge.net/vot2016/trackers/04_PKLTF.zip)
 
 -   [DAT (Appendix Nr 5)](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/dat)
 
--   [SO-DLT (Appendix Nr 8)](http://data.votchallenge.net/vot2016/trackers/08_SO-DLT.zip)
+-   [SO-DLT (Appendix Nr 8)](https://data.votchallenge.net/vot2016/trackers/08_SO-DLT.zip)
 
--   [MvCFT (Appendix Nr 15)](http://data.votchallenge.net/vot2016/trackers/15_MvCFT.zip)
+-   [MvCFT (Appendix Nr 15)](https://data.votchallenge.net/vot2016/trackers/15_MvCFT.zip)
 
--   [deepMKCF (Appendix Nr 16)](http://data.votchallenge.net/vot2016/trackers/16_deepMKCF.zip)
+-   [deepMKCF (Appendix Nr 16)](https://data.votchallenge.net/vot2016/trackers/16_deepMKCF.zip)
 
--   [GGTv2 (Appendix Nr 18)](http://data.votchallenge.net/vot2016/trackers/18_GGTv2.zip)
+-   [GGTv2 (Appendix Nr 18)](https://data.votchallenge.net/vot2016/trackers/18_GGTv2.zip)
 
--   [MLDF (Appendix Nr 19)](http://data.votchallenge.net/vot2016/trackers/19_MLDF.zip)
+-   [MLDF (Appendix Nr 19)](https://data.votchallenge.net/vot2016/trackers/19_MLDF.zip)
 
--   [NSAMF (Appendix Nr 21)](http://data.votchallenge.net/vot2016/trackers/21_NSAMF.zip)
+-   [NSAMF (Appendix Nr 21)](https://data.votchallenge.net/vot2016/trackers/21_NSAMF.zip)
 
--   [Staple+ (Appendix Nr 22)](http://data.votchallenge.net/vot2016/trackers/22_StaplePlus.zip)
+-   [Staple+ (Appendix Nr 22)](https://data.votchallenge.net/vot2016/trackers/22_StaplePlus.zip)
 
 -   [SiamFC-R (Appendix Nr 23)](https://github.com/bertinetto/siamese-fc)
 
@@ -47,35 +47,35 @@ If you have any question or suggestion, please <a href="https://groups.google.co
 
 -   [C-COT (Appendix Nr 26)](https://github.com/martin-danelljan/Continuous-ConvOp)
 
--   [SSKCF (Appendix Nr 27)](http://data.votchallenge.net/vot2016/trackers/27_SSKCF.zip)
+-   [SSKCF (Appendix Nr 27)](https://data.votchallenge.net/vot2016/trackers/27_SSKCF.zip)
 
 -   [Staple (Appendix Nr 28)](https://github.com/bertinetto/staple)
 
 -   [ColorKCF (Appendix Nr 29)](https://github.com/psenna/KF-EBT)
 
--   [TRIC-track (Appendix Nr 32)](http://data.votchallenge.net/vot2016/trackers/32_TRIC-track.zip)
+-   [TRIC-track (Appendix Nr 32)](https://data.votchallenge.net/vot2016/trackers/32_TRIC-track.zip)
 
--   [CTF (Appendix Nr 33)](http://data.votchallenge.net/vot2016/trackers/33_CTF.zip)
+-   [CTF (Appendix Nr 33)](https://data.votchallenge.net/vot2016/trackers/33_CTF.zip)
 
--   [FCT (Appendix Nr 37)](http://data.votchallenge.net/vot2016/trackers/37_FCT.zip)
+-   [FCT (Appendix Nr 37)](https://data.votchallenge.net/vot2016/trackers/37_FCT.zip)
 
--   [DFST (Appendix Nr 39)](http://data.votchallenge.net/vot2016/trackers/39_DFST.zip)
+-   [DFST (Appendix Nr 39)](https://data.votchallenge.net/vot2016/trackers/39_DFST.zip)
 
 -   [sKCF (Appendix Nr 40)](https://github.com/asolis/vivaTracker/wiki)
 
--   [DNT (Appendix Nr 41)](http://data.votchallenge.net/vot2016/trackers/41_DNT.zip)
+-   [DNT (Appendix Nr 41)](https://data.votchallenge.net/vot2016/trackers/41_DNT.zip)
 
 -   [SCT (Appendix Nr 42)](https://sites.google.com/site/jwchoivision/home/sct)
 
--   [TCNN (Appendix Nr 44)](http://data.votchallenge.net/vot2016/trackers/44_TCNN.zip)
+-   [TCNN (Appendix Nr 44)](https://data.votchallenge.net/vot2016/trackers/44_TCNN.zip)
 
 -   [ASMS (Appendix Nr 49)](https://github.com/vojirt/asms)
 
 -   [DSST2014 (Appendix Nr 50)](https://github.com/gnebehay/DSST)
 
--   [FoT (Appendix Nr 51)](http://data.votchallenge.net/vot2016/trackers/51_FoT.zip)
+-   [FoT (Appendix Nr 51)](https://data.votchallenge.net/vot2016/trackers/51_FoT.zip)
 
--   [HMMTxD (Appendix Nr 52)](http://data.votchallenge.net/vot2016/trackers/52_HMMTxD.zip)
+-   [HMMTxD (Appendix Nr 52)](https://data.votchallenge.net/vot2016/trackers/52_HMMTxD.zip)
 
 -   [KCF - Original version (Appendix Nr 53)](http://www.robots.ox.ac.uk/~joao/circulant/)
 -   [KCF - C++ Version (Appendix Nr 53)](https://github.com/vojirt/kcf)

@@ -16,5 +16,5 @@ submenu: Results
 
 # Raw data
 
--   [Raw results](http://data.votchallenge.net/vot2013/vot2013_results.zip) - Raw results of participating trackers needed for comparative analysis
+-   [Raw results](https://data.votchallenge.net/vot2013/vot2013_results.zip) - Raw results of participating trackers needed for comparative analysis
 

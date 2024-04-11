@@ -53,18 +53,14 @@ A collection of documentation and tutorials on various topics.
 
   <img src="/vots2024/banner.jpg" alt="Banner" style="width: 100%; margin-bottom: 1em;"/>
 
-We are pleased to announce that the activities for VOTS2024 are well underway! The following three challenges are planned:
-
-- **VOTS2024 challenge** - Continuation of the [VOTS2023 challenge](/vots2023/). The task is to track one or more general targets over short-term or long-term sequences by segmentation. The [VOTS evaluation server](https://eu.aihub.ml/competitions/201#results) will be used for submission.
-- **VOTSt2024 challenge** - A new challenge this year considers general objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled, etc. It will be based on the recent [VOST dataset](https://www.vostdataset.org/) and will use the same evaluation methodology as VOTS2024. The VOTS evaluation server will be used for submission.
-- **VOTS-GenArt2024 challenge** - Continuation of the [VOTS-GenArt2023 challenge](/vots2023/genart.html) aimed at showcasing creativity and artistic flair of the tracking community in the era of generative computer vision. The task is to generate VOTS-related images or short video clips using generative models. Submissions on the [VOT X/Twitter](https://twitter.com/votchallenge) channel.
+We are pleased to announce that the activities for VOTS2024 are almost done! Please see the [VOTS2024 challenge page](/vots2024/) for more details.
 
 **Important dates**
 
  * **13th of May, 2024** - All challenges open
- * **23rd of June, 2024** - VOTS2024 & VOTSt2024 results submission deadline
- * **13th of July, 2024** - VOTS2024 & VOTSt2024 winners announcement
- * **8th of August, 2024** - VOTS-GenArt2024 closes
+ * **23rd of June, 2024** - Results submission deadline
+ * **13th of July, 2024** - Winners announcement
+ * **8th of August, 2024** - GenArt challenge closes
  * **30th of September, 2024** - VOTS2024 workshop (pending acceptance of the WS proposal)
 
 

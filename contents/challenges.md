@@ -7,20 +7,20 @@ title: Challenges
 # Challenges
 
 
-<div class="alert alert-info" role="alert">
+<!--div class="alert alert-info" role="alert">
  There are currently no open challenges.
-</div>
+</div-->
 
 
-<!--div class="row">
+<div class="row">
 <div class="col-lg-6 col-sm-12">
-<a href="/vots2023/" class="challengebutton text-primary">
-<img class="logo" src="/img/vots2023_logo_website.png" alt="VOTS2023" />
-<h3>VOTS2023 challenge</h3>
-<p class="description">The VOTS2023 challenge unifies single/multiple-target, short/long-term tracking and segmentation. Results will be presented at the ICCV2023 VOTS workshop.</p>
+<a href="/vots2024/" class="challengebutton text-primary">
+<img class="logo" src="/img/vots2024_logo_website.png" alt="VOTS2023" />
+<h3>VOTS2024 challenge</h3>
+<p class="description">The VOTS2024 challenge is a continuation of VOTS2023 challenge, it also introduces a new sub-challenge this year considers general objects undergoing various topological transformations.</p>
 </a>
 </div>
-</div-->
+</div>
 
 # Benchmarks
 

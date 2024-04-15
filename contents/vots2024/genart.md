@@ -1,7 +1,7 @@
 ---
 template: page2024.pug
 submenu: VOT GenArt
----
+--- 
 
 # VOTS2024 GenArt Challenge
  

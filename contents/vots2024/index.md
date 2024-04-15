@@ -22,7 +22,7 @@ Three challenges are organized:
  * 23rd of June, 2024 - VOTS2024 & VOTSt2024 results submission deadline
  * 13th of July, 2024 - VOTS2024 & VOTSt2024 winners announcement
  * 8th of August, 2024 - VOTS-GenArt2024 closes
- * 30th of September, 2024 - VOTS2024 workshop (pending acceptance of the WS proposal)
+ * 30th of September, 2024 - VOTS2024 workshop at ECCV2024
 
 ## Sponsors
 

@@ -61,7 +61,7 @@ We are pleased to announce that the activities for VOTS2024 are almost done! Ple
  * **23rd of June, 2024** - Results submission deadline
  * **13th of July, 2024** - Winners announcement
  * **8th of August, 2024** - GenArt challenge closes
- * **30th of September, 2024** - VOTS2024 workshop (pending acceptance of the WS proposal)
+ * **30th of September, 2024** - VOTS2024 workshop at ECCV2024
 
 
 **Contacts**

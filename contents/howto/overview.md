@@ -65,6 +65,13 @@ This command will skip already performed runs for the tracker, so you can resume
 
 ## Performance analysis
 
+<div class="alert alert-warning" role="alert">
+<div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i></div>
+
+This Section applies only for VOT2022 and earlier benchmarks. For the VOTS2023 and later challenges, the ground truth is not available, thus the analysis cannot be computed locally. In this case, follow the <em>Packing results</em> section below and submit the result the the [evaluation server](https://eu.aihub.ml/competitions/) to compute the performance online.
+
+</div>
+
 After running evaluation of a tracker and obtaining the raw results in the `results` directory, tracking performance can be calculated using the following command:
 
 ```console

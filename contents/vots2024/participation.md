@@ -110,7 +110,7 @@ As the VOT is primarily rooted in the EU, some members are restricted by law to 
     
     The **final submission** will be used for the final score. Please make sure that the tracker description matches the code that produced the final submission.
 
-  - **Will the evaluation server remain open after the VOTS2023 deadline?**
+  - **Will the evaluation server remain open after the VOTS2024 deadline?**
 
     After the challenge deadline, the VOTS2024 and VOTSt2024 challenges become the VOTS2024 and VOTSt2024 benchmarks and the evaluation server will remain open. In fact, the VOTS2023 challenge results will be added to the VOTS2024 results. The results submission link on the challenge page will change to enable post-challenge submissions not included in the VOTS2024 results paper. However, all benchmark and challenge submissions will appear on the same leaderboard
 

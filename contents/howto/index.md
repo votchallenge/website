@@ -19,7 +19,8 @@ These tutorials cover various topics on how to use VOT toolkit in your experimen
 
 # Documentation
 
-- [TraX protocol documentation](http://trax.readthedocs.io/)
+- [VOT toolkit documentation](https://vot-toolkit.readthedocs.io/en/latest/)
+- [TraX reference library documentation](http://trax.readthedocs.io/)
 
 # Support forum
 

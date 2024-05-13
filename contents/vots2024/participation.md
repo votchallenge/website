@@ -17,8 +17,8 @@ Researchers are invited to participate in two challenges: [VOTS2024](#vots) and 
 ## VOTS2024 challenge participation
 
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
-* Register your tracker on the VOTS2024 challenge registration page (TBA), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the VOTS2024 challenge evaluation server (TBA). Do not forget to pack the results with the vot pack command.
+* Register your tracker on the VOTS2024 challenge [registration page](https://forms.gle/RCrWN4v2ufjh6TkA9), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the VOTS2024 challenge [evaluation server](https://eu.aihub.ml/competitions/251). Do not forget to pack the results with the vot pack command.
 * Receive performance scores via email.
 * See Additional clarifications and FAQ below for further details.
 * We invite the participants to run their trackers also on the VOTSt2024 challenge (see next section) – it’s zero-hassle once you’ve got the tracker running on the VOTS2024 challenge.
@@ -35,8 +35,8 @@ Researchers are invited to participate in two challenges: [VOTS2024](#vots) and 
 ## VOTSt2024 challenge participation
 
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
-* Register your tracker on the VOTSt2024 challenge registration page (TBA), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the VOTSt2024 challenge evaluation server (TBA). Do not forget to pack the results with the `vot pack` command.
+* Register your tracker on the VOTSt2024 challenge [registration page](https://forms.gle/gkYLr21HSdwH9jff7), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the VOTSt2024 challenge [evaluation server](https://eu.aihub.ml/competitions/250). Do not forget to pack the results with the `vot pack` command.
 * Receive performance scores via email.
 * See Additional clarifications and FAQ below for further details.
 

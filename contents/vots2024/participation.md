@@ -59,6 +59,8 @@ Researchers are invited to participate in two challenges: [VOTS2024](#vots) and 
  - Authors are encouraged to submit their own previously published or unpublished trackers.
  - Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.
  - The VOTS2024 challenge winner is required to publicly release the pertained tracker and the source code. In case private training sets are used, the authors are strongly encouraged to make the dataset publicly available to foster results reproducibility.
+ - In the case of VOTS2024 challenge, submissions of trackers that have already been submitted to VOTS2023 challenge are not eligible. Only substantial extensions of those tracker can be submitted to VOTS2024 challenge -- the extension should be clearly explained in the tracker description.
+ - In the case of the new VOTSt2024 challenge, submissions of trackers that have already been submitted to VOTS2023 challenge will be treated as valid submissions, since they have not yet been tested on the new dataset.
 
 ### Tracker registration checklist (prepare in advance)
 
@@ -74,6 +76,9 @@ Researchers are invited to participate in two challenges: [VOTS2024](#vots) and 
 
 As the VOT is primarily rooted in the EU, some members are restricted by law to collaborate with institutions from certain countries, such as the Russian Federation. Consequently the VOT cannot process submissions affiliated with the mentioned institutions. In such cases, the authors should consider declaring affiliations with internationally recognized professional organizations, such as IEEE, ACM, CVF or ORCHID instead. If uncertain about eligibility of your institution, please contact our [affiliation representative](mailto:michael.felsberg@liu.se).
 
+### VOTS2024 paper coauthorship
+
+Participants whose trackers will outperform the baselines in the respective challenges will be offered co-authorship of the results paper. The baselines are "STARK-multi" for the VOTS2024 challenge and "AOTPlus" for the VOTSt2024 challenge.
 
 ## FAQ
 

@@ -14,7 +14,7 @@ submenu: People
  * [Alan Lukežič](http://www.vicos.si/User:Alanl), University of Ljubljana, Slovenia
  * Gustavo Fernández, Austrian Institute of Technology, Austria
  * [Hyung Jin Chang](https://www.cs.bham.ac.uk/~changhj), University of Birmingham, UK
-
+ 
 ## Technical committee
  
  * [Khanh-Tung Tran](https://www.linkedin.com/in/khanh-tung-tran-83b3541ab/)

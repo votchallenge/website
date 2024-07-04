@@ -10,7 +10,7 @@ VOTS adopts a general problem formulation that covers single/multiple-target and
 ![Problem statement](../vots2023/problem_statement.png)
 
 Researchers are invited to participate in two challenges: [VOTS2024](#vots) and [VOTSt2024](#vost). The difference between the two challenges is that VOTS2024 considers objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled.
-
+ 
 ![Challenges](challenges_preview.jpg)
 
 <a name="vots"></a>

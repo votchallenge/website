@@ -9,19 +9,16 @@ submenu: Home
  
 Visual Object Tracking and Segmentation challenge VOTS2024 is a continuation of the VOTS2023 challenge, which no longer distincts between single- and multi-target tracking nor between short- and long-term tracking. It requires tracking one or more targets simultaneously by segmentation over long or short sequences, while the targets may disappear during tracking and reappear later in the video.
 
-Three challenges are organized:
+Two challenges are organized:
 
  * VOTS2024 challenge - Continuation of the VOTS2023 challenge. The task is to track one or more general targets over short-term or long-term sequences by segmentation.
  * VOTSt2024 challenge - A new sub-challenge this year considers general objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled, etc.
- * [VOTS-GenArt2024 challenge](genart.html) - Continuation of the VOTS-GenArt2023 challenge aimed at showcasing creativity and artistic flair of the tracking community in the era of generative computer vision. The task is to generate VOTS-related images or short video clips using generative models. 
-
 
 ## Important dates
 
  * 13th of May, 2024 - All challenges open
  * 23rd of June, 2024 - VOTS2024 & VOTSt2024 results submission deadline
  * 13th of July, 2024 - VOTS2024 & VOTSt2024 winners announcement
- * 8th of August, 2024 - VOTS-GenArt2024 closes
  * 29th of September, 2024 - VOTS2024 workshop at ECCV2024
 
 ## Sponsors

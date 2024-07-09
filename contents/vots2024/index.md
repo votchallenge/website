@@ -14,6 +14,8 @@ Two challenges are organized:
  * VOTS2024 challenge - Continuation of the VOTS2023 challenge. The task is to track one or more general targets over short-term or long-term sequences by segmentation.
  * VOTSt2024 challenge - A new sub-challenge this year considers general objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled, etc.
 
+The VOTS2024 Benchmarks are continually open for post-challenge evaluation, see the [Leaderboards](leaderboards.html) for up-to-date results of the respective tracking challenges. Please follow [instructions](participation.html) to submit your results.
+
 ## Important dates
 
  * 13th of May, 2024 - All challenges open

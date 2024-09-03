@@ -15,3 +15,4 @@ Use generative art models to create images or videos, such as those containing t
 - **Challenge opens**: 13th of May 2024
 - **Submission deadline**: 8th of August 2024
 - **Results announcement**: 30th of September 2024
+ 

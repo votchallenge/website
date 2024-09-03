@@ -13,7 +13,8 @@ The workshop will take place on **September 29th (morning)** 2024 in Milano.
  * [9:05 - 9:35] Keynote 1: Christoph Feichtenhofer - *SAM 2: Segment Anything in Images and Videos*
  * [9:35 - 9:55] VOTS2024 challenge results
  * [9:55 - 10:15] VOTST2024 challenge results
- * [10:15 - 10:35] Panel
+ 
+**10:15 - 10:35 Panel**
 
 10:35 - 11:00 Coffee Break
 

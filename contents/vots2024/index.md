@@ -39,3 +39,4 @@ The VOTS2024 challenge is sponsored by the Faculty of Computer and Information S
 
 More details coming soon. Subscribe to the new VOT mailing list by [sending an empty email](mailto:votchallange-join@lists.arnes.si) or follow us on [Twitter](https://twitter.com/votchallenge).
 </div>
+ 

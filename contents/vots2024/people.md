@@ -20,4 +20,3 @@ submenu: People
  * [Khanh-Tung Tran](https://www.linkedin.com/in/khanh-tung-tran-83b3541ab/)
  * [Xuan-Son Vu](https://people.cs.umu.se/sonvx)
  * [Johanna Björklund](https://www.umu.se/en/staff/johanna-bjorklund/)
- 

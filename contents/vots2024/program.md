@@ -22,7 +22,7 @@ The workshop will take place on **September 29th (morning)** 2024 in Milano.
 
  * [11:00 -11:30] Keynote 2:  Carl Doersch - *Tracking Any Point for Robotics, Graphics, and Beyond*
  * [11:30 - 11:45] Winner of VOTS2024 presentation
- * [11:45 - 12:15] Keynote 3: Jia Deng - title TBA
+ * [11:45 - 12:15] Keynote 3: Jia Deng - *Creating Synthetic Data for Tracking, Segmentation, and Everything Else*
  * [12:15 - 12:20] Closing remarks
 
 

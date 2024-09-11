@@ -5,7 +5,7 @@ submenu: Program
  
 ## Program
 
-The workshop will take place on **September 29th (morning)** 2024 in Milano.
+The workshop will take place on **September 29th (morning)** 2024 @ECCV2024 in Milano (room **Amber 4**). The VOTS2024 challenge results are available in the results paper [here](https://prints.vicos.si/publications/450).
 
 **9:00 - 10:35 Session 1**
 

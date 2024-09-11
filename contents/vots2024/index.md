@@ -16,6 +16,8 @@ Two challenges are organized:
 
 The VOTS2024 Benchmarks are continually open for post-challenge evaluation, see the [Leaderboards](leaderboards.html) for up-to-date results of the respective tracking challenges. Please follow [instructions](participation.html) to submit your results.
 
+Please see the [*The Second Visual Object Tracking Segmentation VOTS2024 Challenge Results*](https://prints.vicos.si/publications/450) paper for the challenge results analysis.
+
 ## Important dates
 
  * 13th of May, 2024 - All challenges open

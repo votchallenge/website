@@ -27,12 +27,13 @@ Please see the [*The Second Visual Object Tracking Segmentation VOTS2024 Challen
 
 ## Sponsors
 
-The VOTS2024 challenge is sponsored by the Faculty of Computer and Information Science, University of Ljubljana, The Academic and Research Network of Slovenia ARNES, University of Birmingham, Wallenberg AI, Autonomous Systems and Software Program WASP
+The VOTS2024 challenge is sponsored by the Faculty of Computer and Information Science, University of Ljubljana, The Academic and Research Network of Slovenia - ARNES, University of Birmingham, and Wallenberg AI - Autonomous Systems and Software Program WASP.
 
 <div class="spotlight logos">
 <a href="http://www.fri.uni-lj.si/"><img src="../img/org/logo_ljubljana.png" width="170px"/></a>
 <a href="https://www.arnes.si/"><img src="../img/org/logo_arnes.png" /></a>
 <a href="https://wasp-sweden.org/"><img src="../img/org/logo_wasp.png" width="250px"/></a>
+<a href="https://www.birmingham.ac.uk/index.aspx"><img src="/img/org/logo_birmingham.png" width="170px"/></a>
 </div>
 
 <div class="alert alert-info" role="alert">

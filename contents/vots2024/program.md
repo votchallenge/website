@@ -8,7 +8,7 @@ submenu: Program
 The workshop will take place on **September 29th (morning)** 2024 @ECCV2024 in Milano (room **Amber 4**). <br>
 The VOTS2024 challenge results are available in the results paper [here](https://prints.vicos.si/publications/450).
 
-**9:00 - 10:30 Session 1**
+**9:00 - 10:30 Session 1** (Chair: Jiri Matas)
 
  * [9:00 - 9:05] Hello
  * [9:05 - 9:35] Keynote 1: Christoph Feichtenhofer - *SAM 2: Segment Anything in Images and Videos*
@@ -18,11 +18,11 @@ The VOTS2024 challenge results are available in the results paper [here](https:/
 
 10:30 - 11:00 Coffee Break
 
-**11:00 - 12:20 Session 2**
+**11:00 - 12:20 Session 2** (Chair: Michael Felsberg)
 
  * [11:00 -11:30] Keynote 2:  Carl Doersch - *Tracking Any Point for Robotics, Graphics, and Beyond*
  * [11:45 - 12:15] Keynote 3: Jia Deng - *Creating Synthetic Data for Tracking, Segmentation, and Everything Else*
- * [12:00 - 12:20] Panel: The future of VOTS and tracking
+ * [12:00 - 12:20] Panel: The future of VOTS and tracking, (Moderator: Hyung Jin Chang, Panelists: Christoph Feichtenhofer, Carl Doersch, Jia Deng, Jiri Matas)
  * [12:15 - 12:20] Closing remarks
 
 ## Keynotes

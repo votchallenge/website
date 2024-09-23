@@ -8,27 +8,24 @@ submenu: Program
 The workshop will take place on **September 29th (morning)** 2024 @ECCV2024 in Milano (room **Amber 4**). <br>
 The VOTS2024 challenge results are available in the results paper [here](https://prints.vicos.si/publications/450).
 
-**9:00 - 10:35 Session 1**
+**9:00 - 10:30 Session 1**
 
  * [9:00 - 9:05] Hello
  * [9:05 - 9:35] Keynote 1: Christoph Feichtenhofer - *SAM 2: Segment Anything in Images and Videos*
- * [9:35 - 9:55] VOTS2024 challenge results
- * [9:55 - 10:15] VOTST2024 challenge results
- 
-**10:15 - 10:35 Panel**
+ * [9:35 - 9:55] VOTS2024 challenge results: Matej Kristan
+ * [9:55 - 10:15] VOTSt2024 challenge results: Pavel Tokmakov
+ * [10:15 - 10:30] Winner of VOTS2024: S3_Track -- Associating Semantic Tracker, D. Miao, X. Huang, X. Li, D. Jiang, M. Yang, Y. Wang
 
-10:35 - 11:00 Coffee Break
+10:30 - 11:00 Coffee Break
 
 **11:00 - 12:20 Session 2**
 
  * [11:00 -11:30] Keynote 2:  Carl Doersch - *Tracking Any Point for Robotics, Graphics, and Beyond*
- * [11:30 - 11:45] Winner of VOTS2024 presentation
  * [11:45 - 12:15] Keynote 3: Jia Deng - *Creating Synthetic Data for Tracking, Segmentation, and Everything Else*
+ * [12:00 - 12:20] Panel: The future of VOTS and tracking
  * [12:15 - 12:20] Closing remarks
 
-
 ## Keynotes
-
 
 <div class="container float-left">
 
@@ -58,3 +55,11 @@ Carl Doersch is a staff research scientist at DeepMind working closely with Andr
 
 Jia Deng is an Associate Professor of Computer Science at Princeton University. His research focus is on computer vision and machine learning. He received his Ph.D. from Princeton University and his B.Eng. from Tsinghua University, both in computer science. He is a recipient of the Sloan Research Fellowship, the NSF CAREER award, the ONR Young Investigator award, an ICCV Marr Prize, and two ECCV Best Paper Awards.
 </div>
+
+## Video presentations
+
+The VOTSt2024 winners and runner-ups were unable to attend the workshop to present their work. Instead, they have prepared video presentaitos:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NfMQ3z4vPuI?si=IRC-43LFS1ZTFzte" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gp3poP0oMmw?si=4X8r_LdW6EKjYTQn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

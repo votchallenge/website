@@ -21,7 +21,7 @@ The VOTS2024 challenge results are available in the results paper [here](https:/
 **11:00 - 12:20 Session 2** (Chair: Michael Felsberg)
 
  * [11:00 -11:30] Keynote 2:  Carl Doersch - *Tracking Any Point for Robotics, Graphics, and Beyond*
- * [11:45 - 12:15] Keynote 3: Jia Deng - *Creating Synthetic Data for Tracking, Segmentation, and Everything Else*
+ * [11:30 - 12:00] Keynote 3: Jia Deng - *Creating Synthetic Data for Tracking, Segmentation, and Everything Else*
  * [12:00 - 12:20] Panel: The future of VOTS and tracking, (Moderator: Hyung Jin Chang, Panelists: Christoph Feichtenhofer, Carl Doersch, Jia Deng, Jiri Matas)
  * [12:15 - 12:20] Closing remarks
 

@@ -47,23 +47,27 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Announcing VOTS2024!</h3>
+    <h3 class="panel-title">Announcing VOTS2025!</h3>
   </div>
   <div class="panel-body">
 
-  <img src="/vots2024/banner.jpg" alt="Banner" style="width: 100%; margin-bottom: 1em;"/>
+We are pleased to announce VOTS2025! In addition to standard challenges, the VOTS2025-RT (real-time) challenge will be introduced. Details will be available soon on the webpage.
 
-We are pleased to announce that the activities for VOTS2024 are almost done! Please see the [VOTS2024 challenge page](/vots2024/) for more details.
+**List of challenges:**
 
-**Important dates**
+ * **VOTS2025** Challenge (continuation of VOTS2024 segmentation tracking)
+ * **VOTS2025-RT** Challenge (real-time version of VOTS2025)
+ * **VOTSt2025** Challenge (continuation of VOTSt2024 transformative object tracking)
 
- * **13th of May, 2024** - All challenges open
- * **23rd of June, 2024** - Results submission deadline
- * **13th of July, 2024** - Winners announcement
- * **29th of September, 2024** - VOTS2024 workshop at ECCV2024
+**Important dates:**
+
+ * **25th of April, 2025** - Challenges details available on webpage
+ * **13th of May, 2025** - All challenges open
+ * **22nd of June, 2025** - Results submission deadline
+ * **13th of July, 2025** - Winners announcement
 
 
-**Contacts**
+**Contacts:**
 
  * X/Twitter: https://twitter.com/votchallenge
  * Mailing list: subscribe by [sending an empty email](mailto:votchallange-join@lists.arnes.si).

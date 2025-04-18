@@ -24,7 +24,7 @@ Make sure that `<stack-name>` is a valid stack from directory vot/stack, e.g., u
 
 ## Tracker integration
 
-A tracker can be integrated into the toolkit by putting a tracker description in the `trackers.ini` file, which is placed in the `workspace` directory. Note that multiple tracker descriptions can be in the same `trackers.ini` file. Here are examples of integration for three trackers (Python, Matlab and native). Source code of the example trackers can be found [here](https://github.com/votchallenge/integration).
+<!-- A tracker can be integrated into the toolkit by putting a tracker description in the `trackers.ini` file, which is placed in the `workspace` directory. Note that multiple tracker descriptions can be in the same `trackers.ini` file. Here are examples of integration for three trackers (Python, Matlab and native). Source code of the example trackers can be found [here](https://github.com/votchallenge/integration).
 
 <div class="alert alert-info" role="alert">
 <div class="icon-left"><i class="glyphicon glyphicon-exclamation-sign hugeicon"></i> </div>
@@ -43,15 +43,40 @@ command = python_ncc
 paths = <path-to-tracker-source-directory>
 # Additional environment paths
 env_PATH = <additional-env-paths>;${PATH}
+``` -->
+
+Integrating a tracker into the toolkit consists of two steps: (i) creating the *tracker wrapper* and (ii) putting a tracker description in the `trackers.ini` file, which is placed in the `workspace` directory. 
+
+**Wrapper creation**
+
+A wrapper is a piece of code, which can be viewed as a bridge between the toolkit and the tracker. We provide some examples of wrappers for three programming languages: Python, Matlab and native. Source code of the example trackers can be found [in the separate repository](https://github.com/votchallenge/integration).
+
+**Tracker description in trackers.ini**
+
+The wrapper created in previous step should be integrated into the toolkit by putting a tracker description in the `trackers.ini` file, which is placed in the `workspace` directory. Note that multiple tracker descriptions can be in the same `trackers.ini` file. Here is an example of one such entry - for the ncc tracker, implemented in the [repository](https://github.com/votchallenge/integration).
+
+```bash
+[NCCPython]  # <tracker-name>
+label = PyNCC
+protocol = traxpython
+command = python_ncc
+# Specify a path to trax python wrapper if it is not visible (separate by ; if using multiple paths)
+paths = <path-to-tracker-source-directory>
+# Additional environment paths
+env_PATH = <additional-env-paths>;${PATH}
 ```
 
+
+## Testing the tracker (optional)
+
 You can test the integration of the tracker on a synthetic sequence using the following command (assuming that you are in the same folder than `trackers.ini`):
-    ```bash
-    vot test <tracker-name>
-    ```
-    You can also visualize results for a single sequence:
-    ```bash
-    vot test -g <tracker-name>
+```bash
+vot test <tracker-name>
+```
+You can also visualize results for a single sequence:
+```bash
+vot test -g <tracker-name>
+```
 
 ## Perform experiments
 
@@ -72,13 +97,14 @@ This Section applies only for VOT2022 and earlier benchmarks. For the VOTS2023 a
 
 </div>
 
-After running evaluation of a tracker and obtaining the raw results in the `results` directory, tracking performance can be calculated using the following command:
+After running evaluation of a tracker and obtaining the raw results in the `results` directory, tracking performance can be calculated using the following two commands:
 
 ```console
-vot analysis --workspace <workspace-path> <tracker-name>
+vot analysis --workspace <workspace-path> --format=json <tracker-name>
+vot report --workspace <workspace-path> --format=html <tracker-name>
 ```
 
-The toolkit will calculate performance measures which are specified in the stack file. Note that `<tracker-name>` can represent a single tracker or multiple space-delimited tracker identifiers. Currently the supported output is JSON. The command will create a json file with the tracking scores in the `workspace` directory. We will add more output options in the future.
+The toolkit will calculate performance measures which are specified in the stack file. Note that `<tracker-name>` can represent a single tracker or multiple space-delimited tracker identifiers. The report will be generated in the `workspace/reports` directory showing performance measures computed for all given trackers. 
 
 ## Packaging results
 

@@ -51,7 +51,7 @@ A collection of documentation and tutorials on various topics.
   </div>
   <div class="panel-body">
 
-We are pleased to announce VOTS2025! In addition to standard challenges, the VOTS2025-RT (real-time) challenge will be introduced. Details will be available soon on the webpage.
+We are pleased to announce VOTS2025! In addition to standard challenges, the VOTS2025-RT (real-time) challenge will be introduced. Details about the challenge are available on the [VOTS2025 webpage](/vots2025/).
 
 **List of challenges:**
 

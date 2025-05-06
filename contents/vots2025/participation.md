@@ -50,7 +50,16 @@ The VOTS sequences may contain several  objects to be tracked. In the past, this
  
  - Note: For additional analysis insight, the toolkit will also run the tracker automatically in the VOTS2025 challenge (i.e., without realtime constraint) to measure performance drop due to real-time constraint.
 
- - The VOTS2025-RT challenge winner identification protocol: The top-performing trackers according to the submitted results will be verified by the VOTS committee.  This means that they will be re-run on our local hardware (hardware specs: TBD) and the top performer will be the winner. To prevent multiple versions of the same tracker, we will consider only a single tracker from each team in the winner identification re-run process. The authors are required to colaborate with our technical team and help to run the tracker if neccessary.
+ - The VOTS2025-RT challenge winner identification protocol: The top-performing trackers according to the submitted results will be verified by the VOTS committee. This means that they will be re-run on our local hardware (see specs below) and the top performer will be the winner. To prevent multiple versions of the same tracker, we will consider only a single tracker from each team in the winner identification re-run process. The authors are required to colaborate with our technical team and help to run the tracker if neccessary. 
+
+<a name="votsrt-spec"></a>
+### Local hardware specifications 
+
+* NVIDIA RTX 4500 Ada GPU with 24GB of VRAM
+* Intel i9-13900K CPU and 128GB of RAM
+* OS: Debian 6.1.119
+* CUDA 12.4.0
+* The source code should be prepared for integration with the *virtualenv* Python package management system
 
 <a name="vost"></a>
 ## VOTSt2025 challenge participation

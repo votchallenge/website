@@ -29,7 +29,7 @@ To participate in any VOTS2025 challenge, please follow [instructions](participa
 The VOTS2025 challenge is sponsored by the Faculty of Computer and Information Science, University of Ljubljana, The Academic and Research Network of Slovenia - ARNES, University of Birmingham, and Wallenberg AI - Autonomous Systems and Software Program WASP.
 
 <div class="spotlight logos">
-<a href="http://www.fri.uni-lj.si/"><img src="../img/org/logo_ljubljana.png" width="170px"/></a>
+<a href="http://www.fri.uni-lj.si/"><img src="../img/org/logo_fri_uni_lj.png" width="180px"/></a>
 <a href="https://www.arnes.si/"><img src="../img/org/logo_arnes.png" /></a>
 <a href="https://wasp-sweden.org/"><img src="../img/org/logo_wasp.png" width="250px"/></a>
 <a href="https://www.birmingham.ac.uk/index.aspx"><img src="/img/org/logo_birmingham.png" width="170px"/></a>

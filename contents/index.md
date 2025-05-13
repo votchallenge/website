@@ -47,11 +47,11 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Announcing VOTS2025!</h3>
+    <h3 class="panel-title">The VOTS2025 in now open!</h3>
   </div>
   <div class="panel-body">
 
-We are pleased to announce VOTS2025! In addition to standard challenges, the VOTS2025-RT (real-time) challenge will be introduced. Details about the challenge are available on the [VOTS2025 webpage](/vots2025/).
+We are pleased to announce that the VOTS2025 Challenge is now open! In addition to standard challenges, the VOTS2025-RT (real-time) challenge is introduced. Details about the challenge are available on the [VOTS2025 webpage](/vots2025/).
 
 **List of challenges:**
 

@@ -18,9 +18,10 @@ Researchers are invited to participate in three challenges: [VOTS2025](#vots), [
 ## VOTS2025 challenge participation
 
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html). Before the challenge starts: the newest version of the toolkit is not available to install using pip, thus should be installed from the github using the command: `pip install git+https://github.com/votchallenge/toolkit.git`
-* Register your tracker on the VOTS2025 challenge [registration page - TBD](#), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025 challenge evaluation server - TBD](#). Do not forget to pack the results with the vot pack command.
+* Register your tracker on the VOTS2025 challenge [registration page](https://forms.gle/nA5SHMr7ywCe4h4c7), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025 challenge evaluation server](https://eu.aihub.ml/competitions/255). Do not forget to pack the results with the vot pack command.
 * Receive performance scores via email.
+* We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead. 
 * See Additional clarifications and FAQ below for further details.
 * We invite the participants to run their trackers also on the VOTSt2025 challenge (see next section) – it’s zero-hassle once you’ve got the tracker running on the VOTS2025 challenge.
 
@@ -44,10 +45,12 @@ The VOTS sequences may contain several  objects to be tracked. In the past, this
  
  - Run your tracker by creating a workspace using the command `vot initialize vots2025/realtime` in the toolkit and submit the output masks to the evaluation server. Note that if you attent the real-time challenge, the baseline experiment (without any time constraint) will be automatically performed as well. Important: the real-time challenge supports **only simultaneous tracker outputs**, i.e., a tracker should report positions (masks) for all objects on an individual frame before the next frame is obtained. 
 
- - Register your tracker on the VOTS2025-RT challenge [registration page - TBD](#), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+ - Register your tracker on the VOTS2025-RT challenge [registration page](https://forms.gle/uuMD8g1m8tXKv7Ay9), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
  
- - Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025-RT challenge evaluation server - TBD](#). Do not forget to pack the results with the `vot pack` command. Performance scores are received via an e-mail.
+ - Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025-RT challenge evaluation server](https://eu.aihub.ml/competitions/257). Do not forget to pack the results with the `vot pack` command. Performance scores are received via an e-mail.
  
+ - We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead.
+
  - Note: For additional analysis insight, the toolkit will also run the tracker automatically in the VOTS2025 challenge (i.e., without realtime constraint) to measure performance drop due to real-time constraint.
 
  - The VOTS2025-RT challenge winner identification protocol: The top-performing trackers according to the submitted results will be verified by the VOTS committee. This means that they will be re-run on our local hardware (see specs below) and the top performer will be the winner. To prevent multiple versions of the same tracker, we will consider only a single tracker from each team in the winner identification re-run process. The authors are required to colaborate with our technical team and help to run the tracker if neccessary. 
@@ -65,9 +68,10 @@ The VOTS sequences may contain several  objects to be tracked. In the past, this
 ## VOTSt2025 challenge participation
 
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
-* Register your tracker on the VOTSt2025 challenge [registration page - TBD](#), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTSt2025 challenge evaluation server - TBD](#). Do not forget to pack the results with the `vot pack` command.
-* Receive performance scores via email.
+* Register your tracker on the VOTSt2025 challenge [registration page](https://forms.gle/a3R67snFRHudN8pP9), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTSt2025 challenge evaluation server](https://eu.aihub.ml/competitions/256). Do not forget to pack the results with the `vot pack` command.
+* Receive performance scores via email. 
+* We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead.
 * See Additional clarifications and FAQ below for further details.
 
 ![Participation steps](../vots2023/participation_steps.png)
@@ -92,7 +96,6 @@ The VOTS sequences may contain several  objects to be tracked. In the past, this
  - Authors may submit modified versions of third-party trackers. The submission description should clearly state what the changes were. Third-party trackers submitted without significant modification will not be accepted.
  - The VOTS2025 challenge winner is required to publicly release the pertained tracker and the source code. In case private training sets are used, the authors are strongly encouraged to make the dataset publicly available to foster results reproducibility.
  - In the case of VOTS2025 challenge, submissions of trackers that have already been submitted to VOTS2023 and VOTS2024 challenge are not eligible. Only substantial extensions of those tracker can be submitted to VOTS2025 challenge -- the extension should be clearly explained in the tracker description.
- <!-- - In the case of the new VOTSt2025 challenge, submissions of trackers that have already been submitted to VOTS2023 challenge will be treated as valid submissions, since they have not yet been tested on the new dataset. -->
 
 ### Tracker registration checklist (prepare in advance)
  

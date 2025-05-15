@@ -17,7 +17,7 @@ Researchers are invited to participate in three challenges: [VOTS2025](#vots), [
 <a name="vots"></a>
 ## VOTS2025 challenge participation
 
-* Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html). Before the challenge starts: the newest version of the toolkit is not available to install using pip, thus should be installed from the github using the command: `pip install git+https://github.com/votchallenge/toolkit.git`
+* Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
 * Register your tracker on the VOTS2025 challenge [registration page](https://forms.gle/nA5SHMr7ywCe4h4c7), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
 * Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025 challenge evaluation server](https://eu.aihub.ml/competitions/255). Do not forget to pack the results with the vot pack command.
 * Receive performance scores via email.

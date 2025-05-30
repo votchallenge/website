@@ -114,7 +114,7 @@ As the VOT is primarily rooted in the EU, some members are restricted by law to 
 
 ### VOTS2025 paper coauthorship
 
-Participants whose trackers will outperform the baselines in the respective challenges will be offered co-authorship of the results paper. The baselines are "STARK-multi" for the VOTS2025 challenge and "AOTPlus" for the VOTSt2025 challenge.
+Participants whose trackers will outperform the baselines in the respective challenges will be offered co-authorship of the results paper. The baselines are "STARK-multi" for the VOTS2025 and VOTS2025-RT challenges and "AOTPlus" for the VOTSt2025 challenge.
 
 ## FAQ
   

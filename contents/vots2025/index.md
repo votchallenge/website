@@ -23,6 +23,7 @@ To participate in any VOTS2025 challenge, please follow [instructions](participa
  * **13th of May, 2025** - All challenges open
  * **22nd of June, 2025** - Results submission deadline
  * **13th of July, 2025** - Winners announcement
+ * **20th of October (Afternoon), 2025** - VOTS2025 workshop at ICCV2025
 
 ## Sponsors
 

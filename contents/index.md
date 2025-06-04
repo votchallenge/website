@@ -65,6 +65,7 @@ We are pleased to announce that the VOTS2025 Challenge is now open! In addition 
  * **13th of May, 2025** - All challenges open
  * **22nd of June, 2025** - Results submission deadline
  * **13th of July, 2025** - Winners announcement
+ * **20th of October (Afternoon), 2025** - VOTS2025 workshop at ICCV2025
 
 
 **Contacts:**

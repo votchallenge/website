@@ -12,7 +12,7 @@ The VOTS2024 challenge results are available in the results paper [here](https:/
 
  * [9:00 - 9:05] Hello
  * [9:05 - 9:35] Keynote 1: Christoph Feichtenhofer - *SAM 2: Segment Anything in Images and Videos*
- * [9:35 - 9:55] VOTS2024 challenge results: Matej Kristan
+ * [9:35 - 9:55] [VOTS2024 challenge results](VOTS2024_results.pdf): Matej Kristan
  * [9:55 - 10:15] VOTSt2024 challenge results: Pavel Tokmakov
  * [10:15 - 10:30] Winner of VOTS2024: S3_Track -- Associating Semantic Tracker, D. Miao, X. Huang, X. Li, D. Jiang, M. Yang, Y. Wang
 

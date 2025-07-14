@@ -18,8 +18,8 @@ Researchers are invited to participate in three challenges: [VOTS2025](#vots), [
 ## VOTS2025 challenge participation
 
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
-* Register your tracker on the VOTS2025 challenge [registration page](https://forms.gle/nA5SHMr7ywCe4h4c7), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025 challenge evaluation server](https://eu.aihub.ml/competitions/255). Do not forget to pack the results with the vot pack command.
+* Register your tracker on the VOTS2025 challenge [registration page](https://forms.gle/YjQUsJnBN9DNod386), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025 challenge evaluation server](https://eu.aihub.ml/competitions/201). Do not forget to pack the results with the vot pack command.
 * Receive performance scores via email.
 * We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead. 
 * See Additional clarifications and FAQ below for further details.
@@ -45,9 +45,9 @@ The VOTS sequences may contain several  objects to be tracked. In the past, this
  
  - Run your tracker by creating a workspace using the command `vot initialize vots2025/realtime` in the toolkit and submit the output masks to the evaluation server. Note that if you attent the real-time challenge, the baseline experiment (without any time constraint) will be automatically performed as well. Important: the real-time challenge supports **only simultaneous tracker outputs**, i.e., a tracker should report positions (masks) for all objects on an individual frame before the next frame is obtained. 
 
- - Register your tracker on the VOTS2025-RT challenge [registration page](https://forms.gle/uuMD8g1m8tXKv7Ay9), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+ - Register your tracker on the VOTS2025-RT challenge [registration page](https://forms.gle/K2s5mGr7KLNTGCS49), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
  
- - Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025-RT challenge evaluation server](https://eu.aihub.ml/competitions/257). Do not forget to pack the results with the `vot pack` command. Performance scores are received via an e-mail.
+ - Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025-RT challenge evaluation server](https://eu.aihub.ml/competitions/258). Do not forget to pack the results with the `vot pack` command. Performance scores are received via an e-mail.
  
  - We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead.
 
@@ -68,8 +68,8 @@ The VOTS sequences may contain several  objects to be tracked. In the past, this
 ## VOTSt2025 challenge participation
 
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
-* Register your tracker on the VOTSt2025 challenge [registration page](https://forms.gle/a3R67snFRHudN8pP9), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTSt2025 challenge evaluation server](https://eu.aihub.ml/competitions/256). Do not forget to pack the results with the `vot pack` command.
+* Register your tracker on the VOTSt2025 challenge [registration page](https://forms.gle/gkYLr21HSdwH9jff7), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+* Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTSt2025 challenge evaluation server](https://eu.aihub.ml/competitions/254). Do not forget to pack the results with the `vot pack` command.
 * Receive performance scores via email. 
 * We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead.
 * See Additional clarifications and FAQ below for further details.

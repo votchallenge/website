@@ -15,7 +15,12 @@ Three challenges are organized:
  * VOTS2025-RT challenge - The real-time version of the main VOTS2025 challenge. The task is to track one or more general targets over short-term or long-term sequences by segmentation in a real-time setup, i.e. frames are given to the tracker in a constant frame-rate, regardless of the tracker latency.
  * VOTSt2025 challenge - Continuation of the VOTSt2024 challenge considers general objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled, etc.
 
-To participate in any VOTS2025 challenge, please follow [instructions](participation.html) to submit your results.
+<!-- To participate in any VOTS2025 challenge, please follow [instructions](participation.html) to submit your results. -->
+
+## Post-challenge evaluation:
+
+The VOTS2025 challenges have closed end of June 2025. In July 2025, all challenges are have reopened as **benchmarks** with public leaderboards for post-challenge submissions and evaluations. Please follow the guidelines on the [Participation page](participation.html) to evaluate your tracker on the VOTS2025 benchmarks. 
+
 
 ## Important dates
 

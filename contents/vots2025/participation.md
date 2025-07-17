@@ -3,6 +3,10 @@ template: page2025.pug
 submenu: Submit
 ---
 
+# Post-challenge evaluation
+
+All challenges are now reopened as **benchmarks** with public leaderboards for post-challenge submissions and evaluations. Please follow the guidelines below to evaluate your tracker on the VOTS2025 benchmarks. Note that all submissions are now by default **private** i.e., not visible on the public leaderboard. If you want to make them public, you can push the results to the public leaderboard in the submission console on the evaluation server. 
+
 ## Problem statement
 
 VOTS adopts a general problem formulation that covers single/multiple-target and short/long-term tracking as special cases. The tracker is initialized in the first frame by segmentation masks for all tracked targets. In each subsequent frame, the tracker has to report all segmentation masks (one for each target). The following figure summarizes the tracking task. 
@@ -20,7 +24,7 @@ Researchers are invited to participate in three challenges: [VOTS2025](#vots), [
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
 * Register your tracker on the VOTS2025 challenge [registration page](https://forms.gle/YjQUsJnBN9DNod386), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
 * Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025 challenge evaluation server](https://eu.aihub.ml/competitions/201). Do not forget to pack the results with the vot pack command.
-* Receive performance scores via email.
+* Receive performance scores via email. At this point you can make the results visible on the public leaderboard by clicking *Submit to leaderboard* in the submission console at the VOTS2025 challenge evaluation server. 
 * We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead. 
 * See Additional clarifications and FAQ below for further details.
 * We invite the participants to run their trackers also on the VOTSt2025 challenge (see next section) – it’s zero-hassle once you’ve got the tracker running on the VOTS2025 challenge.
@@ -47,7 +51,9 @@ The VOTS sequences may contain several  objects to be tracked. In the past, this
 
  - Register your tracker on the VOTS2025-RT challenge [registration page](https://forms.gle/K2s5mGr7KLNTGCS49), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
  
- - Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025-RT challenge evaluation server](https://eu.aihub.ml/competitions/258). Do not forget to pack the results with the `vot pack` command. Performance scores are received via an e-mail.
+ - Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTS2025-RT challenge evaluation server](https://eu.aihub.ml/competitions/258). Do not forget to pack the results with the `vot pack` command. 
+ 
+ - Performance scores are received via an e-mail. At this point you can make the results visible on the public leaderboard by clicking *Submit to leaderboard* in the submission console at the VOTS2025-RT challenge evaluation server. 
  
  - We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead.
 
@@ -70,7 +76,7 @@ The VOTS sequences may contain several  objects to be tracked. In the past, this
 * Follow the guidelines to integrate your tracker with the [VOT toolkit](/howto/integration_multiobject.html) and [run the experiments](/howto/overview.html).
 * Register your tracker on the VOTSt2025 challenge [registration page](https://forms.gle/gkYLr21HSdwH9jff7), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
 * Once registered, submit the output produced by the toolkit (see [tutorial](/howto/overview.html)) to the [VOTSt2025 challenge evaluation server](https://eu.aihub.ml/competitions/254). Do not forget to pack the results with the `vot pack` command.
-* Receive performance scores via email. 
+* Receive performance scores via email. At this point you can make the results visible on the public leaderboard by clicking *Submit to leaderboard* in the submission console at the VOTSt2025 challenge evaluation server. 
 * We detected some issues with submission system on the Chrome browser and suggest to use Mozilla Firefox instead.
 * See Additional clarifications and FAQ below for further details.
 

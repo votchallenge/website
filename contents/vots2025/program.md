@@ -8,23 +8,23 @@ submenu: Program
 Date: **20th October (afternoon)**, ICCV2025, Hwaii, USA <br>
 Room: TBA
 
-**13:00 - 14:45 Session 1** (Chair: TBD)
+**13:30 - 15:20 Session 1** (Chair: TBD)
 
- * [13:00 - 13:05] Hello
- * [13:05 - 13:35] Keynote 1: Adam Harley 
- * [13:35 - 14:00] VOTS2025 + VOTS-RT2025 challenge results: Matej Kristan
- * [14:00 - 14:15] Winner of VOTS2025 VOTS-RT2025: Ming-Hsun Yang  
- * [14:15 - 14:45] Keynote 2: Qianqian Wang  
+ * [13:30 - 13:35] Hello
+ * [13:35 - 14:05] Keynote 1: Adam Harley 
+ * [14:05 - 14:30] VOTS2025 + VOTS-RT2025 challenge results: Matej Kristan
+ * [14:30 - 14:50] Winner of VOTS2025 VOTS-RT2025: Ming-Hsun Yang  
+ * [14:50 - 15:20] Keynote 2: Qianqian Wang  
 
-14:45 - 15:15 Coffee Break *(30 min)*
+15:20 - 15:50 Coffee Break *(30 min)*
 
-**15:15 - 17:00 Session 2** (Chair: TBD)
+**15:50 - 17:40 Session 2** (Chair: TBD)
 
- * [15:15 - 15:45] Keynote 3: Ming Hsun Yang 
- * [15:45 - 16:00] VOTSt2024 challenge results: Pavel Tokmakov
- * [16:00 - 16:10] Winner of VOTSt2025: Ming Hsun Yang 
- * [16:10 - 16:40] Keynote 4: Nikita Karaev 
- * [16:40 - 17:00] Panel: The future of VOTS, tracking and motion understanding 
+ * [15:50 - 16:20] Keynote 3: Ming Hsun Yang 
+ * [16:20 - 16:35] VOTSt2024 challenge results: Pavel Tokmakov
+ * [16:35 - 16:50] Winner of VOTSt2025: Ming Hsun Yang 
+ * [16:50 - 17:20] Keynote 4: Nikita Karaev 
+ * [17:20 - 17:40] Panel: The future of VOTS, tracking and motion understanding 
 
 ## Keynotes
 

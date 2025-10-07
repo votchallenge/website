@@ -14,7 +14,7 @@ Room: TBA
  * [13:35 - 14:05] Keynote 1: Adam Harley - *Challenges in Point Tracking: Density, 3D, and Data*
  * [14:05 - 14:30] VOTS2025 + VOTS-RT2025 challenge results: Matej Kristan
  * [14:30 - 14:50] Winner of VOTS2025 VOTS-RT2025: Ming-Hsun Yang  
- * [14:50 - 15:20] Keynote 2: Qianqian Wang  
+ * [14:50 - 15:20] Keynote 2: Qianqian Wang - *3D for Tracking and Tracking for 3D: Towards Unified Structure-Motion Understanding*
 
 15:20 - 15:50 Coffee Break *(30 min)*
 

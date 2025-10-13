@@ -13,16 +13,16 @@ Room: TBA
  * [13:30 - 13:35] Hello
  * [13:35 - 14:05] Keynote 1: Adam Harley - *Challenges in Point Tracking: Density, 3D, and Data*
  * [14:05 - 14:30] VOTS2025 + VOTS-RT2025 challenge results: Matej Kristan
- * [14:30 - 14:50] Winner of VOTS2025 VOTS-RT2025: Ming-Hsun Yang  
+ * [14:30 - 14:50] Winner of VOTS2025 VOTS-RT2025: Deshui Miao   
  * [14:50 - 15:20] Keynote 2: Qianqian Wang - *3D for Tracking and Tracking for 3D: Towards Unified Structure-Motion Understanding*
 
 15:20 - 15:50 Coffee Break *(30 min)*
 
 **15:50 - 17:40 Session 2** (Chair: Hyung Jin Chang)
 
- * [15:50 - 16:20] Keynote 3: Ming Hsun Yang 
+ * [15:50 - 16:20] Keynote 3: Ming Hsun Yang - *Grounding Anything in Images and Videos for Comprehensive Reasoning*
  * [16:20 - 16:35] VOTSt2024 challenge results: Pavel Tokmakov
- * [16:35 - 16:50] Winner of VOTSt2025: Ming Hsun Yang 
+ * [16:35 - 16:50] Winner of VOTSt2025: Deshui Miao 
  * [16:50 - 17:20] Keynote 4: Nikita Karaev - *What's next for Point Tracking?*
  * [17:20 - 17:40] Panel: The future of VOTS, tracking and motion understanding 
 

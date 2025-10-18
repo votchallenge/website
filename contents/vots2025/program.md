@@ -11,7 +11,7 @@ Room: 302 A
 **13:30 - 15:20 Session 1** (Chair: Pavel Tokmakov)
 
  * [13:30 - 13:35] Hello
- * [13:35 - 14:05] Keynote 1: Adam Harley - *Challenges in Point Tracking: Density, 3D, and Data*
+ * [13:35 - 14:05] Keynote 1: Adam Harley - *Progress in Point Tracking: Density, 3D, and Data*
  * [14:05 - 14:30] VOTS2025 + VOTS-RT2025 challenge results: Matej Kristan
  * [14:30 - 14:50] Winner of VOTS2025 VOTS-RT2025: Deshui Miao   
  * [14:50 - 15:20] Keynote 2: Qianqian Wang - *3D for Tracking and Tracking for 3D: Towards Unified Structure-Motion Understanding*

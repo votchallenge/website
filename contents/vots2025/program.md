@@ -24,7 +24,7 @@ Room: 302 A
  * [16:20 - 16:35] VOTSt2024 challenge results: Pavel Tokmakov
  * [16:35 - 16:50] Winner of VOTSt2025: Deshui Miao 
  * [16:50 - 17:20] Keynote 4: Nikita Karaev - *What's next for Point Tracking?*
- * [17:20 - 17:40] Panel (moderator: Matej Kristan): The future of VOTS, tracking and motion understanding 
+ * [17:20 - 17:40] Panel: The future of VOTS, tracking and motion understanding 
 
 ## Keynotes
 

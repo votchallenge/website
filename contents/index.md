@@ -47,26 +47,27 @@ A collection of documentation and tutorials on various topics.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">The VOTS2025 in now open!</h3>
+    <h3 class="panel-title">VOTS2026 Challenge Update</h3>
   </div>
   <div class="panel-body">
 
-We are pleased to announce that the VOTS2025 Challenge is now open! In addition to standard challenges, the VOTS2025-RT (real-time) challenge is introduced. Details about the challenge are available on the [VOTS2025 webpage](/vots2025/).
+We are pleased to announce that the VOTS challenges are getting a major overhaul for the 2026 edition! Two new challenges will be introduced:
 
-**List of challenges:**
+ * Point-tracking Challenge (VOTSp2026)
+ * Referral Tracking Challenge (VOTSr2026)
 
- * **VOTS2025** Challenge (continuation of VOTS2024 segmentation tracking)
- * **VOTS2025-RT** Challenge (real-time version of VOTS2025)
- * **VOTSt2025** Challenge (continuation of VOTSt2024 transformative object tracking)
+**List of Challenges for 2026**
 
-**Important dates:**
+ * VOTS2025 Challenge *(Refreshed!)* The classical VOTS challenge, updated with a refreshed dataset including more challenging sequences.
+ * VOTSp2026 Challenge *(NEW!)* A dedicated point-tracking challenge.
+ * VOTSr2026 Challenge *(NEW!)* A referral tracking challenge (tracking by description).
 
- * **25th of April, 2025** - Challenges details available on webpage
- * **13th of May, 2025** - All challenges open
- * **22nd of June, 2025** - Results submission deadline (**only for VOTSt2025**: extended to June 24, 2025, at 11:59 p.m. UTC)
- * **13th of July, 2025** - Winners announcement
- * **20th of October (Afternoon), 2025** - VOTS2025 workshop at ICCV2025
+**Tentative Schedule**
 
+ * April 25, 2026 – Challenge details available on the website
+ * May 13, 2026 – All challenges open
+ * June 22, 2026 – Results submission deadline
+ * July 13, 2026 – Winners announcement
 
 **Contacts:**
 

@@ -58,7 +58,8 @@ We are pleased to announce that the VOTS challenges are getting a major overhaul
 
 **List of Challenges for 2026**
 
- * VOTS2025 Challenge *(Refreshed!)* The classical VOTS challenge, updated with a refreshed dataset including more challenging sequences.
+ * VOTS2026 Challenge *(Refreshed!)* The classical VOTS challenge, updated with a refreshed dataset including more challenging sequences.
+ * VOTSt2026 Challenge The transformative object tracking challenge, which considers general objects undergoing a topological transformation.
  * VOTSp2026 Challenge *(NEW!)* A dedicated point-tracking challenge.
  * VOTSr2026 Challenge *(NEW!)* A referral tracking challenge (tracking by description).
 

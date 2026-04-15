@@ -1,0 +1,29 @@
+extends page
+
+block append page_vars
+    -var menu='Challenges';
+    if page.metadata.submenu
+        -submenu = page.metadata.submenu
+
+block append head
+    title VOTS2026 Challenge | 
+        = submenu
+
+block submenu
+    -var menu_items = { 'Home': '/vots2026/index.html', 'Program': '/vots2026/program.html', 'Submit': '/vots2026/participation.html', 'Leaderboards': '/vots2026/leaderboards.html', 'Dataset': '/vots2026/dataset.html', 'People': '/vots2026/people.html' };
+    .navbar.navbar-default.navbar-static-top(role='navigation')
+        .container
+            .navbar-header
+                a(class='navbar-brand' href='/vots2026/') VOTS2026
+            ul(class='nav navbar-nav nav-collapse')
+                each val, key in menu_items
+                    if submenu == key
+                        li.active
+                            a(href=val)= key
+                    else
+                        li
+                            a(href=val)= key
+            div(class='navbar-text navbar-right')
+              a(class='navbar-conjunction' href='https://eccv.ecva.net/Conferences/2026') ECCV2026, Stockholm, Sweden
+
+    .clearer

@@ -21,3 +21,4 @@ submenu: People
  * [Khanh-Tung Tran](https://www.linkedin.com/in/khanh-tung-tran-83b3541ab/)
  * [Xuan-Son Vu](https://people.cs.umu.se/sonvx)
  * Anurag Bagchi
+ * Matjaž Zupančič Muc, University of Ljubljana, Slovenia

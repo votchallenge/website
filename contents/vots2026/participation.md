@@ -78,7 +78,7 @@ The task is to segment an object throughout the video, specified by a referring 
 
 ## VOTSp2026 challenge participation
 
-The task is to track several points initialized throughout the video.
+The task is to track several points throughout the video, each initialized by a 2D coordinate in the first frame.
 
 **Participation steps:**
 
@@ -91,8 +91,8 @@ The task is to track several points initialized throughout the video.
 
 **Relevant datasets**
 
-- The _VOTSp2026 competition dataset_ is based on this paper (??) and is used for evaluating trackers and identifying the winner of VOTSp2026. Run your tracker on this dataset by creating a workspace using vot initialize vots2026/votsp in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
-- ?? **Adam**, any restrictions on training datasets?
+- The _VOTSp2026 competition dataset_ is a curated multi-domain point tracking benchmark inspired by [AllTracker: Efficient Dense Point Tracking at High Resolution](https://arxiv.org/abs/2506.07310) (Harley et al., ICCV 2025), and is used for evaluating trackers and identifying the winner of VOTSp2026. Run your tracker on this dataset by creating a workspace using `vot initialize vots2026/votsp` in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
+- **Training dataset restrictions:** The VOTSp2026 benchmark is curated from the following datasets: EgoPoints, RoboTAP, AnimalTrack, BADJA, Cell Tracking Challenge, SpaceAnimal, DexYCB, CMU Panoptic, Horse-10, CTMCv1, CroHD, Ant Dataset, Tri-Mouse, I-MuPPET, Schooling-Fish. Training on any of these datasets is not allowed.
 
 ## Additional clarifications
 
@@ -124,7 +124,7 @@ As the VOT is primarily rooted in the EU, some members are restricted by law to 
 
 ## VOTS2026 paper coauthorship
 
-Participants whose trackers outperform the baselines in the respective challenges will be offered co-authorship of the results paper. The baselines are "STARK-multi" (VOTS2026), "AOTPlus" (VOSt2026), "??Pavel??" (VOTSr2026), "??Adam??" (VOTSp2026).
+Participants whose trackers outperform the baselines in the respective challenges will be offered co-authorship of the results paper. The baselines are "STARK-multi" (VOTS2026), "AOTPlus" (VOSt2026), "??Pavel??" (VOTSr2026), "AllTracker" (VOTSp2026).
 
 ## FAQ
 

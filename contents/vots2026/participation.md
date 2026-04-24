@@ -46,9 +46,8 @@ The task is to segment an object, specified in the first frame of the video by a
 **Participation steps:**
 
 - Follow the guidelines to integrate your tracker with the [VOT toolkit](https://www.votchallenge.net/howto/integration_multiobject.html) and [run the experiments](https://www.votchallenge.net/howto/overview.html).
-- Register your tracker on the VOTSt2026 challenge registration page (link tba), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Register your tracker on the VOTSt2026 challenge [registration page](https://forms.gle/32okSSRfhbbg2t3Z8), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
 - Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSt2026 challenge evaluation server (link tba). Do not forget to pack the results with the vot pack command.
-- Register your tracker on the VOTSt2026 challenge [registration page](https://forms.gle/gkYLr21HSdwH9jff7), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.
@@ -56,7 +55,7 @@ The task is to segment an object, specified in the first frame of the video by a
 **Relevant datasets**
 
 - The _VOTSt2026 development dataset_ is composed of validation sequences, accompanied with the annotations. This dataset is meant only for development purposes, i.e., to test your tracker integration, however, you can also run performance evaluation analysis. To run your tracker on this dataset, create the workspace using command vot initialize vots2026/votstval and follow the remaining of the instructions in the toolkit overview tutorial. All videos are provided at 10fps.
-- The _VOTSt2026 competition dataset_ is based on [this paper](https://www.vostdataset.org/) and is used for evaluating trackers submitted to VOTSt2026 and for identifying the winner. The dataset is downloaded automatically by the VOT toolkit. Run your tracker on this dataset by creating a workspace using vot initialize vots2026/votst in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server. All videos are provided at 10fps.
+- The _VOTSt2026 competition dataset_ is based on the paper [Breaking the "Object" in Video Object Segmentation](https://www.vostdataset.org/) (Tokmakov et al., CVPR 2023) and is used for evaluating trackers submitted to VOTSt2026 and for identifying the winner. The dataset is downloaded automatically by the VOT toolkit. Run your tracker on this dataset by creating a workspace using vot initialize vots2026/votst in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server. All videos are provided at 10fps.
 
 ## VOTSr2026 challenge participation
 

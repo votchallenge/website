@@ -64,7 +64,7 @@ The task is to segment an object throughout the video, specified by a referring 
 **Participation steps:**
 
 - Follow the guidelines to integrate your tracker with the VOT toolkit and run the experiments.
-- Register your tracker on the VOTSr2026 challenge registration page (link tba), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Register your tracker on the VOTSr2026 challenge [registration page](https://forms.gle/eVKQGqWNT5uU6U1E7), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
 - Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSr2026 challenge evaluation server (link tba). Do not forget to pack the results with the vot pack command.
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
@@ -72,8 +72,8 @@ The task is to segment an object throughout the video, specified by a referring 
 
 **Relevant datasets**
 
-- The _VOTSr2026 competition dataset_ is based on this paper (??) and is used for evaluating trackers and identifying the winner of VOTSr2026. Run your tracker on this dataset by creating a workspace using vot initialize vots2026/votsr in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
-- ?? **Pavel**, any restrictions on training datasets?
+- The _VOTSr2026 competition dataset_ is based on on the paper [ReferEverything: Towards Segmenting Everything We Can Speak of in Videos](https://refereverything.github.io) (Bagchi et al., ICCV 2025) and is used for evaluating trackers and identifying the winner of VOTSr2026. Run your tracker on this dataset by creating a workspace using vot initialize vots2026/votsr in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
+- **Training dataset restrictions:** While a validation split of the dataset is available on the [project web page](https://refereverything.github.io), it shouldn't be used for training. The entire dataset is meant for evaluation only.
 
 ## VOTSp2026 challenge participation
 

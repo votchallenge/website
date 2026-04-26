@@ -6,13 +6,24 @@ title: Challenges
 
 # Challenges
 
-<div class="alert alert-info" role="alert">
+<!--div class="alert alert-info" role="alert">
  There are currently no open challenges.
-</div>
+</div-->
 
 <!--div class="row">
 No challenges are currently active.
 </div-->
+
+<div class="row">
+
+<div class="col-lg-6 col-sm-12">
+<a href="/vots2026/" class="challengebutton text-primary">
+<img class="logo" src="/img/vots2026_logo_website.png" alt="VOTS2026" />
+<h3>VOTS2026</h3>
+<p class="description">The VOTS2026 challenge comprises of four subchallenges, the main one, as well as the transformation, referral and point tracking subchallenges.</p>
+</a>
+</div>
+</div>
 
 # Benchmarks
 

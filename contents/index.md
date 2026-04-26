@@ -51,7 +51,7 @@ A collection of documentation and tutorials on various topics.
   </div>
   <div class="panel-body">
 
-We are pleased to announce that the VOTS challenges are getting a major overhaul for the 2026 edition! Two new challenges will be introduced:
+We are pleased to announce that the VOTS challenges is getting a major overhaul for the 2026 edition! Two new challenges are introduced:
 
  * Point-tracking Challenge (VOTSp2026)
  * Referral Tracking Challenge (VOTSr2026)
@@ -65,13 +65,13 @@ We are pleased to announce that the VOTS challenges are getting a major overhaul
 
 **Tentative Schedule**
 
- * April 25, 2026 – Challenge details available on the website
  * May 13, 2026 – All challenges open
  * June 22, 2026 – Results submission deadline
  * July 13, 2026 – Winners announcement
 
 **Contacts:**
 
+ * Challenge homepage: https://www.votchallenge.net/vots2026/
  * X/Twitter: https://twitter.com/votchallenge
  * Mailing list: subscribe by [sending an empty email](mailto:votchallange-join@lists.arnes.si).
   </div>

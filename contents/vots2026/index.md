@@ -9,14 +9,14 @@ submenu: Home
  
 Visual Object Tracking and Segmentation challenge VOTS2026 is a continuation of the VOTS2023 and VOTS2024 challenges, which no longer distinct between single- and multi-target tracking nor between short- and long-term tracking. It requires tracking one or more targets simultaneously by segmentation over long or short sequences, while the targets may disappear during tracking and reappear later in the video.
 
-Four challenges are organized:
+## Four challenges are organized
 
 * VOTS2026 Challenge (Refreshed!) – Continuation of the VOTS2025 challenge with the task to track one or more general targets over short-term or long-term sequences by segmentation. The dataset is refreshed with new challenging sequences.
 * VOTSt2026 Challenge – Continuation of the VOTSt2025 transformative object tracking challenge, which considers general objects undergoing a topological transformation, such as vegetables cut into pieces, machines disassembled, etc.
 * VOTSp2026 Challenge (NEW!) – A new point-tracking challenge, which considers tracking several manually defined points. Challenging sequences have been selected to construct a new test set for his challenge.
 * VOTSr2026 Challenge (NEW!) -- A new referring tracking challenge, with the task to segment objects in video based on descriptions.
 
-Important dates (tentative)
+## Important dates (tentative)
 
 * **April 25, 2026** - All challenge details available on the website
 * **May 13, 2026** - All challenges open

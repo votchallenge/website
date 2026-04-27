@@ -13,6 +13,7 @@ These tutorials cover various topics on how to use VOT toolkit in your experimen
 - [Tracker integration (multi-object support - VOTS tracker integration)](integration_multiobject.html) - **NEW**
 - [Tracker integration (single-object)](integration.html)
 - [Tracker integration (multi-channel support)](integration_channels.html)
+- [VOTSr Referral Challenge tutorial](referral.html) - **NEW**
 - [Visualize tracker outputs and results](visualization.html) - **NEW**
 - [Building tracker examples on Windows using Visual Studio (C/C++)](visualstudio.html)
 - [Building tracker examples using CMake (C/C++)](cmake.html)

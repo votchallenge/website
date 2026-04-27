@@ -63,16 +63,17 @@ The task is to segment an object throughout the video, specified by a referring 
 
 **Participation steps:**
 
-- Follow the guidelines to integrate your tracker with the VOT toolkit and run the experiments.
+- Follow the [VOTSr2026 referral tutorial](https://www.votchallenge.net/howto/referral.html) to download the dataset, run your tracker on the (frames, text-prompt) pairs and format the predictions. The referral challenge does **not** integrate trackers with the toolkit through TraX — you run your tracker independently and submit its mask predictions.
 - Register your tracker on the VOTSr2026 challenge [registration page](https://forms.gle/eVKQGqWNT5uU6U1E7), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSr2026 challenge evaluation server (link tba). Do not forget to pack the results with the vot pack command.
+- Once registered, pack your predictions with the `vot pack` command (see the [tutorial](https://www.votchallenge.net/howto/referral.html)) and submit the resulting zip to the VOTSr2026 challenge evaluation server (link tba).
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.
 
 **Relevant datasets**
 
-- The _VOTSr2026 competition dataset_ is based on on the paper [ReferEverything: Towards Segmenting Everything We Can Speak of in Videos](https://refereverything.github.io) (Bagchi et al., ICCV 2025) and is used for evaluating trackers and identifying the winner of VOTSr2026. Run your tracker on this dataset by creating a workspace using vot initialize vots2026/votsr in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
+- The _VOTSr2026 development dataset_ is a small validation split with publicly available ground-truth masks, intended for testing your prediction pipeline locally. Create the workspace with `vot initialize vots2026/votsrval` and run `vot analysis <tracker>` to compute scores.
+- The _VOTSr2026 competition dataset_ is based on the paper [ReferEverything: Towards Segmenting Everything We Can Speak of in Videos](https://refereverything.github.io) (Bagchi et al., ICCV 2025) and is used for evaluating trackers and identifying the winner of VOTSr2026. Run your tracker on this dataset by creating a workspace using `vot initialize vots2026/votsr` and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
 - **Training dataset restrictions:** While a validation split of the dataset is available on the [project web page](https://refereverything.github.io), it shouldn't be used for training. The entire dataset is meant for evaluation only.
 
 ## VOTSp2026 challenge participation

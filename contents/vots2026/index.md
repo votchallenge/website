@@ -2,7 +2,7 @@
 template: page2026.pug
 submenu: Home
 ---
- 
+  
 # VOTS2026 Challenge
 
 <img class="logo float-right frame" src="../img/vots2026_logo_website_large.png" alt="VOTS2026"  />

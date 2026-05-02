@@ -2,7 +2,7 @@
 template: page2026.pug
 submenu: Submit
 ---
-
+ 
 # Participation in VOTS2026 Challenge
 
 Four challenges are offered in 2026: (i) VOTS2026 Challenge, (ii) VOTSt2026 Challenge, (iii) VOTSp2026 Challenge and (iv) VOTSr2026 Challenge.

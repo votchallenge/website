@@ -2,7 +2,7 @@
 template: page2026.pug
 submenu: People
 ---
-
+ 
 ## Organizing committee
 
  * [Matej Kristan](http://www.vicos.si/People/Matejk), University of Ljubljana, Slovenia

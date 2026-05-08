@@ -82,9 +82,9 @@ The task is to track several points throughout the video, each initialized by a 
 
 **Participation steps:**
 
-- Follow the guidelines to integrate your tracker with the VOT toolkit and run the experiments.
-- Register your tracker on the VOTSp2026 challenge registration page (link tba), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSp2026 challenge evaluation server (link tba). Do not forget to pack the results with the vot pack command.
+- Follow the [VOTSp2026 starter kit](https://github.com/aharley/votsp-starter) to integrate your tracker with the VOT toolkit and run the experiments.
+- Register your tracker on the VOTSp2026 challenge [registration page](https://forms.gle/CWMNkgap61AS2Wuw6), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Once registered, submit the output produced by the toolkit (see [starter kit](https://github.com/aharley/votsp-starter)) to the [VOTSp2026 challenge evaluation server](https://eu.aihub.ml/competitions/263). Do not forget to pack the results with the vot pack command.
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.

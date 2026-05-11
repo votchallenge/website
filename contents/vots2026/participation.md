@@ -91,7 +91,7 @@ The task is to track several points throughout the video, each initialized by a 
 
 **Relevant datasets**
 
-- The _VOTSp2026 competition dataset_ is a curated multi-domain point tracking benchmark inspired by [AllTracker: Efficient Dense Point Tracking at High Resolution](https://arxiv.org/abs/2506.07310) (Harley et al., ICCV 2025), and is used for evaluating trackers and identifying the winner of VOTSp2026. Run your tracker on this dataset by creating a workspace using `vot initialize vots2026/votsp` in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
+- The _VOTSp2026 competition dataset_ is a curated multi-domain point tracking benchmark inspired by [AllTracker: Efficient Dense Point Tracking at High Resolution](https://arxiv.org/abs/2506.07310) (Harley et al., ICCV 2025), and is used for evaluating trackers and identifying the winner of VOTSp2026. Run your tracker on this dataset by creating a workspace using `vot initialize vots2026/point` in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
 - **Training dataset restrictions:** The VOTSp2026 benchmark is curated from the following datasets: EgoPoints, RoboTAP, AnimalTrack, BADJA, Cell Tracking Challenge, SpaceAnimal, DexYCB, CMU Panoptic, Horse-10, CTMCv1, CroHD, Ant Dataset, Tri-Mouse, I-MuPPET, Schooling-Fish. Training on any of these datasets is not allowed.
 
 ## Additional clarifications

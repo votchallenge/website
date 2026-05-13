@@ -2,7 +2,7 @@
 template: page2026.pug
 submenu: Submit
 ---
-
+ 
 # Participation in VOTS2026 Challenge
 
 Four challenges are offered in 2026: (i) VOTS2026 Challenge, (ii) VOTSt2026 Challenge, (iii) VOTSp2026 Challenge and (iv) VOTSr2026 Challenge.
@@ -23,8 +23,8 @@ The task is to segment one or more objects, specified in the first frame of the 
 **Participation steps:**
 
 - Follow the guidelines to integrate your tracker with the [VOT toolkit](https://www.votchallenge.net/howto/integration_multiobject.html) and [run the experiments](https://www.votchallenge.net/howto/overview.html).
-- Register your tracker on the VOTS2026 challenge registration page (link tba), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTS2026 challenge evaluation server (link tba). Do not forget to pack the results with the vot pack command.
+- Register your tracker on the VOTS2026 challenge [registration page](https://forms.gle/rJWGNdRrWsY5gPB68), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTS2026 challenge [evaluation server](https://eu.aihub.ml/competitions/262). Do not forget to pack the results with the vot pack command.
 - Receive performance scores via email. In this challenge, the trackers will be evaluated on both 2025 and 2026 dataset, which are partially overlapping. To mitigate overfitting, you will receive only the VOTS2025 dataset scores, while the VOTS2026 dataset scores will be used to determine the winner and will be available at public leaderboard after the challenge period.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system.
 - See Additional clarifications and FAQ below for further details.
@@ -47,7 +47,7 @@ The task is to segment an object, specified in the first frame of the video by a
 
 - Follow the guidelines to integrate your tracker with the [VOT toolkit](https://www.votchallenge.net/howto/integration_multiobject.html) and [run the experiments](https://www.votchallenge.net/howto/overview.html).
 - Register your tracker on the VOTSt2026 challenge [registration page](https://forms.gle/32okSSRfhbbg2t3Z8), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSt2026 challenge evaluation server (link tba). Do not forget to pack the results with the vot pack command.
+- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSt2026 challenge [evaluation server](https://eu.aihub.ml/competitions/261). Do not forget to pack the results with the vot pack command.
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.
@@ -82,16 +82,16 @@ The task is to track several points throughout the video, each initialized by a 
 
 **Participation steps:**
 
-- Follow the guidelines to integrate your tracker with the VOT toolkit and run the experiments.
-- Register your tracker on the VOTSp2026 challenge registration page (link tba), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSp2026 challenge evaluation server (link tba). Do not forget to pack the results with the vot pack command.
+- Follow the [VOTSp2026 starter kit](https://github.com/aharley/votsp-starter) to integrate your tracker with the VOT toolkit and run the experiments.
+- Register your tracker on the VOTSp2026 challenge [registration page](https://forms.gle/CWMNkgap61AS2Wuw6), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Once registered, submit the output produced by the toolkit (see [starter kit](https://github.com/aharley/votsp-starter)) to the [VOTSp2026 challenge evaluation server](https://eu.aihub.ml/competitions/263). Do not forget to pack the results with the vot pack command.
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.
 
 **Relevant datasets**
 
-- The _VOTSp2026 competition dataset_ is a curated multi-domain point tracking benchmark inspired by [AllTracker: Efficient Dense Point Tracking at High Resolution](https://arxiv.org/abs/2506.07310) (Harley et al., ICCV 2025), and is used for evaluating trackers and identifying the winner of VOTSp2026. Run your tracker on this dataset by creating a workspace using `vot initialize vots2026/votsp` in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
+- The _VOTSp2026 competition dataset_ is a curated multi-domain point tracking benchmark inspired by [AllTracker: Efficient Dense Point Tracking at High Resolution](https://arxiv.org/abs/2506.07310) (Harley et al., ICCV 2025), and is used for evaluating trackers and identifying the winner of VOTSp2026. Run your tracker on this dataset by creating a workspace using `vot initialize vots2026/point` in the toolkit and submit the tracking results to the evaluation server. Note that you cannot run evaluation locally on your computer for this dataset, since the ground truth is only available on the evaluation server.
 - **Training dataset restrictions:** The VOTSp2026 benchmark is curated from the following datasets: EgoPoints, RoboTAP, AnimalTrack, BADJA, Cell Tracking Challenge, SpaceAnimal, DexYCB, CMU Panoptic, Horse-10, CTMCv1, CroHD, Ant Dataset, Tri-Mouse, I-MuPPET, Schooling-Fish. Training on any of these datasets is not allowed.
 
 ## Additional clarifications

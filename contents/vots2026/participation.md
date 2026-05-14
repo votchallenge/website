@@ -65,7 +65,7 @@ The task is to segment an object throughout the video, specified by a referring 
 
 - Follow the [VOTSr2026 referral tutorial](https://www.votchallenge.net/howto/referral.html) to download the dataset, run your tracker on the (frames, text-prompt) pairs and format the predictions. The referral challenge does **not** integrate trackers with the toolkit through TraX — you run your tracker independently and submit its mask predictions.
 - Register your tracker on the VOTSr2026 challenge [registration page](https://forms.gle/eVKQGqWNT5uU6U1E7), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, pack your predictions with the `vot pack` command (see the [tutorial](https://www.votchallenge.net/howto/referral.html)) and submit the resulting zip to the VOTSr2026 challenge evaluation server (link tba).
+- Once registered, pack your predictions with the `vot pack` command (see the [tutorial](https://www.votchallenge.net/howto/referral.html)) and submit the resulting zip to the VOTSr2026 challenge [evaluation server](https://eu.aihub.ml/competitions/260).
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.

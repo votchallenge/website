@@ -66,7 +66,8 @@ We are pleased to announce that the VOTS challenges is getting a major overhaul 
 **Tentative Schedule**
 
  * May 13, 2026 – All challenges open
- * June 22, 2026, 11:59 p.m. GMT+0 – Results submission deadline
+ * ~~June 22, 2026, 11:59 p.m. GMT+0~~ – Results submission deadline
+ * June 28, 2026, 11:59 p.m. GMT+0 – Results submission deadline [Extended]
  * July 13, 2026 – Winners announcement
 
 **Contacts:**

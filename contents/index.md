@@ -69,6 +69,7 @@ We are pleased to announce that the VOTS challenges is getting a major overhaul 
  * ~~June 22, 2026, 11:59 p.m. GMT+0~~ – Results submission deadline
  * June 28, 2026, 11:59 p.m. GMT+0 – Results submission deadline [Extended]
  * July 13, 2026 – Winners announcement
+ * September 9, 2026 (afternoon slot) - VOTS2026 workshop at ECCV2026
 
 **Contacts:**
 

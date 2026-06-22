@@ -16,13 +16,14 @@ Visual Object Tracking and Segmentation challenge VOTS2026 is a continuation of 
 * VOTSp2026 Challenge (NEW!) – A new point-tracking challenge, which considers tracking several manually defined points. Challenging sequences have been selected to construct a new test set for his challenge.
 * VOTSr2026 Challenge (NEW!) -- A new referring tracking challenge, with the task to segment objects in video based on descriptions.
 
-## Important dates (tentative)
+## Important dates
 
 * **April 25, 2026** - All challenge details available on the website
 * **May 13, 2026** - All challenges open
 * ~~**June 22, 2026, 11:59 p.m. GMT+0**~~ - Results submission deadline
 * **June 28, 2026, 11:59 p.m. GMT+0** - Results submission deadline [Extended]
 * **July 13, 2026** - Winners announcement
+* **September 9, 2026 (afternoon slot)** - VOTS2026 workshop at ECCV2026
 
 ## Sponsors
 

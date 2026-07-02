@@ -124,7 +124,7 @@ As the VOT is primarily rooted in the EU, some members are restricted by law to 
 
 ## VOTS2026 paper coauthorship
 
-Participants whose trackers outperform the baselines in the respective challenges will be offered co-authorship of the results paper. The baselines are "AOT" (VOTS2026), "RMem" (VOSt2026), "REM" (VOTSr2026), "AllTracker" (VOTSp2026).
+Participants whose trackers outperform the baselines in the respective challenges will be offered co-authorship of the results paper. The baselines are "MSAOT" (VOTS2026), "RMem" (VOSt2026), "REM" (VOTSr2026), "AllTracker" (VOTSp2026).
 
 ## FAQ
 

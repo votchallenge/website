@@ -23,8 +23,8 @@ The task is to segment one or more objects, specified in the first frame of the 
 **Participation steps:**
 
 - Follow the guidelines to integrate your tracker with the [VOT toolkit](https://www.votchallenge.net/howto/integration_multiobject.html) and [run the experiments](https://www.votchallenge.net/howto/overview.html).
-- Register your tracker on the VOTS2026 challenge [registration page](https://forms.gle/rJWGNdRrWsY5gPB68), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTS2026 challenge [evaluation server](https://eu.aihub.ml/competitions/262). Do not forget to pack the results with the vot pack command.
+- Register your tracker on the VOTS2026 challenge [registration page](https://forms.gle/oBJP5rsMXUNRSyTL9), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTS2026 challenge [evaluation server](https://eu.aihub.ml/competitions/278). Do not forget to pack the results with the vot pack command.
 - Receive performance scores via email. In this challenge, the trackers will be evaluated on both 2025 and 2026 dataset, which are partially overlapping. To mitigate overfitting, you will receive only the VOTS2025 dataset scores, while the VOTS2026 dataset scores will be used to determine the winner and will be available at public leaderboard after the challenge period.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system.
 - See Additional clarifications and FAQ below for further details.
@@ -46,8 +46,8 @@ The task is to segment an object, specified in the first frame of the video by a
 **Participation steps:**
 
 - Follow the guidelines to integrate your tracker with the [VOT toolkit](https://www.votchallenge.net/howto/integration_multiobject.html) and [run the experiments](https://www.votchallenge.net/howto/overview.html).
-- Register your tracker on the VOTSt2026 challenge [registration page](https://forms.gle/32okSSRfhbbg2t3Z8), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSt2026 challenge [evaluation server](https://eu.aihub.ml/competitions/261). Do not forget to pack the results with the vot pack command.
+- Register your tracker on the VOTSt2026 challenge [registration page](https://forms.gle/gkYLr21HSdwH9jff7), fill-out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Once registered, submit the output produced by the toolkit (see [tutorial](https://www.votchallenge.net/howto/overview.html)) to the VOTSt2026 challenge [evaluation server](https://eu.aihub.ml/competitions/254). Do not forget to pack the results with the vot pack command.
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.
@@ -64,8 +64,8 @@ The task is to segment an object throughout the video, specified by a referring 
 **Participation steps:**
 
 - Follow the [VOTSr2026 referral tutorial](https://www.votchallenge.net/howto/referral.html) to download the dataset, run your tracker on the (frames, text-prompt) pairs and format the predictions. The referral challenge does **not** integrate trackers with the toolkit through TraX — you run your tracker independently and submit its mask predictions.
-- Register your tracker on the VOTSr2026 challenge [registration page](https://forms.gle/eVKQGqWNT5uU6U1E7), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, pack your predictions with the `vot pack` command (see the [tutorial](https://www.votchallenge.net/howto/referral.html)) and submit the resulting zip to the VOTSr2026 challenge [evaluation server](https://eu.aihub.ml/competitions/260).
+- Register your tracker on the VOTSr2026 challenge [registration page](https://forms.gle/vTyCAytfLiP2QdgD7), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Once registered, pack your predictions with the `vot pack` command (see the [tutorial](https://www.votchallenge.net/howto/referral.html)) and submit the resulting zip to the VOTSr2026 challenge [evaluation server](https://eu.aihub.ml/competitions/277).
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.
@@ -83,8 +83,8 @@ The task is to track several points throughout the video, each initialized by a 
 **Participation steps:**
 
 - Follow the [VOTSp2026 starter kit](https://github.com/aharley/votsp-starter) to integrate your tracker with the VOT toolkit and run the experiments.
-- Register your tracker on the VOTSp2026 challenge [registration page](https://forms.gle/CWMNkgap61AS2Wuw6), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
-- Once registered, submit the output produced by the toolkit (see [starter kit](https://github.com/aharley/votsp-starter)) to the [VOTSp2026 challenge evaluation server](https://eu.aihub.ml/competitions/263). Do not forget to pack the results with the vot pack command.
+- Register your tracker on the VOTSp2026 challenge [registration page](https://forms.gle/NDE5HpgJbmfT5knKA), fill out the tracker description questionnaire and submit the tracker description documents: a short description for the results paper and a longer description.
+- Once registered, submit the output produced by the toolkit (see [starter kit](https://github.com/aharley/votsp-starter)) to the [VOTSp2026 challenge evaluation server](https://eu.aihub.ml/competitions/274). Do not forget to pack the results with the vot pack command.
 - Receive performance scores via email.
 - We suggest submitting via Mozilla Firefox instead of Chrome browser to avoid issues with the submission system
 - See Additional clarifications and FAQ below for further details.

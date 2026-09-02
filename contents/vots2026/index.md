@@ -16,6 +16,15 @@ Visual Object Tracking and Segmentation challenge VOTS2026 is a continuation of 
 * VOTSp2026 Challenge (NEW!) – A new point-tracking challenge, which considers tracking several manually defined points. Challenging sequences have been selected to construct a new test set for his challenge.
 * VOTSr2026 Challenge (NEW!) -- A new referring tracking challenge, with the task to segment objects in video based on descriptions.
 
+## Winners
+
+ * (VOTS2026 challenge) “VLM-SAFEDAM -- VLM-DAM4SAM3 with anti-overlap mechanism”, Dayu Wu, Yucheng Bai, Lv Wu, Han Fang, Shanghai Jiao Tong University
+ * (VOTSt2026 challenge) “MUSMEM -- Associating Visual Objects Through Transformers”, Elham Soltani Kazemi, Gani Rahmon, Imad Eddine Toubal, Juan Mogollon, Kannappan Palaniappan, University of Missouri
+ * (VOTSr2026 challenge) “ReflexTrack -- Feedback-Driven Referring Video Segmentation”, Yuanjia Li, Tianyang Xu, ZhangyongTang, He Wang, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler; Jiangnan University & University of Surrey
+ * (VOTSp2026 challenge) “AllTrackerPlus -- Memory-Efficient AllTracker Wrapper”, Zhenglin Du, Zhengyang Li, Yi Wen, Xidian University
+
+Challenges [leaderboards](https://www.votchallenge.net/vots2026/leaderboards.html), [evaluate](https://www.votchallenge.net/vots2026/participation.html) your tracker on the benchmark.
+
 ## Important dates
 
 * **April 25, 2026** - All challenge details available on the website

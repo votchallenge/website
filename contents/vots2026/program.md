@@ -5,9 +5,9 @@ submenu: Program
   
 ## Program
 
-Date: **9th September (afternoon)**, ECCV2026, Malmo, Sweeden <br>
+Date: **9th September (afternoon)**, ECCV2026, Malmo, Sweden <br>
 
-Sweeden Room: Quality View Oresundslokalen – C <br>
+Room: Quality View Oresundslokalen – C <br>
 
 Visual Object Tracking and Segmentation challenge VOTS2026 is the 14th annual benchmarking event organized by the VOT initiative. Four sub-challenges dedicated to different tracking problems are considered. The VOTS2026 subchallenge addresses tracking by video object segmentation, VOTSt2026 addresses tracking transforming objects, VOTSr2026 addresses referring expression tracking, and VOTSp2026 addresses point tracking. The VOTS2026 workshop program reviews the results, the winner methods and features keynotes of prominent researchers in video understanding. 
 
@@ -32,6 +32,7 @@ Visual Object Tracking and Segmentation challenge VOTS2026 is the 14th annual be
  * [17:20] Keynote 4: [Kristen Grauman](https://scholar.google.com/citations?hl=sl&user=Jp6Mz1sAAAAJ)
  * [17:50] Concluding remarks
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N_4ioOe15Ro?si=k-eWWLH9EgVyCcDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Keynotes
 

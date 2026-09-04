@@ -21,16 +21,16 @@ Visual Object Tracking and Segmentation challenge VOTS2026 is the 14th annual be
  * [14:40] VOTSp2026 results & insights, Adam Harley
  * [15:00] Keynote 2: Amir Bar
 
-15:30 - 16:00 Coffee Break
+**15:30 - 16:00 Coffee Break**
 
 **16:00 - 17:55 Session 2** (Chair: Jiri Matas)
 
  * [16:00] Keynote 3: Mehdi S. M. Sajjadi
  * [16:30] VOTSt2026 + VOTSr2026 results & insights, Pavel Tokmakov
- * [16:50] VOTSt2026 winners: “MUSMEM -- Associating Visual Objects Through Transformers”, Elham Soltani Kazemi, Gani Rahmon, Imad Eddine Toubal, Juan Mogollon, Kannappan Palaniappan, University of Missouri
- * [17:05] VOTSr2026 winners: “ReflexTrack -- Feedback-Driven Referring Video Segmentation”, Yuanjia Li, Tianyang Xu, Zhangyong Tang, He Wang, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler; Jiangnan University & University of Surrey
- * [17:20] Keynote 4: Kristen Grauman
- * [17:50] Concluding remarks
+ * [16:55] VOTSt2026 winners: “MUSMEM -- Associating Visual Objects Through Transformers”, Elham Soltani Kazemi, Gani Rahmon, Imad Eddine Toubal, Juan Mogollon, Kannappan Palaniappan, University of Missouri
+ * [17:10] VOTSr2026 winners: “ReflexTrack -- Feedback-Driven Referring Video Segmentation”, Yuanjia Li, Tianyang Xu, Zhangyong Tang, He Wang, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler; Jiangnan University & University of Surrey
+ * [17:25] Keynote 4: Kristen Grauman
+ * [17:55] Concluding remarks
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N_4ioOe15Ro?si=k-eWWLH9EgVyCcDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

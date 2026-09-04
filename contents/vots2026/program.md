@@ -23,7 +23,7 @@ Visual Object Tracking and Segmentation challenge VOTS2026 is the 14th annual be
 
 **15:30 - 16:00 Coffee Break**
 
-**16:00 - 17:55 Session 2** (Chair: Jiri Matas)
+**16:00 - 18:00 Session 2** (Chair: Jiri Matas)
 
  * [16:00] Keynote 3: Mehdi S. M. Sajjadi
  * [16:30] VOTSt2026 + VOTSr2026 results & insights, Pavel Tokmakov

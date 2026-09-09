@@ -1,0 +1,4 @@
+{{ define "main" }}
+{{ .Content }}
+{{ partial "news-list.html" (dict "Site" .Site) }}
+{{ end }}

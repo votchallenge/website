@@ -1,0 +1,6 @@
+{{ define "main" }}
+{{ if not .Date.IsZero }}<p class="item-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></p>{{ end }}
+{{ with .Params.tags }}<p class="news-tags">{{ range . }}<span class="news-tag">{{ . }}</span>{{ end }}</p>{{ end }}
+{{ .Content }}
+<p><a href="{{ with .Site.GetPage "/news" }}{{ .RelPermalink }}{{ end }}">All news →</a></p>
+{{ end }}

@@ -1,0 +1,28 @@
+---
+title: Results
+url: /vot2021/results.html
+params:
+  navigation: Challenges
+  submenu: Results
+  challenge: page2021
+---
+
+## Documents
+
+-   [VOT Report](http://prints.vicos.si/publications/400) The paper that summarizes Visual Object Tracking VOT2021 challenge results
+
+## VOT-ST2021 and VOT-RT2021 Raw data
+
+-   Sequence dataset - Sequences for the VOT2021 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
+-   Raw results will be uploaded.
+
+## VOT-LT2021 Raw data
+
+-   Sequence dataset - Sequences for the VOT-LT2021 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
+-   Raw results will be uploaded.
+
+## VOT-RGBD2021 Raw data
+
+-   Sequence dataset - Sequences for the VOT-RGBD2021 dataset are automatically downloaded by the toolkit, see [dataset preview page](/vot2021/dataset.html) for more information.
+-   Raw results will be uploaded.
+

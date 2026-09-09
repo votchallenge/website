@@ -4,3 +4,7 @@ node_modules
 *~
 Thumbs.db
 .DS_Store
+.vscode
+public/
+resources/
+.hugo_build.lock

@@ -1,0 +1,15 @@
+---
+title: Leaderboards
+url: /vots2024/leaderboards.html
+params:
+  navigation: Challenges
+  submenu: Leaderboards
+  challenge: page2024
+---
+
+# Leaderboards
+
+Please use the following links for the respective leaderboards:
+
+- [VOTS Benchmark](https://eu.aihub.ml/competitions/201)
+- [VOTST Benchmark](https://eu.aihub.ml/competitions/254)

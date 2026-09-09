@@ -1,0 +1,456 @@
+{
+  "page2013": {
+    "name": "VOT2013",
+    "url": "/vot2013/",
+    "logo": "/img/vot2013_logo_website_large.png",
+    "event": "ICCV2013, Sydney, Australia",
+    "eventURL": "http://pamitc.org/iccv15/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2013/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2013/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2013/results.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2013/people.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2013/program.html"
+      }
+    ]
+  },
+  "page2014": {
+    "name": "VOT2014",
+    "url": "/vot2014/",
+    "logo": "/img/vot2014_logo_website_large.png",
+    "event": "ECCV2014, Zurich, Switzerland",
+    "eventURL": "http://pamitc.org/iccv15/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2014/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2014/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2014/results.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2014/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2014/people.html"
+      }
+    ]
+  },
+  "page2015": {
+    "name": "VOT2015",
+    "url": "/vot2015/",
+    "logo": "/img/vot2015_logo_website_large.png",
+    "event": "ICCV2015, Santiago, Chile",
+    "eventURL": "http://pamitc.org/iccv15/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2015/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2015/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2015/results.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2015/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2015/people.html"
+      }
+    ]
+  },
+  "page2016": {
+    "name": "VOT2016",
+    "url": "/vot2016/",
+    "logo": "/img/vot2016_logo_website_large.png",
+    "event": "ECCV2016, Amsterdam, the Netherlands",
+    "eventURL": "http://www.eccv2016.org/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2016/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2016/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2016/results.html"
+      },
+      {
+        "name": "Trackers",
+        "url": "/vot2016/trackers.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2016/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2016/people.html"
+      }
+    ]
+  },
+  "page2017": {
+    "name": "VOT2017",
+    "url": "/vot2017/",
+    "logo": "/img/vot2017_logo_website_large.png",
+    "event": "ICCV2017, Venice, Italy",
+    "eventURL": "http://iccv2017.thecvf.com/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2017/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2017/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2017/results.html"
+      },
+      {
+        "name": "Trackers",
+        "url": "/vot2017/trackers.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2017/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2017/people.html"
+      }
+    ]
+  },
+  "page2018": {
+    "name": "VOT2018",
+    "url": "/vot2018/",
+    "logo": "/img/vot2018_logo_website_large.png",
+    "event": "ECCV2018, Munich, Germany",
+    "eventURL": "https://eccv2018.org/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2018/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2018/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2018/results.html"
+      },
+      {
+        "name": "Trackers",
+        "url": "/vot2018/trackers.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2018/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2018/people.html"
+      }
+    ]
+  },
+  "page2019": {
+    "name": "VOT2019",
+    "url": "/vot2019/",
+    "logo": "/img/vot2019_logo_website_large.png",
+    "event": "ICCV2019, Seoul, South Korea",
+    "eventURL": "http://iccv2019.thecvf.com/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2019/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2019/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2019/results.html"
+      },
+      {
+        "name": "Trackers",
+        "url": "/vot2019/trackers.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2019/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2019/people.html"
+      }
+    ]
+  },
+  "page2020": {
+    "name": "VOT2020",
+    "url": "/vot2020/",
+    "logo": "/img/vot2020_logo_website_large.png",
+    "event": "ECCV2020, Glasgow, UK",
+    "eventURL": "https://eccv2020.eu/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2020/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2020/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2020/results.html"
+      },
+      {
+        "name": "Trackers",
+        "url": "/vot2020/trackers.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2020/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2020/people.html"
+      }
+    ]
+  },
+  "page2021": {
+    "name": "VOT2021",
+    "url": "/vot2021/",
+    "logo": "/img/vot2021_logo_website_large.png",
+    "event": "ICCV2021, Montreal, Canada",
+    "eventURL": "http://iccv2021.thecvf.com/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2021/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2021/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2021/results.html"
+      },
+      {
+        "name": "Trackers",
+        "url": "/vot2021/trackers.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2021/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2021/people.html"
+      }
+    ]
+  },
+  "page2022": {
+    "name": "VOT2022",
+    "url": "/vot2022/",
+    "logo": "/img/vot2022_logo_website_large.png",
+    "event": "ECCV2022, Tel-Aviv, Israel",
+    "eventURL": "https://eccv2022.ecva.net/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vot2022/index.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vot2022/dataset.html"
+      },
+      {
+        "name": "Results",
+        "url": "/vot2022/results.html"
+      },
+      {
+        "name": "Trackers",
+        "url": "/vot2022/trackers.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vot2022/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vot2022/people.html"
+      }
+    ]
+  },
+  "page2023": {
+    "name": "VOTS2023",
+    "url": "/vots2023/",
+    "logo": "/img/vots2023_logo_website_large.png",
+    "event": "ICCV2023, Paris, France",
+    "eventURL": "https://iccv2023.thecvf.com/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vots2023/index.html"
+      },
+      {
+        "name": "Submit",
+        "url": "/vots2023/participation.html"
+      },
+      {
+        "name": "Leaderboard",
+        "url": "https://eu.aihub.ml/competitions/201#results"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vots2023/dataset.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vots2023/program.html"
+      },
+      {
+        "name": "People",
+        "url": "/vots2023/people.html"
+      },
+      {
+        "name": "VOT GenArt",
+        "url": "/vots2023/genart.html"
+      }
+    ]
+  },
+  "page2024": {
+    "name": "VOTS2024",
+    "url": "/vots2024/",
+    "logo": "/img/vots2024_logo_website_large.png",
+    "event": "ECCV2024, Milano, Italy",
+    "eventURL": "https://eccv.ecva.net/Conferences/2024",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vots2024/index.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vots2024/program.html"
+      },
+      {
+        "name": "Submit",
+        "url": "/vots2024/participation.html"
+      },
+      {
+        "name": "Leaderboards",
+        "url": "/vots2024/leaderboards.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vots2024/dataset.html"
+      },
+      {
+        "name": "People",
+        "url": "/vots2024/people.html"
+      }
+    ]
+  },
+  "page2025": {
+    "name": "VOTS2025",
+    "url": "/vots2025/",
+    "logo": "/img/vots2025_logo_website_large.png",
+    "event": "ICCV2025, Honolulu, Hawaii",
+    "eventURL": "https://iccv.thecvf.com/",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vots2025/index.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vots2025/program.html"
+      },
+      {
+        "name": "Submit",
+        "url": "/vots2025/participation.html"
+      },
+      {
+        "name": "Leaderboards",
+        "url": "/vots2025/leaderboards.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vots2025/dataset.html"
+      },
+      {
+        "name": "People",
+        "url": "/vots2025/people.html"
+      }
+    ]
+  },
+  "page2026": {
+    "name": "VOTS2026",
+    "url": "/vots2026/",
+    "logo": "/img/vots2026_logo_website_large.png",
+    "event": "ECCV2026, Malm\u00f6, Sweden",
+    "eventURL": "https://eccv.ecva.net/Conferences/2026",
+    "items": [
+      {
+        "name": "Home",
+        "url": "/vots2026/index.html"
+      },
+      {
+        "name": "Program",
+        "url": "/vots2026/program.html"
+      },
+      {
+        "name": "Submit",
+        "url": "/vots2026/participation.html"
+      },
+      {
+        "name": "Leaderboards",
+        "url": "/vots2026/leaderboards.html"
+      },
+      {
+        "name": "Dataset",
+        "url": "/vots2026/dataset.html"
+      },
+      {
+        "name": "People",
+        "url": "/vots2026/people.html"
+      }
+    ]
+  }
+}

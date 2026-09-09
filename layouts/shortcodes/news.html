@@ -1,0 +1,4 @@
+<section class="news-feed" aria-labelledby="news-heading">
+  <h2 id="news-heading">News</h2>
+  {{ partial "news-list.html" (dict "Site" .Page.Site "Tag" (.Get "tag")) }}
+</section>

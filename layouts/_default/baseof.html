@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Site.Title }}{{ with .Title }} | {{ . }}{{ end }}</title>
+  <link rel="icon" href="/favicon.png">
+  <link rel="stylesheet" href="/css/bootstrap.css">
+  <link rel="stylesheet" href="/css/vot.css">
+  <link rel="stylesheet" href="/css/highlight.css">
+  <link rel="stylesheet" href="/css/font-awesome.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+  {{ if .Params.resultsStyle }}<link rel="stylesheet" href="results.css">{{ end }}
+  <link rel="stylesheet" href="/css/modern.css">
+  <script defer src="/js/site.js"></script>
+  {{ if .IsHome }}<script defer src="/js/banner-mosaic.js"></script>{{ end }}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+  <script src="/js/highlight.js"></script>
+  <script src="/js/preview.js"></script>
+  <script src="/js/uri.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    $(function () { window.cookieconsent.initialise({palette: {popup: {background: '#edeff5', text: '#838391'}, button: {background: '#4b81e8'}}}); });
+  </script>
+  {{ if hugo.IsProduction }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SFJWNZ5TLJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-SFJWNZ5TLJ');
+  </script>
+  {{ end }}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="site-shell header-inner">
+      <a class="site-brand" href="/" aria-label="VOT Challenge home"><img src="/img/logo_website.png" alt="VOT challenge"></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" hidden>Menu <span aria-hidden="true">☰</span></button>
+      <nav id="primary-navigation" class="primary-navigation" aria-label="Main navigation">
+        {{ $active := .Params.navigation | default "Home" }}
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}"{{ if eq $active .Name }} aria-current="page"{{ end }}>{{ .Name }}</a>
+        {{ end }}
+        <a class="community-link" href="https://github.com/votchallenge">GitHub <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  {{ $challenge := index .Site.Data.challenges (.Params.challenge | default "") }}
+  {{ if .IsHome }}
+  <section class="home-hero">
+    <div class="banner-mosaic" aria-hidden="true" data-sequences="{{ .Params.bannerSequences | default slice | jsonify }}">
+      <canvas></canvas>
+      <div class="banner-gifs"></div>
+    </div>
+    <button class="mosaic-toggle" type="button" aria-pressed="false"><span aria-hidden="true">Ⅱ</span></button>
+    <div class="site-shell hero-inner">
+      <div><p class="eyebrow">The VOT initiative</p><h1>Advancing visual<br>object tracking.</h1><p class="hero-description">Shared benchmarks. Open research. A global community pushing visual tracking forward.</p>
+      <a class="hero-action" href="/challenges.html">Explore the challenges <span aria-hidden="true">↗</span></a></div>
+      <div class="hero-links">
+        {{ range .Params.bannerLinks }}
+        <a class="hero-card" href="{{ .url }}">
+          <span class="hero-card-copy"><span class="hero-card-title">{{ .title }}</span><span class="hero-card-description">{{ .description }}</span></span>
+          <span class="hero-card-arrow" aria-hidden="true">→</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ else }}
+  <section class="page-banner{{ with $challenge }} page-banner--challenge{{ end }}"><div class="site-shell banner-inner">
+    <div class="banner-text">
+      <p class="eyebrow">{{ with $challenge }}{{ .name }} · Challenge &amp; workshop{{ else }}The VOT initiative{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      {{ with $challenge }}<a class="conference-link" href="{{ .eventURL }}">{{ .event }} <span aria-hidden="true">↗</span></a>{{ end }}
+    </div>
+    {{ with $challenge }}{{ with .logo }}<img class="banner-logo" src="{{ . }}" alt="">{{ end }}{{ end }}
+  </div></section>
+  {{ end }}
+  {{ $submenu := .Params.submenu }}
+  {{ with $challenge }}
+  <div class="challenge-bar"><nav class="site-shell challenge-navigation" aria-label="Challenge navigation">
+    <div class="challenge-links">{{ range .items }}<a href="{{ .url }}"{{ if eq $submenu .name }} aria-current="page"{{ end }}>{{ .name }}</a>{{ end }}</div>
+  </nav></div>
+  {{ end }}
+  <div class="site-shell content-shell">
+    <main id="main" tabindex="-1"><div id="main_content">{{ block "main" . }}{{ .Content }}{{ end }}</div></main>
+  </div>
+  <footer class="site-footer">
+    <div class="site-shell footer-inner">
+    <div class="hosted">
+      <div>The website of the VOT challenges is hosted on the servers of the <a href="https://www.arnes.si/en/">Academic and Research Network of Slovenia (ARNES)</a>.</div>
+    </div>
+    </div><div class="site-shell poweredby">VOT Challenge. &copy; 2013–{{ now.Year }}. All rights reserved.</div>
+  </footer>
+</body>
+</html>

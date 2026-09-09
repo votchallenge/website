@@ -1,0 +1,5 @@
+{{ define "main" }}
+{{ partial "publication-details.html" . }}
+{{ .Content }}
+<p><a href="{{ with .Site.GetPage "/publications" }}{{ .RelPermalink }}{{ end }}">All publications →</a></p>
+{{ end }}

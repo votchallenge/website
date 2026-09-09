@@ -1,0 +1,17 @@
+{{ $tag := .Tag }}
+{{ $pages := where .Site.RegularPages "Type" "news" }}
+{{ if $tag }}
+  {{ $pages = where $pages "Params.tags" "intersect" (slice $tag) }}
+{{ end }}
+{{ range $pages.ByDate.Reverse }}
+<article class="news-item">
+  {{ if not .Date.IsZero }}<time class="item-meta" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>{{ end }}
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ with .Params.tags }}<p class="news-tags">{{ range . }}<span class="news-tag">{{ . }}</span>{{ end }}</p>{{ end }}
+  <div>{{ .Summary }}</div>
+  {{ if .Truncated }}<p><a class="read-more" href="{{ .RelPermalink }}">Read more →</a></p>{{ end }}
+</article>
+{{ end }}
+{{ if not $pages }}
+<p>No news items{{ with $tag }} for {{ . }}{{ end }} yet.</p>
+{{ end }}

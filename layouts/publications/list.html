@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ .Content }}
+<div class="publication-list">
+{{ range (where .Site.RegularPages "Type" "publications").GroupByParam "year" "desc" }}
+  <section aria-labelledby="year-{{ .Key }}">
+    <h2 id="year-{{ .Key }}">{{ .Key }}</h2>
+    {{ range .Pages.ByTitle }}
+    <article class="publication-item">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      {{ partial "publication-details.html" . }}
+      {{ .Content }}
+    </article>
+    {{ end }}
+  </section>
+{{ end }}
+</div>
+{{ end }}

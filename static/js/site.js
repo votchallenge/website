@@ -34,3 +34,17 @@ document.querySelectorAll('#main_content table').forEach((table, index) => {
   table.before(wrapper);
   wrapper.append(table);
 });
+
+document.querySelectorAll('.copy-bibtex').forEach(button => {
+  button.addEventListener('click', async () => {
+    const citation = button.closest('.publication-bibtex')?.querySelector('pre');
+    if (!citation || !navigator.clipboard) return;
+    try {
+      await navigator.clipboard.writeText(citation.textContent);
+      button.textContent = 'Copied';
+      setTimeout(() => { button.textContent = 'Copy BibTeX'; }, 2000);
+    } catch {
+      button.textContent = 'Copy failed';
+    }
+  });
+});

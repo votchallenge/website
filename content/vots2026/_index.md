@@ -26,8 +26,8 @@ Visual Object Tracking and Segmentation challenge VOTS2026 is a continuation of 
 <div class="card-grid">
 <div class="winner-card"><i class="fa fa-trophy card-icon" aria-hidden="true"></i><div><strong>VOTS2026 challenge winner</strong> “VLM-SAFEDAM -- VLM-DAM4SAM3 with anti-overlap mechanism”<br/> Dayu Wu, Yucheng Bai, Lv Wu, Han Fang, Shanghai Jiao Tong University</div></div>
 <div class="winner-card"><i class="fa fa-trophy card-icon" aria-hidden="true"></i><div><strong>VOTSt2026 challenge winner</strong> “MUSMEM -- Associating Visual Objects Through Transformers”<br/>Elham Soltani Kazemi, Gani Rahmon, Imad Eddine Toubal, Juan Mogollon, Kannappan Palaniappan, University of Missouri</div></div>
-<div class="winner-card"><i class="fa fa-trophy card-icon" aria-hidden="true"></i><div><strong>VOTSr2026 challenge winner</strong> “ReflexTrack -- Feedback-Driven Referring Video Segmentation”<br/>Yuanjia Li, Tianyang Xu, ZhangyongTang, He Wang, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler; Jiangnan University & University of Surrey</div></div>
 <div class="winner-card"><i class="fa fa-trophy card-icon" aria-hidden="true"></i><div><strong>VOTSp2026 challenge winner</strong> “AllTrackerPlus -- Memory-Efficient AllTracker Wrapper”<br/>Zhenglin Du, Zhengyang Li, Yi Wen, Xidian University</div></div>
+<div class="winner-card"><i class="fa fa-trophy card-icon" aria-hidden="true"></i><div><strong>VOTSr2026 challenge winner</strong> “ReflexTrack -- Feedback-Driven Referring Video Segmentation”<br/>Yuanjia Li, Tianyang Xu, ZhangyongTang, He Wang, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler; Jiangnan University & University of Surrey</div></div>
 </div>
 
 Challenges [leaderboards](/vots2026/leaderboards.html), [evaluate](/vots2026/participation.html) your tracker on the benchmark.
@@ -48,7 +48,7 @@ Subscribe to the new VOT mailing list by [sending an empty email](mailto:votchal
 * ~~**June 22, 2026, 11:59 p.m. GMT+0**~~ - Results submission deadline
 * **June 28, 2026, 11:59 p.m. GMT+0** - Results submission deadline [Extended]
 * **July 13, 2026** - Winners announcement
-* **September 9, 2026 (afternoon slot)** - VOTS2026 workshop at ECCV2026
+* **September 9, 2026 (afternoon slot)** - [VOTS2026 workshop](program.html) at ECCV2026
 
 </div>
 

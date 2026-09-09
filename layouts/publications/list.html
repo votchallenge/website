@@ -7,8 +7,7 @@
     {{ range .Pages.ByTitle }}
     <article class="publication-item">
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      {{ partial "publication-details.html" . }}
-      {{ .Content }}
+      {{ partial "publication-summary.html" . }}
     </article>
     {{ end }}
   </section>

@@ -1,0 +1,14 @@
+<footer class="publication-footer">
+{{ $entryType := "inproceedings" }}
+{{ $venueField := "booktitle" }}
+{{ if eq .Params.publicationKind "Journal article" }}{{ $entryType = "article" }}{{ $venueField = "journal" }}{{ end }}
+{{ $citationKey := replace .File.ContentBaseName "-" "_" }}
+<div class="publication-citation"><div class="publication-bibtex"><button class="copy-bibtex" type="button">Copy BibTeX</button><pre>@{{ $entryType }}{{ "{" }}{{ $citationKey }},
+  author = {{ "{" }}{{ delimit .Params.authors " and " }}{{ "}" }},
+  title = {{ "{" }}{{ .Title }}{{ "}" }},
+  year = {{ "{" }}{{ .Params.year }}{{ "}" }}{{ with .Params.venue }},
+  {{ $venueField }} = {{ "{" }}{{ . }}{{ "}" }}{{ end }}{{ with .Params.doi }},
+  doi = {{ "{" }}{{ . }}{{ "}" }}{{ end }}{{ with .Params.paperURL }},
+  url = {{ "{" }}{{ . }}{{ "}" }}{{ end }}
+{{ "}" }}</pre></div></div>
+</footer>

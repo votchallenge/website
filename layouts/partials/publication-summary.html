@@ -1,0 +1,7 @@
+{{ with .Params.authors }}<p class="publication-authors">{{ delimit (first 20 .) ", " }}{{ if gt (len .) 20 }}, et al.{{ end }}</p>{{ end }}
+<p class="item-meta">{{ with .Params.venue }}{{ . }} · {{ end }}{{ .Params.year }}{{ with .Params.publicationKind }} · {{ . }}{{ end }}</p>
+<div class="publication-links">
+  {{ with .Params.paperURL }}<a href="{{ . }}">Publication ↗</a>{{ end }}
+  {{ with .Params.pdfURL }}<a href="{{ . }}">PDF ↗</a>{{ end }}
+  {{ with .Params.doi }}<a href="{{ printf "https://doi.org/%s" . }}">DOI ↗</a>{{ end }}
+</div>

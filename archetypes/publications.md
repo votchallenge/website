@@ -11,7 +11,6 @@ params:
   paperURL: ''
   pdfURL: ''
   doi: ''
-  bibtex: ''
 ---
 
 Optional abstract or notes about the publication.

@@ -16,8 +16,11 @@
 .publication-authors { font-size: 15px; }
 .publication-links { display: flex; flex-wrap: wrap; gap: 8px 20px; }
 .publication-links a { display: inline-flex; align-items: center; min-height: 44px; font-size: 14px; font-weight: 650; }
-.publication-citation { margin-top: 12px; }
-.publication-citation summary { cursor: pointer; padding-block: 10px; }
+.publication-footer { text-align: left; }
+.publication-bibtex { position: relative; }
+.publication-bibtex pre { margin: 0; padding: 20px; border: 1px solid var(--line); border-radius: 8px; background: white; color: var(--ink); font-family: monospace; font-size: 13px; line-height: 1.55; text-align: left; white-space: pre-wrap; overflow-wrap: anywhere; }
+.copy-bibtex { position: absolute; bottom: 12px; right: 12px; min-height: 32px; padding: 5px 10px; border: 1px solid var(--line); border-radius: 6px; background: white; color: var(--brand-dark); font-size: 12px; font-weight: 700; cursor: pointer; }
+.copy-bibtex:hover { background: var(--brand-light); }
 * { box-sizing: border-box; }
 body { min-width: 0; margin: 0; background: #f8fafb; color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 17px; line-height: 1.75; }
 a { color: var(--accent); text-underline-offset: 3px; }

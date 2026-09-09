@@ -5,7 +5,7 @@ draft: false
 tags: [vots2026]
 ---
 
-We are pleased to announce that the VOTS challenges is getting a major overhaul for the [2026 edition](https://www.votchallenge.net/vots2026/)! 
+We are pleased to announce that the VOTS challenges is getting a major overhaul for the [2026 edition](/vots2026/)! 
 
 <!--more-->
 

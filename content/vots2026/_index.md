@@ -9,9 +9,8 @@ params:
   
 # VOTS2026 Challenge
 
-<p class="lead">
 Visual Object Tracking and Segmentation challenge VOTS2026 is a continuation of the VOTS2023 and VOTS2024 challenges, which no longer distinct between single- and multi-target tracking nor between short- and long-term tracking. It requires tracking one or more targets simultaneously by segmentation over long or short sequences, while the targets may disappear during tracking and reappear later in the video.
-</p>
+
 
 ## Four challenges are organized
 
@@ -31,16 +30,13 @@ Visual Object Tracking and Segmentation challenge VOTS2026 is a continuation of 
 <div class="winner-card"><i class="fa fa-trophy card-icon" aria-hidden="true"></i><div><strong>VOTSp2026 challenge winner</strong> “AllTrackerPlus -- Memory-Efficient AllTracker Wrapper”<br/>Zhenglin Du, Zhengyang Li, Yi Wen, Xidian University</div></div>
 </div>
 
-Challenges [leaderboards](https://www.votchallenge.net/vots2026/leaderboards.html), [evaluate](https://www.votchallenge.net/vots2026/participation.html) your tracker on the benchmark.
+Challenges [leaderboards](/vots2026/leaderboards.html), [evaluate](/vots2026/participation.html) your tracker on the benchmark.
 
 {{< news tag="vots2026" >}}
 
-<div class="alert alert-info" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>
-<h4>Do you want to stay informed?</h4>
-
+{{% follow-us %}}
 Subscribe to the new VOT mailing list by [sending an empty email](mailto:votchallange-join@lists.arnes.si) or follow us on [Twitter](https://twitter.com/votchallenge).
-</div>
+{{% /follow-us %}}
  
 
 ## Important dates

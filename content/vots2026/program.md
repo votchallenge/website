@@ -15,7 +15,7 @@ Room: Quality View Oresundslokalen – 3 (C) <br>
 
 Visual Object Tracking and Segmentation challenge VOTS2026 is the 14th annual benchmarking event organized by the VOT initiative. Four sub-challenges dedicated to different tracking problems are considered. The VOTS2026 subchallenge addresses tracking by video object segmentation, VOTSt2026 addresses tracking transforming objects, VOTSr2026 addresses referring expression tracking, and VOTSp2026 addresses point tracking. The VOTS2026 workshop program reviews the results, the winner methods and features keynotes of prominent researchers in video understanding. 
 
-[Results paper](https://openreview.net/forum?id=zGOan36xpF), [Leaderboards](https://www.votchallenge.net/vots2026/leaderboards.html)
+[Results paper](https://openreview.net/forum?id=zGOan36xpF), [Leaderboards](/vots2026/leaderboards.html)
 
 **13:45 - 15:30 Session 1**  (Chair: Pavel Tokmakov)
 

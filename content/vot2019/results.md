@@ -13,7 +13,7 @@ params:
 
 # Trackers code
 
--   Submitted trackers [source code](https://www.votchallenge.net/vot2019/trackers.html)
+-   Submitted trackers [source code](/vot2019/trackers.html)
 
 # VOT-ST2019 and VOT-RT2019 Raw data
 

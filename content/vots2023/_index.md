@@ -32,9 +32,6 @@ The VOTS2023 workshop is sposored by the Faculty of Computer and Information Sci
 <a href="https://www.birmingham.ac.uk/index.aspx"><img src="/img/org/logo_birmingham.png" width="170px"/></a>
 </div>
 
-<div class="alert alert-info" role="alert">
-<div class="icon-left"><i class="glyphicon glyphicon-bullhorn hugeicon"></i> </div>
-<h4>Do you want to stay informed?</h4>
-
+{{% follow-us %}}
 More details coming soon. Subscribe to the new VOT mailing list by [sending an empty email](mailto:votchallange-join@lists.arnes.si) or follow us on [Twitter](https://twitter.com/votchallenge).
-</div>
+{{% /follow-us %}}

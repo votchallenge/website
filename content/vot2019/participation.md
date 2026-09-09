@@ -58,13 +58,13 @@ High-quality tracking papers submitted (but not accepted) to ICCV2019 can be re-
  * VOT-RGBD2019 addresses long-term, causal, model-free trackers, i.e., the same kind of trackers as the VOT-LT2019 subchallenge.
  * The trackers work with a 4-channel input composed of RGB+depth channels.
  * A completely new dataset has been constructed for this challenge.
- * The guidelines for early start on integration and testing are available [here](http://www.votchallenge.net/howto/integration_channels.html). We included two test sequences (not part of the final dataset) to allow early integration and tracker testing -- the toolkit will automatically download the sequences.
+ * The guidelines for early start on integration and testing are available [here](/howto/integration_channels.html). We included two test sequences (not part of the final dataset) to allow early integration and tracker testing -- the toolkit will automatically download the sequences.
  * Care has been taken to accurately temporally synchronize and spatially align the RGB and Depth channels, resulting in nearly per-pixel accurate alignment between all channels.
 
 ## Participation instructions
 
  * The most recent version of the VOT toolkit is required because of adaptation to RGBT/RGBD subchallenges and regular maintenance.
- * Follow this tutorial to [download the toolkit and set up the environment](http://www.votchallenge.net/howto/integration_channels.html) to integrate your tracker into the toolkit. The toolkit will automatically download the dataset, alternatively you can download it here.
+ * Follow this tutorial to [download the toolkit and set up the environment](/howto/integration_channels.html) to integrate your tracker into the toolkit. The toolkit will automatically download the dataset, alternatively you can download it here.
 
 All trackers require integration via the [TraX protocol](https://github.com/votchallenge/trax). The guidelines for integrating TraX protocol directly are available [here](https://trax.readthedocs.io/en/latest/tutorials.html). Additionally a wrapper is also provided to simplify the integration for people that have used VOT toolkit in the past, check the integration examples in the VOT toolkit repository on how to use it.
 

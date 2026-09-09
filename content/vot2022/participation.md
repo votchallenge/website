@@ -103,7 +103,7 @@ Additionally a wrapper is also provided to simplify the integration for people t
  * Top performance on the corresponding subchallenge.
  * The following restrictions apply:
    * OTB, VOT, ALOV, UAV123, NUSPRO, TempleColor, are NOT allowed to be used in learning.
-   * Most part of GOT10k CAN be used for learning, except from its (1) test set, (2) validation set and (3) the 1k sequences specified in the following [https://www.votchallenge.net/vot2019/res/list0_prohibited_1000.txt](list).
+   * Most part of GOT10k CAN be used for learning, except from its (1) test set, (2) validation set and (3) the 1k sequences specified in the following [/vot2019/res/list0_prohibited_1000.txt](list).
    * VOT-RGBD2021 & DepthTrack test sets are not allowed in training.
    * The use of class labels specific to VOT is not allowed (i.e., identifying a target class in each sequence and applying pretrained class-specific trackers is not allowed).
  * Agreement to publish the code online at VOT page is required.

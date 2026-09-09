@@ -15,7 +15,7 @@ In most cases the code is provided as it was submitted (in June 2016), in other 
 The VOT does not take any responsibility for the state of code/binaries of the trackers available here.
 For any additional information regarding individual trackers, please contact the corresponding authors directly.
 
-Each tracker is referred as **NAME (Appendix Nr NN)**, where NAME is the name given to the tracker and NN is the tracker number referred on the [VOT paper](http://votchallenge.net/vot2016/download/vot_2016_paper.pdf).
+Each tracker is referred as **NAME (Appendix Nr NN)**, where NAME is the name given to the tracker and NN is the tracker number referred on the [VOT paper](/vot2016/download/vot_2016_paper.pdf).
 
 If you have any question or suggestion, please <a href="https://groups.google.com/forum/?hl=en#!forum/votchallenge-help"> contact us on the support forum</a>.
 

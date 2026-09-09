@@ -1,0 +1,12 @@
+<div class="row">
+{{ $status := .Get "status" }}
+{{ range where (sort .Page.Site.Data.challenges "year" "desc") "status" $status }}
+<div class="col-lg-6 col-sm-12">
+<a href="{{ .url }}" class="challengebutton{{ if eq .status "deprecated" }} deprecated{{ end }} text-primary">
+<img class="logo" src="{{ .thumbnail }}" alt="{{ .name }}" />
+<h3>{{ .name }}</h3>
+<p class="description">{{ .description }}</p>
+</a>
+</div>
+{{ end }}
+</div>

@@ -73,8 +73,8 @@
   {{ else }}
   <section class="page-banner{{ with $challenge }} page-banner--challenge{{ end }}"><div class="site-shell banner-inner">
     <div class="banner-text">
-      <p class="eyebrow">{{ with $challenge }}{{ .name }} · Challenge &amp; workshop{{ else }}The VOT initiative{{ end }}</p>
-      <h1>{{ .Title }}</h1>
+      <p class="eyebrow">{{ with $challenge }}Challenge &amp; workshop{{ else }}The VOT initiative{{ end }}</p>
+      <h1>{{ $challenge.name }} {{.Title}}</h1>
       {{ with $challenge }}<a class="conference-link" href="{{ .eventURL }}">{{ .event }} <span aria-hidden="true">↗</span></a>{{ end }}
     </div>
     {{ with $challenge }}{{ with .logo }}<img class="banner-logo" src="{{ . }}" alt="">{{ end }}{{ end }}

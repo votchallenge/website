@@ -1,0 +1,143 @@
+---
+title: The First Visual Object Tracking Segmentation Challenge VOTS2023 - Challenge Results
+type: publications
+draft: false
+params:
+  year: 2023
+  authors:
+  - Matej Kristan
+  - Jiří Matas
+  - Martin Danelljan
+  - Michael Felsberg
+  - Hyung Jin Chang
+  - Luka Čehovin Zajc
+  - Alan Lukežič
+  - Ondrej Drbohlav
+  - Zhongqun Zhang
+  - Khanh-Tung Tran
+  - Xuan-Son Vu
+  - Johanna Björklund
+  - Christoph Mayer
+  - Yushan Zhang
+  - Lei Ke
+  - Jie Zhao
+  - Gustavo Fernández
+  - Noor Al-Shakarji
+  - Dong An
+  - Michael Arens
+  - Stefan Becker
+  - Goutam Bhat
+  - Sebastian Bullinger
+  - Antoni B. Chan
+  - Shijie Chang
+  - Hanyuan Chen
+  - Xin Chen
+  - Yan Chen
+  - Zhenyu Chen
+  - Yangming Cheng
+  - Yutao Cui
+  - Chunyuan Deng
+  - Jiahua Dong
+  - Matteo Dunnhofer
+  - Wei Feng
+  - Jianlong Fu
+  - Jie Gao
+  - Ruize Han
+  - Zeqi Hao
+  - Jun-Yan He
+  - Keji He
+  - Zhenyu He
+  - Xiantao Hu
+  - Kaer Huang
+  - Yuqing Huang
+  - Yi Jiang
+  - Ben Kang
+  - Jin-Peng Lan
+  - Hyungjun Lee
+  - Chenyang Li
+  - Jiahao Li
+  - Ning Li
+  - Wangkai Li
+  - Xiaodi Li
+  - Xin Li
+  - Pengyu Liu
+  - Yue Liu
+  - Huchuan Lu
+  - Bin Luo
+  - Ping Luo
+  - Yinchao Ma
+  - Deshui Miao
+  - Christian Micheloni
+  - Kannappan Palaniappan
+  - Hancheol Park
+  - Matthieu Paul
+  - HouWen Peng
+  - Zekun Qian
+  - Gani Rahmon
+  - Norbert Scherer-Negenborn
+  - Pengcheng Shao
+  - Wooksu Shin
+  - Elham Soltani Kazemi
+  - Tianhui Song
+  - Rainer Stiefelhagen
+  - Rui Sun
+  - Chuanming Tang
+  - Zhangyong Tang
+  - Imad Eddine Toubal
+  - Jack Valmadre
+  - Joost van de Weijer
+  - Luc Van Gool
+  - Jash Vira
+  - Stèphane Vujasinović
+  - Cheng Wan
+  - Jia Wan
+  - Dong Wang
+  - Fei Wang
+  - Feifan Wang
+  - He Wang
+  - Limin Wang
+  - Song Wang
+  - Yaowei Wang
+  - Zhepeng Wang
+  - Gangshan Wu
+  - Jiannan Wu
+  - Qiangqiang Wu
+  - Xiaojun Wu
+  - Anqi Xiao
+  - Jinxia Xie
+  - Chenlong Xu
+  - Min Xu
+  - Tianyang Xu
+  - Yuanyou Xu
+  - Bin Yan
+  - Dawei Yang
+  - Ming-Hsuan Yang
+  - Tianyu Yang
+  - Yi Yang
+  - Zongxin Yang
+  - Xuanwu Yin
+  - Fisher Yu
+  - Hongyuan Yu
+  - Qianjin Yu
+  - Weichen Yu
+  - YongSheng Yuan
+  - Zehuan Yuan
+  - Jianlin Zhang
+  - Lu Zhang
+  - Tianzhu Zhang
+  - Guodongfang Zhao
+  - Shaochuan Zhao
+  - Yaozong Zheng
+  - Bineng Zhong
+  - Jiawen Zhu
+  - Xuefeng Zhu
+  - Yueting Zhuang
+  - ChengAo Zong
+  - Kunlong Zuo
+  venue: ICCV Workshops 2023
+  publicationKind: Conference paper
+  paperURL: https://openaccess.thecvf.com/content/ICCV2023W/VOTS/html/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.html
+
+---
+
+The Visual Object Tracking Segmentation VOTS2023 challenge is the eleventh annual tracker benchmarking activity of the VOT initiative. This challenge is the first to merge short-term and long-term as well as single-target and multiple-target tracking with segmentation masks as the only target location specification. A new dataset was created; the ground truth has been withheld to prevent overfitting. New performance measures and evaluation protocols have been created along with a new toolkit and an evaluation server. Results of the presented 47 trackers indicate that modern tracking frameworks are well-suited to deal with convergence of short-term and long-term tracking and that multiple and single target tracking can be considered a single problem. A leaderboard, with participating trackers details, the source code, the datasets, and the evaluation kit are publicly available at the challenge website\footnote https://www.votchallenge.net/vots2023/.

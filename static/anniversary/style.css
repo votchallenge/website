@@ -62,10 +62,15 @@ body {
   }
 
   .logo {
-    width: 150px;
+    width: 180px;
     margin: 30px;
-    position: absolute;
-    top: 0px;
+    float: left;
+    display: block;
+  }
+
+  .intro-content {
+    max-width: 1200px;
+    display: flow-root;
   }
 
   .nav {

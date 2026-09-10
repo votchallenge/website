@@ -1,0 +1,53 @@
+{{/*
+  Renders a responsive image grid with a fullscreen modal viewer.
+  Params (passed as a dict):
+    Page    - page whose bundled image resources supply the gallery (used unless Dir is set)
+    Match   - optional glob restricting which page resources to use (default "*")
+    Dir     - optional static-relative folder (e.g. "vot2016/img") to list images from instead
+    Columns - optional preferred grid column count (default 4)
+*/}}
+{{ $columns := .Columns | default 4 }}
+{{ $items := slice }}
+{{ with .Dir }}
+  {{ $dir := strings.TrimSuffix "/" (strings.TrimPrefix "/" .) }}
+  {{ $exts := slice ".jpg" ".jpeg" ".png" ".gif" ".webp" ".avif" }}
+  {{ range (os.ReadDir (printf "static/%s" $dir)) }}
+    {{ if and (not .IsDir) (in $exts (lower (path.Ext .Name))) }}
+      {{ $url := printf "/%s/%s" $dir .Name }}
+      {{ $items = $items | append (dict "full" $url "thumb" $url "alt" .Name) }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ $page := .Page }}
+  {{ $match := .Match | default "*" }}
+  {{ range $page.Resources.Match $match }}
+    {{ $alt := .Params.alt | default .Title | default .Name }}
+    {{ $thumb := . }}
+    {{ if in (slice "image/jpeg" "image/png" "image/webp" "image/gif") .MediaType.Type }}
+      {{ $thumb = .Fill "480x360 Center q70" }}
+    {{ end }}
+    {{ $items = $items | append (dict "full" .RelPermalink "thumb" $thumb.RelPermalink "alt" $alt) }}
+  {{ end }}
+{{ end }}
+{{ if $items }}
+{{ $id := printf "gallery-%s" (md5 (jsonify $items)) }}
+<div class="image-gallery" id="{{ $id }}" style="--gallery-columns: {{ $columns }};">
+  <div class="image-gallery-grid">
+    {{ range $index, $item := $items }}
+    <button type="button" class="image-gallery-item" data-index="{{ $index }}" aria-label="View {{ $item.alt }} full size">
+      <img src="{{ $item.thumb }}" loading="lazy" alt="{{ $item.alt }}">
+    </button>
+    {{ end }}
+  </div>
+  <div class="image-gallery-modal" hidden>
+    <button type="button" class="image-gallery-close" aria-label="Close">&times;</button>
+    <button type="button" class="image-gallery-prev" aria-label="Previous image">&lsaquo;</button>
+    <img class="image-gallery-modal-image" src="" alt="">
+    <p class="image-gallery-caption"></p>
+    <button type="button" class="image-gallery-next" aria-label="Next image">&rsaquo;</button>
+  </div>
+  <script type="application/json" class="image-gallery-data">[
+    {{ range $index, $item := $items }}{{ if $index }},{{ end }}{{ dict "src" $item.full "alt" $item.alt }}{{ end }}
+  ]</script>
+</div>
+{{ end }}

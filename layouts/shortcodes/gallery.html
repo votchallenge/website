@@ -1,0 +1,4 @@
+{{/* Usage: {{< gallery >}}, {{< gallery path="photos" columns="3" >}} (page bundle), or {{< gallery dir="vot2016/img" >}} (static folder) */}}
+{{ $match := "*" }}
+{{ with .Get "path" }}{{ $match = printf "%s/*" . }}{{ end }}
+{{ partial "gallery.html" (dict "Page" .Page "Match" $match "Dir" (.Get "dir") "Columns" (.Get "columns")) }}

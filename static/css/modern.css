@@ -21,6 +21,19 @@
 .publication-bibtex pre { margin: 0; padding: 20px; border: 1px solid var(--line); border-radius: 8px; background: white; color: var(--ink); font-family: monospace; font-size: 13px; line-height: 1.55; text-align: left; white-space: pre-wrap; overflow-wrap: anywhere; }
 .copy-bibtex { position: absolute; bottom: 12px; right: 12px; min-height: 32px; padding: 5px 10px; border: 1px solid var(--line); border-radius: 6px; background: white; color: var(--brand-dark); font-size: 12px; font-weight: 700; cursor: pointer; }
 .copy-bibtex:hover { background: var(--brand-light); }
+.image-gallery-grid { display: grid; grid-template-columns: repeat(var(--gallery-columns, 4), 1fr); gap: 12px; margin-block: 20px; }
+.image-gallery-item { display: block; padding: 0; border: 1px solid var(--line); border-radius: 10px; background: white; overflow: hidden; cursor: zoom-in; min-height: 44px; }
+.image-gallery-item img { display: block; width: 100%; height: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+.image-gallery-item:hover { border-color: #8bbbe1; }
+.image-gallery-modal { position: fixed; inset: 0; z-index: 200; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; padding: 40px; background: #0b1a26e6; }
+.image-gallery-modal[hidden] { display: none; }
+.image-gallery-modal-image { max-width: min(90vw, 1100px); max-height: 78vh; width: auto; height: auto; border-radius: 8px; box-shadow: 0 20px 60px #00000059; }
+.image-gallery-caption { color: white; font-size: 14px; max-width: 90vw; text-align: center; }
+.image-gallery-close, .image-gallery-prev, .image-gallery-next { position: absolute; border: 0; border-radius: 999px; background: #ffffff1f; color: white; min-height: 44px; min-width: 44px; font-size: 22px; line-height: 1; cursor: pointer; }
+.image-gallery-close:hover, .image-gallery-prev:hover, .image-gallery-next:hover { background: #ffffff38; }
+.image-gallery-close { top: 20px; right: 20px; }
+.image-gallery-prev { left: 20px; top: 50%; transform: translateY(-50%); }
+.image-gallery-next { right: 20px; top: 50%; transform: translateY(-50%); }
 * { box-sizing: border-box; }
 body { min-width: 0; margin: 0; background: #f8fafb; color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 17px; line-height: 1.75; }
 a { color: var(--accent); text-underline-offset: 3px; }
@@ -170,6 +183,9 @@ pre, .bibtex { white-space: pre-wrap; overflow-wrap: anywhere; background: #edf2
   .challengebutton img.logo { max-width: 90px !important; }
   .card-grid { grid-template-columns: 1fr; }
   .panel-body { padding: 18px; }
+  .image-gallery-grid { grid-template-columns: repeat(2, 1fr); }
+  .image-gallery-modal { padding: 16px; }
+  .image-gallery-prev, .image-gallery-next { min-height: 40px; min-width: 40px; font-size: 18px; }
   .footer-inner { grid-template-columns: 1fr; gap: 28px; }
   .modal-dialog { width: calc(100% - 20px); margin: 10px; }
   .modal-image { float: none; max-width: 100%; padding: 0; }

@@ -60,7 +60,7 @@ Create a news item with:
 hugo new content news/my-announcement.md
 ```
 
-Set `draft: false` to publish it. News front matter supports `title`, `date`, and a `tags` list. Tag a challenge announcement with its lowercase challenge identifier, for example:
+Set `draft: false` to publish it. Every news item must include a publication `date` in `YYYY-MM-DD` format; all news feeds display items newest first using this date. The news archetype fills in the creation timestamp automatically, which you can adjust to the intended publication date. News front matter also supports `title` and a `tags` list. Tag a challenge announcement with its lowercase challenge identifier, for example:
 
 ```yaml
 tags: [vots2026]

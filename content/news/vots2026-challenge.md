@@ -1,5 +1,6 @@
 ---
 title: VOTS2026 Challenge
+date: 2026-05-13
 type: news
 draft: false
 tags: [vots2026]

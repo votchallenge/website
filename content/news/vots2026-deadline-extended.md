@@ -1,5 +1,6 @@
 ---
 title: VOTS2026 Deadline Extended
+date: 2026-06-22
 type: news
 draft: false
 tags: [vots2026]

@@ -1,5 +1,6 @@
 ---
 title: VOTS2026 Workshop Report
+date: 2026-09-09
 type: news
 draft: false
 tags: [vots2026, workshop]
